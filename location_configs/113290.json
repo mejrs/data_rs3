@@ -1,0 +1,30 @@
+{
+  "id": 113290,
+  "models": {
+    "10": [
+      52248
+    ]
+  },
+  "name": "Crest fragment",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 50,
+  "scale_y": 50,
+  "scale_z": 50,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

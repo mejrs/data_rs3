@@ -1,0 +1,12 @@
+{
+  "id": 85897,
+  "models": {
+    "10": [
+      88400
+    ]
+  },
+  "name": "Faintly glowing crystals",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

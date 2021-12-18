@@ -1,0 +1,23 @@
+{
+  "id": 99331,
+  "models": {
+    "10": [
+      93693
+    ]
+  },
+  "name": "Gravestone",
+  "unknown_27": false,
+  "ambient": 25,
+  "colours": [
+    [
+      29874,
+      13598
+    ]
+  ],
+  "textures": {
+    "4193": 1760
+  },
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "unknown_196": 0
+}

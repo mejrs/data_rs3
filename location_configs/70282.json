@@ -1,0 +1,31 @@
+{
+  "id": 70282,
+  "models": {
+    "18": [
+      52157
+    ]
+  },
+  "name": "Barrier",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

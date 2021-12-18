@@ -1,0 +1,30 @@
+{
+  "id": 104047,
+  "models": {
+    "10": [
+      113408
+    ]
+  },
+  "name": "Azure globe",
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37784
+  }
+}

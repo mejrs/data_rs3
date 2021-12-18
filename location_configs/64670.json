@@ -1,0 +1,21 @@
+{
+  "id": 64670,
+  "models": {
+    "10": [
+      17828
+    ]
+  },
+  "name": "Counterweights",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Leap across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

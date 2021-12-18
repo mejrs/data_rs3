@@ -1,0 +1,18 @@
+{
+  "id": 73284,
+  "models": {
+    "10": [
+      1746
+    ]
+  },
+  "name": "Sewer valve",
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    "Turn-right",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

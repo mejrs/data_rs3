@@ -1,0 +1,28 @@
+{
+  "id": 110647,
+  "models": {
+    "10": [
+      24596
+    ]
+  },
+  "name": "Buoy",
+  "unknown_17": false,
+  "unknown_24": 31433,
+  "ambient": 25,
+  "model": false,
+  "unknown_79": {
+    "unknown_1": 300,
+    "unknown_2": 900,
+    "unknown_3": 10,
+    "values": [
+      28477,
+      2901,
+      2901,
+      28479,
+      28482
+    ]
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 140
+}

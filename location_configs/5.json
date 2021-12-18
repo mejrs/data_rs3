@@ -1,0 +1,19 @@
+{
+  "id": 5,
+  "models": {
+    "10": [
+      9015
+    ]
+  },
+  "name": "Broken multicannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

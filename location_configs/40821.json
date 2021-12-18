@@ -1,0 +1,14 @@
+{
+  "id": 40821,
+  "models": {
+    "4": [
+      44315
+    ]
+  },
+  "name": "Map board",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

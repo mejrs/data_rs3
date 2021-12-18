@@ -1,0 +1,43 @@
+{
+  "id": 18321,
+  "models": {
+    "10": [
+      15566
+    ]
+  },
+  "name": "Chest",
+  "ambient": 20,
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10586,
+      10425
+    ],
+    [
+      10471,
+      10405
+    ],
+    [
+      6715,
+      8501
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

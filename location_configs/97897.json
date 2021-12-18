@@ -1,0 +1,20 @@
+{
+  "id": 97897,
+  "models": {
+    "10": [
+      96942
+    ]
+  },
+  "name": "Ledge",
+  "unknown_17": false,
+  "actions": [
+    "Dive in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

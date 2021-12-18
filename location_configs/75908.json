@@ -1,0 +1,31 @@
+{
+  "id": 75908,
+  "models": {
+    "0": [
+      76224,
+      76215
+    ]
+  },
+  "name": "Rug",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

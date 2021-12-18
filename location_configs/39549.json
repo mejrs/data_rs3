@@ -1,0 +1,16 @@
+{
+  "id": 39549,
+  "models": {
+    "10": [
+      42936
+    ]
+  },
+  "name": "Fragments (empty)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

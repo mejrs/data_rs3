@@ -1,0 +1,20 @@
+{
+  "id": 23611,
+  "models": {
+    "10": [
+      76667,
+      76664,
+      76663
+    ]
+  },
+  "name": "Cocoon",
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_24": 6274,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

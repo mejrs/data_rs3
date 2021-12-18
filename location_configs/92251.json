@@ -1,0 +1,26 @@
+{
+  "id": 92251,
+  "models": {
+    "0": [
+      98274
+    ]
+  },
+  "name": "Gnome Stronghold spirit tree portal",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Enter",
+    "Retune",
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 7285,
+  "models": {
+    "10": [
+      7701
+    ]
+  },
+  "name": "Empty Sack",
+  "ambient": 20,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 99,
+  "scale_y": 99,
+  "scale_z": 99,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

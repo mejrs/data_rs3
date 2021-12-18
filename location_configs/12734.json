@@ -1,0 +1,44 @@
+{
+  "id": 12734,
+  "models": {
+    "10": [
+      9590
+    ]
+  },
+  "name": "Table",
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6451,
+      13477
+    ],
+    [
+      6443,
+      13596
+    ],
+    [
+      6439,
+      13716
+    ],
+    [
+      6563,
+      10768
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

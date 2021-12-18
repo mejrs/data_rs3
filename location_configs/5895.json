@@ -1,0 +1,27 @@
+{
+  "id": 5895,
+  "models": {
+    "10": [
+      5705
+    ]
+  },
+  "name": "Ancient Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

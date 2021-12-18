@@ -1,0 +1,13 @@
+{
+  "id": 29143,
+  "models": {
+    "10": [
+      31964
+    ]
+  },
+  "name": "Pennant",
+  "ambient": 20,
+  "contrast": 20,
+  "mirror": true,
+  "occludes_2": false
+}

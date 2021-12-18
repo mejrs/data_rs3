@@ -1,0 +1,16 @@
+{
+  "id": 52630,
+  "models": {
+    "22": [
+      57376
+    ]
+  },
+  "name": "Broken bridge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "mirror": true,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

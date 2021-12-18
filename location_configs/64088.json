@@ -1,0 +1,19 @@
+{
+  "id": 64088,
+  "models": {
+    "4": [
+      25176
+    ]
+  },
+  "name": "Shield",
+  "unknown_19": 1,
+  "ambient": 40,
+  "colours": [
+    [
+      6067,
+      8115
+    ]
+  ],
+  "translate_z": 65516,
+  "occludes_2": false
+}

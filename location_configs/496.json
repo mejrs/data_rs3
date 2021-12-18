@@ -1,0 +1,29 @@
+{
+  "id": 496,
+  "models": {
+    "0": [
+      18438
+    ],
+    "1": [
+      18444
+    ],
+    "9": [
+      18445
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7582,
+      7484
+    ],
+    [
+      8078,
+      7461
+    ]
+  ],
+  "occludes_2": false
+}

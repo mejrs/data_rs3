@@ -1,0 +1,29 @@
+{
+  "id": 9323,
+  "models": {
+    "22": [
+      1128
+    ]
+  },
+  "name": "Log balance",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

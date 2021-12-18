@@ -1,0 +1,24 @@
+{
+  "id": 110122,
+  "models": {
+    "10": [
+      6679
+    ]
+  },
+  "name": "Dimension of the Damned Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 104269,
+  "models": {
+    "10": [
+      113712
+    ]
+  },
+  "name": "Sunken boat",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_24": 16626,
+  "ambient": 30,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

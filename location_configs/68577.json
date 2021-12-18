@@ -1,0 +1,17 @@
+{
+  "id": 68577,
+  "models": {
+    "10": [
+      65574
+    ]
+  },
+  "name": "Ancient Scales",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

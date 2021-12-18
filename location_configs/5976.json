@@ -1,0 +1,33 @@
+{
+  "id": 5976,
+  "models": {
+    "10": [
+      35590,
+      5852
+    ]
+  },
+  "name": "Dwarf MultiCannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      43051,
+      6316
+    ],
+    [
+      43043,
+      6305
+    ],
+    [
+      43038,
+      6297
+    ],
+    [
+      43031,
+      6289
+    ]
+  ],
+  "occludes_2": false
+}

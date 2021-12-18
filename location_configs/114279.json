@@ -1,0 +1,22 @@
+{
+  "id": 114279,
+  "models": {
+    "10": [
+      81168
+    ]
+  },
+  "name": "Broken large dinosaur paddock",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Build",
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 18443,
+  "models": {
+    "10": [
+      18382
+    ]
+  },
+  "name": "Imposing doors",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

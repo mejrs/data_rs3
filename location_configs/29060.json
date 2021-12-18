@@ -1,0 +1,31 @@
+{
+  "id": 29060,
+  "models": {
+    "22": [
+      31842
+    ]
+  },
+  "name": "Bandos pool",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 8666,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      6705
+    ],
+    [
+      7700,
+      6581
+    ],
+    [
+      8076,
+      6585
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

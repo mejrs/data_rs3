@@ -1,0 +1,27 @@
+{
+  "id": 4765,
+  "models": {
+    "0": [
+      40910
+    ]
+  },
+  "name": "Stone door",
+  "occludes_1": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_170": 897,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

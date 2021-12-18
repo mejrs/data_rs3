@@ -1,0 +1,20 @@
+{
+  "id": 59153,
+  "models": {
+    "0": [
+      41394,
+      33867
+    ]
+  },
+  "unknown_19": 0,
+  "occludes_1": false,
+  "unknown_27": false,
+  "unknown_28": 25,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2016": 2017,
+    "2025": 2014
+  },
+  "mapscene": 22
+}

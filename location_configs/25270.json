@@ -1,0 +1,11 @@
+{
+  "id": 25270,
+  "models": {
+    "10": [
+      26736
+    ]
+  },
+  "name": "Barbarian chair",
+  "ambient": 20,
+  "occludes_2": false
+}

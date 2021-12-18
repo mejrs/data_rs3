@@ -1,0 +1,25 @@
+{
+  "id": 118250,
+  "models": {
+    "10": [
+      12866
+    ]
+  },
+  "name": "Sink space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 21924,
+  "models": {
+    "10": [
+      17830
+    ]
+  },
+  "name": "Plant",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 117367,
+  "models": {
+    "10": [
+      96039,
+      89811,
+      95735
+    ]
+  },
+  "name": "Crucible stands debris",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      123
+    ]
+  ],
+  "textures": {
+    "12338": 12345
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3360
+  }
+}

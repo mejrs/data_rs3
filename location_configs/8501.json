@@ -1,0 +1,24 @@
+{
+  "id": 8501,
+  "models": {
+    "10": [
+      101396,
+      101392,
+      7768
+    ]
+  },
+  "name": "Dead Willow",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
+  "mapscene": 3,
+  "occludes_2": false
+}

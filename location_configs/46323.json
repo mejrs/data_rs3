@@ -1,0 +1,16 @@
+{
+  "id": 46323,
+  "models": {
+    "4": [
+      49743
+    ]
+  },
+  "name": "Ivy stump",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12360,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_189": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20040,
+  "models": {
+    "10": [
+      20341,
+      20342,
+      20344,
+      20345
+    ]
+  },
+  "name": "Machine",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 5351,
+  "unknown_27": false,
+  "unknown_78": {
+    "unknown_1": 3669,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 60
+}

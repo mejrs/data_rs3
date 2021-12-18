@@ -1,0 +1,11 @@
+{
+  "id": 18696,
+  "models": {
+    "10": [
+      18776
+    ]
+  },
+  "name": "Extractor gun",
+  "dim_y": 2,
+  "occludes_2": false
+}

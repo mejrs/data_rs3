@@ -1,0 +1,16 @@
+{
+  "id": 7015,
+  "models": {
+    "10": [
+      7109
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 2137,
+  "scale_x": 250,
+  "scale_y": 234,
+  "scale_z": 250,
+  "occludes_2": false
+}

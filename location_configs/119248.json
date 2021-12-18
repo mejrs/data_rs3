@@ -1,0 +1,18 @@
+{
+  "id": 119248,
+  "models": {
+    "10": [
+      7685
+    ]
+  },
+  "name": "Crate of parts",
+  "unknown_19": 1,
+  "actions": [
+    "Adjust mechanisms",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

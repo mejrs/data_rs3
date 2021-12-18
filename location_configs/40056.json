@@ -1,0 +1,14 @@
+{
+  "id": 40056,
+  "models": {
+    "10": [
+      35470
+    ]
+  },
+  "name": "Dresser",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

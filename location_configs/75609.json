@@ -1,0 +1,33 @@
+{
+  "id": 75609,
+  "models": {
+    "10": [
+      65146,
+      49212
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 15370,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5274,
+      6549
+    ],
+    [
+      5270,
+      6546
+    ],
+    [
+      5267,
+      6543
+    ]
+  ],
+  "textures": {
+    "1516": 2980
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

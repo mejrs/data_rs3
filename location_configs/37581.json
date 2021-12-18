@@ -1,0 +1,28 @@
+{
+  "id": 37581,
+  "models": {
+    "10": [
+      10089
+    ]
+  },
+  "name": "Stool",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      5400
+    ],
+    [
+      6707,
+      5404
+    ]
+  ],
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "unknown_75": 0,
+  "occludes_2": false
+}

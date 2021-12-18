@@ -1,0 +1,15 @@
+{
+  "id": 103595,
+  "models": {
+    "10": [
+      113158
+    ]
+  },
+  "name": "Sailing boat",
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "translate_y": 240,
+  "occludes_2": false
+}

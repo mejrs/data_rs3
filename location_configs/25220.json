@@ -1,0 +1,15 @@
+{
+  "id": 25220,
+  "models": {
+    "10": [
+      63275
+    ]
+  },
+  "name": "Hammock",
+  "dim_y": 4,
+  "unknown_22": true,
+  "unknown_24": 7416,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

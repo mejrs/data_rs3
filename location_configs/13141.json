@@ -1,0 +1,21 @@
+{
+  "id": 13141,
+  "models": {
+    "0": [
+      2214
+    ],
+    "2": [
+      4873
+    ],
+    "3": [
+      71602
+    ],
+    "9": [
+      2215
+    ]
+  },
+  "name": "Nothing",
+  "is_transparent": true,
+  "model": false,
+  "mapscene": 22
+}

@@ -1,0 +1,28 @@
+{
+  "id": 113828,
+  "models": {
+    "10": [
+      74162,
+      74584
+    ]
+  },
+  "name": "Jungle vines",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Cut",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "unknown_93": 16448,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,25 @@
+{
+  "id": 79959,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65528,
+  "morphs_1": {
+    "varbit": 16855,
+    "ids": [
+      80498,
+      80499,
+      80500,
+      80501,
+      80502,
+      80503,
+      80504,
+      80505,
+      80506
+    ]
+  },
+  "unknown_88": false,
+  "unknown_186": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 54115,
+  "models": {
+    "10": [
+      59553
+    ]
+  },
+  "name": "Pedestal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 14498,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 4935,
+    "unknown_2": 5
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_104": 100
+}

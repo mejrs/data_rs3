@@ -1,0 +1,30 @@
+{
+  "id": 97273,
+  "models": {
+    "10": [
+      8069,
+      7767
+    ]
+  },
+  "name": "Palm tree",
+  "ambient": 25,
+  "actions": [
+    "Grab coconuts",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21696,
+      18859
+    ],
+    [
+      21815,
+      19222
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

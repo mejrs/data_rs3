@@ -1,0 +1,24 @@
+{
+  "id": 83884,
+  "models": {
+    "0": [
+      85469
+    ],
+    "9": [
+      85473
+    ]
+  },
+  "name": "Wall",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Lean against"
+  ],
+  "contrast": 15,
+  "mapscene": 22
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13666,
+  "models": {
+    "10": [
+      12596
+    ]
+  },
+  "name": "Throne",
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "textures": {
+    "2310": 2415,
+    "2376": 2413
+  },
+  "unknown_69": 11,
+  "occludes_2": false
+}

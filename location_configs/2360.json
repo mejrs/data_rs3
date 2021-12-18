@@ -1,0 +1,32 @@
+{
+  "id": 2360,
+  "models": {
+    "10": [
+      1226
+    ]
+  },
+  "name": "Chest",
+  "unknown_69": 14,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

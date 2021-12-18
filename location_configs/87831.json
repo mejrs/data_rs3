@@ -1,0 +1,54 @@
+{
+  "id": 87831,
+  "models": {
+    "10": [
+      97698,
+      97661
+    ]
+  },
+  "name": "<col=ffff00>Death</col>",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_24": 24320,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    "Reclaim items",
+    "Death event"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10304,
+      8419
+    ],
+    [
+      10291,
+      8392
+    ],
+    [
+      10295,
+      8412
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Get task",
+    "Rewards",
+    null,
+    null
+  ],
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

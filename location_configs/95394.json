@@ -1,0 +1,16 @@
+{
+  "id": 95394,
+  "models": {
+    "22": [
+      102208
+    ]
+  },
+  "name": "Shape block",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 64,
+  "translate_y": 65532,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_167": 25
+}

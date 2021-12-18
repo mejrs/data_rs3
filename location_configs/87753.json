@@ -1,0 +1,21 @@
+{
+  "id": 87753,
+  "models": {
+    "10": [
+      17314
+    ]
+  },
+  "name": "Storage crates",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

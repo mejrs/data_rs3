@@ -1,0 +1,16 @@
+{
+  "id": 62444,
+  "models": {
+    "10": [
+      1825
+    ]
+  },
+  "dim_x": 4,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 13937,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 50,
+  "occludes_2": false
+}

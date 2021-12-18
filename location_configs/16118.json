@@ -1,0 +1,26 @@
+{
+  "id": 16118,
+  "models": {
+    "10": [
+      15885
+    ]
+  },
+  "name": "Box of Health",
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

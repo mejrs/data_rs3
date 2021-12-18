@@ -1,0 +1,16 @@
+{
+  "id": 120562,
+  "models": {
+    "10": [
+      121244
+    ]
+  },
+  "name": "Pile of books",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

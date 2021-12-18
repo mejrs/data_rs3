@@ -1,0 +1,21 @@
+{
+  "id": 43196,
+  "models": {
+    "10": [
+      13135
+    ]
+  },
+  "name": "Telescope",
+  "ambient": 25,
+  "colours": [
+    [
+      5545,
+      2334
+    ],
+    [
+      6466,
+      2340
+    ]
+  ],
+  "occludes_2": false
+}

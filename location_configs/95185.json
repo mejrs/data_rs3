@@ -1,0 +1,15 @@
+{
+  "id": 95185,
+  "models": {
+    "4": [
+      101700
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 100,
+  "scale_y": 100,
+  "translate_y": 65501,
+  "occludes_2": false
+}

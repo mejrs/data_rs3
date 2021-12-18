@@ -1,0 +1,56 @@
+{
+  "id": 5098,
+  "models": {
+    "10": [
+      37337
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Walk-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      7054
+    ],
+    [
+      21534,
+      6808
+    ],
+    [
+      21539,
+      6806
+    ],
+    [
+      21543,
+      6682
+    ],
+    [
+      21547,
+      6558
+    ],
+    [
+      21522,
+      6930
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

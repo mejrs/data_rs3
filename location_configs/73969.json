@@ -1,0 +1,18 @@
+{
+  "id": 73969,
+  "models": {
+    "10": [
+      72575,
+      72541,
+      72549
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "translate_y": 65472,
+  "occludes_2": false
+}

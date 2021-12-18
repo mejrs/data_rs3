@@ -1,0 +1,21 @@
+{
+  "id": 121454,
+  "models": {
+    "10": [
+      123954
+    ]
+  },
+  "name": "Timber fungus",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cut",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,72 @@
+{
+  "id": 113222,
+  "models": {
+    "10": [
+      73994,
+      74121
+    ]
+  },
+  "name": "Gold rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      40102
+    ],
+    [
+      3135,
+      44188
+    ],
+    [
+      3127,
+      48272
+    ],
+    [
+      2109,
+      40969
+    ],
+    [
+      3143,
+      43140
+    ],
+    [
+      54994,
+      7901
+    ],
+    [
+      54858,
+      7891
+    ],
+    [
+      54991,
+      7878
+    ],
+    [
+      54856,
+      7853
+    ]
+  ],
+  "textures": {
+    "322": 10889,
+    "1304": 10884
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": 6097,
+  "models": {
+    "10": [
+      1410
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7062,
+      5404
+    ],
+    [
+      7056,
+      5524
+    ],
+    [
+      10279,
+      10266
+    ],
+    [
+      10275,
+      10262
+    ],
+    [
+      10270,
+      10258
+    ]
+  ],
+  "unknown_44": 59,
+  "scale_x": 128,
+  "scale_y": 100,
+  "scale_z": 128,
+  "occludes_2": false
+}

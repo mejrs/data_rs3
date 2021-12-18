@@ -1,0 +1,30 @@
+{
+  "id": 119121,
+  "models": {
+    "10": [
+      97546
+    ]
+  },
+  "name": "Closure's Study",
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 10,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 612,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

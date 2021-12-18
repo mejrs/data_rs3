@@ -1,0 +1,26 @@
+{
+  "id": 76219,
+  "models": {
+    "4": [
+      76072
+    ]
+  },
+  "name": "Shelves",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

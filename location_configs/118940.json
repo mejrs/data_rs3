@@ -1,0 +1,30 @@
+{
+  "id": 118940,
+  "models": {
+    "10": [
+      87868,
+      96037,
+      120625
+    ]
+  },
+  "name": "Materials cart",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Deposit materials",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12338": 13076
+  },
+  "occludes_2": false,
+  "mapfunction": 3651,
+  "unknown_196": 3,
+  "params": {
+    "5239": 1
+  }
+}

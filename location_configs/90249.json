@@ -1,0 +1,13 @@
+{
+  "id": 90249,
+  "models": {
+    "10": [
+      94866
+    ]
+  },
+  "name": "ph",
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

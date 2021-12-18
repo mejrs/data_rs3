@@ -1,0 +1,27 @@
+{
+  "id": 4543,
+  "models": {
+    "0": [
+      37541
+    ]
+  },
+  "name": "Strange wall",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

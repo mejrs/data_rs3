@@ -1,0 +1,37 @@
+{
+  "id": 7311,
+  "models": {
+    "10": [
+      7710
+    ]
+  },
+  "name": "Statue",
+  "ambient": 30,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      70,
+      4661
+    ],
+    [
+      61,
+      4781
+    ],
+    [
+      49,
+      5029
+    ],
+    [
+      45,
+      5022
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 54675,
+  "models": {
+    "10": [
+      58959
+    ]
+  },
+  "name": "Dungeon exit",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

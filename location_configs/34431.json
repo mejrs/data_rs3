@@ -1,0 +1,23 @@
+{
+  "id": 34431,
+  "models": {
+    "10": [
+      24085
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7333,
+      9488
+    ],
+    [
+      8483,
+      9496
+    ]
+  ],
+  "occludes_2": false
+}

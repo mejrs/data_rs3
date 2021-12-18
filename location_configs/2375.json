@@ -1,0 +1,33 @@
+{
+  "id": 2375,
+  "models": {
+    "10": [
+      17316
+    ]
+  },
+  "name": "Specimen tray",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 53641,
+  "models": {
+    "10": [
+      58662
+    ]
+  },
+  "name": "Suspicious-looking wall",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6440,
+      8730
+    ],
+    [
+      6432,
+      8726
+    ],
+    [
+      6428,
+      8723
+    ],
+    [
+      6424,
+      8720
+    ],
+    [
+      6420,
+      8718
+    ],
+    [
+      6416,
+      8716
+    ],
+    [
+      6412,
+      8714
+    ],
+    [
+      6408,
+      8712
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      83
+    ]
+  }
+}

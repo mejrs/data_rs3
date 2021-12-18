@@ -1,0 +1,32 @@
+{
+  "id": 45612,
+  "models": {
+    "0": [
+      49272
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "unknown_170": 537,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

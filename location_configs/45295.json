@@ -1,0 +1,46 @@
+{
+  "id": 45295,
+  "models": {
+    "10": [
+      46795
+    ]
+  },
+  "name": "Grandfather clock",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 3511,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7451,
+      5400
+    ],
+    [
+      7443,
+      5394
+    ],
+    [
+      7447,
+      5396
+    ],
+    [
+      7455,
+      5404
+    ],
+    [
+      7445,
+      5392
+    ],
+    [
+      7439,
+      5388
+    ]
+  ],
+  "textures": {
+    "2075": 3171,
+    "2106": 3179
+  },
+  "occludes_2": false
+}

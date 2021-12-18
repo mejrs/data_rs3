@@ -1,0 +1,30 @@
+{
+  "id": 14244,
+  "models": {
+    "0": [
+      14468
+    ]
+  },
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Close",
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "mirror": true,
+  "model": false,
+  "cursors": [
+    null,
+    null,
+    174,
+    null,
+    null,
+    null
+  ]
+}

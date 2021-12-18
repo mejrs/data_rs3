@@ -1,0 +1,26 @@
+{
+  "id": 110383,
+  "models": {
+    "10": [
+      2141,
+      16815
+    ]
+  },
+  "name": "Crate (hidey-hole)",
+  "unknown_19": 1,
+  "actions": [
+    "Take items",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "translate_x": 65516,
+  "occludes_2": false,
+  "params": {
+    "6896": 30
+  }
+}

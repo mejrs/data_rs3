@@ -1,0 +1,20 @@
+{
+  "id": 13455,
+  "models": {
+    "0": [
+      13163
+    ],
+    "2": [
+      13164
+    ]
+  },
+  "name": "Marble wall",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 102217,
+  "models": {
+    "10": [
+      111473
+    ]
+  },
+  "name": "Statue plinth",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Build statue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

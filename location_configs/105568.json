@@ -1,0 +1,21 @@
+{
+  "id": 105568,
+  "models": {
+    "10": [
+      115293
+    ]
+  },
+  "name": "Manual Auto-cycle",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Pedal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

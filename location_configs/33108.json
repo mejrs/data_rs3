@@ -1,0 +1,29 @@
+{
+  "id": 33108,
+  "models": {
+    "0": [
+      37681
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_170": 861,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

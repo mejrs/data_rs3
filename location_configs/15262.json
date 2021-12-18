@@ -1,0 +1,18 @@
+{
+  "id": 15262,
+  "models": {
+    "10": [
+      12688
+    ]
+  },
+  "name": "Dresser space",
+  "dim_x": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

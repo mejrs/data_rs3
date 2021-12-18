@@ -1,0 +1,29 @@
+{
+  "id": 92311,
+  "models": {
+    "0": [
+      98229
+    ]
+  },
+  "name": "Divination banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      45733
+    ],
+    [
+      36300,
+      29211
+    ]
+  ],
+  "mapscene": 22
+}

@@ -1,0 +1,27 @@
+{
+  "id": 101569,
+  "models": {
+    "10": [
+      97562
+    ]
+  },
+  "name": "Portal 1",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      51627,
+      8619
+    ],
+    [
+      51600,
+      8592
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

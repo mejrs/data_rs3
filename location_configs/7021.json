@@ -1,0 +1,11 @@
+{
+  "id": 7021,
+  "models": {
+    "10": [
+      7105,
+      7103
+    ]
+  },
+  "name": "Cabinet",
+  "occludes_2": false
+}

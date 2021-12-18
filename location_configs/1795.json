@@ -1,0 +1,28 @@
+{
+  "id": 1795,
+  "models": {
+    "10": [
+      98309,
+      98311,
+      66424
+    ]
+  },
+  "name": "Compost Bin",
+  "actions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5409,
+      10665
+    ]
+  ],
+  "textures": {
+    "10467": 10466
+  },
+  "occludes_2": false
+}

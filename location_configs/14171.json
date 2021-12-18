@@ -1,0 +1,18 @@
+{
+  "id": 14171,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Embers",
+  "unknown_27": false,
+  "actions": [
+    "Use-driftwood",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

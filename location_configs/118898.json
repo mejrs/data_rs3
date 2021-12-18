@@ -1,0 +1,17 @@
+{
+  "id": 118898,
+  "models": {
+    "10": [
+      108416
+    ]
+  },
+  "name": "2010 Nomad statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "occludes_2": false
+}

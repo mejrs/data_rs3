@@ -1,0 +1,23 @@
+{
+  "id": 109014,
+  "models": {
+    "0": [
+      118595
+    ]
+  },
+  "name": "VIP archway",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Go through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "blocks_ranged": true,
+  "unknown_75": 0,
+  "unknown_88": false
+}

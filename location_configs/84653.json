@@ -1,0 +1,17 @@
+{
+  "id": 84653,
+  "models": {
+    "10": [
+      86254
+    ]
+  },
+  "name": "Pile of mummies",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

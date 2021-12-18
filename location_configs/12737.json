@@ -1,0 +1,51 @@
+{
+  "id": 12737,
+  "models": {
+    "0": [
+      4468
+    ],
+    "3": [
+      4469
+    ],
+    "9": [
+      4470
+    ]
+  },
+  "name": "Broken down wall",
+  "ambient": 20,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21526,
+      13840
+    ],
+    [
+      21522,
+      13964
+    ],
+    [
+      21646,
+      14216
+    ],
+    [
+      21642,
+      13592
+    ]
+  ],
+  "unknown_44": 60,
+  "mirror": true,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

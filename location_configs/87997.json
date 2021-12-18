@@ -1,0 +1,22 @@
+{
+  "id": 87997,
+  "models": {
+    "10": [
+      121926
+    ]
+  },
+  "name": "Well",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Jump in",
+    "Join instance",
+    "Rejoin last instance",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

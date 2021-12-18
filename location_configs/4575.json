@@ -1,0 +1,36 @@
+{
+  "id": 4575,
+  "models": {
+    "10": [
+      50763
+    ]
+  },
+  "name": "Trapdoor",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 12562,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1892": 1890
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

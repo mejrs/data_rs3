@@ -1,0 +1,38 @@
+{
+  "id": 93611,
+  "models": {
+    "10": [
+      17062
+    ]
+  },
+  "name": "Chest of drawers",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6806,
+      4502
+    ],
+    [
+      7054,
+      4494
+    ],
+    [
+      8070,
+      5766
+    ],
+    [
+      6930,
+      4498
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

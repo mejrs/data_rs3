@@ -1,0 +1,14 @@
+{
+  "id": 119697,
+  "models": {
+    "0": [
+      121844
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "7417": 11510
+  }
+}

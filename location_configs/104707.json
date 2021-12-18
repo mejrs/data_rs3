@@ -1,0 +1,41 @@
+{
+  "id": 104707,
+  "models": {
+    "10": [
+      114771,
+      114763
+    ]
+  },
+  "name": "Musaberry bush",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Forage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43712,
+      21318
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    171,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6038": 11763,
+    "6040": 38658,
+    "6039": 38642
+  }
+}

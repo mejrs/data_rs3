@@ -1,0 +1,26 @@
+{
+  "id": 12138,
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 16316,
+    "ids": [
+      24550,
+      24540
+    ]
+  },
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

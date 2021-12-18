@@ -1,0 +1,14 @@
+{
+  "id": 12555,
+  "models": {
+    "10": [
+      13722
+    ]
+  },
+  "name": "Roots",
+  "dim_x": 4,
+  "unknown_21": true,
+  "model": false,
+  "mapscene": 0,
+  "occludes_2": false
+}

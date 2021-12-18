@@ -1,0 +1,23 @@
+{
+  "id": 44967,
+  "models": {
+    "22": [
+      11819
+    ]
+  },
+  "name": "Rug",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7580,
+      5278
+    ],
+    [
+      7977,
+      5268
+    ]
+  ],
+  "occludes_2": false
+}

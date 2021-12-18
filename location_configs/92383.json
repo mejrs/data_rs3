@@ -1,0 +1,16 @@
+{
+  "id": 92383,
+  "models": {
+    "4": [
+      98215
+    ]
+  },
+  "name": "Meilyr voicestone",
+  "unknown_19": 1,
+  "unknown_24": 24597,
+  "ambient": 64,
+  "translate_x": 119,
+  "translate_y": 306,
+  "translate_z": 219,
+  "occludes_2": false
+}

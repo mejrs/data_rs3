@@ -1,0 +1,17 @@
+{
+  "id": 79485,
+  "models": {
+    "10": [
+      80273,
+      80308
+    ]
+  },
+  "name": "Rune chart",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_z": 110,
+  "unknown_69": 11,
+  "occludes_2": false
+}

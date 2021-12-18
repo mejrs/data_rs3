@@ -1,0 +1,19 @@
+{
+  "id": 6896,
+  "models": {
+    "10": [
+      2288
+    ]
+  },
+  "name": "Standing torch",
+  "is_transparent": true,
+  "unknown_24": 481,
+  "colours": [
+    [
+      8598,
+      7706
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 0
+}

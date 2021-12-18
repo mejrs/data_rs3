@@ -1,0 +1,22 @@
+{
+  "id": 41676,
+  "models": {
+    "0": [
+      45075
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

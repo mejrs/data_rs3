@@ -1,0 +1,24 @@
+{
+  "id": 19005,
+  "models": {
+    "10": [
+      58038
+    ]
+  },
+  "name": "Crumbling watchtower",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

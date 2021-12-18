@@ -1,0 +1,17 @@
+{
+  "id": 38580,
+  "models": {
+    "10": [
+      42035,
+      42034
+    ]
+  },
+  "name": "The audience",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 10282,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

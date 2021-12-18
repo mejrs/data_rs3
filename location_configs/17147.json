@@ -1,0 +1,31 @@
+{
+  "id": 17147,
+  "models": {
+    "10": [
+      54565,
+      89552
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 21230,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1916": 1909
+  },
+  "unknown_45": 2,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 40956,
+    "unknown_2": 8
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 70,
+  "unknown_1": 300,
+  "unknown_2": 330,
+  "unknown_188": true
+}

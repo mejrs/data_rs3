@@ -1,0 +1,32 @@
+{
+  "id": 82743,
+  "models": {
+    "10": [
+      83853
+    ]
+  },
+  "name": "Ancient Door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 19964,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "translate_x": 65526,
+  "translate_y": 65440,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

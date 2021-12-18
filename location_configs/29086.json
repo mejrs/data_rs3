@@ -1,0 +1,15 @@
+{
+  "id": 29086,
+  "models": {
+    "10": [
+      31967
+    ]
+  },
+  "name": "Hotel bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

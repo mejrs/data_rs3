@@ -1,0 +1,14 @@
+{
+  "id": 47268,
+  "models": {
+    "10": [
+      50902
+    ]
+  },
+  "name": "Longboat",
+  "dim_x": 3,
+  "dim_y": 4,
+  "ambient": 20,
+  "mirror": true,
+  "occludes_2": false
+}

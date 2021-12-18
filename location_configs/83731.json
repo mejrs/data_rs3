@@ -1,0 +1,27 @@
+{
+  "id": 83731,
+  "models": {
+    "22": [
+      85039
+    ]
+  },
+  "name": "Stepping stone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Jump to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

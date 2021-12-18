@@ -1,0 +1,22 @@
+{
+  "id": 46284,
+  "models": {
+    "10": [
+      10089
+    ]
+  },
+  "name": "Stool",
+  "ambient": 10,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      7587
+    ],
+    [
+      6707,
+      7579
+    ]
+  ],
+  "occludes_2": false
+}

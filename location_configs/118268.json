@@ -1,0 +1,25 @@
+{
+  "id": 118268,
+  "models": {
+    "10": [
+      120769
+    ]
+  },
+  "name": "Chest space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

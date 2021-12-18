@@ -1,0 +1,26 @@
+{
+  "id": 119666,
+  "models": {
+    "4": [
+      50966
+    ]
+  },
+  "name": "Candle sconce",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

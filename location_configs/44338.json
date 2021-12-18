@@ -1,0 +1,41 @@
+{
+  "id": 44338,
+  "models": {
+    "22": [
+      48190
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      25,
+      7440
+    ],
+    [
+      20,
+      7438
+    ],
+    [
+      15,
+      7436
+    ],
+    [
+      10,
+      7434
+    ],
+    [
+      38,
+      7335
+    ],
+    [
+      50,
+      7345
+    ]
+  ],
+  "unknown_73": true,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

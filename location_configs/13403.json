@@ -1,0 +1,19 @@
+{
+  "id": 13403,
+  "models": {
+    "10": [
+      12896,
+      12897
+    ]
+  },
+  "name": "Archery target",
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

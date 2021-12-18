@@ -1,0 +1,40 @@
+{
+  "id": 113687,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Temple wall",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_y": 300,
+  "scale_z": 400,
+  "unknown_69": 10,
+  "translate_y": 160,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 0,
+    "7902": 202
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": 15658,
+  "models": {
+    "0": [
+      62358
+    ]
+  },
+  "name": "Heavy door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

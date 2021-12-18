@@ -1,0 +1,40 @@
+{
+  "id": 19435,
+  "models": {
+    "22": [
+      5656
+    ]
+  },
+  "name": "Snow drift",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    "Attack",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      6798,
+      43131
+    ]
+  ],
+  "scale_x": 76,
+  "scale_y": 48,
+  "scale_z": 76,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    42,
+    null,
+    null,
+    null,
+    null
+  ]
+}

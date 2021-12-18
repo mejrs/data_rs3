@@ -1,0 +1,17 @@
+{
+  "id": 838,
+  "models": {
+    "10": [
+      1160
+    ]
+  },
+  "name": "Axe cabinet",
+  "dim_y": 2,
+  "colours": [
+    [
+      8860,
+      6080
+    ]
+  ],
+  "occludes_2": false
+}

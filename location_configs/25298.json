@@ -1,0 +1,21 @@
+{
+  "id": 25298,
+  "models": {
+    "10": [
+      36424,
+      36401
+    ]
+  },
+  "name": "Kiln",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65530,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

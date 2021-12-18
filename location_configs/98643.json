@@ -1,0 +1,21 @@
+{
+  "id": 98643,
+  "models": {
+    "10": [
+      106212,
+      106213
+    ]
+  },
+  "name": "Cellar exit",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "textures": {
+    "1424": 1444
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

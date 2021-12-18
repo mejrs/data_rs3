@@ -1,0 +1,25 @@
+{
+  "id": 73672,
+  "models": {
+    "10": [
+      71660,
+      71659
+    ]
+  },
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_24": 16441,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 204,
+  "scale_z": 160,
+  "translate_x": 20,
+  "translate_y": 235,
+  "translate_z": 65531,
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 15
+}

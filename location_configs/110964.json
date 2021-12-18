@@ -1,0 +1,17 @@
+{
+  "id": 110964,
+  "models": {
+    "22": [
+      6707
+    ]
+  },
+  "name": "Mound of soil",
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

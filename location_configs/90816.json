@@ -1,0 +1,16 @@
+{
+  "id": 90816,
+  "models": {
+    "22": [
+      95515
+    ]
+  },
+  "name": "Spike trap",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": -15,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

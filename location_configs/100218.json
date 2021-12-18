@@ -1,0 +1,28 @@
+{
+  "id": 100218,
+  "models": {
+    "10": [
+      56234
+    ]
+  },
+  "name": "Exit",
+  "ambient": 50,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

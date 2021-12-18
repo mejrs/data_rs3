@@ -1,0 +1,33 @@
+{
+  "id": 11661,
+  "models": {
+    "10": [
+      6617
+    ]
+  },
+  "name": "Water pump",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10401,
+      8390
+    ],
+    [
+      16540,
+      8398
+    ],
+    [
+      16532,
+      8406
+    ]
+  ],
+  "occludes_2": false
+}

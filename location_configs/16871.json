@@ -1,0 +1,12 @@
+{
+  "id": 16871,
+  "models": {
+    "10": [
+      13904,
+      13903
+    ]
+  },
+  "name": "Sack pile",
+  "dim_x": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 95232,
+  "models": {
+    "10": [
+      101747
+    ]
+  },
+  "name": "Jawbone",
+  "ambient": 64,
+  "model": false,
+  "scale_y": 256,
+  "translate_y": 30,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

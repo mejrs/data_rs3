@@ -1,0 +1,14 @@
+{
+  "id": 61796,
+  "models": {
+    "10": [
+      59450
+    ]
+  },
+  "name": "Broken roof",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

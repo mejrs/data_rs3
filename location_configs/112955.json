@@ -1,0 +1,56 @@
+{
+  "id": 112955,
+  "models": {
+    "10": [
+      73989,
+      73987
+    ]
+  },
+  "name": "Granite rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      3526
+    ],
+    [
+      3135,
+      3388
+    ],
+    [
+      3127,
+      3378
+    ],
+    [
+      2109,
+      3368
+    ],
+    [
+      3143,
+      3358
+    ]
+  ],
+  "textures": {
+    "322": 10886
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

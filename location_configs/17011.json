@@ -1,0 +1,30 @@
+{
+  "id": 17011,
+  "models": {
+    "22": [
+      18241
+    ]
+  },
+  "name": "Enchanted land",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Plant",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10270,
+      32794
+    ],
+    [
+      10275,
+      32786
+    ]
+  ],
+  "occludes_2": false
+}

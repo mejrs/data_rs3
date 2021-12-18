@@ -1,0 +1,26 @@
+{
+  "id": 48618,
+  "models": {
+    "22": [
+      18244
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      10266,
+      6420
+    ],
+    [
+      10270,
+      6430
+    ],
+    [
+      10275,
+      5283
+    ]
+  ],
+  "occludes_2": false
+}

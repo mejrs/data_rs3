@@ -1,0 +1,37 @@
+{
+  "id": 106706,
+  "models": {
+    "10": [
+      117657
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "4311": 13975
+  },
+  "occludes_2": false,
+  "mapfunction": 612,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

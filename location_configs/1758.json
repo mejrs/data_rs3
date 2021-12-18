@@ -1,0 +1,15 @@
+{
+  "id": 1758,
+  "models": {
+    "22": [
+      50336
+    ]
+  },
+  "name": "Dragon's food bowl",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mapscene": 97,
+  "occludes_2": false
+}

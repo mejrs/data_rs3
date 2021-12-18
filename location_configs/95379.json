@@ -1,0 +1,19 @@
+{
+  "id": 95379,
+  "models": {
+    "4": [
+      102207
+    ]
+  },
+  "name": "Paint splash",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 64,
+  "colours": [
+    [
+      56256,
+      8888
+    ]
+  ],
+  "occludes_2": false
+}

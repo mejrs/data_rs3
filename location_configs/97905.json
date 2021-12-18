@@ -1,0 +1,22 @@
+{
+  "id": 97905,
+  "models": {
+    "10": [
+      105305
+    ]
+  },
+  "name": "Spikes",
+  "unknown_19": 1,
+  "ambient": 34,
+  "actions": [
+    "Rebuild",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5185": 832
+  }
+}

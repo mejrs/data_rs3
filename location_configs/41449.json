@@ -1,0 +1,37 @@
+{
+  "id": 41449,
+  "models": {
+    "10": [
+      12150
+    ]
+  },
+  "name": "Teak chest",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      5914
+    ],
+    [
+      6682,
+      5904
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

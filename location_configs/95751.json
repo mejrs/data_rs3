@@ -1,0 +1,25 @@
+{
+  "id": 95751,
+  "models": {
+    "10": [
+      102694
+    ]
+  },
+  "name": "Grand gold chest",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

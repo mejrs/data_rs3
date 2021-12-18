@@ -1,0 +1,23 @@
+{
+  "id": 43417,
+  "models": {
+    "10": [
+      46938
+    ]
+  },
+  "name": "Footprint",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

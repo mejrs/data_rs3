@@ -1,0 +1,29 @@
+{
+  "id": 105714,
+  "models": {
+    "10": [
+      115999
+    ]
+  },
+  "name": "Wall marking",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 64536,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      386
+    ]
+  },
+  "unknown_186": 0
+}

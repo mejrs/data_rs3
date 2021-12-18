@@ -1,0 +1,26 @@
+{
+  "id": 1181,
+  "models": {
+    "10": [
+      5407
+    ]
+  },
+  "name": "Nettles",
+  "unknown_17": false,
+  "occludes_2": false,
+  "member_actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

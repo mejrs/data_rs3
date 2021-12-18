@@ -1,0 +1,29 @@
+{
+  "id": 64672,
+  "models": {
+    "10": [
+      2871
+    ]
+  },
+  "name": "Vent chamber",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Pass through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

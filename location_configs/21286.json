@@ -1,0 +1,17 @@
+{
+  "id": 21286,
+  "models": {
+    "10": [
+      70363
+    ]
+  },
+  "name": "Cooks' Guild sink",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

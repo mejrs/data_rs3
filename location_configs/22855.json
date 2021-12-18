@@ -1,0 +1,16 @@
+{
+  "id": 22855,
+  "models": {
+    "10": [
+      23385,
+      23384
+    ]
+  },
+  "name": "Bookshelf",
+  "ambient": 20,
+  "textures": {
+    "1476": 1526,
+    "1479": 1480
+  },
+  "occludes_2": false
+}

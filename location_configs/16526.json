@@ -1,0 +1,36 @@
+{
+  "id": 16526,
+  "models": {
+    "10": [
+      6160
+    ]
+  },
+  "name": "Black ink mushrooms",
+  "is_transparent": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6261,
+      10442
+    ],
+    [
+      5351,
+      10553
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

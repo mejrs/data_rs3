@@ -1,0 +1,52 @@
+{
+  "id": 2117,
+  "models": {
+    "0": [
+      42328
+    ]
+  },
+  "name": "Old wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6558,
+      7467
+    ],
+    [
+      6682,
+      7462
+    ],
+    [
+      6806,
+      7457
+    ],
+    [
+      6930,
+      7452
+    ],
+    [
+      7054,
+      7447
+    ]
+  ],
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

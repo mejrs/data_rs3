@@ -1,0 +1,27 @@
+{
+  "id": 90271,
+  "models": {
+    "10": [
+      94843
+    ]
+  },
+  "name": "Bank chest",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Use",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    46,
+    5,
+    null,
+    null,
+    null
+  ]
+}

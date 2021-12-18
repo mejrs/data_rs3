@@ -1,0 +1,11 @@
+{
+  "id": 401,
+  "models": {
+    "10": [
+      1366
+    ]
+  },
+  "name": "Grave marker",
+  "is_transparent": true,
+  "occludes_2": false
+}

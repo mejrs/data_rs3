@@ -1,0 +1,24 @@
+{
+  "id": 117510,
+  "models": {
+    "10": [
+      118520,
+      50039,
+      115276
+    ]
+  },
+  "name": "Palm tree",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pick coconut",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "unknown_196": 3
+}

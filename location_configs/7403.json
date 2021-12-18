@@ -1,0 +1,25 @@
+{
+  "id": 7403,
+  "models": {
+    "10": [
+      7761
+    ]
+  },
+  "name": "Apple Barrel",
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

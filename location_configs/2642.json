@@ -1,0 +1,18 @@
+{
+  "id": 2642,
+  "models": {
+    "10": [
+      1179
+    ]
+  },
+  "name": "Potter's Wheel",
+  "actions": [
+    "Form",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

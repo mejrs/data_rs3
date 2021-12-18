@@ -1,0 +1,30 @@
+{
+  "id": 8288,
+  "models": {
+    "10": [
+      8197,
+      7766
+    ]
+  },
+  "name": "Yanillian Hops",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13214,
+      9129
+    ],
+    [
+      13210,
+      9125
+    ]
+  ],
+  "unknown_44": 6,
+  "occludes_2": false
+}

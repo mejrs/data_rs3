@@ -1,0 +1,30 @@
+{
+  "id": 110237,
+  "models": {
+    "10": [
+      5192
+    ]
+  },
+  "name": "Bed",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Clean",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5016,
+      6674
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  }
+}

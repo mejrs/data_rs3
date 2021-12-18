@@ -1,0 +1,22 @@
+{
+  "id": 82225,
+  "models": {
+    "4": [
+      83382
+    ]
+  },
+  "name": "Treasure chute",
+  "ambient": 10,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 560
+}

@@ -1,0 +1,22 @@
+{
+  "id": 20934,
+  "models": {
+    "22": [
+      63187
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1767": 1516
+  },
+  "mirror": true,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

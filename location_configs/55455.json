@@ -1,0 +1,29 @@
+{
+  "id": 55455,
+  "models": {
+    "10": [
+      61635
+    ]
+  },
+  "name": "Broken pot",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

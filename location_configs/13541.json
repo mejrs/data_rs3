@@ -1,0 +1,13 @@
+{
+  "id": 13541,
+  "models": {
+    "10": [
+      64207
+    ]
+  },
+  "name": "Roots",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

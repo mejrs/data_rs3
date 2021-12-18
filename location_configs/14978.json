@@ -1,0 +1,29 @@
+{
+  "id": 14978,
+  "models": {
+    "10": [
+      14946
+    ]
+  },
+  "name": "Control panel",
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 104020,
+  "models": {
+    "10": [
+      113188
+    ]
+  },
+  "name": "Rowboat",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 29067,
+  "actions": [
+    "Use",
+    "Leave",
+    "Bank",
+    "Collect",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    46,
+    57,
+    5,
+    5,
+    null,
+    null
+  ],
+  "params": {
+    "5239": 1
+  }
+}

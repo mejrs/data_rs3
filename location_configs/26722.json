@@ -1,0 +1,19 @@
+{
+  "id": 26722,
+  "models": {
+    "10": [
+      68155
+    ]
+  },
+  "name": "Spirit tree",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 16365,
+  "ambient": 10,
+  "contrast": 10,
+  "unknown_75": 0,
+  "unknown_89": false,
+  "occludes_2": false
+}

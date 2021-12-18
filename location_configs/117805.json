@@ -1,0 +1,15 @@
+{
+  "id": 117805,
+  "models": {
+    "10": [
+      116294
+    ]
+  },
+  "name": "Gurney",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,22 @@
+{
+  "id": 97332,
+  "models": {
+    "10": [
+      104434
+    ]
+  },
+  "name": "Pile of coconuts",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Deposit coconuts",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 30115,
+  "models": {
+    "10": [
+      32866
+    ]
+  },
+  "name": "Coal",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

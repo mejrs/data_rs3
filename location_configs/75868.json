@@ -1,0 +1,33 @@
+{
+  "id": 75868,
+  "models": {
+    "10": [
+      76720
+    ]
+  },
+  "name": "Ornate chest",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

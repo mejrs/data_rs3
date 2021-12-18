@@ -1,0 +1,20 @@
+{
+  "id": 15001,
+  "models": {
+    "10": [
+      14969,
+      14970
+    ]
+  },
+  "name": "Pinball Post",
+  "unknown_24": 4006,
+  "ambient": 45,
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

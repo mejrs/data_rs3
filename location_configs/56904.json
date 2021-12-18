@@ -1,0 +1,22 @@
+{
+  "id": 56904,
+  "models": {
+    "0": [
+      62438,
+      62373
+    ]
+  },
+  "name": "Portal",
+  "unknown_19": 1,
+  "unknown_24": 9652,
+  "ambient": 15,
+  "actions": [
+    "Step-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 10
+}

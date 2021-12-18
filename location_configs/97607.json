@@ -1,0 +1,12 @@
+{
+  "id": 97607,
+  "models": {
+    "10": [
+      104790
+    ]
+  },
+  "name": "Vorago",
+  "dim_x": 16,
+  "dim_y": 16,
+  "occludes_2": false
+}

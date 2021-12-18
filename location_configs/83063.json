@@ -1,0 +1,14 @@
+{
+  "id": 83063,
+  "models": {
+    "10": [
+      84209
+    ]
+  },
+  "name": "Inactive dispenser",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65456,
+  "occludes_2": false
+}

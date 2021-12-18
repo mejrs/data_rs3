@@ -1,0 +1,40 @@
+{
+  "id": 17989,
+  "models": {
+    "10": [
+      58154,
+      58165
+    ]
+  },
+  "name": "Bush",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      22654,
+      21209
+    ],
+    [
+      42067,
+      20163
+    ],
+    [
+      42173,
+      20255
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 114381,
+  "models": {
+    "10": [
+      81631,
+      7767
+    ]
+  },
+  "name": "Dead avocado bush",
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      16540
+    ],
+    [
+      8722,
+      16532
+    ]
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

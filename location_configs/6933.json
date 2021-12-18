@@ -1,0 +1,14 @@
+{
+  "id": 6933,
+  "models": {
+    "10": [
+      6899,
+      6885
+    ]
+  },
+  "name": "Bone arch",
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

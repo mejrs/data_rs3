@@ -1,0 +1,29 @@
+{
+  "id": 65319,
+  "models": {
+    "10": [
+      18539
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

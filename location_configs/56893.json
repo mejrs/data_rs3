@@ -1,0 +1,25 @@
+{
+  "id": 56893,
+  "models": {
+    "10": [
+      62410,
+      62430
+    ]
+  },
+  "name": "Icy ground",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Slide",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

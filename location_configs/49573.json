@@ -1,0 +1,17 @@
+{
+  "id": 49573,
+  "models": {
+    "10": [
+      54804
+    ]
+  },
+  "name": "Active lodestone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13529,
+  "unknown_27": false,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

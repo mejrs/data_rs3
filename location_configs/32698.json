@@ -1,0 +1,15 @@
+{
+  "id": 32698,
+  "models": {
+    "10": [
+      37444
+    ]
+  },
+  "name": "Obstacle pipe",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "unknown_75": 0,
+  "occludes_2": false
+}

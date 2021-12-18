@@ -1,0 +1,31 @@
+{
+  "id": 15872,
+  "models": {
+    "10": [
+      15806
+    ]
+  },
+  "name": "Blue flowers",
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20287,
+      41782
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

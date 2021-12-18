@@ -1,0 +1,16 @@
+{
+  "id": 103853,
+  "models": {
+    "10": [
+      113604
+    ]
+  },
+  "name": "Volcano",
+  "dim_x": 16,
+  "dim_y": 16,
+  "unknown_17": false,
+  "ambient": 32,
+  "model": false,
+  "translate_y": 700,
+  "occludes_2": false
+}

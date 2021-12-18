@@ -1,0 +1,14 @@
+{
+  "id": 96233,
+  "models": {
+    "22": [
+      103109
+    ]
+  },
+  "name": "Doctor Dismemberment",
+  "unknown_19": 1,
+  "unknown_24": 26188,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

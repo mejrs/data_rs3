@@ -1,0 +1,37 @@
+{
+  "id": 117613,
+  "models": {
+    "10": [
+      47615
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "colours": [
+    [
+      64692,
+      32948
+    ],
+    [
+      64809,
+      31916
+    ],
+    [
+      64799,
+      31910
+    ]
+  ],
+  "textures": {
+    "11303": 12864
+  },
+  "model": false,
+  "scale_x": 260,
+  "scale_y": 220,
+  "scale_z": 260,
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4
+}

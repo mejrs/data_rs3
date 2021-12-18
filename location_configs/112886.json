@@ -1,0 +1,57 @@
+{
+  "id": 112886,
+  "models": {
+    "10": [
+      73989,
+      73987
+    ]
+  },
+  "name": "Feldip swamp rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      2346
+    ],
+    [
+      3135,
+      3366
+    ],
+    [
+      3127,
+      3359
+    ],
+    [
+      2109,
+      2341
+    ],
+    [
+      3143,
+      2221
+    ]
+  ],
+  "textures": {
+    "322": 10865
+  },
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

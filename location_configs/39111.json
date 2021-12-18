@@ -1,0 +1,13 @@
+{
+  "id": 39111,
+  "models": {
+    "10": [
+      42423
+    ]
+  },
+  "name": "Rubble",
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

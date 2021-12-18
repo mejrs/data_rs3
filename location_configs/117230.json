@@ -1,0 +1,31 @@
+{
+  "id": 117230,
+  "models": {
+    "10": [
+      89345
+    ]
+  },
+  "name": "Animal skull",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 340,
+  "scale_y": 340,
+  "scale_z": 340,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

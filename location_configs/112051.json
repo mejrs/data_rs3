@@ -1,0 +1,13 @@
+{
+  "id": 112051,
+  "models": {
+    "10": [
+      83948,
+      62898
+    ]
+  },
+  "name": "Weapon rack",
+  "dim_x": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

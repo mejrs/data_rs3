@@ -1,0 +1,13 @@
+{
+  "id": 30020,
+  "models": {
+    "10": [
+      4290,
+      32758
+    ]
+  },
+  "name": "Wooden table",
+  "dim_y": 4,
+  "is_transparent": true,
+  "occludes_2": false
+}

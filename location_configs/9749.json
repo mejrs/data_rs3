@@ -1,0 +1,23 @@
+{
+  "id": 9749,
+  "models": {
+    "0": [
+      9735
+    ],
+    "4": [
+      9734
+    ]
+  },
+  "name": "Crystal collector",
+  "unknown_19": 1,
+  "unknown_24": 2734,
+  "ambient": 30,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

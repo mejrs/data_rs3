@@ -1,0 +1,19 @@
+{
+  "id": 6154,
+  "models": {
+    "10": [
+      2132
+    ]
+  },
+  "name": "Shelves",
+  "colours": [
+    [
+      8076,
+      5404
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 100,
+  "scale_z": 128,
+  "occludes_2": false
+}

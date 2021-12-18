@@ -1,0 +1,26 @@
+{
+  "id": 7950,
+  "models": {
+    "10": [
+      109998,
+      7767
+    ]
+  },
+  "name": "Diseased apple tree",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7068,
+      12820
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

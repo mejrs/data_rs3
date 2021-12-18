@@ -1,0 +1,33 @@
+{
+  "id": 93238,
+  "models": {
+    "10": [
+      100088
+    ]
+  },
+  "name": "Statue of Queen Glarial",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 5,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

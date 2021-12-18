@@ -1,0 +1,43 @@
+{
+  "id": 30725,
+  "models": {
+    "22": [
+      23007
+    ]
+  },
+  "name": "Staircase top",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7403,
+      28
+    ],
+    [
+      7399,
+      24
+    ],
+    [
+      7386,
+      20
+    ]
+  ],
+  "mirror": true,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

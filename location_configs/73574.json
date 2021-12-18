@@ -1,0 +1,33 @@
+{
+  "id": 73574,
+  "models": {
+    "10": [
+      71433
+    ]
+  },
+  "name": "Philipe's painting set",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      353
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

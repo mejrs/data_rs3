@@ -1,0 +1,27 @@
+{
+  "id": 2079,
+  "models": {
+    "10": [
+      14984
+    ]
+  },
+  "name": "Chest",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

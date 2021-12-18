@@ -1,0 +1,17 @@
+{
+  "id": 85184,
+  "models": {
+    "10": [
+      87753,
+      87705
+    ]
+  },
+  "name": "Wounded woman",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 20706,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

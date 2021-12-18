@@ -1,0 +1,30 @@
+{
+  "id": 1330,
+  "models": {
+    "10": [
+      1681
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 20,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

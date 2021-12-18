@@ -1,0 +1,24 @@
+{
+  "id": 43472,
+  "models": {
+    "10": [
+      31643,
+      47079
+    ]
+  },
+  "name": "Shaking box",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 11776,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0,
+  "occludes_2": false
+}

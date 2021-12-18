@@ -1,0 +1,32 @@
+{
+  "id": 110346,
+  "models": {
+    "10": [
+      16402
+    ]
+  },
+  "name": "Treasure Trail information board",
+  "dim_y": 2,
+  "ambient": 0,
+  "actions": [
+    "Read",
+    "View recent trails",
+    "Treasure Trail stats",
+    "Hidey-hole locations",
+    "Treasure Trail options"
+  ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "unknown_69": 7,
+  "translate_y": 10,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

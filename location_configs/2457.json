@@ -1,0 +1,48 @@
+{
+  "id": 2457,
+  "models": {
+    "10": [
+      40641
+    ]
+  },
+  "name": "Body ruins",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 9911,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      38374,
+      31066
+    ],
+    [
+      38383,
+      31076
+    ]
+  ],
+  "textures": {
+    "1487": 1493
+  },
+  "unknown_78": {
+    "unknown_1": 10151,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

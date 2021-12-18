@@ -1,0 +1,19 @@
+{
+  "id": 18040,
+  "models": {
+    "0": [
+      17664
+    ]
+  },
+  "name": "Tapestry",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 160
+}

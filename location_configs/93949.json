@@ -1,0 +1,15 @@
+{
+  "id": 93949,
+  "models": {
+    "10": [
+      99572,
+      99573
+    ]
+  },
+  "name": "Trophy case",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_x": 65520,
+  "occludes_2": false
+}

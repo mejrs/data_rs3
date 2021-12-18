@@ -1,0 +1,31 @@
+{
+  "id": 96378,
+  "models": {
+    "10": [
+      102756
+    ]
+  },
+  "name": "Dimies the sardine",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 2772,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65408,
+  "translate_y": 65451,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

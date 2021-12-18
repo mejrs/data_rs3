@@ -1,0 +1,43 @@
+{
+  "id": 113694,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Tree",
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Jump across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 900,
+  "scale_y": 300,
+  "scale_z": 400,
+  "translate_y": 100,
+  "translate_z": 65436,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7902": 202,
+    "7901": 0
+  }
+}

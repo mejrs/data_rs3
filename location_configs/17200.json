@@ -1,0 +1,16 @@
+{
+  "id": 17200,
+  "models": {
+    "10": [
+      78485,
+      78483,
+      78498,
+      78488
+    ]
+  },
+  "name": "Goblin crowd",
+  "dim_x": 3,
+  "unknown_24": 4566,
+  "model": false,
+  "occludes_2": false
+}

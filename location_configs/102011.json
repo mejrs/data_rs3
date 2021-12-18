@@ -1,0 +1,19 @@
+{
+  "id": 102011,
+  "models": {
+    "4": [
+      111543
+    ]
+  },
+  "name": "Iriandul Caistlyn",
+  "unknown_19": 1,
+  "ambient": 80,
+  "mirror": true,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_x": 65485,
+  "translate_y": 118,
+  "translate_z": 65456,
+  "occludes_2": false
+}

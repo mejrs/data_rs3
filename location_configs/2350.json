@@ -1,0 +1,29 @@
+{
+  "id": 2350,
+  "models": {
+    "10": [
+      7749
+    ]
+  },
+  "name": "Winch",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "unknown_196": 4
+}

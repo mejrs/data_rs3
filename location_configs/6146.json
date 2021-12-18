@@ -1,0 +1,13 @@
+{
+  "id": 6146,
+  "models": {
+    "10": [
+      6023
+    ]
+  },
+  "name": "Bird cage stand",
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

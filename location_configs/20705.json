@@ -1,0 +1,15 @@
+{
+  "id": 20705,
+  "models": {
+    "10": [
+      63413
+    ]
+  },
+  "name": "Pistons",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 5,
+  "contrast": 5,
+  "occludes_2": false
+}

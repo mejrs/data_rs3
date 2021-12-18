@@ -1,0 +1,33 @@
+{
+  "id": 13045,
+  "models": {
+    "10": [
+      11316
+    ]
+  },
+  "name": "Blue barrier (Strength)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Hit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      37840
+    ],
+    [
+      31676,
+      37820
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

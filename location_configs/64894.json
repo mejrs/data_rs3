@@ -1,0 +1,26 @@
+{
+  "id": 64894,
+  "models": {
+    "10": [
+      18297
+    ]
+  },
+  "name": "Broken ladder",
+  "unknown_19": 1,
+  "colours": [
+    [
+      5673,
+      7954
+    ],
+    [
+      5788,
+      8078
+    ],
+    [
+      5912,
+      8076
+    ]
+  ],
+  "mapscene": 7,
+  "occludes_2": false
+}

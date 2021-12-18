@@ -1,0 +1,22 @@
+{
+  "id": 44828,
+  "models": {
+    "10": [
+      48399
+    ]
+  },
+  "name": "Oak pet house",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Store",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

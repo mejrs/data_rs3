@@ -1,0 +1,30 @@
+{
+  "id": 2407,
+  "models": {
+    "0": [
+      37698
+    ],
+    "9": [
+      43605
+    ]
+  },
+  "name": "Magic door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

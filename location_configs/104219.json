@@ -1,0 +1,29 @@
+{
+  "id": 104219,
+  "models": {
+    "10": [
+      113487
+    ]
+  },
+  "name": "Windmill",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "colours": [
+    [
+      33243,
+      26200
+    ],
+    [
+      6743,
+      10962
+    ]
+  ],
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "unknown_196": 3
+}

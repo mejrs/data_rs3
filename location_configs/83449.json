@@ -1,0 +1,33 @@
+{
+  "id": 83449,
+  "models": {
+    "0": [
+      85011
+    ]
+  },
+  "name": "Battlements",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9656,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "3204": 3209,
+    "3210": 3211
+  },
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

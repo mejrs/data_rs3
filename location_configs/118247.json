@@ -1,0 +1,25 @@
+{
+  "id": 118247,
+  "models": {
+    "10": [
+      12875
+    ]
+  },
+  "name": "Counter space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

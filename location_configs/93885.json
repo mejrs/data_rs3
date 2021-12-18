@@ -1,0 +1,13 @@
+{
+  "id": 93885,
+  "models": {
+    "10": [
+      99549
+    ]
+  },
+  "name": "Stone coffin",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false
+}

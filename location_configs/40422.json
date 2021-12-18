@@ -1,0 +1,22 @@
+{
+  "id": 40422,
+  "models": {
+    "10": [
+      64855
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2191": 2202,
+    "2192": 2206,
+    "2205": 2209
+  },
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false
+}

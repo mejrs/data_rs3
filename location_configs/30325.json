@@ -1,0 +1,16 @@
+{
+  "id": 30325,
+  "models": {
+    "10": [
+      33634
+    ]
+  },
+  "name": "Broken equipment table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

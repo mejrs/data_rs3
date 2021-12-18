@@ -1,0 +1,28 @@
+{
+  "id": 114765,
+  "models": {
+    "10": [
+      84949
+    ]
+  },
+  "name": "Boss portal",
+  "ambient": 0,
+  "actions": [
+    null,
+    "Attune",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11897": 11898,
+    "11899": 11901,
+    "11900": 11903
+  },
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 47739,
+    "unknown_2": 5
+  },
+  "occludes_2": false
+}

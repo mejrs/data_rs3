@@ -1,0 +1,16 @@
+{
+  "id": 121124,
+  "models": {
+    "4": [
+      122333,
+      122337,
+      122335
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

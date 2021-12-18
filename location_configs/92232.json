@@ -1,0 +1,14 @@
+{
+  "id": 92232,
+  "models": {
+    "10": [
+      97967,
+      97969
+    ]
+  },
+  "name": "Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 11,
+  "occludes_2": false
+}

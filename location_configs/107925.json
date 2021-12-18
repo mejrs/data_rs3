@@ -1,0 +1,15 @@
+{
+  "id": 107925,
+  "models": {
+    "10": [
+      118235
+    ]
+  },
+  "name": "Incense burner",
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_186": 0
+}

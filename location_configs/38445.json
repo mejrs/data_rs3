@@ -1,0 +1,35 @@
+{
+  "id": 38445,
+  "models": {
+    "10": [
+      41814
+    ]
+  },
+  "name": "Warning beacon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_24": 10237,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      5043,
+      26269
+    ],
+    [
+      7105,
+      26297
+    ],
+    [
+      8137,
+      26573
+    ],
+    [
+      7130,
+      26322
+    ]
+  ],
+  "mapscene": 87,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 89301,
+  "models": {
+    "10": [
+      93655
+    ]
+  },
+  "name": "Magic carpet",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_24": 22309,
+  "ambient": 25,
+  "actions": [
+    "Deposit loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

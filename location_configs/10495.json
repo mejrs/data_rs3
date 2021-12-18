@@ -1,0 +1,17 @@
+{
+  "id": 10495,
+  "models": {
+    "10": [
+      2132
+    ]
+  },
+  "name": "Warehouse shelves",
+  "ambient": 30,
+  "colours": [
+    [
+      8076,
+      5665
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 47623,
+  "models": {
+    "10": [
+      50120
+    ]
+  },
+  "name": "Broken table",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

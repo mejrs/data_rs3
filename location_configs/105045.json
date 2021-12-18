@@ -1,0 +1,14 @@
+{
+  "id": 105045,
+  "models": {
+    "10": [
+      113471
+    ]
+  },
+  "name": "Pots",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

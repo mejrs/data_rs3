@@ -1,0 +1,28 @@
+{
+  "id": 33049,
+  "models": {
+    "10": [
+      60603
+    ]
+  },
+  "name": "Rubble",
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 20364,
+  "models": {
+    "4": [
+      7745
+    ],
+    "10": [
+      2100
+    ]
+  },
+  "name": "Clothing shelves",
+  "unknown_17": false,
+  "ambient": 50,
+  "colours": [
+    [
+      5660,
+      6705
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 5050,
+  "models": {
+    "10": [
+      12041
+    ]
+  },
+  "name": "Stalagmite",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Squeeze-past",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 107984,
+  "models": {
+    "10": [
+      118273
+    ]
+  },
+  "name": "Incense",
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": 18864,
+  "models": {
+    "10": [
+      91076
+    ]
+  },
+  "name": "Drunken Dwarf",
+  "ambient": 10,
+  "occludes_2": false
+}

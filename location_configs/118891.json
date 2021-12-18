@@ -1,0 +1,14 @@
+{
+  "id": 118891,
+  "models": {
+    "10": [
+      108405
+    ]
+  },
+  "name": "2003 mage arena staff barrel statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

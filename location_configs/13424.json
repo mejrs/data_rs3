@@ -1,0 +1,22 @@
+{
+  "id": 13424,
+  "models": {
+    "10": [
+      12926
+    ]
+  },
+  "name": "Magic tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 118,
+  "scale_y": 118,
+  "scale_z": 118,
+  "occludes_2": false
+}

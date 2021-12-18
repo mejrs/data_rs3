@@ -1,0 +1,44 @@
+{
+  "id": 36972,
+  "models": {
+    "10": [
+      12372,
+      12379
+    ]
+  },
+  "name": "Altar",
+  "dim_x": 2,
+  "ambient": 25,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4510,
+      5392
+    ],
+    [
+      4502,
+      5404
+    ]
+  ],
+  "textures": {
+    "2076": 3179,
+    "2094": 3171
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

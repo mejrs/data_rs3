@@ -1,0 +1,15 @@
+{
+  "id": 16582,
+  "models": {
+    "10": [
+      46053
+    ]
+  },
+  "name": "Fighters",
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 11354,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

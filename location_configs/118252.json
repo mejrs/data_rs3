@@ -1,0 +1,25 @@
+{
+  "id": 118252,
+  "models": {
+    "10": [
+      12649
+    ]
+  },
+  "name": "Pew space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

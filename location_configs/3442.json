@@ -1,0 +1,42 @@
+{
+  "id": 3442,
+  "models": {
+    "0": [
+      44355
+    ]
+  },
+  "name": "Cell door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10388,
+      40993
+    ],
+    [
+      10392,
+      41005
+    ],
+    [
+      10508,
+      40984
+    ]
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

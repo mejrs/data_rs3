@@ -1,0 +1,17 @@
+{
+  "id": 105410,
+  "models": {
+    "10": [
+      115248
+    ]
+  },
+  "name": "Doric",
+  "unknown_17": false,
+  "ambient": 2,
+  "model": false,
+  "translate_x": 50,
+  "translate_y": 25,
+  "translate_z": 65496,
+  "occludes_2": false,
+  "unknown_186": 0
+}

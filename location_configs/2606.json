@@ -1,0 +1,52 @@
+{
+  "id": 2606,
+  "models": {
+    "0": [
+      26468
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      49,
+      7054
+    ],
+    [
+      41,
+      6930
+    ],
+    [
+      33,
+      6806
+    ],
+    [
+      24,
+      6682
+    ],
+    [
+      16,
+      6558
+    ]
+  ],
+  "unknown_170": 960,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

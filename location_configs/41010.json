@@ -1,0 +1,22 @@
+{
+  "id": 41010,
+  "models": {
+    "10": [
+      64934,
+      64980
+    ]
+  },
+  "name": "Voting box",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Vote",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 20,
+  "occludes_2": false
+}

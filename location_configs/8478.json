@@ -1,0 +1,20 @@
+{
+  "id": 8478,
+  "models": {
+    "10": [
+      101366,
+      7768
+    ]
+  },
+  "name": "Dead Oak",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

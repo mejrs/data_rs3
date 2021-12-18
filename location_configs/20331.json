@@ -1,0 +1,18 @@
+{
+  "id": 20331,
+  "models": {
+    "10": [
+      118880,
+      118879
+    ]
+  },
+  "name": "Dagger stall",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

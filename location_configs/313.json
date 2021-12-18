@@ -1,0 +1,30 @@
+{
+  "id": 313,
+  "models": {
+    "10": [
+      1586
+    ]
+  },
+  "name": "Wheat",
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "unknown_88": false,
+  "mapscene": 31,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

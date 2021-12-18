@@ -1,0 +1,17 @@
+{
+  "id": 116284,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "morphs_2": {
+    "varp": 9279,
+    "ids": [
+      116286,
+      116285
+    ],
+    "default": 116286
+  },
+  "unknown_198": true
+}

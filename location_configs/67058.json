@@ -1,0 +1,37 @@
+{
+  "id": 67058,
+  "models": {
+    "10": [
+      35847
+    ]
+  },
+  "name": "Oven",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Cook-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 13,
+  "unknown_78": {
+    "unknown_1": 4969,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_1": 230,
+  "unknown_2": 260,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

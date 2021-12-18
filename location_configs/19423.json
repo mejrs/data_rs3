@@ -1,0 +1,41 @@
+{
+  "id": 19423,
+  "models": {
+    "10": [
+      19993
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      6689,
+      43131
+    ],
+    [
+      6808,
+      43115
+    ],
+    [
+      7056,
+      43098
+    ],
+    [
+      6028,
+      43082
+    ]
+  ],
+  "scale_y": 64,
+  "occludes_2": false,
+  "unknown_196": 3
+}

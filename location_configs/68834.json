@@ -1,0 +1,19 @@
+{
+  "id": 68834,
+  "models": {
+    "10": [
+      65551,
+      65852
+    ],
+    "22": [
+      11314
+    ]
+  },
+  "name": "Egg",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

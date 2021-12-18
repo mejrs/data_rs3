@@ -1,0 +1,15 @@
+{
+  "id": 107970,
+  "models": {
+    "10": [
+      118542
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

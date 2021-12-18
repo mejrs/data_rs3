@@ -1,0 +1,38 @@
+{
+  "id": 101913,
+  "models": {
+    "10": [
+      111505
+    ]
+  },
+  "name": "Chest",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Take-logs",
+    "Check",
+    "Close",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5559,
+      6697
+    ],
+    [
+      5665,
+      5660
+    ],
+    [
+      5784,
+      5908
+    ]
+  ],
+  "unknown_69": 13,
+  "is_members": true,
+  "occludes_2": false
+}

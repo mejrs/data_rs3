@@ -1,0 +1,13 @@
+{
+  "id": 21024,
+  "models": {
+    "10": [
+      21645
+    ]
+  },
+  "name": "Foot lockers",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 31362,
+  "models": {
+    "10": [
+      34525
+    ]
+  },
+  "name": "Ashy pedestal",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

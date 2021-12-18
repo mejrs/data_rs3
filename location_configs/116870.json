@@ -1,0 +1,19 @@
+{
+  "id": 116870,
+  "models": {
+    "10": [
+      90734,
+      102821,
+      90924,
+      102822
+    ]
+  },
+  "name": "Virgo sign (inactive)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "10276": 12213
+  },
+  "occludes_2": false
+}

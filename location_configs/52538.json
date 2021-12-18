@@ -1,0 +1,13 @@
+{
+  "id": 52538,
+  "models": {
+    "10": [
+      57113
+    ]
+  },
+  "name": "Ramp",
+  "dim_x": 4,
+  "unknown_22": true,
+  "ambient": 25,
+  "occludes_2": false
+}

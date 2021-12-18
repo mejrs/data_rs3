@@ -1,0 +1,19 @@
+{
+  "id": 15421,
+  "models": {
+    "10": [
+      12706
+    ]
+  },
+  "name": "Globe space",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

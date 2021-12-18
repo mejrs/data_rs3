@@ -1,0 +1,28 @@
+{
+  "id": 42290,
+  "models": {
+    "10": [
+      40781
+    ]
+  },
+  "name": "Barricade",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Attack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    42,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

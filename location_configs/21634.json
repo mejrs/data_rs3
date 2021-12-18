@@ -1,0 +1,17 @@
+{
+  "id": 21634,
+  "models": {
+    "10": [
+      22159,
+      22161,
+      22162,
+      22160
+    ]
+  },
+  "name": "Fremennik boat",
+  "dim_x": 6,
+  "dim_y": 3,
+  "ambient": 20,
+  "occludes_2": false,
+  "unknown_196": 2
+}

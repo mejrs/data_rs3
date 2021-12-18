@@ -1,0 +1,13 @@
+{
+  "id": 101905,
+  "models": {
+    "10": [
+      102353,
+      102350
+    ]
+  },
+  "name": "Mask of rage",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

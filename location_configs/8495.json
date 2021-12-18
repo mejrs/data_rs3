@@ -1,0 +1,29 @@
+{
+  "id": 8495,
+  "models": {
+    "10": [
+      101397,
+      101393,
+      7768
+    ]
+  },
+  "name": "Diseased Willow",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      8598,
+      13976
+    ]
+  ],
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
+  "occludes_2": false
+}

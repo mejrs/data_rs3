@@ -1,0 +1,30 @@
+{
+  "id": 7910,
+  "models": {
+    "10": [
+      7864,
+      7767
+    ]
+  },
+  "name": "Diseased rosemary",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5072,
+      3780
+    ],
+    [
+      23849,
+      14503
+    ]
+  ],
+  "unknown_44": 5,
+  "occludes_2": false
+}

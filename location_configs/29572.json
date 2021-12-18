@@ -1,0 +1,23 @@
+{
+  "id": 29572,
+  "models": {
+    "10": [
+      27574,
+      32370
+    ]
+  },
+  "name": "Bar shelves",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "Take-Egg",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

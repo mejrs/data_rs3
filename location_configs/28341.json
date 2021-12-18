@@ -1,0 +1,19 @@
+{
+  "id": 28341,
+  "models": {
+    "0": [
+      30404
+    ],
+    "1": [
+      30409
+    ]
+  },
+  "name": "Pen",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "model": false
+}

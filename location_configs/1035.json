@@ -1,0 +1,28 @@
+{
+  "id": 1035,
+  "models": {
+    "10": [
+      63776,
+      63771
+    ]
+  },
+  "name": "Emitter (fire)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take-rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

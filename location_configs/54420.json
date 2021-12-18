@@ -1,0 +1,31 @@
+{
+  "id": 54420,
+  "models": {
+    "10": [
+      59288
+    ]
+  },
+  "name": "Bookcase",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Rotate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    189,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

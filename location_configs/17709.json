@@ -1,0 +1,12 @@
+{
+  "id": 17709,
+  "models": {
+    "10": [
+      17929
+    ]
+  },
+  "name": "Floor",
+  "dim_x": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

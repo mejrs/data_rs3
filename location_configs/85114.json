@@ -1,0 +1,22 @@
+{
+  "id": 85114,
+  "models": {
+    "10": [
+      88124
+    ]
+  },
+  "name": "Collection point",
+  "dim_x": 3,
+  "is_transparent": true,
+  "actions": [
+    "Deposit at",
+    "Vote",
+    "Quick deposit at",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

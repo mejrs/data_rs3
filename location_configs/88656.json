@@ -1,0 +1,28 @@
+{
+  "id": 88656,
+  "models": {
+    "10": [
+      92625,
+      92599
+    ]
+  },
+  "name": "Empty site",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Build on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 1329
+}

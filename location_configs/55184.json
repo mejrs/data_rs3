@@ -1,0 +1,30 @@
+{
+  "id": 55184,
+  "models": {
+    "22": [
+      59831
+    ]
+  },
+  "name": "Floor",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6450,
+      42417
+    ],
+    [
+      6435,
+      42397
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_167": 100,
+  "params": {
+    "1158": 55186,
+    "1159": 55187
+  }
+}

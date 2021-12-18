@@ -1,0 +1,27 @@
+{
+  "id": 116659,
+  "models": {
+    "10": [
+      96038,
+      95735,
+      95736
+    ]
+  },
+  "name": "Saltwater mud",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Uncover",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12332": 12341
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

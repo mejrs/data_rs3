@@ -1,0 +1,37 @@
+{
+  "id": 8624,
+  "models": {
+    "10": [
+      8176,
+      7766
+    ]
+  },
+  "name": "Sweetcorn",
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14786,
+      14889
+    ],
+    [
+      21978,
+      14897
+    ],
+    [
+      14897,
+      18085
+    ],
+    [
+      8148,
+      7869
+    ]
+  ],
+  "occludes_2": false
+}

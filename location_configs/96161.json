@@ -1,0 +1,38 @@
+{
+  "id": 96161,
+  "models": {
+    "4": [
+      103072
+    ]
+  },
+  "name": "Zemouregal's bedroom shackles",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10388,
+      1036
+    ],
+    [
+      10392,
+      1040
+    ],
+    [
+      10396,
+      1044
+    ],
+    [
+      10508,
+      1048
+    ],
+    [
+      10512,
+      1052
+    ]
+  ],
+  "textures": {
+    "1562": 1943
+  },
+  "occludes_2": false
+}

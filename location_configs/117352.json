@@ -1,0 +1,14 @@
+{
+  "id": 117352,
+  "models": {
+    "10": [
+      47665
+    ]
+  },
+  "name": "Ship hull",
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 4
+}

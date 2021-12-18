@@ -1,0 +1,28 @@
+{
+  "id": 105238,
+  "models": {
+    "0": [
+      107648
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "ambient": -42,
+  "actions": [
+    "Grapple",
+    "Build hidey-hole",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37298,
+      831
+    ]
+  ],
+  "unknown_69": 13
+}

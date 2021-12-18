@@ -1,0 +1,12 @@
+{
+  "id": 35654,
+  "models": {
+    "10": [
+      36215
+    ]
+  },
+  "name": "Cushioned chair",
+  "ambient": 10,
+  "contrast": 20,
+  "occludes_2": false
+}

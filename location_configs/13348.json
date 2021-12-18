@@ -1,0 +1,25 @@
+{
+  "id": 13348,
+  "models": {
+    "0": [
+      12205
+    ]
+  },
+  "name": "Door",
+  "actions": [
+    "Open",
+    "Pick-lock",
+    "Force",
+    null,
+    "Remove"
+  ],
+  "scale_y": 125,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

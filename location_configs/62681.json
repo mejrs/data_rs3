@@ -1,0 +1,22 @@
+{
+  "id": 62681,
+  "models": {
+    "10": [
+      3248
+    ]
+  },
+  "name": "Scoreboard",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

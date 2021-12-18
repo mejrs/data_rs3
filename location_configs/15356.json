@@ -1,0 +1,18 @@
+{
+  "id": 15356,
+  "models": {
+    "10": [
+      12712
+    ]
+  },
+  "name": "Ladder space",
+  "unknown_17": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

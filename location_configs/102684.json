@@ -1,0 +1,35 @@
+{
+  "id": 102684,
+  "models": {
+    "10": [
+      109830,
+      109829
+    ]
+  },
+  "name": "Kinetic cyclone",
+  "unknown_17": false,
+  "unknown_24": 28034,
+  "actions": [
+    "Fire",
+    "Pick-up",
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 14539,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 120,
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "cursors": [
+    42,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

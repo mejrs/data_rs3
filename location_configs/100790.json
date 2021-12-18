@@ -1,0 +1,17 @@
+{
+  "id": 100790,
+  "models": {
+    "10": [
+      108410,
+      108419
+    ]
+  },
+  "name": "2009 Evil Tree statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 16,
+  "occludes_2": false
+}

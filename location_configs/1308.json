@@ -1,0 +1,19 @@
+{
+  "id": 1308,
+  "models": {
+    "10": [
+      1451
+    ]
+  },
+  "name": "Target",
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Fire-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

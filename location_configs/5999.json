@@ -1,0 +1,27 @@
+{
+  "id": 5999,
+  "models": {
+    "10": [
+      52272
+    ]
+  },
+  "name": "Fremennik ship (Shadow reef)",
+  "dim_x": 5,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_24": 13178,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Sail",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 758,
+  "unknown_196": 2
+}

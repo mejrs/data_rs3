@@ -1,0 +1,22 @@
+{
+  "id": 106649,
+  "models": {
+    "10": [
+      117201
+    ]
+  },
+  "name": "Sundial (Menaphos)",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    "Plunder",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

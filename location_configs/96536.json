@@ -1,0 +1,28 @@
+{
+  "id": 96536,
+  "models": {
+    "10": [
+      103332
+    ]
+  },
+  "name": "Stats board",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    "Show times",
+    "Show eggs",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

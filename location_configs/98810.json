@@ -1,0 +1,23 @@
+{
+  "id": 98810,
+  "models": {
+    "10": [
+      106382
+    ]
+  },
+  "name": "Bookcase",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Pick book",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

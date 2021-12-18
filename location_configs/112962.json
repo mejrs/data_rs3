@@ -1,0 +1,33 @@
+{
+  "id": 112962,
+  "models": {
+    "0": [
+      32553
+    ]
+  },
+  "name": "Rubium vein",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "unknown_170": 960,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

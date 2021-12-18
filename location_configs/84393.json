@@ -1,0 +1,22 @@
+{
+  "id": 84393,
+  "models": {
+    "10": [
+      85929,
+      7766,
+      85927
+    ]
+  },
+  "name": "Dead grapevines",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

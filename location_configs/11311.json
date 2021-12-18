@@ -1,0 +1,13 @@
+{
+  "id": 11311,
+  "models": {
+    "10": [
+      11181
+    ]
+  },
+  "name": "Rope",
+  "dim_x": 4,
+  "unknown_69": 7,
+  "unknown_75": 0,
+  "occludes_2": false
+}

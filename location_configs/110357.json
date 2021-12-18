@@ -1,0 +1,21 @@
+{
+  "id": 110357,
+  "models": {
+    "10": [
+      2141
+    ]
+  },
+  "name": "Crate",
+  "unknown_19": 1,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "6896": 41
+  }
+}

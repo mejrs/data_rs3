@@ -1,0 +1,17 @@
+{
+  "id": 13384,
+  "models": {
+    "10": [
+      12147
+    ]
+  },
+  "name": "Oak prize chest",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

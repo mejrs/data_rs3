@@ -1,0 +1,11 @@
+{
+  "id": 1158,
+  "models": {
+    "10": [
+      936
+    ]
+  },
+  "name": "Potted plant",
+  "is_transparent": true,
+  "occludes_2": false
+}

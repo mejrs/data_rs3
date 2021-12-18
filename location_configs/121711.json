@@ -1,0 +1,36 @@
+{
+  "id": 121711,
+  "models": {
+    "10": [
+      124070,
+      124072,
+      124064
+    ]
+  },
+  "name": "Statue of Ophalmi",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pray at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "translate_y": 65426,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

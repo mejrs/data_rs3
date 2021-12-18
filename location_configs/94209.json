@@ -1,0 +1,21 @@
+{
+  "id": 94209,
+  "models": {
+    "10": [
+      100053
+    ]
+  },
+  "name": "Ithell",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "West:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 52612,
+  "models": {
+    "10": [
+      57371
+    ]
+  },
+  "name": "Mango tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick-fruit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

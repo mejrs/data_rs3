@@ -1,0 +1,41 @@
+{
+  "id": 8206,
+  "models": {
+    "10": [
+      8189,
+      7766
+    ]
+  },
+  "name": "Dead Barley",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7605,
+      3243
+    ],
+    [
+      7626,
+      3136
+    ],
+    [
+      7490,
+      3127
+    ],
+    [
+      7481,
+      3247
+    ],
+    [
+      7601,
+      3239
+    ]
+  ],
+  "occludes_2": false
+}

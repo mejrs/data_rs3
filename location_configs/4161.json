@@ -1,0 +1,26 @@
+{
+  "id": 4161,
+  "models": {
+    "10": [
+      1487
+    ]
+  },
+  "name": "Escape rope",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

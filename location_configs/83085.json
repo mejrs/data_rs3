@@ -1,0 +1,31 @@
+{
+  "id": 83085,
+  "models": {
+    "10": [
+      84180
+    ]
+  },
+  "name": "Broken barrier",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

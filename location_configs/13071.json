@@ -1,0 +1,32 @@
+{
+  "id": 13071,
+  "models": {
+    "10": [
+      11315
+    ]
+  },
+  "name": "Red barrier (Thieving)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pick-lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      976
+    ],
+    [
+      31676,
+      956
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

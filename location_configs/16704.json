@@ -1,0 +1,17 @@
+{
+  "id": 16704,
+  "models": {
+    "10": [
+      16686
+    ]
+  },
+  "name": "Sink",
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

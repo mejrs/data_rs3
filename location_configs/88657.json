@@ -1,0 +1,27 @@
+{
+  "id": 88657,
+  "models": {
+    "10": [
+      92604
+    ]
+  },
+  "name": "Spider hole (Armadyl)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Work on",
+    "Repurpose",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 1329
+}

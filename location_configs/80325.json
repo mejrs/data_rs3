@@ -1,0 +1,39 @@
+{
+  "id": 80325,
+  "models": {
+    "10": [
+      15050,
+      80812
+    ]
+  },
+  "name": "Rune",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9343,
+      18158
+    ]
+  ],
+  "textures": {
+    "2864": 2861
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

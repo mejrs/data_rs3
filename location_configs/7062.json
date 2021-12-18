@@ -1,0 +1,33 @@
+{
+  "id": 7062,
+  "models": {
+    "22": [
+      49802
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      35,
+      12
+    ],
+    [
+      3477,
+      3469
+    ],
+    [
+      3470,
+      3462
+    ],
+    [
+      3464,
+      3456
+    ]
+  ],
+  "mirror": true,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_167": 60
+}

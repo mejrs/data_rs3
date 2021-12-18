@@ -1,0 +1,30 @@
+{
+  "id": 110535,
+  "models": {
+    "10": [
+      85122,
+      17396
+    ]
+  },
+  "name": "Stone blocks (hidey-hole)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Take items",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2720": 9705
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "params": {
+    "6896": 42
+  }
+}

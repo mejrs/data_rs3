@@ -1,0 +1,37 @@
+{
+  "id": 30566,
+  "models": {
+    "10": [
+      1080
+    ]
+  },
+  "name": "Corpse",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "colours": [
+    [
+      6241,
+      28
+    ],
+    [
+      61,
+      20
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    56,
+    null
+  ]
+}

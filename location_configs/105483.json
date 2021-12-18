@@ -1,0 +1,29 @@
+{
+  "id": 105483,
+  "models": {
+    "10": [
+      115293
+    ]
+  },
+  "name": "Silver penny farthing",
+  "dim_x": 3,
+  "unknown_27": false,
+  "ambient": 42,
+  "actions": [
+    "Pedal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

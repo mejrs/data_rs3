@@ -1,0 +1,29 @@
+{
+  "id": 112189,
+  "models": {
+    "22": [
+      65985
+    ]
+  },
+  "name": "Spider egg",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 24132,
+  "ambient": 64,
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10714,
+      683
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

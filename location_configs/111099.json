@@ -1,0 +1,19 @@
+{
+  "id": 111099,
+  "models": {
+    "10": [
+      48452
+    ]
+  },
+  "name": "Barrel of black stone",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

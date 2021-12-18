@@ -1,0 +1,39 @@
+{
+  "id": 104044,
+  "models": {
+    "10": [
+      113409
+    ]
+  },
+  "name": "House",
+  "dim_x": 4,
+  "dim_y": 4,
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "textures": {
+    "3183": 7394,
+    "3629": 7396,
+    "3653": 7395
+  },
+  "model": false,
+  "translate_y": 65506,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    57,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37781
+  }
+}

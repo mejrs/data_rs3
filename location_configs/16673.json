@@ -1,0 +1,35 @@
+{
+  "id": 16673,
+  "models": {
+    "10": [
+      37815
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5774,
+      7566
+    ],
+    [
+      5784,
+      7577
+    ],
+    [
+      5770,
+      7562
+    ]
+  ],
+  "textures": {
+    "2078": 2045,
+    "2082": 2044
+  },
+  "translate_y": 65530,
+  "occludes_2": false
+}

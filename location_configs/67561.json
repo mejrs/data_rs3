@@ -1,0 +1,16 @@
+{
+  "id": 67561,
+  "models": {
+    "10": [
+      51807
+    ]
+  },
+  "name": "Crushed skeleton",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

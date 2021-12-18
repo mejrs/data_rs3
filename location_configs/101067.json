@@ -1,0 +1,19 @@
+{
+  "id": 101067,
+  "models": {
+    "10": [
+      110324
+    ]
+  },
+  "name": "Sticky goo",
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  }
+}

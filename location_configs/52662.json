@@ -1,0 +1,28 @@
+{
+  "id": 52662,
+  "models": {
+    "10": [
+      57139
+    ]
+  },
+  "name": "Cupboard",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

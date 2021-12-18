@@ -1,0 +1,48 @@
+{
+  "id": 38835,
+  "models": {
+    "10": [
+      5273
+    ]
+  },
+  "name": "Chest",
+  "colours": [
+    [
+      14499,
+      7830
+    ],
+    [
+      12698,
+      7954
+    ],
+    [
+      16536,
+      8078
+    ],
+    [
+      12818,
+      7830
+    ],
+    [
+      13194,
+      8078
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

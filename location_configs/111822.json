@@ -1,0 +1,19 @@
+{
+  "id": 111822,
+  "models": {
+    "10": [
+      60712
+    ]
+  },
+  "dim_y": 6,
+  "unknown_19": 0,
+  "ambient": 0,
+  "textures": {
+    "9212": 10286
+  },
+  "mirror": true,
+  "model": false,
+  "translate_y": 65196,
+  "occludes_2": false,
+  "unknown_196": 4
+}

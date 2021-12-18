@@ -1,0 +1,41 @@
+{
+  "id": 119067,
+  "models": {
+    "10": [
+      67768,
+      2214
+    ]
+  },
+  "name": "Stairs out",
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "model": false,
+  "scale_x": 500,
+  "scale_y": 700,
+  "scale_z": 250,
+  "unknown_69": 11,
+  "translate_y": 200,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

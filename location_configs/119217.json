@@ -1,0 +1,33 @@
+{
+  "id": 119217,
+  "models": {
+    "10": [
+      68174
+    ]
+  },
+  "name": "Balance beam (unbuilt)",
+  "dim_x": 6,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2653": 3581,
+    "2665": 3581
+  },
+  "translate_x": 65472,
+  "translate_y": 65386,
+  "translate_z": 32,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 1,
+    "unknown_2": 1,
+    "unknown_3": 64,
+    "unknown_4": -128
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 119037,
+  "models": {
+    "10": [
+      120631
+    ]
+  },
+  "name": "Rex skeleton (scaffolding)",
+  "dim_x": 5,
+  "dim_y": 8,
+  "actions": [
+    "Restore",
+    "Check restoration",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

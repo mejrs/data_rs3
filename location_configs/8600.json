@@ -1,0 +1,25 @@
+{
+  "id": 8600,
+  "models": {
+    "10": [
+      8168,
+      7766
+    ]
+  },
+  "name": "Strawberry plant",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      1984,
+      815
+    ]
+  ],
+  "occludes_2": false
+}

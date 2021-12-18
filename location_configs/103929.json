@@ -1,0 +1,17 @@
+{
+  "id": 103929,
+  "models": {
+    "10": [
+      103693,
+      103694
+    ]
+  },
+  "name": "Sharks",
+  "dim_x": 20,
+  "dim_y": 17,
+  "unknown_24": 26305,
+  "ambient": 64,
+  "model": false,
+  "translate_y": 110,
+  "occludes_2": false
+}

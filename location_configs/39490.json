@@ -1,0 +1,13 @@
+{
+  "id": 39490,
+  "models": {
+    "0": [
+      43028
+    ]
+  },
+  "name": "Force field",
+  "unknown_19": 1,
+  "unknown_24": 7382,
+  "ambient": 20,
+  "unknown_89": false
+}

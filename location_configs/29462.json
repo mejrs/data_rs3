@@ -1,0 +1,29 @@
+{
+  "id": 29462,
+  "models": {
+    "10": [
+      32258,
+      32263
+    ]
+  },
+  "name": "Instruction sign",
+  "unknown_24": 2714,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

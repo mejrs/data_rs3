@@ -1,0 +1,14 @@
+{
+  "id": 31548,
+  "models": {
+    "22": [
+      29653
+    ]
+  },
+  "name": "Bed",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "unknown_73": true,
+  "occludes_2": false
+}

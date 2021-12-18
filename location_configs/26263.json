@@ -1,0 +1,12 @@
+{
+  "id": 26263,
+  "models": {
+    "10": [
+      27938
+    ]
+  },
+  "name": "Wood",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

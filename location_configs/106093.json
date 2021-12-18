@@ -1,0 +1,20 @@
+{
+  "id": 106093,
+  "models": {
+    "10": [
+      116403,
+      116404
+    ]
+  },
+  "name": "Sliske apparition",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_24": 30010,
+  "unknown_27": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      388
+    ]
+  }
+}

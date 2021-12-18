@@ -1,0 +1,28 @@
+{
+  "id": 43845,
+  "models": {
+    "10": [
+      71181
+    ]
+  },
+  "name": "Snowman",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Add branches",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

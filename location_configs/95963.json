@@ -1,0 +1,15 @@
+{
+  "id": 95963,
+  "models": {
+    "10": [
+      102873
+    ]
+  },
+  "name": "Clive Dresdon",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 12036,
+  "ambient": 15,
+  "occludes_2": false
+}

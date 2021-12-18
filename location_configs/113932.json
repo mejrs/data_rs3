@@ -1,0 +1,30 @@
+{
+  "id": 113932,
+  "models": {
+    "10": [
+      76897
+    ]
+  },
+  "name": "Wilted marasamaw plant",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Rebuild",
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

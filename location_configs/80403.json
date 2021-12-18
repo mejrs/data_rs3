@@ -1,0 +1,39 @@
+{
+  "id": 80403,
+  "models": {
+    "10": [
+      80869,
+      80855,
+      80832
+    ]
+  },
+  "name": "Blue chair",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9343,
+      40814
+    ],
+    [
+      1556,
+      38420
+    ],
+    [
+      1576,
+      38440
+    ]
+  ],
+  "textures": {
+    "2864": 2869
+  },
+  "occludes_2": false
+}

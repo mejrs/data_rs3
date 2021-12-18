@@ -1,0 +1,19 @@
+{
+  "id": 24738,
+  "models": {
+    "10": [
+      25952
+    ]
+  },
+  "name": "Beanstump",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  }
+}

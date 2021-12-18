@@ -1,0 +1,31 @@
+{
+  "id": 105510,
+  "models": {
+    "4": [
+      95544,
+      115277
+    ]
+  },
+  "name": "Flow control (chaotic)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 42,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 10,
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

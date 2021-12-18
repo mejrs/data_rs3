@@ -1,0 +1,17 @@
+{
+  "id": 112500,
+  "models": {
+    "10": [
+      67618
+    ]
+  },
+  "name": "Divination Pillar",
+  "actions": [
+    "Stabilise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

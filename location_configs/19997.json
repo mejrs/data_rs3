@@ -1,0 +1,16 @@
+{
+  "id": 19997,
+  "models": {
+    "10": [
+      1733
+    ]
+  },
+  "name": "Animal skull",
+  "colours": [
+    [
+      10357,
+      10318
+    ]
+  ],
+  "occludes_2": false
+}

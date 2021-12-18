@@ -1,0 +1,29 @@
+{
+  "id": 83823,
+  "models": {
+    "10": [
+      85023
+    ]
+  },
+  "name": "Saradomin Altar",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

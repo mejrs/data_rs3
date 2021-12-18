@@ -1,0 +1,21 @@
+{
+  "id": 100263,
+  "models": {
+    "10": [
+      104640
+    ]
+  },
+  "name": "Boat",
+  "dim_x": 3,
+  "dim_y": 8,
+  "ambient": 25,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": 18155,
+  "models": {
+    "4": [
+      4316
+    ]
+  },
+  "name": "Shelf",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6594,
+      7587
+    ],
+    [
+      5675,
+      7582
+    ],
+    [
+      6550,
+      7830
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

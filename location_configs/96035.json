@@ -1,0 +1,19 @@
+{
+  "id": 96035,
+  "models": {
+    "10": [
+      103238,
+      103241
+    ]
+  },
+  "name": "Zemouregal statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": -15,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "translate_x": 65506,
+  "translate_z": 65506,
+  "occludes_2": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": 20211,
+  "models": {
+    "10": [
+      20636
+    ]
+  },
+  "name": "Obstacle net",
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Climb over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9525,
+      5547
+    ],
+    [
+      9104,
+      5532
+    ],
+    [
+      10126,
+      5656
+    ],
+    [
+      9100,
+      5652
+    ],
+    [
+      9098,
+      5904
+    ],
+    [
+      9098,
+      5904
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

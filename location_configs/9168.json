@@ -1,0 +1,19 @@
+{
+  "id": 9168,
+  "models": {
+    "10": [
+      9200,
+      7766
+    ]
+  },
+  "name": "Delphinium patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

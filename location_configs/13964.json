@@ -1,0 +1,30 @@
+{
+  "id": 13964,
+  "models": {
+    "10": [
+      10833
+    ]
+  },
+  "name": "Climbing block",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

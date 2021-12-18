@@ -1,0 +1,19 @@
+{
+  "id": 89974,
+  "models": {
+    "10": [
+      94358
+    ]
+  },
+  "name": "Memoriam crystal",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

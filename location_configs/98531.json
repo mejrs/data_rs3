@@ -1,0 +1,34 @@
+{
+  "id": 98531,
+  "models": {
+    "10": [
+      105561
+    ]
+  },
+  "name": "Cleansing crystal",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 7463,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Rotate",
+    "Rotate clockwise",
+    "Rotate anti-clockwise",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "6043": 1429
+  },
+  "occludes_2": false,
+  "cursors": [
+    189,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

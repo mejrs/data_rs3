@@ -1,0 +1,29 @@
+{
+  "id": 110259,
+  "models": {
+    "10": [
+      7047
+    ]
+  },
+  "name": "Coconut tree",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Shake",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  },
+  "unknown_196": 3
+}

@@ -1,0 +1,28 @@
+{
+  "id": 12572,
+  "models": {
+    "22": [
+      1124
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 10,
+  "colours": [
+    [
+      4892,
+      17566
+    ],
+    [
+      4899,
+      17566
+    ],
+    [
+      5921,
+      17566
+    ]
+  ],
+  "occludes_2": false
+}

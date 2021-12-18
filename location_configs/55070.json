@@ -1,0 +1,16 @@
+{
+  "id": 55070,
+  "models": {
+    "4": [
+      43969
+    ]
+  },
+  "name": "Wall pattern",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2067": 2061
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 86568,
+  "models": {
+    "22": [
+      88601
+    ]
+  },
+  "name": "Sword",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "translate_x": 128,
+  "occludes_2": false
+}

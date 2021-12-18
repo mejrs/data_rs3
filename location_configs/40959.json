@@ -1,0 +1,31 @@
+{
+  "id": 40959,
+  "models": {
+    "10": [
+      43709
+    ]
+  },
+  "name": "Bed chest",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

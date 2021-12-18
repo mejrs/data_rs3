@@ -1,0 +1,23 @@
+{
+  "id": 106091,
+  "models": {
+    "10": [
+      116399
+    ]
+  },
+  "name": "Switch",
+  "is_transparent": true,
+  "actions": [
+    "Delay",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      388
+    ]
+  }
+}

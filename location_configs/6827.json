@@ -1,0 +1,17 @@
+{
+  "id": 6827,
+  "models": {
+    "10": [
+      6617
+    ]
+  },
+  "name": "Waterpump",
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

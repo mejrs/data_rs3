@@ -1,0 +1,24 @@
+{
+  "id": 119052,
+  "models": {
+    "10": [
+      116521
+    ]
+  },
+  "name": "Dragonkin pylon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_196": 4
+}

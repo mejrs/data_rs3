@@ -1,0 +1,49 @@
+{
+  "id": 16459,
+  "models": {
+    "0": [
+      16412
+    ]
+  },
+  "name": "Tomb Door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Leave Tomb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7481,
+      7353
+    ],
+    [
+      8497,
+      7475
+    ],
+    [
+      8493,
+      7473
+    ],
+    [
+      8617,
+      7461
+    ]
+  ],
+  "unknown_44": 29,
+  "unknown_73": true,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

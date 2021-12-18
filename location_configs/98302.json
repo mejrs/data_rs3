@@ -1,0 +1,21 @@
+{
+  "id": 98302,
+  "models": {
+    "10": [
+      94831
+    ]
+  },
+  "name": "Battle standard for Marimbo",
+  "unknown_24": 9642,
+  "actions": [
+    "For Bananas!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 6
+  }
+}

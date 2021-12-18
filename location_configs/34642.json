@@ -1,0 +1,43 @@
+{
+  "id": 34642,
+  "models": {
+    "10": [
+      49522
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6670,
+      6548
+    ],
+    [
+      6674,
+      6425
+    ],
+    [
+      6550,
+      6430
+    ],
+    [
+      6552,
+      6435
+    ],
+    [
+      6554,
+      6440
+    ],
+    [
+      6556,
+      5283
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_196": 3
+}

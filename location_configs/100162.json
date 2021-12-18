@@ -1,0 +1,32 @@
+{
+  "id": 100162,
+  "models": {
+    "10": [
+      107345
+    ]
+  },
+  "name": "Overgrown tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Interact",
+    "Chop down",
+    "Poison",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 627,
+  "cursors": [
+    null,
+    59,
+    null,
+    null,
+    null,
+    null
+  ]
+}

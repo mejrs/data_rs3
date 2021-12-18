@@ -1,0 +1,30 @@
+{
+  "id": 5002,
+  "models": {
+    "22": [
+      20870
+    ]
+  },
+  "name": "Rope bridge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk-here",
+    null,
+    null,
+    null,
+    "Repair"
+  ],
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    174,
+    null
+  ]
+}

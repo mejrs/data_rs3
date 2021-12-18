@@ -1,0 +1,19 @@
+{
+  "id": 87350,
+  "models": {
+    "10": [
+      90532
+    ]
+  },
+  "name": "Lever",
+  "ambient": 15,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

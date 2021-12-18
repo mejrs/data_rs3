@@ -1,0 +1,25 @@
+{
+  "id": 118248,
+  "models": {
+    "10": [
+      120771
+    ]
+  },
+  "name": "Drawers space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

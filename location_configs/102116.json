@@ -1,0 +1,16 @@
+{
+  "id": 102116,
+  "models": {
+    "10": [
+      111902
+    ]
+  },
+  "name": "Coat stand",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_186": 0
+}

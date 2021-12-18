@@ -1,0 +1,23 @@
+{
+  "id": 83125,
+  "models": {
+    "10": [
+      49895
+    ]
+  },
+  "name": "Druid",
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        422,
+        100
+      ],
+      [
+        425,
+        100
+      ]
+    ]
+  }
+}

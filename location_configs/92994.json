@@ -1,0 +1,36 @@
+{
+  "id": 92994,
+  "models": {
+    "10": [
+      98351
+    ]
+  },
+  "name": "Spirit Tree",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_24": 25030,
+  "unknown_27": false,
+  "ambient": 37,
+  "actions": [
+    "Talk-to",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 65468,
+  "translate_y": 1328,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

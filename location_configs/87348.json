@@ -1,0 +1,18 @@
+{
+  "id": 87348,
+  "models": {
+    "10": [
+      90426
+    ]
+  },
+  "name": "Steam gauge",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

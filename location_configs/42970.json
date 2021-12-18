@@ -1,0 +1,19 @@
+{
+  "id": 42970,
+  "models": {
+    "10": [
+      46554
+    ]
+  },
+  "name": "Senliten's statue",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Carve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

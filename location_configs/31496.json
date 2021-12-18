@@ -1,0 +1,16 @@
+{
+  "id": 31496,
+  "models": {
+    "9": [
+      34923
+    ]
+  },
+  "name": "Cell door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "mapscene": 22,
+  "occludes_2": false
+}

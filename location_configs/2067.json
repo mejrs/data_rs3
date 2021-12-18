@@ -1,0 +1,23 @@
+{
+  "id": 2067,
+  "models": {
+    "0": [
+      659
+    ],
+    "9": [
+      660
+    ],
+    "10": [
+      5738
+    ]
+  },
+  "name": "Watchtower fence",
+  "unknown_21": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ]
+}

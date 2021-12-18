@@ -1,0 +1,29 @@
+{
+  "id": 49119,
+  "models": {
+    "10": [
+      32857
+    ]
+  },
+  "name": "Boxes",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

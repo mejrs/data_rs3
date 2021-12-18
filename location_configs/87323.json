@@ -1,0 +1,20 @@
+{
+  "id": 87323,
+  "models": {
+    "10": [
+      103734
+    ]
+  },
+  "name": "Billy",
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Complete challenge",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_186": 0
+}

@@ -1,0 +1,28 @@
+{
+  "id": 107355,
+  "models": {
+    "10": [
+      117642,
+      117639
+    ]
+  },
+  "name": "Epic Chest",
+  "unknown_24": 30569,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 594,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 119661,
+  "models": {
+    "4": [
+      2051
+    ]
+  },
+  "name": "Wallshield",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43934,
+      43105
+    ],
+    [
+      61,
+      40483
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 59285,
+  "models": {
+    "10": [
+      41360
+    ]
+  },
+  "dim_x": 8,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_28": 25,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2016": 2017,
+    "2025": 2014
+  },
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_186": 0
+}

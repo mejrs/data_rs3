@@ -1,0 +1,21 @@
+{
+  "id": 24821,
+  "models": {
+    "10": [
+      64062
+    ]
+  },
+  "name": "Bronze ingot trough",
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Take-ingots",
+    "Return-ingots",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

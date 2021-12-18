@@ -1,0 +1,19 @@
+{
+  "id": 74478,
+  "models": {
+    "10": [
+      72733
+    ]
+  },
+  "dim_x": 7,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 60,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

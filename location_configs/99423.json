@@ -1,0 +1,30 @@
+{
+  "id": 99423,
+  "models": {
+    "10": [
+      7766
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5239": 1
+  }
+}

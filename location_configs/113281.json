@@ -1,0 +1,22 @@
+{
+  "id": 113281,
+  "models": {
+    "10": [
+      34225
+    ]
+  },
+  "name": "Magic workbench",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Empower wards with magic",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

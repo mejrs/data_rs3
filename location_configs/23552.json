@@ -1,0 +1,14 @@
+{
+  "id": 23552,
+  "models": {
+    "10": [
+      23644,
+      23687,
+      23626
+    ]
+  },
+  "name": "Cave goblin",
+  "dim_x": 2,
+  "unknown_24": 3183,
+  "occludes_2": false
+}

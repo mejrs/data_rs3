@@ -1,0 +1,29 @@
+{
+  "id": 56862,
+  "models": {
+    "10": [
+      62287
+    ]
+  },
+  "name": "Tent plot",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Build-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

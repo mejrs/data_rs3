@@ -1,0 +1,14 @@
+{
+  "id": 6528,
+  "models": {
+    "10": [
+      1679
+    ]
+  },
+  "name": "Plant",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "occludes_2": false
+}

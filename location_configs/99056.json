@@ -1,0 +1,21 @@
+{
+  "id": 99056,
+  "models": {
+    "10": [
+      106503
+    ]
+  },
+  "name": "Queen Efaritay",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_z": 40,
+  "occludes_2": false
+}

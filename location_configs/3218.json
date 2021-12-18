@@ -1,0 +1,30 @@
+{
+  "id": 3218,
+  "models": {
+    "10": [
+      96131
+    ]
+  },
+  "name": "Tunnel",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 46498,
+  "models": {
+    "10": [
+      37482
+    ]
+  },
+  "name": "Ladder",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 7,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 38060,
+  "models": {
+    "10": [
+      41287
+    ]
+  },
+  "name": "Dead plum tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

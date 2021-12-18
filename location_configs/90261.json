@@ -1,0 +1,21 @@
+{
+  "id": 90261,
+  "models": {
+    "10": [
+      94846
+    ]
+  },
+  "name": "Bank deposit box",
+  "ambient": 25,
+  "actions": [
+    "Deposit",
+    "Deposit-All",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "mapfunction": 3651
+}

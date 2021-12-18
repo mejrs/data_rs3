@@ -1,0 +1,23 @@
+{
+  "id": 84299,
+  "models": {
+    "10": [
+      85905,
+      7767
+    ]
+  },
+  "name": "Diseased prickly pear cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

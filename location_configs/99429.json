@@ -1,0 +1,26 @@
+{
+  "id": 99429,
+  "models": {
+    "10": [
+      107014
+    ]
+  },
+  "name": "Small gap",
+  "dim_x": 2,
+  "ambient": 32,
+  "actions": [
+    "Squeeze through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      380
+    ]
+  }
+}

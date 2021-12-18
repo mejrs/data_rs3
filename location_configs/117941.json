@@ -1,0 +1,29 @@
+{
+  "id": 117941,
+  "models": {
+    "10": [
+      71215
+    ]
+  },
+  "name": "Temporary bank chest",
+  "actions": [
+    null,
+    "Use",
+    "Collect",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    null,
+    46,
+    5,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5239": 1
+  }
+}

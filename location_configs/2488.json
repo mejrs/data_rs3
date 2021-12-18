@@ -1,0 +1,30 @@
+{
+  "id": 2488,
+  "models": {
+    "10": [
+      96254
+    ]
+  },
+  "name": "Death altar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_24": 503,
+  "unknown_27": false,
+  "actions": [
+    "Craft-rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    66,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

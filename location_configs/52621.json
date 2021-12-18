@@ -1,0 +1,16 @@
+{
+  "id": 52621,
+  "models": {
+    "10": [
+      57384
+    ]
+  },
+  "name": "Drum",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "unknown_69": 11,
+  "occludes_2": false
+}

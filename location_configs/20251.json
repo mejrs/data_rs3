@@ -1,0 +1,14 @@
+{
+  "id": 20251,
+  "models": {
+    "10": [
+      97758
+    ]
+  },
+  "name": "Petrified mushroom",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9193,
+  "models": {
+    "10": [
+      9166,
+      7767
+    ]
+  },
+  "name": "Rose bush",
+  "ambient": 25,
+  "occludes_2": false
+}

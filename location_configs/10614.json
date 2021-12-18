@@ -1,0 +1,27 @@
+{
+  "id": 10614,
+  "models": {
+    "10": [
+      37375
+    ]
+  },
+  "name": "Steel Chest (black)",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      36907,
+      36916
+    ],
+    [
+      30757,
+      36908
+    ],
+    [
+      32804,
+      36896
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

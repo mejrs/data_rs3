@@ -1,0 +1,45 @@
+{
+  "id": 110398,
+  "models": {
+    "10": [
+      8232,
+      16887
+    ]
+  },
+  "name": "Barrel (hidey-hole)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      5413
+    ],
+    [
+      5665,
+      5537
+    ],
+    [
+      5660,
+      5532
+    ],
+    [
+      5784,
+      5656
+    ]
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "occludes_2": false,
+  "params": {
+    "6896": 43
+  }
+}

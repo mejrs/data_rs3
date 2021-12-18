@@ -1,0 +1,37 @@
+{
+  "id": 88078,
+  "models": {
+    "10": [
+      91446
+    ]
+  },
+  "dim_x": 10,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      33619,
+      48728
+    ],
+    [
+      33491,
+      48728
+    ],
+    [
+      37724,
+      48728
+    ],
+    [
+      33616,
+      48728
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

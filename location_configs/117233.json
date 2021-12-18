@@ -1,0 +1,26 @@
+{
+  "id": 117233,
+  "models": {
+    "10": [
+      92426
+    ]
+  },
+  "name": "Hallmark",
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

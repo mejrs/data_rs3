@@ -1,0 +1,31 @@
+{
+  "id": 104050,
+  "models": {
+    "10": [
+      82199
+    ]
+  },
+  "name": "Cannon",
+  "dim_y": 2,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37787
+  }
+}

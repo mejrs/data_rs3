@@ -1,0 +1,25 @@
+{
+  "id": 114750,
+  "models": {
+    "10": [
+      70769
+    ]
+  },
+  "name": "Bank chest",
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    5,
+    null,
+    null,
+    null
+  ]
+}

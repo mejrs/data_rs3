@@ -1,0 +1,19 @@
+{
+  "id": 57259,
+  "models": {
+    "10": [
+      27936
+    ]
+  },
+  "name": "Skeleton",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

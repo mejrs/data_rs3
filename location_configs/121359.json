@@ -1,0 +1,31 @@
+{
+  "id": 121359,
+  "models": {
+    "10": [
+      118904
+    ]
+  },
+  "name": "Azzanadra's brazier",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Extinguish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "translate_x": 40,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 3
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 127
+}

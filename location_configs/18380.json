@@ -1,0 +1,13 @@
+{
+  "id": 18380,
+  "models": {
+    "10": [
+      18474
+    ]
+  },
+  "name": "Broken wall",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 35,
+  "occludes_2": false
+}

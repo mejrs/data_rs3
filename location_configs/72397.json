@@ -1,0 +1,31 @@
+{
+  "id": 72397,
+  "models": {
+    "10": [
+      69692,
+      69693,
+      69687
+    ]
+  },
+  "name": "Sapling",
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

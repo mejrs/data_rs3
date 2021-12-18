@@ -1,0 +1,13 @@
+{
+  "id": 97547,
+  "models": {
+    "10": [
+      104678
+    ]
+  },
+  "name": "White Knight",
+  "unknown_19": 1,
+  "unknown_24": 26760,
+  "ambient": 25,
+  "occludes_2": false
+}

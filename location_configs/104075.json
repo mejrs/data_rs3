@@ -1,0 +1,22 @@
+{
+  "id": 104075,
+  "models": {
+    "10": [
+      17919
+    ]
+  },
+  "name": "Hold",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

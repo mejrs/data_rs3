@@ -1,0 +1,16 @@
+{
+  "id": 27346,
+  "models": {
+    "10": [
+      29307
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

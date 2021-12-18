@@ -1,0 +1,25 @@
+{
+  "id": 118263,
+  "models": {
+    "4": [
+      12864
+    ]
+  },
+  "name": "Shelf space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

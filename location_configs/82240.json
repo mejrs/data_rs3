@@ -1,0 +1,16 @@
+{
+  "id": 82240,
+  "models": {
+    "10": [
+      83398,
+      83381,
+      83385
+    ]
+  },
+  "name": "Token and armour chest",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

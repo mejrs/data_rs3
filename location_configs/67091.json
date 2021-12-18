@@ -1,0 +1,38 @@
+{
+  "id": 67091,
+  "models": {
+    "10": [
+      95777
+    ]
+  },
+  "name": "Tunnel",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 64,
+  "translate_z": 65408,
+  "occludes_2": false,
+  "mapfunction": 567,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

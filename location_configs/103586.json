@@ -1,0 +1,27 @@
+{
+  "id": 103586,
+  "models": {
+    "10": [
+      95681,
+      89525
+    ]
+  },
+  "name": "Divination node",
+  "unknown_24": 21250,
+  "unknown_27": false,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 210,
+  "scale_y": 210,
+  "scale_z": 210,
+  "unknown_75": 0,
+  "unknown_81": 32,
+  "mapscene": 4,
+  "occludes_2": false
+}

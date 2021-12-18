@@ -1,0 +1,17 @@
+{
+  "id": 100861,
+  "models": {
+    "4": [
+      108596
+    ]
+  },
+  "name": "Invention banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 6586
+  },
+  "translate_x": 10,
+  "mapscene": 22,
+  "occludes_2": false
+}

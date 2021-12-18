@@ -1,0 +1,21 @@
+{
+  "id": 110300,
+  "models": {
+    "10": [
+      8074
+    ]
+  },
+  "name": "Control Panel",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

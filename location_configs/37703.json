@@ -1,0 +1,31 @@
+{
+  "id": 37703,
+  "models": {
+    "0": [
+      120691
+    ]
+  },
+  "name": "Broken railing",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

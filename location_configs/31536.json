@@ -1,0 +1,13 @@
+{
+  "id": 31536,
+  "models": {
+    "4": [
+      29703
+    ]
+  },
+  "name": "Pipes",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "occludes_2": false
+}

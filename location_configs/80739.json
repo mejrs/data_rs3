@@ -1,0 +1,36 @@
+{
+  "id": 80739,
+  "models": {
+    "10": [
+      81212
+    ]
+  },
+  "name": "Ancient scales",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65520,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      360
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

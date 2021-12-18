@@ -1,0 +1,30 @@
+{
+  "id": 107358,
+  "models": {
+    "10": [
+      117659
+    ]
+  },
+  "name": "Altar of Instant Anima",
+  "ambient": 20,
+  "actions": [
+    "Sacrifice",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      424,
+      24875
+    ],
+    [
+      430,
+      24881
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 594
+}

@@ -1,0 +1,20 @@
+{
+  "id": 106002,
+  "models": {
+    "10": [
+      116160,
+      116158
+    ]
+  },
+  "name": "Snowboard Rack",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take snowboard",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

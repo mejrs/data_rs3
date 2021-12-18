@@ -1,0 +1,26 @@
+{
+  "id": 118285,
+  "models": {
+    "10": [
+      120784
+    ]
+  },
+  "name": "Table space",
+  "dim_x": 2,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

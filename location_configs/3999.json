@@ -1,0 +1,30 @@
+{
+  "id": 3999,
+  "models": {
+    "10": [
+      97119
+    ]
+  },
+  "name": "Dense forest",
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "mapscene": 70,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

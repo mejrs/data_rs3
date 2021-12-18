@@ -1,0 +1,17 @@
+{
+  "id": 112499,
+  "models": {
+    "10": [
+      67618
+    ]
+  },
+  "name": "Summoning Pillar",
+  "actions": [
+    "Stabilise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

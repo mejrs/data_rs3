@@ -1,0 +1,16 @@
+{
+  "id": 26953,
+  "models": {
+    "10": [
+      1168
+    ]
+  },
+  "name": "Stepladder",
+  "colours": [
+    [
+      5537,
+      6674
+    ]
+  ],
+  "occludes_2": false
+}

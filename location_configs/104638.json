@@ -1,0 +1,15 @@
+{
+  "id": 104638,
+  "models": {
+    "10": [
+      114537
+    ]
+  },
+  "name": "Damaged ship",
+  "dim_x": 5,
+  "dim_y": 12,
+  "ambient": 0,
+  "translate_y": 42,
+  "occludes_2": false,
+  "unknown_196": 4
+}

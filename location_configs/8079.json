@@ -1,0 +1,20 @@
+{
+  "id": 8079,
+  "models": {
+    "10": [
+      110086,
+      7767
+    ]
+  },
+  "name": "Palm tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

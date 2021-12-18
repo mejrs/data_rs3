@@ -1,0 +1,28 @@
+{
+  "id": 86715,
+  "models": {
+    "10": [
+      88906
+    ]
+  },
+  "name": "Wardrobe",
+  "ambient": -25,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6148,
+  "models": {
+    "10": [
+      728
+    ]
+  },
+  "name": "Column",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      5916,
+      10266
+    ]
+  ],
+  "occludes_2": false
+}

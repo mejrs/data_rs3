@@ -1,0 +1,18 @@
+{
+  "id": 30805,
+  "models": {
+    "10": [
+      33866
+    ]
+  },
+  "name": "Growing roses",
+  "unknown_24": 4290,
+  "actions": [
+    "Take-seed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

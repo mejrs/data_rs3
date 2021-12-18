@@ -1,0 +1,14 @@
+{
+  "id": 449,
+  "models": {
+    "10": [
+      724
+    ]
+  },
+  "name": "Overhanging rock",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_81": 64,
+  "occludes_2": false,
+  "unknown_196": 2
+}

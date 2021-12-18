@@ -1,0 +1,23 @@
+{
+  "id": 37749,
+  "models": {
+    "10": [
+      41077
+    ]
+  },
+  "name": "Entrance",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Go-through",
+    "Collapse",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false
+}

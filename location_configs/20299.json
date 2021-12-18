@@ -1,0 +1,18 @@
+{
+  "id": 20299,
+  "models": {
+    "10": [
+      1080
+    ]
+  },
+  "name": "Corpse",
+  "dim_x": 2,
+  "unknown_17": false,
+  "colours": [
+    [
+      6241,
+      3346
+    ]
+  ],
+  "occludes_2": false
+}

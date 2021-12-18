@@ -1,0 +1,33 @@
+{
+  "id": 67616,
+  "models": {
+    "10": [
+      52278
+    ]
+  },
+  "name": "Exit",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_95": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

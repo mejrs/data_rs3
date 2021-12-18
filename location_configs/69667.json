@@ -1,0 +1,20 @@
+{
+  "id": 69667,
+  "models": {
+    "10": [
+      68754
+    ]
+  },
+  "name": "Fishing Guild",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "East:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

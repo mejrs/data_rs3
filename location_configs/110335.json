@@ -1,0 +1,19 @@
+{
+  "id": 110335,
+  "models": {
+    "4": [
+      112368
+    ]
+  },
+  "name": "Mask",
+  "unknown_19": 1,
+  "unknown_24": 7463,
+  "actions": [
+    "Replay interaction",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

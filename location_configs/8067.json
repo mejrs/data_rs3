@@ -1,0 +1,20 @@
+{
+  "id": 8067,
+  "models": {
+    "10": [
+      110068,
+      7767
+    ]
+  },
+  "name": "Diseased orange tree",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

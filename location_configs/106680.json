@@ -1,0 +1,26 @@
+{
+  "id": 106680,
+  "models": {
+    "10": [
+      117252
+    ]
+  },
+  "name": "Hay bale",
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

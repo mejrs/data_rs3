@@ -1,0 +1,15 @@
+{
+  "id": 40867,
+  "models": {
+    "10": [
+      44414
+    ]
+  },
+  "name": "Huge door",
+  "dim_x": 9,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "contrast": 25,
+  "occludes_2": false
+}

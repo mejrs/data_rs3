@@ -1,0 +1,55 @@
+{
+  "id": 25161,
+  "models": {
+    "10": [
+      26498
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9098,
+      7054
+    ],
+    [
+      8846,
+      6930
+    ],
+    [
+      8722,
+      6806
+    ],
+    [
+      8598,
+      6682
+    ],
+    [
+      8602,
+      6558
+    ],
+    [
+      8478,
+      6563
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 13835,
+  "models": {
+    "22": [
+      14151
+    ]
+  },
+  "name": "Partially broken bridge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false
+}

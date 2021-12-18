@@ -1,0 +1,17 @@
+{
+  "id": 120913,
+  "models": {
+    "10": [
+      7812,
+      7767
+    ]
+  },
+  "name": "Evil Goon",
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      475
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 47127,
+  "models": {
+    "0": [
+      50636
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1892": 1890
+  },
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2950,
+  "models": {
+    "10": [
+      1770
+    ]
+  },
+  "name": "Felled Yommi tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "actions": [
+    "Trim-branches",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

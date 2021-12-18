@@ -1,0 +1,29 @@
+{
+  "id": 9751,
+  "models": {
+    "10": [
+      9721
+    ]
+  },
+  "name": "Crystal",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

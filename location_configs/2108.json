@@ -1,0 +1,13 @@
+{
+  "id": 2108,
+  "models": {
+    "10": [
+      88806
+    ]
+  },
+  "name": "Armour stand",
+  "ambient": -25,
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false
+}

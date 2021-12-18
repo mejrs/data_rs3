@@ -1,0 +1,52 @@
+{
+  "id": 110513,
+  "models": {
+    "10": [
+      7685
+    ]
+  },
+  "name": "Crate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      6439
+    ],
+    [
+      6439,
+      6435
+    ],
+    [
+      6563,
+      6430
+    ],
+    [
+      6558,
+      6554
+    ],
+    [
+      6682,
+      6550
+    ],
+    [
+      6806,
+      6674
+    ]
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "occludes_2": false,
+  "params": {
+    "6896": 46
+  }
+}

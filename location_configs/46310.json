@@ -1,0 +1,15 @@
+{
+  "id": 46310,
+  "models": {
+    "10": [
+      49721,
+      49718
+    ]
+  },
+  "name": "Plank stack (empty)",
+  "dim_x": 2,
+  "unknown_24": 12396,
+  "ambient": 10,
+  "contrast": 15,
+  "occludes_2": false
+}

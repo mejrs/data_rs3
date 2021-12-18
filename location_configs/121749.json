@@ -1,0 +1,15 @@
+{
+  "id": 121749,
+  "models": {
+    "10": [
+      123881,
+      123893
+    ]
+  },
+  "name": "Dead Lumbridge guard",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

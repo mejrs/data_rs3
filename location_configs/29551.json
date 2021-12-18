@@ -1,0 +1,21 @@
+{
+  "id": 29551,
+  "models": {
+    "10": [
+      9592,
+      32364
+    ]
+  },
+  "name": "Wheelbarrow",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    null,
+    null,
+    "Take-Egg",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

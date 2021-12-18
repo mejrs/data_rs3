@@ -1,0 +1,48 @@
+{
+  "id": 76842,
+  "models": {
+    "10": [
+      3781
+    ]
+  },
+  "name": "Duradel's claws",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33,
+      36133
+    ],
+    [
+      41,
+      36141
+    ],
+    [
+      49,
+      36021
+    ],
+    [
+      4540,
+      4777
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 920,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

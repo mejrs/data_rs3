@@ -1,0 +1,22 @@
+{
+  "id": 105074,
+  "models": {
+    "10": [
+      114838
+    ]
+  },
+  "name": "Water barrel",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 42,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 595
+}

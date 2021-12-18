@@ -1,0 +1,19 @@
+{
+  "id": 113749,
+  "models": {
+    "10": [
+      58327
+    ]
+  },
+  "name": "Skillcape rack",
+  "is_transparent": true,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_z": 65496,
+  "occludes_2": false
+}

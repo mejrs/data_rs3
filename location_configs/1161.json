@@ -1,0 +1,29 @@
+{
+  "id": 1161,
+  "models": {
+    "10": [
+      8196
+    ]
+  },
+  "name": "Cabbage",
+  "unknown_17": false,
+  "ambient": 17,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 9,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 87675,
+  "models": {
+    "10": [
+      90873
+    ]
+  },
+  "name": "Shadow",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "model": false,
+  "translate_y": 65526,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true,
+  "unknown_199": true
+}

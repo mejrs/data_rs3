@@ -1,0 +1,13 @@
+{
+  "id": 4866,
+  "models": {
+    "10": [
+      4797
+    ]
+  },
+  "name": "Gnome Glider",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_24": 1411,
+  "occludes_2": false
+}

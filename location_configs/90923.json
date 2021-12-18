@@ -1,0 +1,21 @@
+{
+  "id": 90923,
+  "models": {
+    "10": [
+      95538,
+      95543
+    ]
+  },
+  "name": "Barrel",
+  "unknown_24": 23398,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

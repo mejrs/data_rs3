@@ -1,0 +1,44 @@
+{
+  "id": 19690,
+  "models": {
+    "10": [
+      8687
+    ]
+  },
+  "name": "Steps",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Ascend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      7326,
+      34014
+    ],
+    [
+      7331,
+      37999
+    ],
+    [
+      7335,
+      43129
+    ],
+    [
+      7339,
+      43131
+    ]
+  ],
+  "unknown_44": 30,
+  "unknown_69": 14,
+  "mapscene": 69,
+  "occludes_2": false
+}

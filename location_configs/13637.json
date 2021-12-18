@@ -1,0 +1,22 @@
+{
+  "id": 13637,
+  "models": {
+    "10": [
+      11236
+    ]
+  },
+  "name": "Portal frame",
+  "dim_x": 2,
+  "ambient": 40,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "occludes_2": false
+}

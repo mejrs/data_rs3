@@ -1,0 +1,26 @@
+{
+  "id": 63855,
+  "models": {
+    "4": [
+      25171
+    ]
+  },
+  "name": "Painting",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7587,
+      4372
+    ],
+    [
+      7706,
+      4494
+    ]
+  ],
+  "textures": {
+    "2073": 2078
+  },
+  "occludes_2": false
+}

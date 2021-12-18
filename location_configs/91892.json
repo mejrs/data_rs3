@@ -1,0 +1,16 @@
+{
+  "id": 91892,
+  "models": {
+    "10": [
+      97473
+    ]
+  },
+  "name": "Food supplies",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

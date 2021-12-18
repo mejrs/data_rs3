@@ -1,0 +1,38 @@
+{
+  "id": 13904,
+  "models": {
+    "10": [
+      14238
+    ]
+  },
+  "name": "Exit",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33668,
+      289
+    ]
+  ],
+  "textures": {
+    "2377": 1734,
+    "2401": 1686
+  },
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9103,
+  "models": {
+    "10": [
+      9070
+    ]
+  },
+  "name": "Drive belt",
+  "unknown_19": 1,
+  "unknown_24": 2451,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

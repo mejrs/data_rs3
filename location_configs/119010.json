@@ -1,0 +1,14 @@
+{
+  "id": 119010,
+  "models": {
+    "10": [
+      120638
+    ]
+  },
+  "name": "Xolo building",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false
+}

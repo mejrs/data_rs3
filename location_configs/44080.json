@@ -1,0 +1,34 @@
+{
+  "id": 44080,
+  "models": {
+    "10": [
+      14827
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      6430
+    ],
+    [
+      6451,
+      6425
+    ],
+    [
+      6563,
+      6420
+    ],
+    [
+      6439,
+      6425
+    ]
+  ],
+  "occludes_2": false
+}

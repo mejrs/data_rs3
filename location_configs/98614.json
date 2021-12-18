@@ -1,0 +1,28 @@
+{
+  "id": 98614,
+  "models": {
+    "10": [
+      106290
+    ]
+  },
+  "name": "Cell door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

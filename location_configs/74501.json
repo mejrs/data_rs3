@@ -1,0 +1,22 @@
+{
+  "id": 74501,
+  "models": {
+    "10": [
+      72801
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 60,
+  "model": false,
+  "scale_x": 112,
+  "scale_y": 96,
+  "scale_z": 112,
+  "translate_y": 48,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

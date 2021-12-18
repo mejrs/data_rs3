@@ -1,0 +1,21 @@
+{
+  "id": 41011,
+  "models": {
+    "10": [
+      64979
+    ]
+  },
+  "name": "Ledger",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 20,
+  "occludes_2": false
+}

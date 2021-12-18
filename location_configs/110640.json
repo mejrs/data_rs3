@@ -1,0 +1,19 @@
+{
+  "id": 110640,
+  "models": {
+    "10": [
+      103704,
+      103705,
+      103706
+    ]
+  },
+  "name": "Cavefish",
+  "dim_x": 8,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_24": 26301,
+  "model": false,
+  "translate_y": 100,
+  "unknown_88": false,
+  "occludes_2": false
+}

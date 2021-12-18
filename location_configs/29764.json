@@ -1,0 +1,35 @@
+{
+  "id": 29764,
+  "models": {
+    "10": [
+      64040
+    ]
+  },
+  "name": "Burst pipe",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_167": 32,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

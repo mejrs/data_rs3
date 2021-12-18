@@ -1,0 +1,29 @@
+{
+  "id": 2834,
+  "models": {
+    "22": [
+      20329
+    ]
+  },
+  "name": "Broken Bridge",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

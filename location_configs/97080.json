@@ -1,0 +1,22 @@
+{
+  "id": 97080,
+  "models": {
+    "10": [
+      104034
+    ]
+  },
+  "name": "Pylon",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "unknown_78": {
+    "unknown_1": 1821,
+    "unknown_2": 8
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true,
+  "params": {
+    "5102": 1
+  }
+}

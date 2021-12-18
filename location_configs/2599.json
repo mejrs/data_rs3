@@ -1,0 +1,39 @@
+{
+  "id": 2599,
+  "models": {
+    "0": [
+      37555
+    ]
+  },
+  "name": "Blue door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8848,
+      41374
+    ],
+    [
+      8600,
+      41381
+    ]
+  ],
+  "unknown_170": 949,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

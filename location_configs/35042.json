@@ -1,0 +1,18 @@
+{
+  "id": 35042,
+  "models": {
+    "10": [
+      64782
+    ]
+  },
+  "name": "Cooking pots",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "312": 1943,
+    "1571": 1943
+  },
+  "occludes_2": false
+}

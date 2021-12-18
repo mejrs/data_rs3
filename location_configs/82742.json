@@ -1,0 +1,31 @@
+{
+  "id": 82742,
+  "models": {
+    "10": [
+      83852
+    ]
+  },
+  "name": "Excavated entrance",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "translate_x": 65526,
+  "translate_y": 65440,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

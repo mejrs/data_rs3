@@ -1,0 +1,31 @@
+{
+  "id": 21305,
+  "models": {
+    "10": [
+      49763,
+      49762
+    ]
+  },
+  "name": "Woodcutting stump",
+  "is_transparent": true,
+  "unknown_24": 12353,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Cut-wood",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

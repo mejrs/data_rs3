@@ -1,0 +1,15 @@
+{
+  "id": 88204,
+  "models": {
+    "10": [
+      91971
+    ]
+  },
+  "name": "Books",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

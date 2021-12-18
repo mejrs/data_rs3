@@ -1,0 +1,16 @@
+{
+  "id": 34594,
+  "models": {
+    "10": [
+      1459
+    ]
+  },
+  "name": "Hay bales",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_z": 100,
+  "translate_z": 16,
+  "occludes_2": false
+}

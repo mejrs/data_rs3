@@ -1,0 +1,33 @@
+{
+  "id": 48072,
+  "models": {
+    "10": [
+      51519
+    ]
+  },
+  "name": "Nomad",
+  "dim_x": 6,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_24": 12702,
+  "ambient": 10,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 11,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

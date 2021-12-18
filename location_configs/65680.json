@@ -1,0 +1,16 @@
+{
+  "id": 65680,
+  "models": {
+    "10": [
+      25278
+    ]
+  },
+  "name": "Ruins",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

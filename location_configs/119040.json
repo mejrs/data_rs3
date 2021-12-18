@@ -1,0 +1,25 @@
+{
+  "id": 119040,
+  "models": {
+    "10": [
+      120627
+    ]
+  },
+  "name": "Osseous",
+  "dim_x": 5,
+  "dim_y": 8,
+  "actions": [
+    "Restore",
+    "Check restoration",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      966
+    ]
+  ],
+  "occludes_2": false
+}

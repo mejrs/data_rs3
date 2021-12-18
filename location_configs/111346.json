@@ -1,0 +1,29 @@
+{
+  "id": 111346,
+  "models": {
+    "10": [
+      39896
+    ]
+  },
+  "name": "Tight bindings",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Dive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "scale_x": 80,
+  "scale_y": 50,
+  "scale_z": 80,
+  "occludes_2": false
+}

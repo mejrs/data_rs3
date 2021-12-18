@@ -1,0 +1,13 @@
+{
+  "id": 6605,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Water",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "model": false,
+  "occludes_2": false
+}

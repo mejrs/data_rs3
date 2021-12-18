@@ -1,0 +1,26 @@
+{
+  "id": 40956,
+  "models": {
+    "10": [
+      43930
+    ]
+  },
+  "name": "Stairs",
+  "unknown_24": 10703,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

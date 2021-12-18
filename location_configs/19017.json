@@ -1,0 +1,14 @@
+{
+  "id": 19017,
+  "models": {
+    "10": [
+      75006
+    ]
+  },
+  "name": "Sack of medium parcels",
+  "is_transparent": true,
+  "unknown_27": false,
+  "translate_y": 65506,
+  "occludes_2": false,
+  "unknown_186": 0
+}

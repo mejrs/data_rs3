@@ -1,0 +1,14 @@
+{
+  "id": 81828,
+  "models": {
+    "10": [
+      81611
+    ]
+  },
+  "name": "Saradominist symbol",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

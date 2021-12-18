@@ -1,0 +1,16 @@
+{
+  "id": 45541,
+  "models": {
+    "0": [
+      46723
+    ],
+    "3": [
+      46734
+    ]
+  },
+  "unknown_22": true,
+  "unknown_28": 20,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

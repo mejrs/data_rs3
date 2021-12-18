@@ -1,0 +1,15 @@
+{
+  "id": 43203,
+  "models": {
+    "10": [
+      33003
+    ]
+  },
+  "name": "Fish",
+  "dim_x": 4,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 11720,
+  "ambient": 25,
+  "occludes_2": false
+}

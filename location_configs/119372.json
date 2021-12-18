@@ -1,0 +1,28 @@
+{
+  "id": 119372,
+  "models": {
+    "10": [
+      34201,
+      34200
+    ]
+  },
+  "name": "Safe",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

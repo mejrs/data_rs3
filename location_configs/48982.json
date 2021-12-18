@@ -1,0 +1,16 @@
+{
+  "id": 48982,
+  "models": {
+    "10": [
+      37253
+    ]
+  },
+  "name": "Precious ore",
+  "dim_x": 2,
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 256,
+  "unknown_69": 11,
+  "occludes_2": false
+}

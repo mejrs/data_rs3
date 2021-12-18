@@ -1,0 +1,35 @@
+{
+  "id": 53400,
+  "models": {
+    "10": [
+      102754
+    ]
+  },
+  "name": "Skillcape stand",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Interact",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    null,
+    null,
+    null,
+    "Replace"
+  ],
+  "cursors": [
+    null,
+    168,
+    null,
+    null,
+    null,
+    null
+  ]
+}

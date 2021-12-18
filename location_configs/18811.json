@@ -1,0 +1,18 @@
+{
+  "id": 18811,
+  "models": {
+    "10": [
+      19020
+    ]
+  },
+  "name": "Magic wardrobe space",
+  "dim_y": 3,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

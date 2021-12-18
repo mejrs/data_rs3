@@ -1,0 +1,20 @@
+{
+  "id": 39399,
+  "models": {
+    "22": [
+      42816
+    ]
+  },
+  "name": "Line",
+  "unknown_21": true,
+  "actions": [
+    "Sweep-away",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 35,
+  "unknown_88": false,
+  "occludes_2": false
+}

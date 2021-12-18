@@ -1,0 +1,32 @@
+{
+  "id": 114412,
+  "models": {
+    "10": [
+      81795,
+      7767
+    ]
+  },
+  "name": "Diseased mango bush",
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      18604,
+      6575
+    ],
+    [
+      4259,
+      2212
+    ]
+  ],
+  "textures": {
+    "11714": 11717,
+    "11731": 11732
+  },
+  "occludes_2": false
+}

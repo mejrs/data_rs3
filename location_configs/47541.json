@@ -1,0 +1,19 @@
+{
+  "id": 47541,
+  "models": {
+    "10": [
+      50290
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1600": 1595
+  },
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

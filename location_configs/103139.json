@@ -1,0 +1,32 @@
+{
+  "id": 103139,
+  "models": {
+    "10": [
+      112550
+    ]
+  },
+  "name": "Verac",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 28773,
+  "actions": [
+    "Talk-To",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 256,
+  "translate_z": 65472,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 117845,
+  "models": {
+    "10": [
+      73978
+    ]
+  },
+  "name": "Bait box",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "occludes_2": false
+}

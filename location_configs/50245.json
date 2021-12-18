@@ -1,0 +1,46 @@
+{
+  "id": 50245,
+  "models": {
+    "10": [
+      55201
+    ]
+  },
+  "name": "Blue crescent door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 13586,
+  "ambient": 50,
+  "actions": [
+    "Unlock",
+    "Info",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      1575,
+      38557
+    ],
+    [
+      1610,
+      38590
+    ],
+    [
+      1658,
+      38641
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    172,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12100,
+  "models": {
+    "10": [
+      57551
+    ]
+  },
+  "name": "Lever",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  }
+}

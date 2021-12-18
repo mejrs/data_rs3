@@ -1,0 +1,15 @@
+{
+  "id": 98997,
+  "models": {
+    "10": [
+      106138
+    ]
+  },
+  "name": "Blood tank",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "translate_x": 65526,
+  "translate_z": 65526,
+  "occludes_2": false
+}

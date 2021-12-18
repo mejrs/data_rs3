@@ -1,0 +1,17 @@
+{
+  "id": 98395,
+  "models": {
+    "10": [
+      99965
+    ]
+  },
+  "name": "Seren Stone",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 64,
+  "textures": {
+    "5256": 6042
+  },
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 115418,
+  "models": {
+    "10": [
+      96041
+    ]
+  },
+  "name": "Screening station",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_27": false,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "occludes_2": false,
+  "mapfunction": 3377
+}

@@ -1,0 +1,37 @@
+{
+  "id": 117239,
+  "models": {
+    "10": [
+      92310
+    ]
+  },
+  "name": "Bandos's throne",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

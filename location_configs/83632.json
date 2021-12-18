@@ -1,0 +1,30 @@
+{
+  "id": 83632,
+  "models": {
+    "10": [
+      85051
+    ]
+  },
+  "name": "Viewing orb",
+  "unknown_24": 20115,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_81": 32,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

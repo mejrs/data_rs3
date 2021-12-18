@@ -1,0 +1,24 @@
+{
+  "id": 93485,
+  "models": {
+    "10": [
+      99776
+    ]
+  },
+  "name": "Statue of Cres",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Transform",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

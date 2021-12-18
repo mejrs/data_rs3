@@ -1,0 +1,28 @@
+{
+  "id": 62414,
+  "models": {
+    "10": [
+      30231
+    ]
+  },
+  "name": "Grave marker",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

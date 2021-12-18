@@ -1,0 +1,33 @@
+{
+  "id": 97055,
+  "models": {
+    "10": [
+      104349
+    ]
+  },
+  "name": "Stairs",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "Ascend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "scale_y": 142,
+  "unknown_69": 11,
+  "translate_x": 64,
+  "translate_z": 128,
+  "occludes_2": false,
+  "cursors": [
+    54,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

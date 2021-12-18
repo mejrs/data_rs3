@@ -1,0 +1,17 @@
+{
+  "id": 119035,
+  "models": {
+    "10": [
+      120633
+    ]
+  },
+  "name": "Inactive teleportation device",
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

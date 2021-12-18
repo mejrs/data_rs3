@@ -1,0 +1,28 @@
+{
+  "id": 18809,
+  "models": {
+    "10": [
+      19043
+    ]
+  },
+  "name": "Treasure chest",
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 18302,
+  "models": {
+    "10": [
+      62809
+    ]
+  },
+  "name": "<col=ffff00>Guard</col>",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 1365,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "blocks_ranged": true,
+  "unknown_75": 0,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

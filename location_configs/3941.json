@@ -1,0 +1,20 @@
+{
+  "id": 3941,
+  "models": {
+    "22": [
+      3910
+    ]
+  },
+  "name": "Tracks",
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Follow",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

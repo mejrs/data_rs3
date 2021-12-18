@@ -1,0 +1,18 @@
+{
+  "id": 104272,
+  "models": {
+    "10": [
+      113711
+    ]
+  },
+  "name": "Raft",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_21": true,
+  "unknown_24": 16626,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -1,0 +1,49 @@
+{
+  "id": 85826,
+  "models": {
+    "10": [
+      87149
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "colours": [
+    [
+      53,
+      5570
+    ],
+    [
+      58,
+      5570
+    ],
+    [
+      47,
+      5564
+    ],
+    [
+      40,
+      5557
+    ],
+    [
+      60,
+      5562
+    ],
+    [
+      49,
+      5551
+    ],
+    [
+      63,
+      5580
+    ]
+  ],
+  "mirror": true,
+  "model": false,
+  "scale_x": 77,
+  "scale_y": 77,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "occludes_2": false
+}

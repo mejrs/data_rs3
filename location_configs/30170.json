@@ -1,0 +1,14 @@
+{
+  "id": 30170,
+  "models": {
+    "10": [
+      33054
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 25,
+  "mapscene": 12,
+  "occludes_2": false
+}

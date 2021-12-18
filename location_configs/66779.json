@@ -1,0 +1,14 @@
+{
+  "id": 66779,
+  "models": {
+    "10": [
+      45330
+    ]
+  },
+  "name": "Statue of a Captain",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

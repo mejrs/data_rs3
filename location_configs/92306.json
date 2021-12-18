@@ -1,0 +1,15 @@
+{
+  "id": 92306,
+  "models": {
+    "0": [
+      98240
+    ]
+  },
+  "name": "Cooking banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 471
+  },
+  "mapscene": 22
+}

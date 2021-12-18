@@ -1,0 +1,60 @@
+{
+  "id": 74634,
+  "models": {
+    "10": [
+      72978,
+      72975,
+      72973
+    ]
+  },
+  "name": "Nyriki's portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 10882,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    "Enter",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      26434,
+      6978
+    ],
+    [
+      26438,
+      6982
+    ],
+    [
+      26442,
+      6986
+    ],
+    [
+      26446,
+      6990
+    ]
+  ],
+  "model": false,
+  "scale_y": 140,
+  "scale_z": 140,
+  "unknown_78": {
+    "unknown_1": 16808,
+    "unknown_2": 3
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 45,
+  "cursors": [
+    null,
+    57,
+    null,
+    null,
+    null,
+    null
+  ]
+}

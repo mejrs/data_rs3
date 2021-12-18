@@ -1,0 +1,22 @@
+{
+  "id": 110016,
+  "models": {
+    "10": [
+      2271
+    ]
+  },
+  "name": "Pile of hops",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Deposit hops",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

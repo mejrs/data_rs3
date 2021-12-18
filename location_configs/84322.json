@@ -1,0 +1,24 @@
+{
+  "id": 84322,
+  "models": {
+    "10": [
+      85873,
+      85862,
+      7767
+    ]
+  },
+  "name": "Potato cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 29104,
+  "models": {
+    "10": [
+      31897
+    ]
+  },
+  "name": "Hairdryer",
+  "dim_x": 2,
+  "dim_y": 6,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

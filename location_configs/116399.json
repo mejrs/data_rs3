@@ -1,0 +1,34 @@
+{
+  "id": 116399,
+  "models": {
+    "10": [
+      95761,
+      95942
+    ]
+  },
+  "name": "Material cache (samite silk)",
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "textures": {
+    "12338": 12343
+  },
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 2863
+  }
+}

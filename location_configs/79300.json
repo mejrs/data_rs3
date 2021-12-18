@@ -1,0 +1,15 @@
+{
+  "id": 79300,
+  "models": {
+    "10": [
+      80347,
+      80493
+    ]
+  },
+  "name": "Floating rock",
+  "unknown_19": 1,
+  "unknown_24": 16626,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

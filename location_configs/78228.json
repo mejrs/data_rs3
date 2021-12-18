@@ -1,0 +1,34 @@
+{
+  "id": 78228,
+  "models": {
+    "10": [
+      78102,
+      78113,
+      78278
+    ]
+  },
+  "name": "Chaos altar",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 10883,
+  "ambient": 25,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

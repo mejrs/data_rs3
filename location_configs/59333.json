@@ -1,0 +1,34 @@
+{
+  "id": 59333,
+  "models": {
+    "10": [
+      34171
+    ]
+  },
+  "dim_x": 8,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_28": 25,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      37910,
+      9238
+    ],
+    [
+      37920,
+      9248
+    ],
+    [
+      37906,
+      9234
+    ]
+  ],
+  "textures": {
+    "1943": 1948
+  },
+  "occludes_2": false
+}

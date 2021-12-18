@@ -1,0 +1,23 @@
+{
+  "id": 67685,
+  "models": {
+    "10": [
+      47805
+    ]
+  },
+  "name": "Wyrmwood",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 15785,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "unknown_75": 0,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      111
+    ]
+  }
+}

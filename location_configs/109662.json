@@ -1,0 +1,20 @@
+{
+  "id": 109662,
+  "models": {
+    "10": [
+      104628
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 0,
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "translate_y": 65532,
+  "translate_z": 65511,
+  "occludes_2": false
+}

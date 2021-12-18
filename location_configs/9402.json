@@ -1,0 +1,18 @@
+{
+  "id": 9402,
+  "models": {
+    "10": [
+      8226
+    ]
+  },
+  "name": "Unferth's patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

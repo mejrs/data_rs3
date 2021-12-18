@@ -1,0 +1,19 @@
+{
+  "id": 13520,
+  "models": {
+    "4": [
+      103260
+    ]
+  },
+  "name": "Darklight",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

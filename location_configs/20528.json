@@ -1,0 +1,13 @@
+{
+  "id": 20528,
+  "models": {
+    "10": [
+      21291
+    ]
+  },
+  "name": "Entrance",
+  "ambient": 20,
+  "contrast": 20,
+  "scale_y": 135,
+  "occludes_2": false
+}

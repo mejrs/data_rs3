@@ -1,0 +1,35 @@
+{
+  "id": 59861,
+  "models": {
+    "10": [
+      14838
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5278,
+      9238
+    ],
+    [
+      5286,
+      9246
+    ],
+    [
+      5294,
+      9254
+    ],
+    [
+      5302,
+      9262
+    ]
+  ],
+  "textures": {
+    "1989": 2023
+  },
+  "occludes_2": false
+}

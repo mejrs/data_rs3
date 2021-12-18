@@ -1,0 +1,21 @@
+{
+  "id": 64671,
+  "models": {
+    "10": [
+      17314
+    ]
+  },
+  "name": "Poorly stacked boxes",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Navigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

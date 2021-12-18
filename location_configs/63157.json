@@ -1,0 +1,24 @@
+{
+  "id": 63157,
+  "models": {
+    "10": [
+      4386
+    ]
+  },
+  "dim_x": 6,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 18,
+  "contrast": 15,
+  "textures": {
+    "2980": 9001
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 3
+}

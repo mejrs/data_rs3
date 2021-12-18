@@ -1,0 +1,24 @@
+{
+  "id": 39585,
+  "models": {
+    "10": [
+      42917
+    ]
+  },
+  "name": "Swarm (empty)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 10581,
+  "unknown_27": false,
+  "ambient": 20,
+  "colours": [
+    [
+      13433,
+      13324
+    ]
+  ],
+  "unknown_44": 4,
+  "occludes_2": false
+}

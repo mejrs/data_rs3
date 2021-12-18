@@ -1,0 +1,49 @@
+{
+  "id": 110361,
+  "models": {
+    "10": [
+      8232
+    ]
+  },
+  "name": "Barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      6430
+    ],
+    [
+      5665,
+      6554
+    ],
+    [
+      5660,
+      6550
+    ],
+    [
+      5784,
+      6674
+    ],
+    [
+      5904,
+      6798
+    ],
+    [
+      5524,
+      7050
+    ]
+  ],
+  "occludes_2": false,
+  "params": {
+    "6896": 48
+  }
+}

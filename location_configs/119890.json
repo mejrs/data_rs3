@@ -1,0 +1,29 @@
+{
+  "id": 119890,
+  "models": {
+    "10": [
+      122175
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 60,
+  "textures": {
+    "8013": 8014
+  },
+  "mirror": true,
+  "model": false,
+  "translate_y": 65535,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 20,
+    "unknown_2": 0,
+    "unknown_3": 42,
+    "unknown_4": 127
+  },
+  "unknown_186": 2,
+  "unknown_196": 4
+}

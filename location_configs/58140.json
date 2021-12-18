@@ -1,0 +1,29 @@
+{
+  "id": 58140,
+  "models": {
+    "10": [
+      20863
+    ]
+  },
+  "name": "Swamp tree",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

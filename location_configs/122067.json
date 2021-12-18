@@ -1,0 +1,33 @@
+{
+  "id": 122067,
+  "models": {
+    "10": [
+      121926
+    ]
+  },
+  "name": "Throne",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 384,
+  "scale_z": 384,
+  "occludes_2": false,
+  "unknown_188": true,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

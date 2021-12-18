@@ -1,0 +1,24 @@
+{
+  "id": 12273,
+  "models": {
+    "10": [
+      10230
+    ]
+  },
+  "name": "Jade root",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 2842,
+  "unknown_27": false,
+  "ambient": 70,
+  "contrast": 15,
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 99,
+  "scale_z": 110,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

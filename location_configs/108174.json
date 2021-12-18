@@ -1,0 +1,17 @@
+{
+  "id": 108174,
+  "models": {
+    "10": [
+      118344
+    ]
+  },
+  "name": "Scrolls",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_y": 320,
+  "occludes_2": false,
+  "unknown_196": 4
+}

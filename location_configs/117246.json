@@ -1,0 +1,36 @@
+{
+  "id": 117246,
+  "models": {
+    "10": [
+      93416
+    ]
+  },
+  "name": "Barricade",
+  "dim_x": 5,
+  "ambient": 20,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3255
+  }
+}

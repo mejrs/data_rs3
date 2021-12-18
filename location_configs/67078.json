@@ -1,0 +1,26 @@
+{
+  "id": 67078,
+  "models": {
+    "0": [
+      52233
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5272,
+      5518
+    ],
+    [
+      5268,
+      5512
+    ]
+  ],
+  "textures": {
+    "2108": 2075
+  }
+}

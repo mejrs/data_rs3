@@ -1,0 +1,25 @@
+{
+  "id": 38913,
+  "models": {
+    "10": [
+      13859
+    ]
+  },
+  "name": "Bones",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6241,
+      37
+    ]
+  ],
+  "occludes_2": false
+}

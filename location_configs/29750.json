@@ -1,0 +1,29 @@
+{
+  "id": 29750,
+  "models": {
+    "10": [
+      32567
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 10142,
+  "models": {
+    "10": [
+      14316
+    ]
+  },
+  "name": "Brewing control",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 2807,
+  "occludes_2": false
+}

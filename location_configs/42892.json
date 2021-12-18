@@ -1,0 +1,47 @@
+{
+  "id": 42892,
+  "models": {
+    "10": [
+      46326
+    ]
+  },
+  "name": "Cave",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      0,
+      37988
+    ],
+    [
+      34818,
+      37961
+    ],
+    [
+      34826,
+      37943
+    ],
+    [
+      34834,
+      37928
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

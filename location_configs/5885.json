@@ -1,0 +1,19 @@
+{
+  "id": 5885,
+  "models": {
+    "10": [
+      2172
+    ]
+  },
+  "name": "Roots",
+  "is_transparent": true,
+  "actions": [
+    "Dig-below",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 6,
+  "occludes_2": false
+}

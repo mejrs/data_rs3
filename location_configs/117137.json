@@ -1,0 +1,20 @@
+{
+  "id": 117137,
+  "models": {
+    "10": [
+      91520
+    ]
+  },
+  "name": "Bridge edge",
+  "dim_x": 5,
+  "unknown_27": false,
+  "actions": [
+    "Leap",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 10,
+  "occludes_2": false
+}

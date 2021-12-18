@@ -1,0 +1,22 @@
+{
+  "id": 65927,
+  "models": {
+    "10": [
+      62408
+    ]
+  },
+  "name": "Snowman Ranged",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Add-To",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

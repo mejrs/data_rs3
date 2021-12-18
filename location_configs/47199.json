@@ -1,0 +1,18 @@
+{
+  "id": 47199,
+  "models": {
+    "10": [
+      50744,
+      50761
+    ]
+  },
+  "name": "Smashed pedestal",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7536,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

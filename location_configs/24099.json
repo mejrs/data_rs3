@@ -1,0 +1,12 @@
+{
+  "id": 24099,
+  "models": {
+    "10": [
+      24741
+    ]
+  },
+  "name": "Bunkbed",
+  "dim_x": 2,
+  "ambient": 20,
+  "occludes_2": false
+}

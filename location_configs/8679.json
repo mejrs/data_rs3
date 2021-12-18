@@ -1,0 +1,37 @@
+{
+  "id": 8679,
+  "models": {
+    "10": [
+      8184,
+      7766
+    ]
+  },
+  "name": "Diseased watermelons",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      16291,
+      10147
+    ],
+    [
+      17864,
+      10027
+    ],
+    [
+      10155,
+      13221
+    ],
+    [
+      7853,
+      13217
+    ]
+  ],
+  "occludes_2": false
+}

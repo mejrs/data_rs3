@@ -1,0 +1,15 @@
+{
+  "id": 29096,
+  "models": {
+    "10": [
+      31990
+    ]
+  },
+  "name": "Fire pit",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 60,
+  "contrast": 80,
+  "occludes_2": false
+}

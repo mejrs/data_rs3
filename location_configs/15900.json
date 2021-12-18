@@ -1,0 +1,12 @@
+{
+  "id": 15900,
+  "models": {
+    "10": [
+      15755
+    ]
+  },
+  "name": "Copper Ladder",
+  "mirror": true,
+  "translate_x": 30,
+  "occludes_2": false
+}

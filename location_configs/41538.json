@@ -1,0 +1,21 @@
+{
+  "id": 41538,
+  "models": {
+    "10": [
+      44872,
+      7767
+    ]
+  },
+  "name": "Lily",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

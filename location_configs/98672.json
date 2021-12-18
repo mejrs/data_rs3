@@ -1,0 +1,19 @@
+{
+  "id": 98672,
+  "models": {
+    "10": [
+      106250
+    ]
+  },
+  "name": "Tithing door",
+  "dim_x": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "scale_x": 108,
+  "scale_y": 127,
+  "scale_z": 108,
+  "translate_z": 65446,
+  "occludes_2": false,
+  "unknown_186": 0
+}

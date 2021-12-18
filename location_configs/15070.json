@@ -1,0 +1,14 @@
+{
+  "id": 15070,
+  "models": {
+    "10": [
+      8220,
+      8222,
+      7766
+    ]
+  },
+  "name": "Dry patch",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

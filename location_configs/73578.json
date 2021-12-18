@@ -1,0 +1,68 @@
+{
+  "id": 73578,
+  "models": {
+    "10": [
+      71419
+    ]
+  },
+  "name": "Barrel of junk",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5784,
+      4381
+    ],
+    [
+      5660,
+      4372
+    ],
+    [
+      5665,
+      4377
+    ],
+    [
+      5541,
+      4368
+    ],
+    [
+      5655,
+      4367
+    ],
+    [
+      5645,
+      4357
+    ],
+    [
+      5281,
+      7179
+    ],
+    [
+      5161,
+      35881
+    ]
+  ],
+  "textures": {
+    "325": 2636,
+    "1566": 1943,
+    "2081": 2082
+  },
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 27282,
+  "models": {
+    "10": [
+      29190
+    ]
+  },
+  "name": "Doorway",
+  "unknown_17": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

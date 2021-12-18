@@ -1,0 +1,20 @@
+{
+  "id": 52992,
+  "models": {
+    "10": [
+      20109
+    ]
+  },
+  "name": "Bog",
+  "unknown_24": 4249,
+  "unknown_27": false,
+  "actions": [
+    "Stand-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

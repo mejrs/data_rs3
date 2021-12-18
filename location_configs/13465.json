@@ -1,0 +1,18 @@
+{
+  "id": 13465,
+  "models": {
+    "10": [
+      13168
+    ]
+  },
+  "name": "Hedge",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2889,
+  "models": {
+    "10": [
+      1701
+    ]
+  },
+  "name": "Jungle Tree",
+  "unknown_17": false,
+  "ambient": 40,
+  "actions": [
+    "Chop-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      16916
+    ],
+    [
+      49,
+      13840
+    ],
+    [
+      41,
+      4626
+    ]
+  ],
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

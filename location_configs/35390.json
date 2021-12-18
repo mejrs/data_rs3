@@ -1,0 +1,23 @@
+{
+  "id": 35390,
+  "models": {
+    "10": [
+      64438
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 4,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Lift",
+    "Squeeze past",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5717,
+  "models": {
+    "22": [
+      60441
+    ]
+  },
+  "name": "Bear rug",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

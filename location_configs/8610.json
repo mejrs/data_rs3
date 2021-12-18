@@ -1,0 +1,33 @@
+{
+  "id": 8610,
+  "models": {
+    "10": [
+      8166,
+      7766
+    ]
+  },
+  "name": "Diseased strawberry plant",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      11224,
+      8633
+    ],
+    [
+      43100,
+      8753
+    ],
+    [
+      20005,
+      9112
+    ]
+  ],
+  "occludes_2": false
+}

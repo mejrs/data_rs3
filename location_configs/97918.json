@@ -1,0 +1,22 @@
+{
+  "id": 97918,
+  "models": {
+    "10": [
+      105003
+    ]
+  },
+  "name": "Cage",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false
+}

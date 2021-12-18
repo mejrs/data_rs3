@@ -1,0 +1,29 @@
+{
+  "id": 2032,
+  "models": {
+    "0": [
+      15236
+    ]
+  },
+  "name": "Bedroom door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 158,
+  "unknown_170": 1182,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

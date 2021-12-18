@@ -1,0 +1,17 @@
+{
+  "id": 92393,
+  "models": {
+    "10": [
+      98214
+    ]
+  },
+  "name": "Hefin voicestone",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 24597,
+  "ambient": 64,
+  "translate_x": 65433,
+  "translate_y": 308,
+  "translate_z": 222,
+  "occludes_2": false
+}

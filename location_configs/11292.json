@@ -1,0 +1,21 @@
+{
+  "id": 11292,
+  "models": {
+    "10": [
+      1839
+    ]
+  },
+  "name": "Hoisted sail",
+  "dim_x": 8,
+  "colours": [
+    [
+      5559,
+      5904
+    ],
+    [
+      5673,
+      5904
+    ]
+  ],
+  "occludes_2": false
+}

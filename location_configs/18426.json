@@ -1,0 +1,13 @@
+{
+  "id": 18426,
+  "models": {
+    "10": [
+      18350
+    ]
+  },
+  "name": "Torture rack",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 6187,
+  "models": {
+    "10": [
+      5920
+    ]
+  },
+  "name": "Armour",
+  "unknown_19": 1,
+  "colours": [
+    [
+      43051,
+      28
+    ],
+    [
+      784,
+      28
+    ]
+  ],
+  "scale_y": 120,
+  "occludes_2": false
+}

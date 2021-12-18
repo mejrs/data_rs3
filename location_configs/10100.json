@@ -1,0 +1,17 @@
+{
+  "id": 10100,
+  "models": {
+    "10": [
+      7794
+    ]
+  },
+  "name": "Blindweed Patch",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

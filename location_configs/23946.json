@@ -1,0 +1,13 @@
+{
+  "id": 23946,
+  "models": {
+    "10": [
+      23882
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 10,
+  "occludes_2": false
+}

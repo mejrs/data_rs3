@@ -1,0 +1,21 @@
+{
+  "id": 88715,
+  "models": {
+    "10": [
+      92528
+    ]
+  },
+  "name": "War map",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Check",
+    null,
+    "Take copy",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 1330
+}

@@ -1,0 +1,17 @@
+{
+  "id": 64685,
+  "models": {
+    "4": [
+      17369
+    ]
+  },
+  "name": "Call button",
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

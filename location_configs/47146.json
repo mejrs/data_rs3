@@ -1,0 +1,32 @@
+{
+  "id": 47146,
+  "models": {
+    "10": [
+      50650
+    ]
+  },
+  "name": "Pipe",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Remove-globe",
+    "Whack",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      6286
+    ]
+  ],
+  "textures": {
+    "1892": 1890
+  },
+  "occludes_2": false
+}

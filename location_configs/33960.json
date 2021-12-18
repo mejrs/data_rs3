@@ -1,0 +1,14 @@
+{
+  "id": 33960,
+  "models": {
+    "10": [
+      35299
+    ]
+  },
+  "name": "Lander hatch",
+  "dim_x": 2,
+  "ambient": 20,
+  "mirror": true,
+  "unknown_94": true,
+  "occludes_2": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 18427,
+  "models": {
+    "10": [
+      18363
+    ]
+  },
+  "name": "Exit",
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7508,
+      8384
+    ],
+    [
+      7500,
+      8367
+    ],
+    [
+      7494,
+      8487
+    ],
+    [
+      7490,
+      8478
+    ],
+    [
+      7483,
+      8598
+    ]
+  ],
+  "unknown_44": 61,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

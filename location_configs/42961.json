@@ -1,0 +1,12 @@
+{
+  "id": 42961,
+  "models": {
+    "10": [
+      46563
+    ]
+  },
+  "name": "Pot of wheat",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

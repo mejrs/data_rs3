@@ -1,0 +1,22 @@
+{
+  "id": 104166,
+  "models": {
+    "10": [
+      113433
+    ]
+  },
+  "name": "House",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "ambient": 0,
+  "textures": {
+    "3183": 7394,
+    "3629": 7396,
+    "3653": 7395
+  },
+  "model": false,
+  "translate_y": 65436,
+  "occludes_2": false,
+  "unknown_186": 0
+}

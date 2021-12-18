@@ -1,0 +1,15 @@
+{
+  "id": 104746,
+  "models": {
+    "10": [
+      113652
+    ]
+  },
+  "name": "Drowned moai",
+  "is_transparent": true,
+  "ambient": 42,
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "unknown_196": 3
+}

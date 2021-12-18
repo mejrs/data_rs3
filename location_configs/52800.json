@@ -1,0 +1,25 @@
+{
+  "id": 52800,
+  "models": {
+    "10": [
+      13191
+    ]
+  },
+  "name": "Ornamental fountain",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3647,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_78": {
+    "unknown_1": 4062,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 150
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2849,
+  "models": {
+    "10": [
+      37307
+    ]
+  },
+  "name": "Raft",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

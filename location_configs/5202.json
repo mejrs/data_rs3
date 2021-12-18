@@ -1,0 +1,13 @@
+{
+  "id": 5202,
+  "models": {
+    "10": [
+      4476
+    ]
+  },
+  "name": "Pile of bricks",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "occludes_2": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": 37010,
+  "models": {
+    "10": [
+      12151
+    ]
+  },
+  "name": "Open chest",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6682,
+      5392
+    ],
+    [
+      6443,
+      5404
+    ],
+    [
+      82,
+      24
+    ],
+    [
+      66,
+      45
+    ],
+    [
+      49,
+      24
+    ]
+  ],
+  "textures": {
+    "2073": 3171,
+    "2093": 3179
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

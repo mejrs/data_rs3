@@ -1,0 +1,17 @@
+{
+  "id": 91817,
+  "models": {
+    "10": [
+      97435
+    ]
+  },
+  "name": "Pillar",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 24229,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6587,
+  "models": {
+    "10": [
+      821
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      6689,
+      7481
+    ]
+  ],
+  "textures": {
+    "1486": 2355,
+    "1490": 2347
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false
+}

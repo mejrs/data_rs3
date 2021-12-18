@@ -1,0 +1,18 @@
+{
+  "id": 31377,
+  "models": {
+    "10": [
+      2171
+    ]
+  },
+  "name": "Pile of skulls",
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      10361,
+      13343
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 3780,
+  "models": {
+    "0": [
+      37715
+    ]
+  },
+  "name": "Prison Door",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25
+}

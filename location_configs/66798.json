@@ -1,0 +1,13 @@
+{
+  "id": 66798,
+  "models": {
+    "4": [
+      52873
+    ]
+  },
+  "name": "Hanging dye",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

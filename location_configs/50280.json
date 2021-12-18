@@ -1,0 +1,25 @@
+{
+  "id": 50280,
+  "models": {
+    "10": [
+      55206
+    ]
+  },
+  "name": "Runed door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13552,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Imbue-energy",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

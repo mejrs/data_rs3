@@ -1,0 +1,12 @@
+{
+  "id": 57900,
+  "models": {
+    "10": [
+      5563
+    ]
+  },
+  "name": "Cart",
+  "dim_x": 2,
+  "dim_y": 3,
+  "occludes_2": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 38713,
+  "models": {
+    "0": [
+      42209
+    ],
+    "10": [
+      42189
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 5,
+  "contrast": 25,
+  "colours": [
+    [
+      7050,
+      6150
+    ],
+    [
+      6550,
+      6300
+    ],
+    [
+      6554,
+      6290
+    ],
+    [
+      6674,
+      6548
+    ]
+  ],
+  "mapscene": 22,
+  "unknown_170": 1093
+}

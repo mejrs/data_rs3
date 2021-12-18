@@ -1,0 +1,34 @@
+{
+  "id": 24300,
+  "models": {
+    "10": [
+      2165
+    ]
+  },
+  "name": "Mossy rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14228,
+      978
+    ]
+  ],
+  "mapscene": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

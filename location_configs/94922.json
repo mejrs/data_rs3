@@ -1,0 +1,18 @@
+{
+  "id": 94922,
+  "models": {
+    "10": [
+      101060
+    ]
+  },
+  "name": "Fire",
+  "ambient": 15,
+  "contrast": 25,
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

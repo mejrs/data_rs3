@@ -1,0 +1,28 @@
+{
+  "id": 809,
+  "models": {
+    "10": [
+      63773,
+      63767
+    ]
+  },
+  "name": "Emitter (air)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take-rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

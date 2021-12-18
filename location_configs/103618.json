@@ -1,0 +1,26 @@
+{
+  "id": 103618,
+  "models": {
+    "10": [
+      113290,
+      113192
+    ]
+  },
+  "name": "Powder table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 5,
+  "occludes_2": false
+}

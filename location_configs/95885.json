@@ -1,0 +1,30 @@
+{
+  "id": 95885,
+  "models": {
+    "10": [
+      103158
+    ]
+  },
+  "name": "Vault outer door",
+  "dim_y": 6,
+  "ambient": 25,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "3673": 5560,
+    "3674": 5556,
+    "3675": 5557,
+    "3676": 5558,
+    "3677": 5559,
+    "3678": 5563,
+    "3679": 5562,
+    "3680": 5561
+  },
+  "occludes_2": false
+}

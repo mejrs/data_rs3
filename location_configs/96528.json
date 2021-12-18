@@ -1,0 +1,41 @@
+{
+  "id": 96528,
+  "models": {
+    "10": [
+      103305,
+      103306
+    ]
+  },
+  "name": "Combining machine",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 26229,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36840,
+      980
+    ],
+    [
+      17384,
+      950
+    ],
+    [
+      55232,
+      11200
+    ],
+    [
+      6798,
+      11220
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

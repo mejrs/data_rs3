@@ -1,0 +1,31 @@
+{
+  "id": 38378,
+  "models": {
+    "10": [
+      41500
+    ]
+  },
+  "name": "Barrier",
+  "is_transparent": true,
+  "unknown_24": 10183,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pass-through",
+    "Destroy",
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

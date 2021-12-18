@@ -1,0 +1,19 @@
+{
+  "id": 19664,
+  "models": {
+    "10": [
+      19930
+    ]
+  },
+  "name": "Young tree",
+  "colours": [
+    [
+      6682,
+      5388
+    ]
+  ],
+  "unknown_69": 14,
+  "unknown_75": 0,
+  "mapscene": 68,
+  "occludes_2": false
+}

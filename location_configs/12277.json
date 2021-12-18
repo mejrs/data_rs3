@@ -1,0 +1,39 @@
+{
+  "id": 12277,
+  "models": {
+    "10": [
+      10226
+    ]
+  },
+  "name": "Jade root (cut)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 3867,
+  "unknown_27": false,
+  "ambient": -15,
+  "contrast": 15,
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 99,
+  "scale_z": 110,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "member_actions": [
+    "Collect-root",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

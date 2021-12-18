@@ -1,0 +1,30 @@
+{
+  "id": 83490,
+  "models": {
+    "0": [
+      85108
+    ]
+  },
+  "name": "Broken door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

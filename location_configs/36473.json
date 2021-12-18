@@ -1,0 +1,23 @@
+{
+  "id": 36473,
+  "models": {
+    "0": [
+      2214
+    ],
+    "2": [
+      4873
+    ],
+    "3": [
+      71602
+    ],
+    "9": [
+      2215
+    ]
+  },
+  "name": "Toll bar",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "mapscene": 22,
+  "occludes_2": false
+}

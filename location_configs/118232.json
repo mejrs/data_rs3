@@ -1,0 +1,24 @@
+{
+  "id": 118232,
+  "models": {
+    "10": [
+      67358
+    ]
+  },
+  "name": "Cauldron",
+  "unknown_19": 1,
+  "actions": [
+    "Hand in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false
+}

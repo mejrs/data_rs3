@@ -1,0 +1,32 @@
+{
+  "id": 33185,
+  "models": {
+    "0": [
+      37756
+    ]
+  },
+  "name": "Crevasse",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "textures": {
+    "1891": 1155
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 96234,
+  "models": {
+    "10": [
+      103110
+    ]
+  },
+  "name": "Giblet Joe",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 26189,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 84178,
+  "models": {
+    "10": [
+      85674,
+      85672
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      26735,
+      47672
+    ]
+  ],
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_188": true
+}

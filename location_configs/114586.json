@@ -1,0 +1,22 @@
+{
+  "id": 114586,
+  "models": {
+    "10": [
+      78404
+    ]
+  },
+  "name": "Varanusaur egg",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "textures": {
+    "11475": 11484
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 7560,
+  "models": {
+    "10": [
+      7801,
+      7767
+    ]
+  },
+  "name": "Belladonna patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

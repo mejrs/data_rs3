@@ -1,0 +1,24 @@
+{
+  "id": 100084,
+  "models": {
+    "10": [
+      107460
+    ]
+  },
+  "name": "Soul meeting point",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 27706,
+  "ambient": 75,
+  "actions": [
+    "Guide",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 75,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 50
+}

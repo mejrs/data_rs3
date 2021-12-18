@@ -1,0 +1,28 @@
+{
+  "id": 6547,
+  "models": {
+    "10": [
+      6252
+    ]
+  },
+  "name": "Pyramid entrance",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

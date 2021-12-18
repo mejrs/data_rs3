@@ -1,0 +1,24 @@
+{
+  "id": 42801,
+  "models": {
+    "10": [
+      46216
+    ]
+  },
+  "name": "Ice mound",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Block-stream",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 11,
+  "unknown_81": 35,
+  "occludes_2": false
+}

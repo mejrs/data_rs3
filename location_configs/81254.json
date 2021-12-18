@@ -1,0 +1,16 @@
+{
+  "id": 81254,
+  "models": {
+    "10": [
+      81884,
+      81840
+    ]
+  },
+  "name": "Bar",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 106611,
+  "models": {
+    "10": [
+      117112
+    ]
+  },
+  "name": "Melancholic bead",
+  "unknown_17": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      0
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

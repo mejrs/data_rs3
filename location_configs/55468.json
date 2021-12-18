@@ -1,0 +1,21 @@
+{
+  "id": 55468,
+  "models": {
+    "10": [
+      61753
+    ]
+  },
+  "name": "Jewellery box",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

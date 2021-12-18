@@ -1,0 +1,21 @@
+{
+  "id": 37659,
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1493": 2321,
+    "1527": 2348
+  },
+  "morphs_1": {
+    "varbit": 15110,
+    "ids": [
+      37656,
+      37658
+    ]
+  },
+  "unknown_81": 64
+}

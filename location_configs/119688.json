@@ -1,0 +1,30 @@
+{
+  "id": 119688,
+  "models": {
+    "10": [
+      106495
+    ]
+  },
+  "name": "Matriarch lair",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Climb down",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "model": false,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

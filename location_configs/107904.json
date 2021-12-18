@@ -1,0 +1,13 @@
+{
+  "id": 107904,
+  "models": {
+    "10": [
+      118227
+    ]
+  },
+  "name": "Merchant's chest",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

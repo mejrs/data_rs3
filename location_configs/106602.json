@@ -1,0 +1,22 @@
+{
+  "id": 106602,
+  "models": {
+    "10": [
+      105329
+    ]
+  },
+  "name": "Portable brazier",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 26614,
+  "actions": [
+    "Add bones",
+    "Add logs",
+    "Configure",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

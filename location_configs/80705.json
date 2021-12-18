@@ -1,0 +1,36 @@
+{
+  "id": 80705,
+  "models": {
+    "10": [
+      65867
+    ]
+  },
+  "name": "Statue of TzHaar-Ket-Teg",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      360
+    ]
+  },
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

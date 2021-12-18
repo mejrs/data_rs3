@@ -1,0 +1,22 @@
+{
+  "id": 80386,
+  "models": {
+    "10": [
+      80862,
+      80855,
+      80832
+    ]
+  },
+  "name": "Red chair",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

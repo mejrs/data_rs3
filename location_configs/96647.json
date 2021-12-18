@@ -1,0 +1,23 @@
+{
+  "id": 96647,
+  "models": {
+    "10": [
+      103586
+    ]
+  },
+  "name": "Centrepiece hotspot",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "occludes_2": false
+}

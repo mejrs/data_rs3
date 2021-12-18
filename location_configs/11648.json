@@ -1,0 +1,15 @@
+{
+  "id": 11648,
+  "models": {
+    "10": [
+      11694
+    ]
+  },
+  "name": "City gate",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

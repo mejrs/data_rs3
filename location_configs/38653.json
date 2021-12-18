@@ -1,0 +1,22 @@
+{
+  "id": 38653,
+  "models": {
+    "10": [
+      41863
+    ]
+  },
+  "name": "Ork (level 50 approx.)",
+  "unknown_21": true,
+  "unknown_24": 10326,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Levitate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 114566,
+  "models": {
+    "10": [
+      82248,
+      7767
+    ]
+  },
+  "name": "Diseased stinkshroom",
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

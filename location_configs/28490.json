@@ -1,0 +1,29 @@
+{
+  "id": 28490,
+  "models": {
+    "10": [
+      30965
+    ]
+  },
+  "name": "Rope",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

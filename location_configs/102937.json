@@ -1,0 +1,26 @@
+{
+  "id": 102937,
+  "models": {
+    "10": [
+      112257
+    ]
+  },
+  "name": "Staircase",
+  "dim_y": 3,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

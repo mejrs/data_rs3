@@ -1,0 +1,18 @@
+{
+  "id": 66437,
+  "models": {
+    "10": [
+      1226
+    ]
+  },
+  "name": "Resource chest",
+  "is_transparent": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

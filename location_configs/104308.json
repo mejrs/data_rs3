@@ -1,0 +1,15 @@
+{
+  "id": 104308,
+  "models": {
+    "10": [
+      113840
+    ]
+  },
+  "name": "Rosie's supplies (empty)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 32,
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false
+}

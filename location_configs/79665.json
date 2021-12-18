@@ -1,0 +1,16 @@
+{
+  "id": 79665,
+  "models": {
+    "4": [
+      75603
+    ]
+  },
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2507": 2541
+  },
+  "translate_y": 65496,
+  "occludes_2": false
+}

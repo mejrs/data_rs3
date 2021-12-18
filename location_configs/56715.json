@@ -1,0 +1,22 @@
+{
+  "id": 56715,
+  "models": {
+    "10": [
+      14409
+    ]
+  },
+  "name": "Hole",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

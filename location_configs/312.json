@@ -1,0 +1,27 @@
+{
+  "id": 312,
+  "models": {
+    "10": [
+      8216
+    ]
+  },
+  "name": "Potato",
+  "unknown_17": false,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

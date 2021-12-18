@@ -1,0 +1,36 @@
+{
+  "id": 1318,
+  "models": {
+    "10": [
+      1614
+    ]
+  },
+  "name": "Evergreen",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      41077
+    ]
+  ],
+  "unknown_81": 20,
+  "mapscene": 1,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 114921,
+  "models": {
+    "10": [
+      7905
+    ]
+  },
+  "name": "Cave nightshade",
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

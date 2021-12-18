@@ -1,0 +1,36 @@
+{
+  "id": 113000,
+  "models": {
+    "10": [
+      105733,
+      73986
+    ]
+  },
+  "name": "Solid crystal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 32536,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 25,
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

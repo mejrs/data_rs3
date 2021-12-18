@@ -1,0 +1,21 @@
+{
+  "id": 94223,
+  "models": {
+    "10": [
+      100051
+    ]
+  },
+  "name": "Amlodd",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "North:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

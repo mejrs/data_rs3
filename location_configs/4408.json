@@ -1,0 +1,61 @@
+{
+  "id": 4408,
+  "models": {
+    "10": [
+      38323
+    ]
+  },
+  "name": "Guthix portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 9653,
+  "ambient": 32,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "colours": [
+    [
+      39888,
+      24528
+    ],
+    [
+      39905,
+      25569
+    ],
+    [
+      39889,
+      25553
+    ],
+    [
+      39918,
+      39039
+    ],
+    [
+      39898,
+      25562
+    ]
+  ],
+  "scale_x": 230,
+  "scale_y": 230,
+  "scale_z": 230,
+  "unknown_78": {
+    "unknown_1": 26234,
+    "unknown_2": 8
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

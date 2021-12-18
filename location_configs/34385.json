@@ -1,0 +1,30 @@
+{
+  "id": 34385,
+  "models": {
+    "10": [
+      48197
+    ]
+  },
+  "name": "Gem stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 9659,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      7448
+    ],
+    [
+      6684,
+      7456
+    ]
+  ],
+  "occludes_2": false
+}

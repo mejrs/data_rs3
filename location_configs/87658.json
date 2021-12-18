@@ -1,0 +1,21 @@
+{
+  "id": 87658,
+  "models": {
+    "10": [
+      90857
+    ]
+  },
+  "dim_x": 10,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false
+}

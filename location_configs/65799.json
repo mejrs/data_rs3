@@ -1,0 +1,30 @@
+{
+  "id": 65799,
+  "models": {
+    "10": [
+      26790
+    ]
+  },
+  "dim_y": 3,
+  "unknown_19": 0,
+  "ambient": 111,
+  "contrast": 25,
+  "colours": [
+    [
+      20398,
+      39854
+    ],
+    [
+      20423,
+      39879
+    ],
+    [
+      20448,
+      39904
+    ]
+  ],
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

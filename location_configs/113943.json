@@ -1,0 +1,22 @@
+{
+  "id": 113943,
+  "models": {
+    "10": [
+      62175
+    ]
+  },
+  "name": "Green vine blossom",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Add potion",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

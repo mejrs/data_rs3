@@ -1,0 +1,31 @@
+{
+  "id": 105735,
+  "models": {
+    "10": [
+      114663
+    ]
+  },
+  "name": "Mahjarrat deathstone",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "7878": 8124
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      386
+    ]
+  },
+  "unknown_186": 0
+}

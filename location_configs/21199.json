@@ -1,0 +1,13 @@
+{
+  "id": 21199,
+  "models": {
+    "10": [
+      21653
+    ]
+  },
+  "name": "Snow",
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 2019,
+  "models": {
+    "10": [
+      51106
+    ]
+  },
+  "name": "Counter",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 5,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    5,
+    null,
+    null,
+    null
+  ]
+}

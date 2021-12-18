@@ -1,0 +1,17 @@
+{
+  "id": 44185,
+  "models": {
+    "10": [
+      88201
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 10,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65466,
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false
+}

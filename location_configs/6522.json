@@ -1,0 +1,15 @@
+{
+  "id": 6522,
+  "models": {
+    "10": [
+      1580
+    ]
+  },
+  "name": "Cactus",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 45,
+  "occludes_2": false
+}

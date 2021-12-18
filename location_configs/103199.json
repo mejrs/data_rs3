@@ -1,0 +1,30 @@
+{
+  "id": 103199,
+  "models": {
+    "10": [
+      107014
+    ]
+  },
+  "name": "Wall",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 32,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

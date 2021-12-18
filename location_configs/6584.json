@@ -1,0 +1,25 @@
+{
+  "id": 6584,
+  "models": {
+    "10": [
+      818
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      6689,
+      7481
+    ]
+  ],
+  "textures": {
+    "1486": 2355,
+    "1490": 2347
+  },
+  "mapscene": 11,
+  "occludes_2": false
+}

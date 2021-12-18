@@ -1,0 +1,16 @@
+{
+  "id": 53695,
+  "models": {
+    "10": [
+      58626
+    ]
+  },
+  "name": "Boxes",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14354,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

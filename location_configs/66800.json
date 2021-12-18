@@ -1,0 +1,14 @@
+{
+  "id": 66800,
+  "models": {
+    "10": [
+      44705
+    ]
+  },
+  "name": "Warehouse shelves",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

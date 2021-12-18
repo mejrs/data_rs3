@@ -1,0 +1,32 @@
+{
+  "id": 104654,
+  "models": {
+    "10": [
+      114907
+    ]
+  },
+  "name": "Mushroom cluster",
+  "is_transparent": true,
+  "actions": [
+    "Forage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    171,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6038": 11765,
+    "6039": 38723,
+    "5851": 4
+  }
+}

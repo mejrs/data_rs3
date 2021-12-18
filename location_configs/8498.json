@@ -1,0 +1,19 @@
+{
+  "id": 8498,
+  "models": {
+    "10": [
+      101383,
+      7768
+    ]
+  },
+  "name": "Dead Willow",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

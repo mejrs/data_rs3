@@ -1,0 +1,51 @@
+{
+  "id": 24933,
+  "models": {
+    "0": [
+      9476
+    ],
+    "9": [
+      9477
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      6945,
+      7566
+    ],
+    [
+      6940,
+      7690
+    ],
+    [
+      7064,
+      7442
+    ],
+    [
+      6038,
+      7566
+    ]
+  ],
+  "translate_y": 65472,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

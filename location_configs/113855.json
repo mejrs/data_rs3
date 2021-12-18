@@ -1,0 +1,29 @@
+{
+  "id": 113855,
+  "models": {
+    "10": [
+      34857,
+      34861,
+      34858
+    ]
+  },
+  "name": "Spicati apoterrasaur",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 32722,
+  "actions": [
+    "Skin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11218": 11216,
+    "11224": 11222
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

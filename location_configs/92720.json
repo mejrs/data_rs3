@@ -1,0 +1,19 @@
+{
+  "id": 92720,
+  "models": {
+    "10": [
+      7793
+    ]
+  },
+  "name": "Crystal tree patch",
+  "ambient": 25,
+  "actions": [
+    "Plant",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_186": 0
+}

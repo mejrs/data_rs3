@@ -1,0 +1,11 @@
+{
+  "id": 9329,
+  "models": {
+    "10": [
+      38339
+    ]
+  },
+  "name": "An empty rack",
+  "dim_x": 3,
+  "occludes_2": false
+}

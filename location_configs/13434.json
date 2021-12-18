@@ -1,0 +1,17 @@
+{
+  "id": 13434,
+  "models": {
+    "10": [
+      12941
+    ]
+  },
+  "name": "Dock Leaf",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

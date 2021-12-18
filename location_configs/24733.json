@@ -1,0 +1,34 @@
+{
+  "id": 24733,
+  "models": {
+    "10": [
+      25957
+    ]
+  },
+  "name": "Beanstalk",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    "Chop",
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  },
+  "cursors": [
+    181,
+    null,
+    59,
+    null,
+    null,
+    null
+  ]
+}

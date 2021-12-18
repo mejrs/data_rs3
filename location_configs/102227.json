@@ -1,0 +1,22 @@
+{
+  "id": 102227,
+  "models": {
+    "10": [
+      111473,
+      111474
+    ]
+  },
+  "name": "Polmafi Ferdygris",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pay respects",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

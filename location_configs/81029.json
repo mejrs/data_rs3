@@ -1,0 +1,15 @@
+{
+  "id": 81029,
+  "models": {
+    "10": [
+      82218
+    ]
+  },
+  "name": "Cannon c",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

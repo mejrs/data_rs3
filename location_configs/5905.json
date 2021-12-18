@@ -1,0 +1,17 @@
+{
+  "id": 5905,
+  "models": {
+    "10": [
+      64664
+    ]
+  },
+  "name": "Bamboo desk",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_69": 14,
+  "unknown_89": false,
+  "occludes_2": false
+}

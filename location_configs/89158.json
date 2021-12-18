@@ -1,0 +1,25 @@
+{
+  "id": 89158,
+  "models": {
+    "10": [
+      93369
+    ]
+  },
+  "name": "Plant roots",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Crawl down",
+    "Join instance",
+    "Rejoin last instance",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 5404,
+  "models": {
+    "10": [
+      1868
+    ]
+  },
+  "name": "Mast",
+  "colours": [
+    [
+      5559,
+      12698
+    ],
+    [
+      5673,
+      12818
+    ],
+    [
+      53,
+      17583
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

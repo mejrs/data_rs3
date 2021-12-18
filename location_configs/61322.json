@@ -1,0 +1,22 @@
+{
+  "id": 61322,
+  "models": {
+    "10": [
+      45722,
+      45721
+    ]
+  },
+  "name": "Blisterwood Tree",
+  "unknown_19": 1,
+  "unknown_24": 9695,
+  "ambient": 25,
+  "actions": [
+    "Check health",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

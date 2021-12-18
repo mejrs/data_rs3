@@ -1,0 +1,18 @@
+{
+  "id": 82732,
+  "models": {
+    "10": [
+      83748
+    ]
+  },
+  "name": "Portcullis",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 19707,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "blocks_ranged": true,
+  "unknown_89": false,
+  "occludes_2": false
+}

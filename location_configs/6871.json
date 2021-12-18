@@ -1,0 +1,31 @@
+{
+  "id": 6871,
+  "models": {
+    "0": [
+      37681
+    ]
+  },
+  "name": "Ogre stone door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "unknown_170": 861,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 10558,
+  "models": {
+    "22": [
+      1205
+    ]
+  },
+  "name": "Trapdoor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6032,
+      8722
+    ]
+  ],
+  "unknown_44": 4,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

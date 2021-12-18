@@ -1,0 +1,18 @@
+{
+  "id": 101560,
+  "models": {
+    "10": [
+      110727
+    ]
+  },
+  "name": "Statue of Nymora and Avaryss",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 5,
+  "occludes_2": false
+}

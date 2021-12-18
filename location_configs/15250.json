@@ -1,0 +1,29 @@
+{
+  "id": 15250,
+  "models": {
+    "10": [
+      118298
+    ]
+  },
+  "name": "Trunk",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

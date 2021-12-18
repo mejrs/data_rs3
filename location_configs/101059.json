@@ -1,0 +1,44 @@
+{
+  "id": 101059,
+  "unknown_19": 1,
+  "actions": [
+    "Talk to",
+    "Rewards",
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 30519,
+    "ids": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      101060
+    ]
+  },
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

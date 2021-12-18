@@ -1,0 +1,20 @@
+{
+  "id": 93713,
+  "models": {
+    "10": [
+      1271
+    ]
+  },
+  "name": "Pots and pans",
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 40,
+  "translate_y": 0,
+  "translate_z": 0,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

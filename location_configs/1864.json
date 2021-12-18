@@ -1,0 +1,13 @@
+{
+  "id": 1864,
+  "models": {
+    "10": [
+      1419
+    ]
+  },
+  "name": "Timber defence",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_2": false
+}

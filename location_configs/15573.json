@@ -1,0 +1,16 @@
+{
+  "id": 15573,
+  "models": {
+    "10": [
+      28931
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "textures": {
+    "54": 49
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 102031,
+  "models": {
+    "4": [
+      111548
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 80,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_y": 225,
+  "translate_z": 64,
+  "occludes_2": false
+}

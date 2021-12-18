@@ -1,0 +1,29 @@
+{
+  "id": 5136,
+  "models": {
+    "22": [
+      5129
+    ]
+  },
+  "name": "Skull slope",
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

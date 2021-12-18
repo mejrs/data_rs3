@@ -1,0 +1,46 @@
+{
+  "id": 50248,
+  "models": {
+    "10": [
+      55196
+    ]
+  },
+  "name": "Purple triangle door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 13586,
+  "ambient": 50,
+  "actions": [
+    "Unlock",
+    "Info",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      1575,
+      45600
+    ],
+    [
+      1610,
+      45643
+    ],
+    [
+      1658,
+      45681
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    172,
+    null,
+    null,
+    null,
+    null
+  ]
+}

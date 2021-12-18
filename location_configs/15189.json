@@ -1,0 +1,53 @@
+{
+  "id": 15189,
+  "models": {
+    "10": [
+      15060
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7335,
+      10398
+    ],
+    [
+      7326,
+      10394
+    ],
+    [
+      7446,
+      10518
+    ],
+    [
+      7566,
+      10514
+    ],
+    [
+      8070,
+      10638
+    ],
+    [
+      0,
+      10762
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1366,
+  "models": {
+    "10": [
+      2172
+    ]
+  },
+  "name": "Roots",
+  "colours": [
+    [
+      6028,
+      21776
+    ]
+  ],
+  "unknown_81": 35,
+  "mapscene": 6,
+  "occludes_2": false
+}

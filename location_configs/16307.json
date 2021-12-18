@@ -1,0 +1,44 @@
+{
+  "id": 16307,
+  "models": {
+    "4": [
+      16075
+    ],
+    "22": [
+      57463
+    ]
+  },
+  "name": "Rune temple sign",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      82,
+      25901
+    ],
+    [
+      61,
+      25896
+    ],
+    [
+      41,
+      25891
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

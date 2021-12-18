@@ -1,0 +1,13 @@
+{
+  "id": 105475,
+  "models": {
+    "10": [
+      103103
+    ]
+  },
+  "name": "Coffin",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

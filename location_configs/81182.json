@@ -1,0 +1,33 @@
+{
+  "id": 81182,
+  "models": {
+    "10": [
+      81418
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

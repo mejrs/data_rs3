@@ -1,0 +1,28 @@
+{
+  "id": 369,
+  "models": {
+    "10": [
+      2246
+    ]
+  },
+  "name": "Large cupboard",
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

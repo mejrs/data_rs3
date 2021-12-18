@@ -1,0 +1,33 @@
+{
+  "id": 5806,
+  "models": {
+    "22": [
+      37033
+    ]
+  },
+  "name": "Trapdoor",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Climb-down",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 10,
+  "unknown_73": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 73747,
+  "models": {
+    "10": [
+      7874,
+      7766,
+      72034
+    ]
+  },
+  "name": "Herb patch (gold herbs)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      20364,
+      10144
+    ],
+    [
+      19988,
+      9896
+    ],
+    [
+      19992,
+      9900
+    ]
+  ],
+  "occludes_2": false
+}

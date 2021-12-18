@@ -1,0 +1,23 @@
+{
+  "id": 116605,
+  "models": {
+    "10": [
+      95568,
+      95527,
+      95584
+    ]
+  },
+  "name": "Statue of Tromple",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pay respects",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

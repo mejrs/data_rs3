@@ -1,0 +1,27 @@
+{
+  "id": 29357,
+  "models": {
+    "10": [
+      64019
+    ]
+  },
+  "name": "Cannon mould desk",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

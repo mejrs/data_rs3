@@ -1,0 +1,13 @@
+{
+  "id": 41108,
+  "models": {
+    "10": [
+      44392
+    ]
+  },
+  "name": "Washing basket",
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

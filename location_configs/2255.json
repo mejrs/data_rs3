@@ -1,0 +1,27 @@
+{
+  "id": 2255,
+  "models": {
+    "0": [
+      27252
+    ]
+  },
+  "name": "Ancient metal gate",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "cursors": [
+    49,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

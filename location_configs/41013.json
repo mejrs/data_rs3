@@ -1,0 +1,40 @@
+{
+  "id": 41013,
+  "models": {
+    "22": [
+      44079
+    ]
+  },
+  "name": "Snow rock",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      30,
+      39021
+    ],
+    [
+      35,
+      39021
+    ],
+    [
+      39,
+      39021
+    ],
+    [
+      43,
+      39021
+    ]
+  ],
+  "occludes_2": false
+}

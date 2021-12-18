@@ -1,0 +1,23 @@
+{
+  "id": 40065,
+  "models": {
+    "10": [
+      12512
+    ]
+  },
+  "name": "Mirror",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      8598
+    ],
+    [
+      6707,
+      8483
+    ]
+  ],
+  "occludes_2": false
+}

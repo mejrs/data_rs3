@@ -1,0 +1,30 @@
+{
+  "id": 100658,
+  "models": {
+    "10": [
+      63992
+    ]
+  },
+  "name": "Anvil",
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

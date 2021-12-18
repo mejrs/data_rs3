@@ -1,0 +1,28 @@
+{
+  "id": 62426,
+  "models": {
+    "10": [
+      30196
+    ]
+  },
+  "name": "Memorial stone",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

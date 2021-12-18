@@ -1,0 +1,17 @@
+{
+  "id": 20386,
+  "models": {
+    "10": [
+      63645
+    ]
+  },
+  "name": "Shelf",
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

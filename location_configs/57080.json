@@ -1,0 +1,36 @@
+{
+  "id": 57080,
+  "models": {
+    "10": [
+      24892
+    ]
+  },
+  "name": "Stepladder",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      8078,
+      5908
+    ],
+    [
+      7830,
+      5932
+    ],
+    [
+      7587,
+      5900
+    ]
+  ],
+  "textures": {
+    "2073": 2078,
+    "2093": 2082
+  },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

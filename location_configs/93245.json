@@ -1,0 +1,24 @@
+{
+  "id": 93245,
+  "models": {
+    "10": [
+      100088
+    ]
+  },
+  "name": "Statue of Queen Glarial",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Run away",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 5,
+  "occludes_2": false
+}

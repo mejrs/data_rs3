@@ -1,0 +1,35 @@
+{
+  "id": 78759,
+  "models": {
+    "0": [
+      3803
+    ],
+    "1": [
+      35645
+    ],
+    "3": [
+      3804
+    ],
+    "9": [
+      3805
+    ]
+  },
+  "name": "Arena Entrance",
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 119018,
+  "models": {
+    "10": [
+      116075,
+      120558
+    ]
+  },
+  "name": "Autopsy table",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64692,
+      32948
+    ],
+    [
+      64809,
+      31916
+    ],
+    [
+      64799,
+      31910
+    ]
+  ],
+  "textures": {
+    "11300": 12858,
+    "11302": 12863,
+    "11304": 12866,
+    "11305": 12865
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

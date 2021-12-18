@@ -1,0 +1,16 @@
+{
+  "id": 106749,
+  "models": {
+    "10": [
+      8196
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 17,
+  "model": false,
+  "translate_x": 15,
+  "translate_z": 5,
+  "mapscene": 9,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 62598,
+  "models": {
+    "10": [
+      1726
+    ]
+  },
+  "name": "Chair",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false
+}

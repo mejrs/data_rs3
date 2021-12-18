@@ -1,0 +1,22 @@
+{
+  "id": 48591,
+  "models": {
+    "22": [
+      52078
+    ]
+  },
+  "name": "Broken-stairs",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Jump-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

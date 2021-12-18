@@ -1,0 +1,38 @@
+{
+  "id": 116735,
+  "models": {
+    "10": [
+      89012
+    ]
+  },
+  "name": "Portal",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 18848,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65516,
+  "unknown_78": {
+    "unknown_1": 38056,
+    "unknown_2": 15
+  },
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

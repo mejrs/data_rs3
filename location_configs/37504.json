@@ -1,0 +1,23 @@
+{
+  "id": 37504,
+  "models": {
+    "10": [
+      36541
+    ]
+  },
+  "name": "Flag",
+  "unknown_19": 1,
+  "unknown_24": 9910,
+  "ambient": 25,
+  "actions": [
+    "Raise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 14,
+  "occludes_2": false
+}

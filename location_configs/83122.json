@@ -1,0 +1,23 @@
+{
+  "id": 83122,
+  "models": {
+    "10": [
+      50160
+    ]
+  },
+  "name": "Kaqemeex",
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        422,
+        100
+      ],
+      [
+        425,
+        100
+      ]
+    ]
+  }
+}

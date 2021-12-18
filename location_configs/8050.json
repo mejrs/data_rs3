@@ -1,0 +1,19 @@
+{
+  "id": 8050,
+  "models": {
+    "10": [
+      7801,
+      7767
+    ]
+  },
+  "name": "Fruit Tree Patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

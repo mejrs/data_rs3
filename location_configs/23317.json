@@ -1,0 +1,14 @@
+{
+  "id": 23317,
+  "models": {
+    "10": [
+      24262
+    ]
+  },
+  "name": "Crowd of dwarves",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 6166,
+  "ambient": 30,
+  "occludes_2": false
+}

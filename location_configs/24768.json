@@ -1,0 +1,19 @@
+{
+  "id": 24768,
+  "models": {
+    "10": [
+      26059
+    ]
+  },
+  "name": "Window",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  }
+}

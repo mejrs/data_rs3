@@ -1,0 +1,13 @@
+{
+  "id": 1328,
+  "models": {
+    "10": [
+      1605
+    ]
+  },
+  "name": "Tropical tree",
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_196": 3
+}

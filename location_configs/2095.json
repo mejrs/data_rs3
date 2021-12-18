@@ -1,0 +1,30 @@
+{
+  "id": 2095,
+  "models": {
+    "10": [
+      81491
+    ]
+  },
+  "name": "Broken dairy churn",
+  "ambient": 15,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

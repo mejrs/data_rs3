@@ -1,0 +1,21 @@
+{
+  "id": 14973,
+  "models": {
+    "10": [
+      14898,
+      14899
+    ]
+  },
+  "name": "Net",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 34580,
+  "models": {
+    "10": [
+      36510
+    ]
+  },
+  "name": "Wheelbarrow",
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7706,
+      7444
+    ],
+    [
+      7954,
+      7440
+    ],
+    [
+      7587,
+      7452
+    ]
+  ],
+  "occludes_2": false
+}

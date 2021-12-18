@@ -1,0 +1,45 @@
+{
+  "id": 31365,
+  "models": {
+    "10": [
+      34548
+    ]
+  },
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      9612,
+      17
+    ],
+    [
+      9613,
+      1042
+    ],
+    [
+      9614,
+      2067
+    ],
+    [
+      10638,
+      3092
+    ],
+    [
+      10762,
+      14354
+    ],
+    [
+      11142,
+      12428
+    ]
+  ],
+  "model": false,
+  "scale_y": 160,
+  "occludes_2": false,
+  "unknown_196": 3
+}

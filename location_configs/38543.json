@@ -1,0 +1,23 @@
+{
+  "id": 38543,
+  "models": {
+    "22": [
+      41949
+    ]
+  },
+  "name": "Shooting spot (level 50 approx.)",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "Choose",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 90,
+  "scale_z": 90,
+  "unknown_88": false,
+  "occludes_2": false
+}

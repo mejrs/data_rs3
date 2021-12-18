@@ -1,0 +1,28 @@
+{
+  "id": 29092,
+  "models": {
+    "10": [
+      68892,
+      68893
+    ]
+  },
+  "name": "Uncooked chompies",
+  "dim_x": 9,
+  "dim_y": 3,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      39618,
+      41246
+    ],
+    [
+      17300,
+      42543
+    ]
+  ],
+  "textures": {
+    "2377": 1931
+  },
+  "occludes_2": false
+}

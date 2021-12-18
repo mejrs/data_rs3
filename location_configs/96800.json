@@ -1,0 +1,16 @@
+{
+  "id": 96800,
+  "models": {
+    "10": [
+      104159
+    ]
+  },
+  "name": "Island battle-plan",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 26449,
+  "unknown_81": 40,
+  "unknown_89": false,
+  "occludes_2": false
+}

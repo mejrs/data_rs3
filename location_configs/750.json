@@ -1,0 +1,26 @@
+{
+  "id": 750,
+  "models": {
+    "10": [
+      63718
+    ]
+  },
+  "name": "Control panel",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

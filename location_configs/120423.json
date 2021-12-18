@@ -1,0 +1,14 @@
+{
+  "id": 120423,
+  "models": {
+    "4": [
+      81003,
+      80999
+    ]
+  },
+  "name": "Wall shelves",
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

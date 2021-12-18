@@ -1,0 +1,36 @@
+{
+  "id": 110082,
+  "models": {
+    "10": [
+      6661
+    ]
+  },
+  "name": "Candle (ice blue)",
+  "unknown_19": 1,
+  "actions": [
+    "Place candle",
+    "Remove candle",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      120,
+      32722
+    ],
+    [
+      7288,
+      32594
+    ],
+    [
+      7289,
+      32592
+    ],
+    [
+      8307,
+      32458
+    ]
+  ],
+  "occludes_2": false
+}

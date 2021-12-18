@@ -1,0 +1,56 @@
+{
+  "id": 112893,
+  "models": {
+    "10": [
+      73989,
+      73987
+    ]
+  },
+  "name": "Limestone rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      3524
+    ],
+    [
+      3135,
+      3520
+    ],
+    [
+      3127,
+      3514
+    ],
+    [
+      2109,
+      3504
+    ],
+    [
+      3143,
+      3493
+    ]
+  ],
+  "textures": {
+    "322": 10888
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

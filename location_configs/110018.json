@@ -1,0 +1,19 @@
+{
+  "id": 110018,
+  "models": {
+    "10": [
+      1552
+    ]
+  },
+  "name": "Special delivery sign",
+  "ambient": 25,
+  "actions": [
+    "Give Keg",
+    "Give Bitter Keg",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

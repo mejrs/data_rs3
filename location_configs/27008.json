@@ -1,0 +1,22 @@
+{
+  "id": 27008,
+  "models": {
+    "4": [
+      2066
+    ]
+  },
+  "name": "Clothes equipment",
+  "unknown_19": 1,
+  "ambient": 30,
+  "colours": [
+    [
+      7060,
+      6554
+    ],
+    [
+      9131,
+      6674
+    ]
+  ],
+  "occludes_2": false
+}

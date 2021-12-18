@@ -1,0 +1,16 @@
+{
+  "id": 15699,
+  "models": {
+    "10": [
+      49094,
+      49418
+    ]
+  },
+  "name": "Box cart",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 2
+}

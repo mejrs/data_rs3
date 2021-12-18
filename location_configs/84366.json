@@ -1,0 +1,28 @@
+{
+  "id": 84366,
+  "models": {
+    "10": [
+      85824,
+      7767
+    ]
+  },
+  "name": "Diseased barberry bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2191": 2202,
+    "2192": 2206,
+    "2205": 2209
+  },
+  "model": false,
+  "occludes_2": false
+}

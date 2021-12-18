@@ -1,0 +1,17 @@
+{
+  "id": 13435,
+  "models": {
+    "10": [
+      12942
+    ]
+  },
+  "name": "Thistle",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

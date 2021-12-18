@@ -1,0 +1,34 @@
+{
+  "id": 113006,
+  "models": {
+    "10": [
+      110357
+    ]
+  },
+  "name": "Underworld rock",
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

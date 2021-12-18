@@ -1,0 +1,28 @@
+{
+  "id": 40190,
+  "models": {
+    "10": [
+      43536
+    ]
+  },
+  "name": "Bed",
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      21778,
+      6670
+    ],
+    [
+      21782,
+      6675
+    ],
+    [
+      21658,
+      6680
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

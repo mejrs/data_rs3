@@ -1,0 +1,38 @@
+{
+  "id": 5624,
+  "models": {
+    "10": [
+      1949,
+      5531
+    ]
+  },
+  "name": "Wardrobe",
+  "ambient": 15,
+  "actions": [
+    null,
+    "Search",
+    "Close",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9104,
+      5532
+    ],
+    [
+      0,
+      62342
+    ]
+  ],
+  "unknown_44": 5,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

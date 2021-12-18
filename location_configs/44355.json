@@ -1,0 +1,50 @@
+{
+  "id": 44355,
+  "models": {
+    "10": [
+      48266
+    ]
+  },
+  "name": "Massive ribs",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Collect-fur",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3763,
+      10322
+    ],
+    [
+      4905,
+      10314
+    ],
+    [
+      5027,
+      10307
+    ],
+    [
+      3276,
+      3254
+    ],
+    [
+      3273,
+      3251
+    ],
+    [
+      3270,
+      3248
+    ]
+  ],
+  "textures": {
+    "881": 404
+  },
+  "occludes_2": false
+}

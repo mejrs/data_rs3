@@ -1,0 +1,23 @@
+{
+  "id": 98937,
+  "models": {
+    "10": [
+      106133
+    ]
+  },
+  "name": "Lowerniel's sarcophagus",
+  "dim_x": 3,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

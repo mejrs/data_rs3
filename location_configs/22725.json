@@ -1,0 +1,29 @@
+{
+  "id": 22725,
+  "models": {
+    "10": [
+      23436
+    ]
+  },
+  "name": "Tri-Anvil",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Smith",
+    "Deposit-All (Into Metal Bank)",
+    "Withdraw-All (From Metal Bank)",
+    "Open Smithing Interface",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

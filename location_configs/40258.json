@@ -1,0 +1,19 @@
+{
+  "id": 40258,
+  "models": {
+    "10": [
+      43791
+    ]
+  },
+  "name": "Recessed blocks",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "contrast": 25,
+  "textures": {
+    "2319": 2381
+  },
+  "occludes_2": false
+}

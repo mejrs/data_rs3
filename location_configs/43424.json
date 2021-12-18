@@ -1,0 +1,17 @@
+{
+  "id": 43424,
+  "models": {
+    "10": [
+      47001
+    ]
+  },
+  "name": "Chuck",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_24": 11715,
+  "ambient": 25,
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

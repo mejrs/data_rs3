@@ -1,0 +1,23 @@
+{
+  "id": 29554,
+  "models": {
+    "10": [
+      9543,
+      9544,
+      9545,
+      32367
+    ]
+  },
+  "name": "Mysterious statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "Take-Egg",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

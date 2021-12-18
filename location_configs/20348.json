@@ -1,0 +1,18 @@
+{
+  "id": 20348,
+  "models": {
+    "10": [
+      118880,
+      118882
+    ]
+  },
+  "name": "Spice stall",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 103624,
+  "models": {
+    "10": [
+      113211
+    ]
+  },
+  "name": "Furnace",
+  "unknown_19": 1,
+  "unknown_24": 22881,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

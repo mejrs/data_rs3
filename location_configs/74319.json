@@ -1,0 +1,17 @@
+{
+  "id": 74319,
+  "models": {
+    "10": [
+      72569
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 10,
+  "translate_y": 65468,
+  "occludes_2": false
+}

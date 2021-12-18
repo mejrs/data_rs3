@@ -1,0 +1,23 @@
+{
+  "id": 110225,
+  "models": {
+    "10": [
+      1294
+    ]
+  },
+  "name": "Mirror",
+  "unknown_19": 1,
+  "actions": [
+    "Admire!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 109363,
+  "models": {
+    "10": [
+      118942
+    ]
+  },
+  "name": "Crondis statue",
+  "dim_x": 2,
+  "ambient": 30,
+  "translate_y": 140,
+  "occludes_2": false
+}

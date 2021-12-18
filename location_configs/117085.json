@@ -1,0 +1,13 @@
+{
+  "id": 117085,
+  "models": {
+    "10": [
+      16003
+    ]
+  },
+  "name": "Tarpaulin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

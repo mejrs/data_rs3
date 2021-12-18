@@ -1,0 +1,13 @@
+{
+  "id": 44923,
+  "models": {
+    "0": [
+      12685
+    ]
+  },
+  "name": "Door hotspot",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "mirror": true,
+  "occludes_2": false
+}

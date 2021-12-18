@@ -1,0 +1,17 @@
+{
+  "id": 21291,
+  "models": {
+    "10": [
+      63649
+    ]
+  },
+  "name": "Shelf (law cube)",
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

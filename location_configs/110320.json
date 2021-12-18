@@ -1,0 +1,24 @@
+{
+  "id": 110320,
+  "models": {
+    "10": [
+      7998
+    ]
+  },
+  "name": "Rudolph's ashes",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Gather",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

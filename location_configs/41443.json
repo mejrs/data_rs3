@@ -1,0 +1,12 @@
+{
+  "id": 41443,
+  "models": {
+    "4": [
+      43923
+    ]
+  },
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 4,
+  "occludes_2": false
+}

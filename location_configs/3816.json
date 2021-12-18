@@ -1,0 +1,56 @@
+{
+  "id": 3816,
+  "models": {
+    "10": [
+      37443
+    ]
+  },
+  "name": "Kitchen Drawers",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      7960,
+      7315
+    ],
+    [
+      7836,
+      7320
+    ],
+    [
+      7841,
+      7325
+    ],
+    [
+      14692,
+      7330
+    ],
+    [
+      7721,
+      7335
+    ],
+    [
+      7717,
+      7340
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

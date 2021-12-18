@@ -1,0 +1,26 @@
+{
+  "id": 4075,
+  "models": {
+    "10": [
+      4134
+    ]
+  },
+  "name": "Temple wall",
+  "unknown_24": 1299,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

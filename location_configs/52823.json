@@ -1,0 +1,19 @@
+{
+  "id": 52823,
+  "models": {
+    "10": [
+      12513
+    ]
+  },
+  "name": "Organ",
+  "dim_x": 2,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3298,
+  "models": {
+    "10": [
+      37373
+    ]
+  },
+  "name": "Stone tablet",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

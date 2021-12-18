@@ -1,0 +1,24 @@
+{
+  "id": 85340,
+  "models": {
+    "10": [
+      88118
+    ]
+  },
+  "name": "Podium",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 20795,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Reclaim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": 4616,
+  "models": {
+    "10": [
+      31901
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10309,
+      6696
+    ],
+    [
+      10299,
+      6691
+    ],
+    [
+      10283,
+      6686
+    ],
+    [
+      10276,
+      6676
+    ],
+    [
+      10275,
+      6671
+    ]
+  ],
+  "mapscene": 12,
+  "occludes_2": false,
+  "unknown_189": true
+}

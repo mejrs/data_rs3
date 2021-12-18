@@ -1,0 +1,22 @@
+{
+  "id": 54095,
+  "models": {
+    "10": [
+      59699
+    ]
+  },
+  "name": "Censer",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Add herb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

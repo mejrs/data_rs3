@@ -1,0 +1,24 @@
+{
+  "id": 38297,
+  "models": {
+    "22": [
+      41683
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      50231,
+      50201
+    ],
+    [
+      50215,
+      50192
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "mapfunction": 612
+}

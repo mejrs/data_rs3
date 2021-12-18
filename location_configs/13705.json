@@ -1,0 +1,22 @@
+{
+  "id": 13705,
+  "models": {
+    "10": [
+      10556
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 2,
+  "actions": [
+    "Work-at",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "params": {
+    "23": 40
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 27940,
+  "models": {
+    "0": [
+      29807
+    ],
+    "10": [
+      29810
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 45,
+  "contrast": 45,
+  "textures": {
+    "1468": 1453
+  },
+  "mirror": true,
+  "mapscene": 22,
+  "unknown_170": 937
+}

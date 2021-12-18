@@ -1,0 +1,17 @@
+{
+  "id": 65284,
+  "models": {
+    "0": [
+      18537
+    ],
+    "10": [
+      18856
+    ]
+  },
+  "name": "Grave",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_93": 8224,
+  "mapscene": 22
+}

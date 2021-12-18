@@ -1,0 +1,22 @@
+{
+  "id": 11893,
+  "models": {
+    "10": [
+      9500
+    ]
+  },
+  "name": "Bookcase",
+  "ambient": 10,
+  "colours": [
+    [
+      5784,
+      5652
+    ],
+    [
+      5008,
+      4626
+    ]
+  ],
+  "unknown_44": 6,
+  "occludes_2": false
+}

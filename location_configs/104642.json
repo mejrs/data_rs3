@@ -1,0 +1,32 @@
+{
+  "id": 104642,
+  "models": {
+    "10": [
+      114944
+    ]
+  },
+  "name": "Cannon",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Fire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 73776,
+  "models": {
+    "10": [
+      72027
+    ]
+  },
+  "name": "Gielinor Games deposit box",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

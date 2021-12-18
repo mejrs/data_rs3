@@ -1,0 +1,29 @@
+{
+  "id": 22162,
+  "models": {
+    "10": [
+      12502
+    ]
+  },
+  "name": "Larder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      5545,
+      6817
+    ],
+    [
+      6466,
+      6573
+    ],
+    [
+      6682,
+      6936
+    ]
+  ],
+  "occludes_2": false
+}

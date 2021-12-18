@@ -1,0 +1,35 @@
+{
+  "id": 64362,
+  "models": {
+    "22": [
+      12094
+    ]
+  },
+  "name": "Vine",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_x": 20,
+  "translate_z": 65456,
+  "unknown_73": true,
+  "unknown_88": false,
+  "mapscene": 105,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

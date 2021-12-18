@@ -1,0 +1,53 @@
+{
+  "id": 4903,
+  "models": {
+    "10": [
+      38184,
+      38183
+    ]
+  },
+  "name": "Zamorak flag",
+  "unknown_24": 1430,
+  "ambient": 25,
+  "actions": [
+    "Capture",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8247,
+      6317
+    ],
+    [
+      8243,
+      6313
+    ],
+    [
+      8239,
+      6309
+    ],
+    [
+      8235,
+      6305
+    ],
+    [
+      8231,
+      6301
+    ],
+    [
+      8227,
+      6297
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 3
+  },
+  "mapscene": 29,
+  "occludes_2": false,
+  "unknown_104": 70
+}

@@ -1,0 +1,20 @@
+{
+  "id": 101609,
+  "models": {
+    "10": [
+      81645
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2067": 3171,
+    "2075": 3171,
+    "2090": 3171,
+    "2106": 3171
+  },
+  "occludes_2": false
+}

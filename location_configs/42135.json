@@ -1,0 +1,21 @@
+{
+  "id": 42135,
+  "models": {
+    "10": [
+      45311,
+      15827
+    ]
+  },
+  "name": "Burning tree",
+  "unknown_24": 4239,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 3
+  },
+  "unknown_81": 30,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_104": 127
+}

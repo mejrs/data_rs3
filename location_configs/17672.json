@@ -1,0 +1,54 @@
+{
+  "id": 17672,
+  "models": {
+    "10": [
+      17853,
+      17855
+    ]
+  },
+  "name": "Locker",
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      8481
+    ],
+    [
+      6439,
+      7452
+    ],
+    [
+      6563,
+      8472
+    ],
+    [
+      6558,
+      8596
+    ],
+    [
+      6682,
+      8720
+    ],
+    [
+      6806,
+      8844
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

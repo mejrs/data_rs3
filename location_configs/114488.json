@@ -1,0 +1,22 @@
+{
+  "id": 114488,
+  "models": {
+    "10": [
+      82515,
+      7768
+    ]
+  },
+  "name": "Dead carambola tree",
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 44994,
+  "models": {
+    "10": [
+      48548
+    ]
+  },
+  "name": "Bridge",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "mirror": true,
+  "occludes_2": false
+}

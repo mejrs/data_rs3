@@ -1,0 +1,21 @@
+{
+  "id": 62266,
+  "models": {
+    "10": [
+      1172
+    ]
+  },
+  "name": "Wonky crate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_167": 200
+}

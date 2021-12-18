@@ -1,0 +1,22 @@
+{
+  "id": 109413,
+  "models": {
+    "10": [
+      9724
+    ]
+  },
+  "name": "Log stockpile",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take 1",
+    null,
+    "Take 5",
+    "Take 10",
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

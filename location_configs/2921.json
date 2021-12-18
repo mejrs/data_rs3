@@ -1,0 +1,26 @@
+{
+  "id": 2921,
+  "models": {
+    "10": [
+      685
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Smash-to-bits",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7952,
+      7054
+    ]
+  ],
+  "mapscene": 11,
+  "occludes_2": false
+}

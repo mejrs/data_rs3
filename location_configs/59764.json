@@ -1,0 +1,19 @@
+{
+  "id": 59764,
+  "models": {
+    "0": [
+      40505
+    ],
+    "1": [
+      40502
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_170": 402,
+  "unknown_196": 1
+}

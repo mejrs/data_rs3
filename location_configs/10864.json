@@ -1,0 +1,25 @@
+{
+  "id": 10864,
+  "models": {
+    "4": [
+      10818
+    ]
+  },
+  "name": "Gap",
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 36691,
+  "models": {
+    "22": [
+      38569
+    ]
+  },
+  "name": "Trapdoor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5545,
+      5404
+    ],
+    [
+      6466,
+      5408
+    ],
+    [
+      6490,
+      5412
+    ],
+    [
+      90,
+      7060
+    ],
+    [
+      61,
+      7064
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

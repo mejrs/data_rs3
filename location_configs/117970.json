@@ -1,0 +1,43 @@
+{
+  "id": 117970,
+  "models": {
+    "10": [
+      118397,
+      118428
+    ]
+  },
+  "name": "Nicknacks (Invention)",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34906,
+      9659
+    ],
+    [
+      34918,
+      9659
+    ]
+  ],
+  "textures": {
+    "9937": 12907,
+    "12918": 12920
+  },
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

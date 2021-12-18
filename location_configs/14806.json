@@ -1,0 +1,21 @@
+{
+  "id": 14806,
+  "models": {
+    "10": [
+      63646
+    ]
+  },
+  "name": "Blank tokens",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

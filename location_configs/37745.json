@@ -1,0 +1,53 @@
+{
+  "id": 37745,
+  "models": {
+    "22": [
+      15521
+    ]
+  },
+  "name": "Trapdoor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      5545,
+      7445
+    ],
+    [
+      6466,
+      7440
+    ],
+    [
+      6490,
+      7450
+    ],
+    [
+      90,
+      32
+    ],
+    [
+      61,
+      47
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "member_actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

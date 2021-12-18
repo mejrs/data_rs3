@@ -1,0 +1,40 @@
+{
+  "id": 14284,
+  "models": {
+    "10": [
+      11027
+    ]
+  },
+  "name": "Red door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      976
+    ],
+    [
+      31676,
+      956
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

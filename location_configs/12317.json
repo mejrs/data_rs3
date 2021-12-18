@@ -1,0 +1,21 @@
+{
+  "id": 12317,
+  "models": {
+    "10": [
+      13656,
+      13662,
+      13659
+    ]
+  },
+  "name": "Banquet table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "colours": [
+    [
+      943,
+      40627
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 39653,
+  "models": {
+    "0": [
+      43013
+    ]
+  },
+  "name": "Barrier door",
+  "unknown_19": 1,
+  "unknown_24": 7382,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Go-through",
+    "Repair",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      28787,
+      37431
+    ]
+  ],
+  "unknown_89": false,
+  "cursors": [
+    null,
+    null,
+    174,
+    null,
+    null,
+    null
+  ]
+}

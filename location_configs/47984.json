@@ -1,0 +1,27 @@
+{
+  "id": 47984,
+  "models": {
+    "10": [
+      20051
+    ]
+  },
+  "name": "Adventuring equipment",
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

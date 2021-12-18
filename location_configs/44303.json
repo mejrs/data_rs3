@@ -1,0 +1,13 @@
+{
+  "id": 44303,
+  "models": {
+    "4": [
+      48131
+    ]
+  },
+  "name": "Kurask head",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

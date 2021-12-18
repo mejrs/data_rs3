@@ -1,0 +1,20 @@
+{
+  "id": 120565,
+  "models": {
+    "10": [
+      122185
+    ]
+  },
+  "name": "Blood bottle",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    "Reset puzzle",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

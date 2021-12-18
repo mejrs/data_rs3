@@ -1,0 +1,18 @@
+{
+  "id": 25798,
+  "models": {
+    "10": [
+      1508
+    ]
+  },
+  "name": "Cannon",
+  "dim_y": 2,
+  "colours": [
+    [
+      6034,
+      6315
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

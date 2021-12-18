@@ -1,0 +1,19 @@
+{
+  "id": 14023,
+  "models": {
+    "10": [
+      14330
+    ]
+  },
+  "name": "Bones",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "colours": [
+    [
+      6241,
+      10314
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 51938,
+  "models": {
+    "10": [
+      21851
+    ]
+  },
+  "name": "Path",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 7,
+  "actions": [
+    "Continue (Medium)",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

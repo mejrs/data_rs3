@@ -1,0 +1,18 @@
+{
+  "id": 15621,
+  "models": {
+    "10": [
+      15351
+    ]
+  },
+  "name": "Magical Animator",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 4161,
+  "ambient": 20,
+  "scale_x": 128,
+  "scale_y": 115,
+  "scale_z": 128,
+  "unknown_69": 14,
+  "occludes_2": false
+}

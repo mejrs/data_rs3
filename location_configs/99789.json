@@ -1,0 +1,13 @@
+{
+  "id": 99789,
+  "models": {
+    "10": [
+      107116
+    ]
+  },
+  "name": "Suit of armour",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "occludes_2": false
+}

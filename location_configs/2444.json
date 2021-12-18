@@ -1,0 +1,45 @@
+{
+  "id": 2444,
+  "models": {
+    "22": [
+      1175
+    ]
+  },
+  "name": "Trapdoor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      5651
+    ],
+    [
+      53,
+      6666
+    ],
+    [
+      37,
+      6669
+    ]
+  ],
+  "textures": {
+    "46": 2075
+  },
+  "mapscene": 43,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

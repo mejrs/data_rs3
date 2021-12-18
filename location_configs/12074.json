@@ -1,0 +1,13 @@
+{
+  "id": 12074,
+  "models": {
+    "10": [
+      57496
+    ]
+  },
+  "name": "Mechanism",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

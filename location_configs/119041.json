@@ -1,0 +1,12 @@
+{
+  "id": 119041,
+  "models": {
+    "10": [
+      120631
+    ]
+  },
+  "name": "Rex skeleton",
+  "dim_x": 5,
+  "dim_y": 8,
+  "occludes_2": false
+}

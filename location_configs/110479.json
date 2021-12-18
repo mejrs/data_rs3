@@ -1,0 +1,52 @@
+{
+  "id": 110479,
+  "models": {
+    "10": [
+      7685
+    ]
+  },
+  "name": "Crate (hidey-hole)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take items",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      5268
+    ],
+    [
+      6806,
+      5268
+    ],
+    [
+      6558,
+      5276
+    ],
+    [
+      6563,
+      5287
+    ],
+    [
+      6439,
+      5278
+    ],
+    [
+      6443,
+      5282
+    ]
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "occludes_2": false,
+  "params": {
+    "6896": 39
+  }
+}

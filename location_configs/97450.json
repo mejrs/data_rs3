@@ -1,0 +1,24 @@
+{
+  "id": 97450,
+  "models": {
+    "10": [
+      104626
+    ]
+  },
+  "name": "Cube of meat",
+  "unknown_19": 1,
+  "unknown_24": 26701,
+  "ambient": 25,
+  "unknown_78": {
+    "unknown_1": 2548,
+    "unknown_2": 8
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_104": 105,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  }
+}

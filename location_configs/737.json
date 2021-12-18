@@ -1,0 +1,23 @@
+{
+  "id": 737,
+  "models": {
+    "10": [
+      1792
+    ]
+  },
+  "name": "Carcass",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "colours": [
+    [
+      9465,
+      9248
+    ],
+    [
+      8429,
+      9230
+    ]
+  ],
+  "occludes_2": false
+}

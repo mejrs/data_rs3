@@ -1,0 +1,26 @@
+{
+  "id": 42592,
+  "models": {
+    "10": [
+      46098,
+      46099
+    ]
+  },
+  "name": "Ogre statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 11302,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0,
+  "occludes_2": false
+}

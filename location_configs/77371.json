@@ -1,0 +1,29 @@
+{
+  "id": 77371,
+  "models": {
+    "10": [
+      77239
+    ]
+  },
+  "name": "Vines",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Chop-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

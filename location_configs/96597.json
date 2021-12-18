@@ -1,0 +1,21 @@
+{
+  "id": 96597,
+  "models": {
+    "10": [
+      18943
+    ]
+  },
+  "name": "Diango's item dispenser",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Withdraw from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

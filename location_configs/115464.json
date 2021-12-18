@@ -1,0 +1,24 @@
+{
+  "id": 115464,
+  "models": {
+    "4": [
+      90330
+    ]
+  },
+  "name": "'The God Wars'",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Hang painting",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "translate_y": 25,
+  "occludes_2": false
+}

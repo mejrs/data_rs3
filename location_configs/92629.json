@@ -1,0 +1,12 @@
+{
+  "id": 92629,
+  "models": {
+    "10": [
+      98781,
+      98779
+    ]
+  },
+  "name": "Tree",
+  "ambient": 37,
+  "occludes_2": false
+}

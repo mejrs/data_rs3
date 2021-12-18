@@ -1,0 +1,21 @@
+{
+  "id": 61836,
+  "models": {
+    "10": [
+      1415
+    ]
+  },
+  "name": "Market stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ]
+}

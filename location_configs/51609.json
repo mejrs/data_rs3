@@ -1,0 +1,31 @@
+{
+  "id": 51609,
+  "models": {
+    "10": [
+      54926
+    ]
+  },
+  "name": "Altar",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Pray-at",
+    "Quick-Recharge",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "mapfunction": 575,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 15237,
+  "models": {
+    "22": [
+      15081
+    ]
+  },
+  "name": "Lift Platform",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Use-lift",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "unknown_75": 0,
+  "occludes_2": false
+}

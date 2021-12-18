@@ -1,0 +1,21 @@
+{
+  "id": 94273,
+  "models": {
+    "4": [
+      100086
+    ]
+  },
+  "name": "Motherlode Maw",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Reach inside",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_z": 130,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 25732,
+  "models": {
+    "10": [
+      17478
+    ]
+  },
+  "name": "Dragon's head",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      5421
+    ],
+    [
+      6682,
+      5413
+    ]
+  ],
+  "occludes_2": false
+}

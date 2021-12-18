@@ -1,0 +1,25 @@
+{
+  "id": 10038,
+  "models": {
+    "10": [
+      9709
+    ]
+  },
+  "name": "Rope",
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

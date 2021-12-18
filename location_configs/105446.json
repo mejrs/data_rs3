@@ -1,0 +1,23 @@
+{
+  "id": 105446,
+  "models": {
+    "10": [
+      68751
+    ]
+  },
+  "name": "Falador",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "South:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2775": 2777
+  },
+  "occludes_2": false
+}

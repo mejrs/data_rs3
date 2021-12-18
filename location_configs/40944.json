@@ -1,0 +1,46 @@
+{
+  "id": 40944,
+  "models": {
+    "10": [
+      44051
+    ]
+  },
+  "name": "Waste-paper basket",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    "Pick-up",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7580,
+      5400
+    ],
+    [
+      6550,
+      5396
+    ],
+    [
+      8844,
+      5392
+    ],
+    [
+      8070,
+      5387
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

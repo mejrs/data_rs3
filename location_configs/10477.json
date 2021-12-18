@@ -1,0 +1,28 @@
+{
+  "id": 10477,
+  "models": {
+    "10": [
+      7404
+    ]
+  },
+  "name": "Pipe",
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

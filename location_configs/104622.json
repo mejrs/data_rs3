@@ -1,0 +1,51 @@
+{
+  "id": 104622,
+  "models": {
+    "10": [
+      85041,
+      38316
+    ]
+  },
+  "name": "Supply table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Take 1",
+    "Take 5",
+    "Take 10",
+    "Take All",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6451,
+      5404
+    ],
+    [
+      6443,
+      5400
+    ],
+    [
+      6439,
+      5396
+    ],
+    [
+      6563,
+      5392
+    ],
+    [
+      6558,
+      5388
+    ],
+    [
+      6682,
+      5384
+    ]
+  ],
+  "scale_x": 105,
+  "scale_y": 105,
+  "scale_z": 105,
+  "occludes_2": false
+}

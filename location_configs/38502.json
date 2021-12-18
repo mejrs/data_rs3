@@ -1,0 +1,23 @@
+{
+  "id": 38502,
+  "models": {
+    "10": [
+      17011
+    ]
+  },
+  "name": "Bench",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "unknown_69": 11,
+  "occludes_2": false
+}

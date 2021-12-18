@@ -1,0 +1,14 @@
+{
+  "id": 79465,
+  "models": {
+    "4": [
+      80491
+    ]
+  },
+  "name": "Torch",
+  "unknown_19": 1,
+  "unknown_24": 18971,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

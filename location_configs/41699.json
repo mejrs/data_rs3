@@ -1,0 +1,24 @@
+{
+  "id": 41699,
+  "models": {
+    "22": [
+      45209
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4502,
+      4130
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_88": false,
+  "unknown_97": true,
+  "mapscene": 90,
+  "occludes_2": false
+}

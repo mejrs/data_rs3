@@ -1,0 +1,31 @@
+{
+  "id": 1930,
+  "models": {
+    "10": [
+      98309,
+      98311,
+      7843
+    ]
+  },
+  "name": "Compost Bin",
+  "ambient": 25,
+  "actions": [
+    "Take-tomato",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      2979,
+      3742
+    ],
+    [
+      22430,
+      9647
+    ]
+  ],
+  "unknown_44": 6,
+  "occludes_2": false
+}

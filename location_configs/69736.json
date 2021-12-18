@@ -1,0 +1,22 @@
+{
+  "id": 69736,
+  "models": {
+    "10": [
+      68742
+    ]
+  },
+  "name": "Ardougne Monastery, Tower of Life",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "South-east:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_x": 65498,
+  "translate_z": 38,
+  "occludes_2": false
+}

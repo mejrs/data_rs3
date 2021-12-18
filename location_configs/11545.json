@@ -1,0 +1,35 @@
+{
+  "id": 11545,
+  "models": {
+    "10": [
+      9429
+    ]
+  },
+  "name": "Tunnel",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 95863,
+  "models": {
+    "10": [
+      103015
+    ]
+  },
+  "name": "Scrying Pool Notes",
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "3673": 5560,
+    "3674": 5556,
+    "3675": 5557,
+    "3676": 5558,
+    "3677": 5559,
+    "3678": 5563,
+    "3679": 5562,
+    "3680": 5561
+  },
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15298,
+  "models": {
+    "10": [
+      12679
+    ]
+  },
+  "name": "Table space",
+  "dim_x": 4,
+  "dim_y": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

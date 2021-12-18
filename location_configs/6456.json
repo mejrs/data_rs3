@@ -1,0 +1,17 @@
+{
+  "id": 6456,
+  "models": {
+    "10": [
+      121926
+    ]
+  },
+  "name": "Ice ledge",
+  "actions": [
+    "Step-off",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

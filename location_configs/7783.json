@@ -1,0 +1,21 @@
+{
+  "id": 7783,
+  "models": {
+    "10": [
+      7958,
+      7959,
+      7768
+    ]
+  },
+  "name": "Calquat Tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

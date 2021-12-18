@@ -1,0 +1,21 @@
+{
+  "id": 84263,
+  "models": {
+    "10": [
+      85800,
+      7766
+    ]
+  },
+  "name": "Diseased fly traps",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

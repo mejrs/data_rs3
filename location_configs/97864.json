@@ -1,0 +1,36 @@
+{
+  "id": 97864,
+  "models": {
+    "10": [
+      73028
+    ]
+  },
+  "name": "Hole",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4386,
+      6434
+    ],
+    [
+      4382,
+      8478
+    ],
+    [
+      4378,
+      10522
+    ],
+    [
+      4376,
+      12568
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

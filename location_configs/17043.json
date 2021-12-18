@@ -1,0 +1,22 @@
+{
+  "id": 17043,
+  "models": {
+    "10": [
+      114113,
+      114114
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

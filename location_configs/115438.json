@@ -1,0 +1,30 @@
+{
+  "id": 115438,
+  "models": {
+    "10": [
+      113559
+    ]
+  },
+  "name": "Telescope",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

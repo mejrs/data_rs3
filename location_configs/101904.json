@@ -1,0 +1,14 @@
+{
+  "id": 101904,
+  "models": {
+    "10": [
+      102353,
+      102350
+    ]
+  },
+  "name": "Mask of delirium",
+  "unknown_19": 1,
+  "ambient": 25,
+  "translate_x": 64,
+  "occludes_2": false
+}

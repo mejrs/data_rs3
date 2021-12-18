@@ -1,0 +1,25 @@
+{
+  "id": 78973,
+  "models": {
+    "10": [
+      64861
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
+  "unknown_81": 80,
+  "mapscene": 1,
+  "occludes_2": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 74294,
+  "models": {
+    "10": [
+      72297
+    ]
+  },
+  "name": "Gate",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 70,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

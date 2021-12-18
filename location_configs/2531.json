@@ -1,0 +1,20 @@
+{
+  "id": 2531,
+  "models": {
+    "10": [
+      11448
+    ]
+  },
+  "name": "Mud patch",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

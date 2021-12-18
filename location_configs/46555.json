@@ -1,0 +1,28 @@
+{
+  "id": 46555,
+  "models": {
+    "10": [
+      50137
+    ]
+  },
+  "name": "Table",
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

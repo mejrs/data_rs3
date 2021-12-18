@@ -1,0 +1,19 @@
+{
+  "id": 13379,
+  "models": {
+    "10": [
+      12474
+    ]
+  },
+  "name": "Treasure Hunt Fairy House",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

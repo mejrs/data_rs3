@@ -1,0 +1,20 @@
+{
+  "id": 107359,
+  "models": {
+    "10": [
+      117659
+    ]
+  },
+  "name": "Altar of Restoration",
+  "ambient": 20,
+  "actions": [
+    "Sacrifice",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "mapfunction": 594
+}

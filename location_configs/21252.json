@@ -1,0 +1,16 @@
+{
+  "id": 21252,
+  "models": {
+    "10": [
+      46026
+    ]
+  },
+  "name": "Ur-tag",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 1741,
+  "ambient": 15,
+  "contrast": 25,
+  "occludes_2": false
+}

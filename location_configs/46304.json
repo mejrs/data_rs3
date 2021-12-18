@@ -1,0 +1,23 @@
+{
+  "id": 46304,
+  "models": {
+    "10": [
+      49765,
+      49764
+    ]
+  },
+  "name": "Conveyor belt hopper",
+  "dim_y": 2,
+  "unknown_24": 12402,
+  "ambient": 10,
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "member_actions": [
+    "Load-logs (many)",
+    "Load-log",
+    null,
+    null,
+    null
+  ]
+}

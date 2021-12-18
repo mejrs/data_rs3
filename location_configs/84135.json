@@ -1,0 +1,14 @@
+{
+  "id": 84135,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "morphs_1": {
+    "varbit": 18405,
+    "ids": [
+      84200,
+      84201
+    ]
+  },
+  "unknown_188": true
+}

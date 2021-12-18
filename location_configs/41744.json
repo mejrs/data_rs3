@@ -1,0 +1,15 @@
+{
+  "id": 41744,
+  "models": {
+    "10": [
+      45260,
+      45259
+    ]
+  },
+  "name": "Sleigh",
+  "unknown_24": 11054,
+  "ambient": 15,
+  "contrast": 25,
+  "unknown_89": false,
+  "occludes_2": false
+}

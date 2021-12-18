@@ -1,0 +1,28 @@
+{
+  "id": 97447,
+  "models": {
+    "10": [
+      104663
+    ]
+  },
+  "name": "Cave entrance",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  }
+}

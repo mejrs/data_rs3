@@ -1,0 +1,12 @@
+{
+  "id": 79616,
+  "models": {
+    "10": [
+      80317
+    ]
+  },
+  "name": "Cauldron",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

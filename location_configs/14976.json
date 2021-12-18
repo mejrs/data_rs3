@@ -1,0 +1,14 @@
+{
+  "id": 14976,
+  "models": {
+    "10": [
+      14948
+    ]
+  },
+  "name": "Claw",
+  "unknown_17": false,
+  "unknown_24": 3998,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 37245,
+  "models": {
+    "10": [
+      36383
+    ]
+  },
+  "name": "Door",
+  "unknown_22": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

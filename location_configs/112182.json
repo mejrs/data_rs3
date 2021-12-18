@@ -1,0 +1,29 @@
+{
+  "id": 112182,
+  "models": {
+    "10": [
+      65960
+    ]
+  },
+  "name": "Chicken egg",
+  "unknown_17": false,
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      55232,
+      5783
+    ],
+    [
+      22464,
+      5783
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 48028,
+  "models": {
+    "10": [
+      51503
+    ]
+  },
+  "name": "Empty reservoir",
+  "dim_x": 9,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

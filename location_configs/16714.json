@@ -1,0 +1,12 @@
+{
+  "id": 16714,
+  "models": {
+    "10": [
+      16668
+    ]
+  },
+  "name": "Bags for sale",
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

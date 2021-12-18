@@ -1,0 +1,26 @@
+{
+  "id": 3093,
+  "models": {
+    "10": [
+      3250
+    ]
+  },
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 15446,
+  "ambient": 60,
+  "contrast": 60,
+  "colours": [
+    [
+      6932,
+      6689
+    ],
+    [
+      7626,
+      2485
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 110028,
+  "models": {
+    "10": [
+      1470,
+      1763
+    ]
+  },
+  "name": "Big Chinchompa portal (inactive)",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    "Search",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    56,
+    null,
+    null,
+    null
+  ]
+}

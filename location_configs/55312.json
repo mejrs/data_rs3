@@ -1,0 +1,19 @@
+{
+  "id": 55312,
+  "models": {
+    "10": [
+      2476
+    ]
+  },
+  "name": "Feather",
+  "unknown_17": false,
+  "ambient": 40,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

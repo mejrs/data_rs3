@@ -1,0 +1,26 @@
+{
+  "id": 11592,
+  "models": {
+    "10": [
+      9444
+    ]
+  },
+  "name": "Damaged statue",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 2653,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Topple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

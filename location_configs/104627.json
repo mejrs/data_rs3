@@ -1,0 +1,25 @@
+{
+  "id": 104627,
+  "models": {
+    "10": [
+      113575
+    ]
+  },
+  "name": "Nomad's Bounty",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

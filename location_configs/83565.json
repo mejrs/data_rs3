@@ -1,0 +1,22 @@
+{
+  "id": 83565,
+  "models": {
+    "0": [
+      85247
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "unknown_170": 1191
+}

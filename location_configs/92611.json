@@ -1,0 +1,21 @@
+{
+  "id": 92611,
+  "models": {
+    "10": [
+      98626
+    ]
+  },
+  "name": "Prifddinas monument",
+  "dim_x": 8,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

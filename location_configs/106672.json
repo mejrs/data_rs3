@@ -1,0 +1,21 @@
+{
+  "id": 106672,
+  "models": {
+    "10": [
+      117216
+    ]
+  },
+  "name": "Candy floss machine",
+  "unknown_19": 1,
+  "unknown_24": 30332,
+  "unknown_27": false,
+  "actions": [
+    "Twirl sugar",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

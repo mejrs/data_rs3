@@ -1,0 +1,43 @@
+{
+  "id": 32066,
+  "models": {
+    "10": [
+      23483
+    ]
+  },
+  "name": "Fungus",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10442,
+      6430
+    ],
+    [
+      8390,
+      8356
+    ],
+    [
+      8379,
+      8366
+    ],
+    [
+      8369,
+      8371
+    ],
+    [
+      7341,
+      8376
+    ],
+    [
+      7333,
+      8386
+    ]
+  ],
+  "scale_x": 96,
+  "scale_y": 96,
+  "scale_z": 96,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 113287,
+  "models": {
+    "10": [
+      73028
+    ]
+  },
+  "name": "Mound of dirt",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

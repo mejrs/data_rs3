@@ -1,0 +1,19 @@
+{
+  "id": 9385,
+  "models": {
+    "10": [
+      64134,
+      64186
+    ]
+  },
+  "name": "Swamp tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 60092,
+  "models": {
+    "10": [
+      40215
+    ]
+  },
+  "name": "Dragon",
+  "dim_x": 14,
+  "dim_y": 24,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 8327,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

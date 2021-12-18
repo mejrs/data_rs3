@@ -1,0 +1,17 @@
+{
+  "id": 19086,
+  "models": {
+    "10": [
+      19218,
+      19217
+    ]
+  },
+  "name": "Decorations box",
+  "colours": [
+    [
+      55192,
+      43301
+    ]
+  ],
+  "occludes_2": false
+}

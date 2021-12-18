@@ -1,0 +1,14 @@
+{
+  "id": 81831,
+  "models": {
+    "10": [
+      81576
+    ]
+  },
+  "name": "Mammoth head",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

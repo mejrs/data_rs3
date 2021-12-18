@@ -1,0 +1,17 @@
+{
+  "id": 83447,
+  "models": {
+    "0": [
+      85151
+    ]
+  },
+  "name": "Battlements",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "3204": 3206,
+    "3210": 3208
+  }
+}

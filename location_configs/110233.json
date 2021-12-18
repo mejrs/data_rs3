@@ -1,0 +1,24 @@
+{
+  "id": 110233,
+  "models": {
+    "10": [
+      88764,
+      7064
+    ]
+  },
+  "name": "Sink",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  }
+}

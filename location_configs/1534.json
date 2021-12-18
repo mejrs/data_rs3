@@ -1,0 +1,30 @@
+{
+  "id": 1534,
+  "models": {
+    "0": [
+      14928
+    ],
+    "9": [
+      14929
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5656,
+      4762
+    ]
+  ],
+  "unknown_44": 16,
+  "unknown_75": 0,
+  "unknown_170": 960
+}

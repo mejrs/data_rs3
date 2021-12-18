@@ -1,0 +1,36 @@
+{
+  "id": 67569,
+  "models": {
+    "10": [
+      35010
+    ]
+  },
+  "name": "Cliffside hole",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

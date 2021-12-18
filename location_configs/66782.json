@@ -1,0 +1,14 @@
+{
+  "id": 66782,
+  "models": {
+    "10": [
+      44738
+    ]
+  },
+  "name": "Statue of a king",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

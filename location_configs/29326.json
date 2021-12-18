@@ -1,0 +1,27 @@
+{
+  "id": 29326,
+  "models": {
+    "10": [
+      64023,
+      64053
+    ]
+  },
+  "name": "Cannon base desk",
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

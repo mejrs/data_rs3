@@ -1,0 +1,68 @@
+{
+  "id": 49220,
+  "models": {
+    "10": [
+      19924,
+      19923
+    ]
+  },
+  "name": "Spirit tree",
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      2857,
+      5525
+    ],
+    [
+      2861,
+      5529
+    ],
+    [
+      2865,
+      5533
+    ],
+    [
+      2869,
+      5537
+    ],
+    [
+      228,
+      5529
+    ],
+    [
+      2849,
+      5525
+    ]
+  ],
+  "textures": {
+    "2191": 2202,
+    "2192": 2206,
+    "2205": 2209
+  },
+  "model": false,
+  "unknown_81": 32,
+  "mapscene": 0,
+  "occludes_2": false,
+  "member_actions": [
+    "Talk-to",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "unknown_189": true,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

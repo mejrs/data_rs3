@@ -1,0 +1,28 @@
+{
+  "id": 24192,
+  "models": {
+    "4": [
+      25166
+    ]
+  },
+  "name": "Combat Scroll",
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

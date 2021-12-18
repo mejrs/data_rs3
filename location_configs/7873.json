@@ -1,0 +1,20 @@
+{
+  "id": 7873,
+  "models": {
+    "10": [
+      7852,
+      7767,
+      7783
+    ]
+  },
+  "name": "Marigold",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

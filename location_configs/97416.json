@@ -1,0 +1,27 @@
+{
+  "id": 97416,
+  "models": {
+    "10": [
+      104476
+    ]
+  },
+  "name": "Wizards' Sandtower",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "5423": 11180
+  },
+  "model": false,
+  "unknown_81": 64,
+  "unknown_88": false,
+  "occludes_2": false
+}

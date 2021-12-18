@@ -1,0 +1,13 @@
+{
+  "id": 28724,
+  "models": {
+    "10": [
+      31675
+    ]
+  },
+  "name": "Inert obelisk",
+  "unknown_24": 8510,
+  "ambient": 10,
+  "contrast": 84,
+  "occludes_2": false
+}

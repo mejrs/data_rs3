@@ -1,0 +1,15 @@
+{
+  "id": 76291,
+  "models": {
+    "10": [
+      76055,
+      76024
+    ]
+  },
+  "name": "Weapons",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 65521,
+  "occludes_2": false
+}

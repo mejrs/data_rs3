@@ -1,0 +1,34 @@
+{
+  "id": 75926,
+  "models": {
+    "10": [
+      76683
+    ]
+  },
+  "name": "Washing line",
+  "dim_x": 6,
+  "unknown_19": 1,
+  "unknown_24": 17675,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Walk across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 5,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

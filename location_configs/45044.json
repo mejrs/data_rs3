@@ -1,0 +1,20 @@
+{
+  "id": 45044,
+  "models": {
+    "22": [
+      48527
+    ]
+  },
+  "name": "Footprints",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

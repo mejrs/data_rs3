@@ -1,0 +1,25 @@
+{
+  "id": 26959,
+  "models": {
+    "10": [
+      25157
+    ]
+  },
+  "name": "Small table",
+  "is_transparent": true,
+  "colours": [
+    [
+      5532,
+      6435
+    ],
+    [
+      5656,
+      6554
+    ],
+    [
+      5652,
+      6550
+    ]
+  ],
+  "occludes_2": false
+}

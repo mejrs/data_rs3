@@ -1,0 +1,27 @@
+{
+  "id": 9024,
+  "models": {
+    "10": [
+      8899
+    ]
+  },
+  "name": "Dense jungle",
+  "is_transparent": true,
+  "unknown_24": 2380,
+  "colours": [
+    [
+      6825,
+      7060
+    ],
+    [
+      6585,
+      6817
+    ],
+    [
+      15017,
+      16030
+    ]
+  ],
+  "mapscene": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 76472,
+  "models": {
+    "10": [
+      76278
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 109056,
+  "models": {
+    "10": [
+      118926
+    ]
+  },
+  "name": "Shifting tombs",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    "Travel Merchant District",
+    "Travel Ports District",
+    "Travel Worker District",
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

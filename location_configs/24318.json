@@ -1,0 +1,22 @@
+{
+  "id": 24318,
+  "models": {
+    "10": [
+      1149
+    ]
+  },
+  "name": "Bath screen",
+  "dim_y": 2,
+  "ambient": 25,
+  "colours": [
+    [
+      6032,
+      7954
+    ],
+    [
+      0,
+      7587
+    ]
+  ],
+  "occludes_2": false
+}

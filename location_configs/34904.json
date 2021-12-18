@@ -1,0 +1,33 @@
+{
+  "id": 34904,
+  "models": {
+    "10": [
+      64400
+    ]
+  },
+  "name": "Climbing pegs",
+  "dim_x": 4,
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 240,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

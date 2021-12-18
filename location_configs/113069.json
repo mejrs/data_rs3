@@ -1,0 +1,74 @@
+{
+  "id": 113069,
+  "models": {
+    "10": [
+      73994,
+      74054,
+      73987
+    ]
+  },
+  "name": "Orichalcite rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      2346
+    ],
+    [
+      3135,
+      3366
+    ],
+    [
+      3127,
+      3359
+    ],
+    [
+      2109,
+      2341
+    ],
+    [
+      3143,
+      2221
+    ],
+    [
+      54994,
+      931
+    ],
+    [
+      54858,
+      941
+    ],
+    [
+      54991,
+      951
+    ],
+    [
+      54856,
+      961
+    ]
+  ],
+  "textures": {
+    "322": 10865,
+    "1304": 10855
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

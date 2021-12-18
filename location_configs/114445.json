@@ -1,0 +1,38 @@
+{
+  "id": 114445,
+  "models": {
+    "10": [
+      82105,
+      7767
+    ]
+  },
+  "name": "Golden dragonfruit cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      15655,
+      9893
+    ],
+    [
+      15652,
+      10004
+    ],
+    [
+      13360,
+      61615
+    ]
+  ],
+  "textures": {
+    "11695": 11699
+  },
+  "model": false,
+  "occludes_2": false
+}

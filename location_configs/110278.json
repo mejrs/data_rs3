@@ -1,0 +1,30 @@
+{
+  "id": 110278,
+  "models": {
+    "10": [
+      69602,
+      69601
+    ]
+  },
+  "name": "Fire",
+  "unknown_19": 1,
+  "ambient": 75,
+  "actions": [
+    "Cook on",
+    "Add logs to",
+    "Configure",
+    null,
+    null
+  ],
+  "contrast": 75,
+  "occludes_2": false,
+  "unknown_104": 100,
+  "cursors": [
+    64,
+    65,
+    155,
+    null,
+    null,
+    null
+  ]
+}

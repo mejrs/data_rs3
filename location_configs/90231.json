@@ -1,0 +1,40 @@
+{
+  "id": 90231,
+  "models": {
+    "10": [
+      94120,
+      94124
+    ]
+  },
+  "name": "Divine rocktail bubble",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 22901,
+  "ambient": 25,
+  "actions": [
+    "Fish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 39215,
+    "unknown_2": 10
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_104": 30,
+  "unknown_1": 230,
+  "unknown_2": 270,
+  "unknown_189": true,
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

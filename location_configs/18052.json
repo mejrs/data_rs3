@@ -1,0 +1,26 @@
+{
+  "id": 18052,
+  "models": {
+    "10": [
+      17883
+    ]
+  },
+  "name": "Broken rune case",
+  "ambient": 20,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

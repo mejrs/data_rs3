@@ -1,0 +1,40 @@
+{
+  "id": 56654,
+  "models": {
+    "10": [
+      62170
+    ]
+  },
+  "name": "Blue vine blossom",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      48666,
+      43553
+    ],
+    [
+      48654,
+      43548
+    ],
+    [
+      48670,
+      43556
+    ],
+    [
+      48675,
+      43558
+    ]
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "unknown_44": 30,
+  "occludes_2": false
+}

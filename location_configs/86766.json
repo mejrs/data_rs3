@@ -1,0 +1,35 @@
+{
+  "id": 86766,
+  "models": {
+    "10": [
+      89133
+    ]
+  },
+  "name": "Cage",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

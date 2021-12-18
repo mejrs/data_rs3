@@ -1,0 +1,32 @@
+{
+  "id": 20753,
+  "models": {
+    "0": [
+      49654
+    ]
+  },
+  "name": "Crevice",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Climb-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

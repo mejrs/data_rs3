@@ -1,0 +1,42 @@
+{
+  "id": 22507,
+  "models": {
+    "10": [
+      27832,
+      23196
+    ]
+  },
+  "name": "Hank (sick)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5983,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4550,
+      2242
+    ],
+    [
+      6798,
+      6323
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

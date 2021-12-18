@@ -1,0 +1,30 @@
+{
+  "id": 92397,
+  "models": {
+    "10": [
+      53111
+    ]
+  },
+  "name": "Rope swing",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Swing-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

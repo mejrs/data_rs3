@@ -1,0 +1,30 @@
+{
+  "id": 36000,
+  "models": {
+    "10": [
+      96164
+    ]
+  },
+  "name": "Cave entrance",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

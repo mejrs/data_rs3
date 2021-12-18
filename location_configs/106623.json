@@ -1,0 +1,23 @@
+{
+  "id": 106623,
+  "models": {
+    "10": [
+      117124
+    ]
+  },
+  "name": "Helter skelter",
+  "dim_x": 13,
+  "dim_y": 13,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Help",
+    "Paint using crafting",
+    "Protect with runecrafting",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

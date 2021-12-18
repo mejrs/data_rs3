@@ -1,0 +1,20 @@
+{
+  "id": 114477,
+  "models": {
+    "10": [
+      82484,
+      82573,
+      7768
+    ]
+  },
+  "name": "Carambola tree",
+  "actions": [
+    "Pick-fruit",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

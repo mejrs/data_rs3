@@ -1,0 +1,24 @@
+{
+  "id": 65942,
+  "models": {
+    "10": [
+      26809
+    ]
+  },
+  "name": "Oak Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_81": 80,
+  "occludes_2": false
+}

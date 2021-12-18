@@ -1,0 +1,27 @@
+{
+  "id": 65909,
+  "models": {
+    "10": [
+      26559
+    ]
+  },
+  "name": "Timmy's Toy Chest",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

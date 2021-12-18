@@ -1,0 +1,15 @@
+{
+  "id": 82229,
+  "models": {
+    "10": [
+      83398,
+      83390
+    ]
+  },
+  "name": "Medium lamp",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

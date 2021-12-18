@@ -1,0 +1,45 @@
+{
+  "id": 109415,
+  "models": {
+    "10": [
+      37392,
+      37431
+    ]
+  },
+  "name": "Menaphos lodestone",
+  "unknown_19": 1,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4158,
+      5430
+    ],
+    [
+      4149,
+      5422
+    ],
+    [
+      4153,
+      5425
+    ],
+    [
+      4161,
+      5432
+    ]
+  ],
+  "textures": {
+    "322": 10024,
+    "326": 8872
+  },
+  "unknown_44": 120,
+  "translate_y": 6,
+  "unknown_81": 32,
+  "occludes_2": false,
+  "unknown_196": 4
+}

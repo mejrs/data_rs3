@@ -1,0 +1,39 @@
+{
+  "id": 102280,
+  "models": {
+    "10": [
+      111592
+    ]
+  },
+  "name": "Mr Puddles",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 100,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65506,
+  "translate_z": 65486,
+  "unknown_79": {
+    "unknown_1": 300,
+    "unknown_2": 450,
+    "unknown_3": 10,
+    "values": [
+      14073,
+      2901
+    ]
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

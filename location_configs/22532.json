@@ -1,0 +1,12 @@
+{
+  "id": 22532,
+  "models": {
+    "10": [
+      23205
+    ]
+  },
+  "name": "Empty clothes",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

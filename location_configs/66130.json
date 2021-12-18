@@ -1,0 +1,56 @@
+{
+  "id": 66130,
+  "models": {
+    "10": [
+      48996
+    ]
+  },
+  "name": "Stile",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5400,
+      8464
+    ],
+    [
+      5396,
+      8460
+    ],
+    [
+      5392,
+      8458
+    ],
+    [
+      5390,
+      8456
+    ],
+    [
+      5388,
+      8454
+    ]
+  ],
+  "unknown_75": 0,
+  "mapscene": 70,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

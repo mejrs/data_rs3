@@ -1,0 +1,33 @@
+{
+  "id": 44238,
+  "models": {
+    "10": [
+      47917
+    ]
+  },
+  "name": "Pedestal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 11927,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

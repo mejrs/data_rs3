@@ -1,0 +1,37 @@
+{
+  "id": 24168,
+  "models": {
+    "10": [
+      14747
+    ]
+  },
+  "name": "Dying tree",
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      11024,
+      7587
+    ],
+    [
+      11148,
+      7706
+    ]
+  ],
+  "unknown_44": 5,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

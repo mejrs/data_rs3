@@ -1,0 +1,25 @@
+{
+  "id": 45822,
+  "models": {
+    "22": [
+      42502
+    ]
+  },
+  "name": "Scrolls",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5563,
+      80
+    ],
+    [
+      5665,
+      55
+    ]
+  ],
+  "occludes_2": false
+}

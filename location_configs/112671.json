@@ -1,0 +1,27 @@
+{
+  "id": 112671,
+  "models": {
+    "10": [
+      97100,
+      69010,
+      69011,
+      69012
+    ]
+  },
+  "name": "Crate of explosives",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Contribute",
+    "Create explosive vials with Herblore",
+    "Reinforce explosive vials with Smithing",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 112646,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Explore",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 80,
+  "translate_z": 60,
+  "unknown_88": false,
+  "morphs_2": {
+    "varbit": 42571,
+    "ids": [
+      112665,
+      112647
+    ],
+    "default": 112665
+  },
+  "unknown_186": 0
+}

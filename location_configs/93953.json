@@ -1,0 +1,13 @@
+{
+  "id": 93953,
+  "models": {
+    "10": [
+      99577
+    ]
+  },
+  "name": "An unusual dragon head",
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_z": 65408,
+  "occludes_2": false
+}

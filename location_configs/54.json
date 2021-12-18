@@ -1,0 +1,55 @@
+{
+  "id": 54,
+  "models": {
+    "10": [
+      14360
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      7580
+    ],
+    [
+      37,
+      7704
+    ],
+    [
+      33,
+      7700
+    ],
+    [
+      28,
+      7952
+    ],
+    [
+      24,
+      8076
+    ],
+    [
+      49,
+      7461
+    ]
+  ],
+  "unknown_69": 11,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

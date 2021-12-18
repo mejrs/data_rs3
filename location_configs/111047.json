@@ -1,0 +1,23 @@
+{
+  "id": 111047,
+  "models": {
+    "10": [
+      118
+    ]
+  },
+  "name": "Crate of diving gear",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Equip gear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 34281,
+  "models": {
+    "10": [
+      38290
+    ]
+  },
+  "name": "Profound Castle Wars armour",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 61755,
+  "models": {
+    "22": [
+      64221
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6431,
+      4502
+    ]
+  ],
+  "textures": {
+    "1861": 1510
+  },
+  "model": false,
+  "translate_y": 65533,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 3
+}

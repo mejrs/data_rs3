@@ -1,0 +1,27 @@
+{
+  "id": 72879,
+  "models": {
+    "10": [
+      69904
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10768,
+      34194
+    ]
+  ],
+  "model": false,
+  "scale_x": 96,
+  "scale_z": 96,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

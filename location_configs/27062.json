@@ -1,0 +1,53 @@
+{
+  "id": 27062,
+  "models": {
+    "10": [
+      28965,
+      28969
+    ]
+  },
+  "name": "Wild jade vine",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Attack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12833,
+      8862
+    ],
+    [
+      65453,
+      3924
+    ],
+    [
+      2526,
+      3784
+    ],
+    [
+      65339,
+      3643
+    ],
+    [
+      65453,
+      3759
+    ]
+  ],
+  "unknown_44": 61,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    42,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 116497,
+  "models": {
+    "10": [
+      89758,
+      89759
+    ]
+  },
+  "name": "Sconce",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Light torch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "unknown_196": 4
+}

@@ -1,0 +1,31 @@
+{
+  "id": 30262,
+  "models": {
+    "10": [
+      33687
+    ]
+  },
+  "name": "Wooden doors",
+  "unknown_22": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1830": 2321
+  },
+  "mirror": true,
+  "scale_y": 160,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

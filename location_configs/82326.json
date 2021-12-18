@@ -1,0 +1,23 @@
+{
+  "id": 82326,
+  "models": {
+    "22": [
+      1105
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_79": {
+    "unknown_1": 300,
+    "unknown_2": 600,
+    "unknown_3": 20,
+    "values": [
+      25814,
+      25790,
+      25812,
+      25811
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_198": true
+}

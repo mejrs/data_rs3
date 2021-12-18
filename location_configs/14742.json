@@ -1,0 +1,52 @@
+{
+  "id": 14742,
+  "models": {
+    "10": [
+      7700
+    ]
+  },
+  "name": "Pile of Crates",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      7706
+    ],
+    [
+      6439,
+      7830
+    ],
+    [
+      6563,
+      7954
+    ],
+    [
+      6558,
+      8078
+    ],
+    [
+      6682,
+      6028
+    ],
+    [
+      6806,
+      5002
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

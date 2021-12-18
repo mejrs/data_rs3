@@ -1,0 +1,23 @@
+{
+  "id": 90317,
+  "models": {
+    "10": [
+      95567,
+      95563,
+      95562
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 23387,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

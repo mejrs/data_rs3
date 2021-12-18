@@ -1,0 +1,23 @@
+{
+  "id": 81226,
+  "models": {
+    "10": [
+      81862,
+      81840
+    ]
+  },
+  "name": "Bar",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Get-beer",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

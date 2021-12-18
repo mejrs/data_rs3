@@ -1,0 +1,29 @@
+{
+  "id": 4461,
+  "models": {
+    "10": [
+      57776
+    ]
+  },
+  "name": "Bernard",
+  "unknown_24": 14197,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Talk-to",
+    "Assign",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 69870,
+  "models": {
+    "10": [
+      37392,
+      37431
+    ]
+  },
+  "name": "Yanille lodestone",
+  "unknown_19": 1,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "322": 10023,
+    "326": 2771
+  },
+  "unknown_81": 32,
+  "occludes_2": false,
+  "unknown_196": 4
+}

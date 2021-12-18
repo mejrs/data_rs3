@@ -1,0 +1,15 @@
+{
+  "id": 10955,
+  "models": {
+    "10": [
+      10903
+    ]
+  },
+  "name": "Headless statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

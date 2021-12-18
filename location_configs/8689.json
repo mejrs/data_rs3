@@ -1,0 +1,31 @@
+{
+  "id": 8689,
+  "models": {
+    "10": [
+      95125
+    ]
+  },
+  "name": "Dairy cow",
+  "dim_y": 2,
+  "unknown_24": 22120,
+  "ambient": 20,
+  "actions": [
+    "Milk",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Steal-cowbell",
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1,
+  "unknown_202": 3
+}

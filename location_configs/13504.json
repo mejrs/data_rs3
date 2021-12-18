@@ -1,0 +1,41 @@
+{
+  "id": 13504,
+  "models": {
+    "10": [
+      11263
+    ]
+  },
+  "name": "Red barrier (Woodcutting)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      976
+    ],
+    [
+      31676,
+      956
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

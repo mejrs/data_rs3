@@ -1,0 +1,19 @@
+{
+  "id": 86691,
+  "unknown_17": false,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "morphs_2": {
+    "varbit": 19970,
+    "ids": [
+      86681,
+      86686
+    ],
+    "default": 86681
+  },
+  "mapscene": 9
+}

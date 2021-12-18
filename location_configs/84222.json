@@ -1,0 +1,22 @@
+{
+  "id": 84222,
+  "models": {
+    "10": [
+      85907,
+      7767,
+      7783
+    ]
+  },
+  "name": "Butterfly flower plant",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

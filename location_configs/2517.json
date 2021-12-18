@@ -1,0 +1,32 @@
+{
+  "id": 2517,
+  "models": {
+    "10": [
+      4326
+    ]
+  },
+  "name": "Table",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5559,
+      8460
+    ],
+    [
+      5679,
+      8456
+    ],
+    [
+      5675,
+      8454
+    ],
+    [
+      5799,
+      8450
+    ]
+  ],
+  "occludes_2": false
+}

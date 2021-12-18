@@ -1,0 +1,13 @@
+{
+  "id": 107365,
+  "models": {
+    "10": [
+      117661
+    ]
+  },
+  "name": "Mysterious fountain",
+  "ambient": 20,
+  "contrast": 10,
+  "occludes_2": false,
+  "mapfunction": 594
+}

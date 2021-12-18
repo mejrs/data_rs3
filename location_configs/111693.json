@@ -1,0 +1,13 @@
+{
+  "id": 111693,
+  "models": {
+    "10": [
+      45591
+    ]
+  },
+  "name": "Machinery",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false,
+  "unknown_196": 3
+}

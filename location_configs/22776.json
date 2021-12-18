@@ -1,0 +1,12 @@
+{
+  "id": 22776,
+  "models": {
+    "10": [
+      23460
+    ]
+  },
+  "name": "Barrier",
+  "unknown_19": 1,
+  "ambient": 15,
+  "occludes_2": false
+}

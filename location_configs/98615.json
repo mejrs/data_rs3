@@ -1,0 +1,24 @@
+{
+  "id": 98615,
+  "models": {
+    "10": [
+      106298,
+      106299
+    ]
+  },
+  "name": "Bloodletter",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "translate_y": 65406,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 49275,
+  "models": {
+    "10": [
+      54809
+    ]
+  },
+  "name": "Red lodestone",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Charge",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 120,
+  "occludes_2": false,
+  "cursors": [
+    169,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

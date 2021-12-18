@@ -1,0 +1,74 @@
+{
+  "id": 113204,
+  "models": {
+    "10": [
+      73994,
+      74121,
+      73987
+    ]
+  },
+  "name": "Banite rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      1056
+    ],
+    [
+      3135,
+      2075
+    ],
+    [
+      3127,
+      3098
+    ],
+    [
+      2109,
+      4115
+    ],
+    [
+      3143,
+      3100
+    ],
+    [
+      54994,
+      43140
+    ],
+    [
+      54858,
+      43150
+    ],
+    [
+      54991,
+      43160
+    ],
+    [
+      54856,
+      43170
+    ]
+  ],
+  "textures": {
+    "322": 10872,
+    "1304": 10876
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 463,
+  "models": {
+    "10": [
+      2163
+    ]
+  },
+  "name": "Mossy rock",
+  "is_transparent": true,
+  "mapscene": 12,
+  "occludes_2": false
+}

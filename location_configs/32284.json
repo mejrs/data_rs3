@@ -1,0 +1,18 @@
+{
+  "id": 32284,
+  "models": {
+    "10": [
+      1150
+    ]
+  },
+  "name": "Shelves",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      6554
+    ]
+  ],
+  "occludes_2": false
+}

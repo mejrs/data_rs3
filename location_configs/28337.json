@@ -1,0 +1,15 @@
+{
+  "id": 28337,
+  "models": {
+    "10": [
+      30398
+    ]
+  },
+  "name": "Cat basket",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

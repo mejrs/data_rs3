@@ -1,0 +1,19 @@
+{
+  "id": 58482,
+  "models": {
+    "10": [
+      25712
+    ]
+  },
+  "name": "Clan Logo",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "735": 735
+  },
+  "occludes_2": false,
+  "unknown_177": true,
+  "unknown_196": 3
+}

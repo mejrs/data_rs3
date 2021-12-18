@@ -1,0 +1,17 @@
+{
+  "id": 105834,
+  "models": {
+    "10": [
+      115442
+    ]
+  },
+  "name": "Mural",
+  "dim_x": 13,
+  "dim_y": 21,
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,28 @@
+{
+  "id": 110842,
+  "models": {
+    "10": [
+      113426
+    ]
+  },
+  "name": "Barrel of fish",
+  "unknown_27": false,
+  "ambient": 125,
+  "actions": [
+    "Search",
+    "Quick-search",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

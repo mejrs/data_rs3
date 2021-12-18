@@ -1,0 +1,28 @@
+{
+  "id": 3945,
+  "models": {
+    "10": [
+      3996
+    ]
+  },
+  "name": "Huge Gate",
+  "dim_x": 2,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

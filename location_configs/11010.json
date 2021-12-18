@@ -1,0 +1,65 @@
+{
+  "id": 11010,
+  "models": {
+    "10": [
+      10996,
+      11000,
+      10997,
+      10999
+    ]
+  },
+  "name": "Furnace",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 3106,
+  "ambient": 25,
+  "actions": [
+    "Smelt",
+    "Deposit-All (Into Metal Bank)",
+    "Withdraw-All (From Metal Bank)",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      13716,
+      7618
+    ],
+    [
+      13840,
+      7609
+    ],
+    [
+      13964,
+      6707
+    ],
+    [
+      14216,
+      6703
+    ],
+    [
+      15238,
+      7595
+    ],
+    [
+      0,
+      7715
+    ]
+  ],
+  "unknown_69": 11,
+  "unknown_78": {
+    "unknown_1": 3474,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

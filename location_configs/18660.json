@@ -1,0 +1,13 @@
+{
+  "id": 18660,
+  "models": {
+    "10": [
+      18831
+    ]
+  },
+  "name": "Water tank",
+  "dim_x": 5,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 84966,
+  "models": {
+    "10": [
+      86728,
+      86695
+    ]
+  },
+  "name": "Debris",
+  "dim_x": 10,
+  "dim_y": 10,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 20375,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "occludes_2": false
+}

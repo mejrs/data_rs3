@@ -1,0 +1,21 @@
+{
+  "id": 1782,
+  "models": {
+    "10": [
+      49380,
+      25311
+    ]
+  },
+  "name": "Flour bin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Take-flour",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

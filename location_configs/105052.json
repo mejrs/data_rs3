@@ -1,0 +1,16 @@
+{
+  "id": 105052,
+  "models": {
+    "10": [
+      115136
+    ]
+  },
+  "name": "Tethered ox",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 5852,
+  "unknown_27": false,
+  "ambient": 20,
+  "model": false,
+  "occludes_2": false
+}

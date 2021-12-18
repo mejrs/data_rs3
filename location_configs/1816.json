@@ -1,0 +1,24 @@
+{
+  "id": 1816,
+  "models": {
+    "10": [
+      77876
+    ]
+  },
+  "name": "Artefact",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter lair",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "translate_z": 65472,
+  "occludes_2": false
+}

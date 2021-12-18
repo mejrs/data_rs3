@@ -1,0 +1,29 @@
+{
+  "id": 30018,
+  "models": {
+    "10": [
+      32760,
+      25342,
+      25343
+    ]
+  },
+  "name": "Display case",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

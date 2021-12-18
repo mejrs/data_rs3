@@ -1,0 +1,20 @@
+{
+  "id": 110892,
+  "models": {
+    "10": [
+      111707
+    ]
+  },
+  "name": "Stack of books",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

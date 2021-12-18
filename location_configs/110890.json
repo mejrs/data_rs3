@@ -1,0 +1,29 @@
+{
+  "id": 110890,
+  "models": {
+    "10": [
+      113432
+    ]
+  },
+  "name": "House",
+  "dim_x": 11,
+  "dim_y": 5,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Knock-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "3183": 7394,
+    "3629": 7396,
+    "3653": 7395
+  },
+  "model": false,
+  "translate_y": 30,
+  "occludes_2": false,
+  "unknown_186": 0
+}

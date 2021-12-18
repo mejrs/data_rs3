@@ -1,0 +1,24 @@
+{
+  "id": 8453,
+  "models": {
+    "10": [
+      101521,
+      101506,
+      7768
+    ]
+  },
+  "name": "Diseased Maple",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "64": 70
+  },
+  "unknown_88": false,
+  "occludes_2": false
+}

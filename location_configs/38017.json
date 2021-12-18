@@ -1,0 +1,22 @@
+{
+  "id": 38017,
+  "models": {
+    "10": [
+      8031,
+      7768
+    ]
+  },
+  "name": "Avocado seedling",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

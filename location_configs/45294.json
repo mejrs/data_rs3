@@ -1,0 +1,30 @@
+{
+  "id": 45294,
+  "models": {
+    "10": [
+      48746
+    ]
+  },
+  "name": "Broken stairs",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5408,
+      5400
+    ],
+    [
+      5404,
+      5395
+    ],
+    [
+      5396,
+      5390
+    ]
+  ],
+  "occludes_2": false
+}

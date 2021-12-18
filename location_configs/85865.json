@@ -1,0 +1,45 @@
+{
+  "id": 85865,
+  "models": {
+    "22": [
+      87842
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      6705
+    ],
+    [
+      7700,
+      6581
+    ],
+    [
+      8076,
+      6585
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 114797,
+  "models": {
+    "10": [
+      85084
+    ]
+  },
+  "name": "Statue of War",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "model": false,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "occludes_2": false
+}

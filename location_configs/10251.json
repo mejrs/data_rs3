@@ -1,0 +1,38 @@
+{
+  "id": 10251,
+  "models": {
+    "10": [
+      6194,
+      6195
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 3,
+  "unknown_24": 2878,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      49,
+      20
+    ],
+    [
+      41,
+      16
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

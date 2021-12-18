@@ -1,0 +1,15 @@
+{
+  "id": 104945,
+  "models": {
+    "10": [
+      82081
+    ]
+  },
+  "name": "Powder barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

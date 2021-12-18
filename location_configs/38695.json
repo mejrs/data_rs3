@@ -1,0 +1,53 @@
+{
+  "id": 38695,
+  "models": {
+    "10": [
+      11233,
+      12636
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 3174,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Escape",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      50072,
+      17057
+    ],
+    [
+      49948,
+      17059
+    ],
+    [
+      49953,
+      17064
+    ],
+    [
+      49829,
+      17069
+    ],
+    [
+      49705,
+      17074
+    ]
+  ],
+  "unknown_75": 0,
+  "unknown_78": {
+    "unknown_1": 1686,
+    "unknown_2": 4
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 100
+}

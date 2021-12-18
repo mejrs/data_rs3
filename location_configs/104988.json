@@ -1,0 +1,26 @@
+{
+  "id": 104988,
+  "models": {
+    "10": [
+      114949
+    ]
+  },
+  "name": "Broom",
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

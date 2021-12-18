@@ -1,0 +1,55 @@
+{
+  "id": 37650,
+  "models": {
+    "10": [
+      65250
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      10309,
+      32
+    ],
+    [
+      10299,
+      22
+    ],
+    [
+      10283,
+      15
+    ],
+    [
+      10276,
+      10
+    ],
+    [
+      10275,
+      6
+    ],
+    [
+      10251,
+      15
+    ]
+  ],
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

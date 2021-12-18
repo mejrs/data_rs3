@@ -1,0 +1,22 @@
+{
+  "id": 30467,
+  "models": {
+    "10": [
+      33405
+    ]
+  },
+  "name": "Funeral pyre",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 1303,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Prepare",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

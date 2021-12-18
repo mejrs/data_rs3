@@ -1,0 +1,26 @@
+{
+  "id": 29623,
+  "models": {
+    "0": [
+      32431
+    ]
+  },
+  "name": "Tunnel",
+  "ambient": 15,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 12313,
+  "models": {
+    "10": [
+      10188,
+      10250,
+      10248
+    ]
+  },
+  "name": "Offering stone",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Withdraw-all rewards",
+    "Withdraw-X rewards",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1493": 1485,
+    "1527": 1471
+  },
+  "translate_z": 65472,
+  "unknown_95": 0,
+  "occludes_2": false
+}

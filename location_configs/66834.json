@@ -1,0 +1,15 @@
+{
+  "id": 66834,
+  "models": {
+    "10": [
+      35744
+    ]
+  },
+  "name": "Target",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

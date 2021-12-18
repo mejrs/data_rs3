@@ -1,0 +1,15 @@
+{
+  "id": 101932,
+  "models": {
+    "10": [
+      111523
+    ]
+  },
+  "name": "Pile of logs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

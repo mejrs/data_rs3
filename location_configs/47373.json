@@ -1,0 +1,39 @@
+{
+  "id": 47373,
+  "models": {
+    "4": [
+      50965
+    ]
+  },
+  "name": "Lever E",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pull",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      792,
+      48916
+    ],
+    [
+      788,
+      48912
+    ],
+    [
+      784,
+      48908
+    ],
+    [
+      780,
+      48904
+    ]
+  ],
+  "translate_y": 65466,
+  "occludes_2": false
+}

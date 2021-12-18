@@ -1,0 +1,19 @@
+{
+  "id": 119249,
+  "models": {
+    "10": [
+      113426
+    ]
+  },
+  "name": "Barrel of fish",
+  "ambient": 50,
+  "actions": [
+    "Add putrid odour",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

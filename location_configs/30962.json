@@ -1,0 +1,14 @@
+{
+  "id": 30962,
+  "models": {
+    "10": [
+      33862
+    ]
+  },
+  "name": "Chest",
+  "ambient": 20,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

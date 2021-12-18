@@ -1,0 +1,35 @@
+{
+  "id": 66991,
+  "models": {
+    "10": [
+      53294
+    ]
+  },
+  "name": "Steps",
+  "dim_x": 3,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

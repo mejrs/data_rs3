@@ -1,0 +1,28 @@
+{
+  "id": 113827,
+  "models": {
+    "10": [
+      75445,
+      75377
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Cut",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11396": 11398
+  },
+  "model": false,
+  "unknown_93": 16448,
+  "occludes_2": false,
+  "unknown_196": 4
+}

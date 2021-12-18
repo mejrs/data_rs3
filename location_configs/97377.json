@@ -1,0 +1,25 @@
+{
+  "id": 97377,
+  "models": {
+    "0": [
+      18437,
+      104463
+    ]
+  },
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7582,
+      7484
+    ],
+    [
+      8078,
+      7461
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

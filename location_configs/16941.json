@@ -1,0 +1,14 @@
+{
+  "id": 16941,
+  "models": {
+    "10": [
+      16566
+    ]
+  },
+  "name": "Support",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

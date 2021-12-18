@@ -1,0 +1,17 @@
+{
+  "id": 15914,
+  "models": {
+    "10": [
+      15801,
+      15799,
+      15817,
+      15797
+    ]
+  },
+  "name": "Boiler",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 4239,
+  "mirror": true,
+  "occludes_2": false
+}

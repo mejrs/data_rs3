@@ -1,0 +1,40 @@
+{
+  "id": 19996,
+  "models": {
+    "10": [
+      1101
+    ]
+  },
+  "name": "Buried skeleton",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      10337,
+      10318
+    ]
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

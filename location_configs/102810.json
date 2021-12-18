@@ -1,0 +1,14 @@
+{
+  "id": 102810,
+  "models": {
+    "4": [
+      112150
+    ]
+  },
+  "name": "Charms",
+  "unknown_19": 1,
+  "unknown_24": 468,
+  "ambient": 50,
+  "translate_y": 65481,
+  "occludes_2": false
+}

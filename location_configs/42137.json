@@ -1,0 +1,17 @@
+{
+  "id": 42137,
+  "models": {
+    "10": [
+      26461
+    ]
+  },
+  "name": "A burnt tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_81": 30,
+  "mapscene": 6,
+  "occludes_2": false
+}

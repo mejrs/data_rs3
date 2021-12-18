@@ -1,0 +1,19 @@
+{
+  "id": 27357,
+  "models": {
+    "10": [
+      29306
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_y": 65486,
+  "occludes_2": false
+}

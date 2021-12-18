@@ -1,0 +1,30 @@
+{
+  "id": 42311,
+  "models": {
+    "10": [
+      45551
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 20,
+  "colours": [
+    [
+      138,
+      9
+    ],
+    [
+      144,
+      6
+    ],
+    [
+      152,
+      3
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

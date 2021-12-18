@@ -1,0 +1,45 @@
+{
+  "id": 8409,
+  "models": {
+    "10": [
+      20468
+    ]
+  },
+  "name": "Magic Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_79": {
+    "unknown_1": 250,
+    "unknown_2": 500,
+    "unknown_3": 5,
+    "values": [
+      30770,
+      29310,
+      27410,
+      35534
+    ]
+  },
+  "unknown_81": 32,
+  "unknown_88": false,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_104": 32,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

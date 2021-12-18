@@ -1,0 +1,18 @@
+{
+  "id": 5856,
+  "models": {
+    "10": [
+      5704
+    ]
+  },
+  "name": "Thorny bushes",
+  "actions": [
+    null,
+    null,
+    "Pick-from",
+    null,
+    null
+  ],
+  "unknown_81": 64,
+  "occludes_2": false
+}

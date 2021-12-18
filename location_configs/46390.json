@@ -1,0 +1,19 @@
+{
+  "id": 46390,
+  "models": {
+    "10": [
+      49789
+    ]
+  },
+  "name": "Coal Truck",
+  "ambient": 20,
+  "actions": [
+    "Remove-coal",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

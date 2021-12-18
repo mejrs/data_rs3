@@ -1,0 +1,19 @@
+{
+  "id": 26291,
+  "models": {
+    "10": [
+      28000
+    ]
+  },
+  "name": "Big hole",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 6982,
+  "ambient": 100,
+  "contrast": 20,
+  "model": false,
+  "translate_y": 65408,
+  "occludes_2": false
+}

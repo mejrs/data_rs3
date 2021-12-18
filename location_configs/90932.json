@@ -1,0 +1,13 @@
+{
+  "id": 90932,
+  "models": {
+    "4": [
+      95544,
+      95531
+    ]
+  },
+  "name": "Valve wheel",
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false
+}

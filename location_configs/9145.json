@@ -1,0 +1,14 @@
+{
+  "id": 9145,
+  "models": {
+    "4": [
+      864
+    ]
+  },
+  "name": "Golden lantern",
+  "unknown_19": 1,
+  "unknown_24": 1073,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

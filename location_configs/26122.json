@@ -1,0 +1,42 @@
+{
+  "id": 26122,
+  "models": {
+    "10": [
+      27536
+    ]
+  },
+  "name": "Barrel of flour",
+  "ambient": 20,
+  "actions": [
+    null,
+    "Take From",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5541,
+      5421
+    ],
+    [
+      5665,
+      5413
+    ],
+    [
+      5660,
+      5413
+    ],
+    [
+      5784,
+      5532
+    ],
+    [
+      5904,
+      5532
+    ]
+  ],
+  "unknown_44": 62,
+  "occludes_2": false
+}

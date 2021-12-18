@@ -1,0 +1,20 @@
+{
+  "id": 70324,
+  "models": {
+    "10": [
+      69286
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1516": 1536,
+    "1742": 1843
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_95": 65524,
+  "occludes_2": false,
+  "unknown_196": 3
+}

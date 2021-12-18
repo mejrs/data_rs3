@@ -1,0 +1,31 @@
+{
+  "id": 101588,
+  "models": {
+    "10": [
+      86251,
+      110792
+    ]
+  },
+  "name": "Chocolate bars",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

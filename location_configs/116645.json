@@ -1,0 +1,15 @@
+{
+  "id": 116645,
+  "models": {
+    "10": [
+      85316,
+      85313
+    ]
+  },
+  "name": "Grave marker",
+  "unknown_19": 1,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

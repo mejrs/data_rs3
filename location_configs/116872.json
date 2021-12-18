@@ -1,0 +1,17 @@
+{
+  "id": 116872,
+  "models": {
+    "10": [
+      90734,
+      90924,
+      102821
+    ]
+  },
+  "name": "Virgo sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 33179,
+  "unknown_27": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

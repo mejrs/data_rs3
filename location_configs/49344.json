@@ -1,0 +1,16 @@
+{
+  "id": 49344,
+  "models": {
+    "0": [
+      54913
+    ]
+  },
+  "name": "Barrier",
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ]
+}

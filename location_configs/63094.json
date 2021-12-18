@@ -1,0 +1,34 @@
+{
+  "id": 63094,
+  "models": {
+    "10": [
+      4500
+    ]
+  },
+  "name": "Steps",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 256,
+  "scale_z": 256,
+  "unknown_88": false,
+  "mapscene": 105,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

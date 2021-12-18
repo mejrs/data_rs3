@@ -1,0 +1,27 @@
+{
+  "id": 26964,
+  "models": {
+    "10": [
+      60979
+    ]
+  },
+  "name": "Neverberry bush (withered)",
+  "is_transparent": true,
+  "actions": [
+    "Target",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    42,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

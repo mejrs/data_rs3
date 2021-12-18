@@ -1,0 +1,25 @@
+{
+  "id": 2637,
+  "models": {
+    "0": [
+      634
+    ],
+    "1": [
+      635
+    ],
+    "2": [
+      574
+    ],
+    "3": [
+      575
+    ],
+    "9": [
+      576
+    ]
+  },
+  "is_transparent": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 25
+}

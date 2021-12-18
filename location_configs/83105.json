@@ -1,0 +1,23 @@
+{
+  "id": 83105,
+  "models": {
+    "10": [
+      72094
+    ]
+  },
+  "name": "Knight of Saradomin",
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        406,
+        100
+      ],
+      [
+        410,
+        100
+      ]
+    ]
+  }
+}

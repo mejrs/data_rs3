@@ -1,0 +1,50 @@
+{
+  "id": 17161,
+  "models": {
+    "10": [
+      53103
+    ]
+  },
+  "name": "Door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 21240,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      10273,
+      5415
+    ],
+    [
+      10263,
+      5409
+    ],
+    [
+      10279,
+      5153
+    ]
+  ],
+  "textures": {
+    "810": 1571
+  },
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 55606,
+  "models": {
+    "10": [
+      61693
+    ]
+  },
+  "name": "Group gatestone portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14278,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    null,
+    null,
+    null,
+    "Replace"
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

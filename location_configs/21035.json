@@ -1,0 +1,30 @@
+{
+  "id": 21035,
+  "models": {
+    "0": [
+      21754
+    ]
+  },
+  "name": "Chasm",
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 20,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "unknown_170": 960,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

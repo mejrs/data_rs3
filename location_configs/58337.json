@@ -1,0 +1,35 @@
+{
+  "id": 58337,
+  "models": {
+    "10": [
+      48748
+    ]
+  },
+  "name": "Broken table",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      6443,
+      5394
+    ],
+    [
+      6451,
+      5398
+    ],
+    [
+      6563,
+      5390
+    ],
+    [
+      6439,
+      5386
+    ]
+  ],
+  "textures": {
+    "2108": 2075
+  },
+  "occludes_2": false
+}

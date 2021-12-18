@@ -1,0 +1,18 @@
+{
+  "id": 101620,
+  "models": {
+    "0": [
+      64603
+    ]
+  },
+  "name": "Inways room door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 20,
+  "contrast": 15,
+  "textures": {
+    "2075": 3171
+  },
+  "unknown_75": 0,
+  "unknown_170": 493
+}

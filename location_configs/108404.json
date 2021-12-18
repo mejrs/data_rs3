@@ -1,0 +1,24 @@
+{
+  "id": 108404,
+  "models": {
+    "10": [
+      118846
+    ]
+  },
+  "name": "Magical barrier",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove monster"
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

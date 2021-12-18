@@ -1,0 +1,21 @@
+{
+  "id": 117051,
+  "models": {
+    "10": [
+      85436,
+      85516
+    ]
+  },
+  "name": "Barrack rubble",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "11946": 12390,
+    "11947": 12391,
+    "11948": 12392,
+    "11949": 12393
+  },
+  "model": false,
+  "occludes_2": false
+}

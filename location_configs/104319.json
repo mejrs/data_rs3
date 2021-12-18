@@ -1,0 +1,28 @@
+{
+  "id": 104319,
+  "models": {
+    "10": [
+      96942
+    ]
+  },
+  "name": "Rocks",
+  "unknown_27": false,
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 100090,
+  "models": {
+    "10": [
+      107427
+    ]
+  },
+  "name": "Pool of slime",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 90,
+  "actions": [
+    "Collect slime",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

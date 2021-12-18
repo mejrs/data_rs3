@@ -1,0 +1,48 @@
+{
+  "id": 24284,
+  "models": {
+    "10": [
+      12616,
+      25042
+    ]
+  },
+  "name": "Range",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Cook-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      45,
+      10287
+    ],
+    [
+      37,
+      10279
+    ],
+    [
+      28,
+      10270
+    ]
+  ],
+  "unknown_69": 13,
+  "unknown_78": {
+    "unknown_1": 4985,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

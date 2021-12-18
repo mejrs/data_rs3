@@ -1,0 +1,27 @@
+{
+  "id": 13718,
+  "models": {
+    "10": [
+      12562
+    ]
+  },
+  "name": "Banner making stand",
+  "dim_x": 2,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

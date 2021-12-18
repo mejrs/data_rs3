@@ -1,0 +1,24 @@
+{
+  "id": 93707,
+  "models": {
+    "4": [
+      10818
+    ]
+  },
+  "name": "Peephole",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    null,
+    "Peek",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

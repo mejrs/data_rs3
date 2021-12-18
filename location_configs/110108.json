@@ -1,0 +1,47 @@
+{
+  "id": 110108,
+  "models": {
+    "10": [
+      7908
+    ]
+  },
+  "name": "Shelves",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6447,
+      12574
+    ],
+    [
+      6563,
+      12694
+    ],
+    [
+      6443,
+      12698
+    ],
+    [
+      6682,
+      12818
+    ],
+    [
+      6806,
+      12942
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

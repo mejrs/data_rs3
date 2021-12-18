@@ -1,0 +1,15 @@
+{
+  "id": 33825,
+  "models": {
+    "4": [
+      36478
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2075": 3171
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8435,
+  "models": {
+    "10": [
+      101507,
+      7768
+    ]
+  },
+  "name": "Maple Tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      5786
+    ]
+  ],
+  "textures": {
+    "44": 64
+  },
+  "unknown_88": false,
+  "occludes_2": false
+}

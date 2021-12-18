@@ -1,0 +1,31 @@
+{
+  "id": 116393,
+  "models": {
+    "10": [
+      96039,
+      95735
+    ]
+  },
+  "name": "Centurion remains",
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 2862
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 92434,
+  "models": {
+    "10": [
+      98867
+    ]
+  },
+  "name": "Statue of Rhiannon",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

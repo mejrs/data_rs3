@@ -1,0 +1,33 @@
+{
+  "id": 159,
+  "models": {
+    "10": [
+      51048,
+      51047,
+      51045
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 3111,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

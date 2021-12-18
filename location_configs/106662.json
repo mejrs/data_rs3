@@ -1,0 +1,21 @@
+{
+  "id": 106662,
+  "models": {
+    "10": [
+      117256,
+      117257
+    ]
+  },
+  "name": "Pickaxe wanging rock",
+  "unknown_19": 1,
+  "unknown_24": 30348,
+  "unknown_27": false,
+  "actions": [
+    "Wang Pickaxe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 28563,
+  "models": {
+    "10": [
+      19930
+    ]
+  },
+  "name": "Young tree",
+  "unknown_24": 5267,
+  "actions": [
+    "Dismantle",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      21646
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

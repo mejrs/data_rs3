@@ -1,0 +1,32 @@
+{
+  "id": 11222,
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_24": 464,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "morphs_1": {
+    "varbit": 10812,
+    "ids": [
+      11317,
+      11318,
+      11319,
+      11319
+    ]
+  },
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

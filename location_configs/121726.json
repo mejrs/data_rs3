@@ -1,0 +1,30 @@
+{
+  "id": 121726,
+  "models": {
+    "10": [
+      123881,
+      123892
+    ]
+  },
+  "name": "Dead Lumbridge guard",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Gather",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

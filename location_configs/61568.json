@@ -1,0 +1,23 @@
+{
+  "id": 61568,
+  "models": {
+    "10": [
+      57936
+    ]
+  },
+  "name": "Black stone (smashed)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12362,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      32578
+    ]
+  ],
+  "translate_y": 65532,
+  "occludes_2": false
+}

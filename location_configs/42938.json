@@ -1,0 +1,21 @@
+{
+  "id": 42938,
+  "models": {
+    "22": [
+      46537
+    ]
+  },
+  "name": "Yellow tile",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Walk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

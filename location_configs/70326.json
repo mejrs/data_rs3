@@ -1,0 +1,29 @@
+{
+  "id": 70326,
+  "models": {
+    "10": [
+      69280
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      40887,
+      12867
+    ]
+  ],
+  "textures": {
+    "1507": 1536,
+    "1742": 1843
+  },
+  "model": false,
+  "scale_y": 98,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

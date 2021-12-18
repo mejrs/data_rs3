@@ -1,0 +1,28 @@
+{
+  "id": 64835,
+  "models": {
+    "0": [
+      21375
+    ]
+  },
+  "name": "Wooden door",
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_170": 961,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

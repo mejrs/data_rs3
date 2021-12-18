@@ -1,0 +1,59 @@
+{
+  "id": 46564,
+  "models": {
+    "10": [
+      50323,
+      50308,
+      50316
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 12298,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      282,
+      49434
+    ],
+    [
+      278,
+      49430
+    ],
+    [
+      274,
+      49426
+    ],
+    [
+      272,
+      49424
+    ],
+    [
+      264,
+      49416
+    ],
+    [
+      266,
+      49418
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

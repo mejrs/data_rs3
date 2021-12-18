@@ -1,0 +1,29 @@
+{
+  "id": 40796,
+  "models": {
+    "0": [
+      44253
+    ]
+  },
+  "name": "Solid black door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

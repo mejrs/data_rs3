@@ -1,0 +1,34 @@
+{
+  "id": 29390,
+  "models": {
+    "0": [
+      60740
+    ],
+    "10": [
+      60733
+    ]
+  },
+  "name": "Doorway",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

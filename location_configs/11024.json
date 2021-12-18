@@ -1,0 +1,25 @@
+{
+  "id": 11024,
+  "models": {
+    "10": [
+      10991,
+      10992
+    ]
+  },
+  "name": "Brazier",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      38119,
+      29786
+    ]
+  ],
+  "occludes_2": false
+}

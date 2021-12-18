@@ -1,0 +1,24 @@
+{
+  "id": 113860,
+  "models": {
+    "10": [
+      34678,
+      34761
+    ]
+  },
+  "name": "Pavosaurus rex",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 32700,
+  "actions": [
+    "Skin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

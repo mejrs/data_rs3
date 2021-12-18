@@ -1,0 +1,19 @@
+{
+  "id": 4065,
+  "models": {
+    "10": [
+      1537
+    ]
+  },
+  "name": "Stone stand",
+  "is_transparent": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      61,
+      24
+    ]
+  ],
+  "unknown_81": 120,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 92330,
+  "models": {
+    "0": [
+      98249
+    ]
+  },
+  "name": "Herblore banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 489
+  },
+  "mapscene": 22
+}

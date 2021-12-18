@@ -1,0 +1,21 @@
+{
+  "id": 12125,
+  "models": {
+    "10": [
+      50119
+    ]
+  },
+  "name": "Gravestone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

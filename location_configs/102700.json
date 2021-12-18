@@ -1,0 +1,21 @@
+{
+  "id": 102700,
+  "models": {
+    "10": [
+      75627
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "305": 5010,
+    "1532": 5010,
+    "1742": 4773
+  },
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": 119426,
+  "models": {
+    "10": [
+      67186
+    ]
+  },
+  "name": "Noticeboard",
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Collector information",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "4580": 11042
+  },
+  "model": false,
+  "unknown_69": 7,
+  "occludes_2": false,
+  "mapfunction": 610
+}

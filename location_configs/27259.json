@@ -1,0 +1,13 @@
+{
+  "id": 27259,
+  "models": {
+    "4": [
+      29147
+    ]
+  },
+  "name": "Zombie portrait",
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

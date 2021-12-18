@@ -1,0 +1,12 @@
+{
+  "id": 104035,
+  "models": {
+    "10": [
+      113551
+    ]
+  },
+  "name": "Debris",
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

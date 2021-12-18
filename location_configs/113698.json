@@ -1,0 +1,42 @@
+{
+  "id": 113698,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Plank",
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 800,
+  "scale_y": 250,
+  "scale_z": 250,
+  "unknown_69": 10,
+  "translate_y": 80,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 1,
+    "7902": 203
+  }
+}

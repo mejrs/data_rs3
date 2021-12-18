@@ -1,0 +1,27 @@
+{
+  "id": 100164,
+  "models": {
+    "10": [
+      107348,
+      107349,
+      107350
+    ]
+  },
+  "name": "Enchanted treasure chest",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Interact",
+    "Break ward",
+    "Drain energy",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "mapfunction": 627
+}

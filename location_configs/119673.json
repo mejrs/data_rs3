@@ -1,0 +1,24 @@
+{
+  "id": 119673,
+  "models": {
+    "10": [
+      121790
+    ]
+  },
+  "name": "Empty cart",
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

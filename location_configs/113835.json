@@ -1,0 +1,27 @@
+{
+  "id": 113835,
+  "models": {
+    "10": [
+      47671,
+      47673
+    ]
+  },
+  "name": "Scorpion (built)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Arm",
+    "Arm (golden)",
+    "Arm (phantasmal)",
+    "Arm (sky-blue)",
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4,
+  "params": {
+    "7908": 15268
+  }
+}

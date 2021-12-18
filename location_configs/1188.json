@@ -1,0 +1,20 @@
+{
+  "id": 1188,
+  "models": {
+    "10": [
+      1610
+    ]
+  },
+  "name": "Flower",
+  "unknown_17": false,
+  "colours": [
+    [
+      39886,
+      939
+    ]
+  ],
+  "textures": {
+    "1934": 325
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 40938,
+  "models": {
+    "10": [
+      43953
+    ]
+  },
+  "name": "Statue",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

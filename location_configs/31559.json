@@ -1,0 +1,14 @@
+{
+  "id": 31559,
+  "models": {
+    "10": [
+      30525
+    ]
+  },
+  "name": "Perch rock",
+  "unknown_19": 1,
+  "unknown_24": 9563,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

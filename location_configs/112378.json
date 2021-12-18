@@ -1,0 +1,17 @@
+{
+  "id": 112378,
+  "models": {
+    "10": [
+      66923,
+      66860
+    ]
+  },
+  "name": "Open chest",
+  "colours": [
+    [
+      41,
+      11173
+    ]
+  ],
+  "occludes_2": false
+}

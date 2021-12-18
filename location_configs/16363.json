@@ -1,0 +1,31 @@
+{
+  "id": 16363,
+  "models": {
+    "0": [
+      18668
+    ]
+  },
+  "name": "Body door",
+  "ambient": 30,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 87719,
+  "models": {
+    "10": [
+      1641
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "colours": [
+    [
+      61,
+      16916
+    ],
+    [
+      49,
+      13840
+    ],
+    [
+      41,
+      3350
+    ],
+    [
+      37,
+      3346
+    ]
+  ],
+  "occludes_2": false
+}

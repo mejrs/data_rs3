@@ -1,0 +1,14 @@
+{
+  "id": 96453,
+  "models": {
+    "10": [
+      17475,
+      103258
+    ]
+  },
+  "name": "Chess",
+  "ambient": 25,
+  "contrast": 25,
+  "translate_y": 65526,
+  "occludes_2": false
+}

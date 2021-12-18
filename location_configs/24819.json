@@ -1,0 +1,38 @@
+{
+  "id": 24819,
+  "models": {
+    "10": [
+      25960
+    ]
+  },
+  "name": "Beanstalk",
+  "dim_x": 5,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "mapscene": 7,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  },
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

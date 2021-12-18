@@ -1,0 +1,20 @@
+{
+  "id": 30121,
+  "models": {
+    "10": [
+      32909,
+      32907,
+      32908
+    ]
+  },
+  "name": "Nut machine",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_24": 11528,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

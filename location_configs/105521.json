@@ -1,0 +1,21 @@
+{
+  "id": 105521,
+  "models": {
+    "10": [
+      115281
+    ]
+  },
+  "name": "Anima flow (good)",
+  "dim_x": 6,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "7965": 7962
+  },
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_x": 65508,
+  "occludes_2": false
+}

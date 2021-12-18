@@ -1,0 +1,38 @@
+{
+  "id": 34840,
+  "models": {
+    "10": [
+      25041
+    ]
+  },
+  "name": "Rack",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7582,
+      7440
+    ],
+    [
+      7587,
+      7444
+    ],
+    [
+      7463,
+      7448
+    ],
+    [
+      10275,
+      7179
+    ],
+    [
+      10279,
+      7183
+    ]
+  ],
+  "occludes_2": false
+}

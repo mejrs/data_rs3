@@ -1,0 +1,17 @@
+{
+  "id": 47350,
+  "models": {
+    "10": [
+      19845
+    ]
+  },
+  "dim_x": 10,
+  "dim_y": 13,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 40,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

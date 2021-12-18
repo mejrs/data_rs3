@@ -1,0 +1,14 @@
+{
+  "id": 86820,
+  "models": {
+    "10": [
+      89040
+    ]
+  },
+  "name": "Pedestal",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

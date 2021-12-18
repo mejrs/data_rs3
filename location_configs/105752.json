@@ -1,0 +1,25 @@
+{
+  "id": 105752,
+  "models": {
+    "10": [
+      115979
+    ]
+  },
+  "name": "Light shard (Yellow)",
+  "unknown_19": 1,
+  "ambient": 35,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      0,
+      10175
+    ]
+  ],
+  "occludes_2": false
+}

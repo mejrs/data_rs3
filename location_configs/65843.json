@@ -1,0 +1,14 @@
+{
+  "id": 65843,
+  "models": {
+    "10": [
+      1653
+    ]
+  },
+  "name": "Fern",
+  "unknown_17": false,
+  "ambient": 40,
+  "model": false,
+  "mapscene": 9,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 40054,
+  "models": {
+    "10": [
+      1274
+    ]
+  },
+  "name": "Cabinet",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      8602
+    ],
+    [
+      5772,
+      8598
+    ],
+    [
+      0,
+      8592
+    ]
+  ],
+  "occludes_2": false
+}

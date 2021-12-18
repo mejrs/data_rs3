@@ -1,0 +1,19 @@
+{
+  "id": 34255,
+  "models": {
+    "10": [
+      38260
+    ]
+  },
+  "name": "Armour space",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

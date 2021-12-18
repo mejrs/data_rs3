@@ -1,0 +1,12 @@
+{
+  "id": 94034,
+  "models": {
+    "10": [
+      99501
+    ]
+  },
+  "name": "Sink",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

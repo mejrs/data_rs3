@@ -1,0 +1,27 @@
+{
+  "id": 110113,
+  "models": {
+    "10": [
+      88929
+    ]
+  },
+  "name": "Ominous journal",
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

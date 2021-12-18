@@ -1,0 +1,32 @@
+{
+  "id": 39574,
+  "models": {
+    "10": [
+      42925
+    ]
+  },
+  "name": "Swarm (class 5)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 10581,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

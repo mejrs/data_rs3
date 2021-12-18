@@ -1,0 +1,30 @@
+{
+  "id": 17010,
+  "models": {
+    "10": [
+      40650
+    ]
+  },
+  "name": "Astral altar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 503,
+  "ambient": 40,
+  "actions": [
+    "Craft-rune",
+    "Pray",
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "occludes_2": false,
+  "cursors": [
+    66,
+    61,
+    null,
+    null,
+    null,
+    null
+  ]
+}

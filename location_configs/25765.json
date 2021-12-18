@@ -1,0 +1,27 @@
+{
+  "id": 25765,
+  "models": {
+    "10": [
+      1942
+    ]
+  },
+  "name": "Piano stool",
+  "dim_x": 2,
+  "ambient": 30,
+  "contrast": 25,
+  "colours": [
+    [
+      6682,
+      6435
+    ],
+    [
+      12,
+      6554
+    ],
+    [
+      924,
+      21652
+    ]
+  ],
+  "occludes_2": false
+}

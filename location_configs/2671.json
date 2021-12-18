@@ -1,0 +1,18 @@
+{
+  "id": 2671,
+  "models": {
+    "10": [
+      1604
+    ]
+  },
+  "name": "Kharidian cactus (dry)",
+  "ambient": 45,
+  "colours": [
+    [
+      22420,
+      22424
+    ]
+  ],
+  "mapscene": 4,
+  "occludes_2": false
+}

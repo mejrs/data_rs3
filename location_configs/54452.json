@@ -1,0 +1,23 @@
+{
+  "id": 54452,
+  "models": {
+    "10": [
+      59228
+    ]
+  },
+  "name": "Tomb",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Cleanse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_73": true,
+  "occludes_2": false
+}

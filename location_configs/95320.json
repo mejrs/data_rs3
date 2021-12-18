@@ -1,0 +1,23 @@
+{
+  "id": 95320,
+  "models": {
+    "22": [
+      19279,
+      102259
+    ]
+  },
+  "unknown_21": true,
+  "colours": [
+    [
+      6442,
+      12998
+    ]
+  ],
+  "textures": {
+    "2980": 1429
+  },
+  "translate_y": 65528,
+  "unknown_73": true,
+  "unknown_98": true,
+  "occludes_2": false
+}

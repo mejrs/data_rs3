@@ -1,0 +1,23 @@
+{
+  "id": 46300,
+  "models": {
+    "10": [
+      49749
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "member_actions": [
+    "Cut-planks",
+    null,
+    null,
+    null,
+    null
+  ]
+}

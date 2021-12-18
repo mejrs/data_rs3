@@ -1,0 +1,19 @@
+{
+  "id": 118553,
+  "models": {
+    "10": [
+      47639
+    ]
+  },
+  "name": "Door",
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

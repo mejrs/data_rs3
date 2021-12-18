@@ -1,0 +1,30 @@
+{
+  "id": 88879,
+  "models": {
+    "10": [
+      25731
+    ]
+  },
+  "name": "Level 1 grid",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "unknown_196": 3
+}

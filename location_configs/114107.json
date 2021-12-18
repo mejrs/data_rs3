@@ -1,0 +1,15 @@
+{
+  "id": 114107,
+  "models": {
+    "10": [
+      120263,
+      120264,
+      120245
+    ]
+  },
+  "name": "Auto runeassembler mk. XXII",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 31073,
+  "occludes_2": false
+}

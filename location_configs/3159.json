@@ -1,0 +1,24 @@
+{
+  "id": 3159,
+  "models": {
+    "10": [
+      1256
+    ]
+  },
+  "name": "Bed",
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      33,
+      37970
+    ],
+    [
+      8770,
+      43067
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

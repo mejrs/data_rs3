@@ -1,0 +1,54 @@
+{
+  "id": 97867,
+  "models": {
+    "10": [
+      40497
+    ]
+  },
+  "name": "Crossing",
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8129,
+      22460
+    ],
+    [
+      8139,
+      22460
+    ],
+    [
+      8149,
+      22460
+    ],
+    [
+      9042,
+      22460
+    ],
+    [
+      9158,
+      22460
+    ]
+  ],
+  "unknown_44": 248,
+  "model": false,
+  "translate_y": 65516,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 24587,
+  "models": {
+    "10": [
+      25463,
+      25464
+    ]
+  },
+  "name": "Machine",
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 35,
+  "occludes_2": false
+}

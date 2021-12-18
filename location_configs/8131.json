@@ -1,0 +1,20 @@
+{
+  "id": 8131,
+  "models": {
+    "10": [
+      110136,
+      7767
+    ]
+  },
+  "name": "Papaya tree stump",
+  "ambient": 30,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

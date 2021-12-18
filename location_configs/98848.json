@@ -1,0 +1,32 @@
+{
+  "id": 98848,
+  "models": {
+    "10": [
+      106269
+    ]
+  },
+  "name": "Broken window",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Barricade",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 5,
+  "translate_z": 65494,
+  "unknown_78": {
+    "unknown_1": 944,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "unknown_188": true
+}

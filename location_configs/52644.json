@@ -1,0 +1,28 @@
+{
+  "id": 52644,
+  "models": {
+    "10": [
+      57370
+    ]
+  },
+  "name": "Hollow log",
+  "dim_x": 3,
+  "ambient": 25,
+  "actions": [
+    "Climb through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

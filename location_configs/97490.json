@@ -1,0 +1,37 @@
+{
+  "id": 97490,
+  "models": {
+    "10": [
+      87345
+    ]
+  },
+  "name": "Chest",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 115,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

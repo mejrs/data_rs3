@@ -1,0 +1,16 @@
+{
+  "id": 52707,
+  "models": {
+    "10": [
+      31987
+    ]
+  },
+  "name": "Spent campfire",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

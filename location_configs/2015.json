@@ -1,0 +1,33 @@
+{
+  "id": 2015,
+  "models": {
+    "10": [
+      51108
+    ]
+  },
+  "name": "Counter",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "unknown_69": 5,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    5,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 47008,
+  "models": {
+    "0": [
+      50673
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      26,
+      11300
+    ]
+  ],
+  "mirror": true,
+  "unknown_73": true,
+  "mapscene": 22
+}

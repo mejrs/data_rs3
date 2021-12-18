@@ -1,0 +1,27 @@
+{
+  "id": 119270,
+  "models": {
+    "10": [
+      88402,
+      121406,
+      121405
+    ]
+  },
+  "name": "Display Case",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

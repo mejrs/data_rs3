@@ -1,0 +1,29 @@
+{
+  "id": 45079,
+  "models": {
+    "10": [
+      48739
+    ]
+  },
+  "name": "Pulley lift",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12213,
+  "ambient": 15,
+  "actions": [
+    "Deposit",
+    "Deposit-All",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 3651
+}

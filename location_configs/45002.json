@@ -1,0 +1,21 @@
+{
+  "id": 45002,
+  "models": {
+    "10": [
+      48546
+    ]
+  },
+  "name": "Bridge lever",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

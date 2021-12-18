@@ -1,0 +1,28 @@
+{
+  "id": 97577,
+  "models": {
+    "10": [
+      104688
+    ]
+  },
+  "name": "Huge Gate",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    "Quick Exit",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

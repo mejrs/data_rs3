@@ -1,0 +1,21 @@
+{
+  "id": 15819,
+  "models": {
+    "10": [
+      13633
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 1727,
+  "colours": [
+    [
+      61,
+      30
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 1
+}

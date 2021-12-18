@@ -1,0 +1,48 @@
+{
+  "id": 29592,
+  "models": {
+    "10": [
+      26910
+    ]
+  },
+  "name": "Stairs",
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6461,
+      10279
+    ],
+    [
+      6457,
+      10275
+    ],
+    [
+      6449,
+      10270
+    ],
+    [
+      6684,
+      10266
+    ],
+    [
+      5297,
+      10262
+    ]
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

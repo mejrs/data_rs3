@@ -1,0 +1,22 @@
+{
+  "id": 40039,
+  "models": {
+    "10": [
+      1170
+    ]
+  },
+  "name": "Chair",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5908,
+      8487
+    ],
+    [
+      4886,
+      8598
+    ]
+  ],
+  "occludes_2": false
+}

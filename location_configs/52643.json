@@ -1,0 +1,20 @@
+{
+  "id": 52643,
+  "models": {
+    "10": [
+      57369
+    ]
+  },
+  "name": "Hollow log",
+  "dim_x": 3,
+  "ambient": 25,
+  "actions": [
+    "Unblock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

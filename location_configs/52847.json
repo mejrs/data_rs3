@@ -1,0 +1,27 @@
+{
+  "id": 52847,
+  "models": {
+    "0": [
+      58033
+    ]
+  },
+  "name": "Warped barrier",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

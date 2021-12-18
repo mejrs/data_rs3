@@ -1,0 +1,38 @@
+{
+  "id": 19215,
+  "models": {
+    "10": [
+      19910,
+      19909
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5197,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      94,
+      9804
+    ],
+    [
+      111,
+      9812
+    ],
+    [
+      127,
+      9445
+    ]
+  ],
+  "unknown_69": 13,
+  "mapscene": 71,
+  "occludes_2": false,
+  "unknown_196": 1
+}

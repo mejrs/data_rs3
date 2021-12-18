@@ -1,0 +1,38 @@
+{
+  "id": 55750,
+  "models": {
+    "10": [
+      61686
+    ]
+  },
+  "name": "Pile of rocks",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13558,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

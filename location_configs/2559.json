@@ -1,0 +1,33 @@
+{
+  "id": 2559,
+  "models": {
+    "0": [
+      37698
+    ],
+    "9": [
+      43605
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Pick-lock",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

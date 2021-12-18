@@ -1,0 +1,16 @@
+{
+  "id": 4530,
+  "models": {
+    "10": [
+      49660
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "textures": {
+    "1516": 1532
+  },
+  "occludes_2": false
+}

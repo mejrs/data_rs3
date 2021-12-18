@@ -1,0 +1,14 @@
+{
+  "id": 57064,
+  "models": {
+    "10": [
+      62645
+    ]
+  },
+  "name": "Lectern",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": 21439,
+  "models": {
+    "10": [
+      22025
+    ]
+  },
+  "name": "Swords",
+  "dim_x": 2,
+  "occludes_2": false
+}

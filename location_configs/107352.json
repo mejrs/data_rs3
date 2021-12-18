@@ -1,0 +1,24 @@
+{
+  "id": 107352,
+  "models": {
+    "10": [
+      111288
+    ]
+  },
+  "name": "Unstable Rift",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 22758,
+    "unknown_2": 12
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_104": 220,
+  "unknown_1": 240,
+  "unknown_2": 270
+}

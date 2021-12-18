@@ -1,0 +1,34 @@
+{
+  "id": 119936,
+  "models": {
+    "10": [
+      121883
+    ]
+  },
+  "name": "Freshly dug hole",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 17,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

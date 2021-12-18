@@ -1,0 +1,20 @@
+{
+  "id": 44907,
+  "models": {
+    "10": [
+      48347
+    ]
+  },
+  "name": "Habitat space",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

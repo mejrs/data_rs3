@@ -1,0 +1,17 @@
+{
+  "id": 114574,
+  "models": {
+    "10": [
+      2437
+    ]
+  },
+  "name": "Salamander egg",
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

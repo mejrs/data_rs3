@@ -1,0 +1,23 @@
+{
+  "id": 93709,
+  "models": {
+    "10": [
+      81641
+    ]
+  },
+  "name": "Wine barrel",
+  "ambient": 64,
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

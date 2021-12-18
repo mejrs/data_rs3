@@ -1,0 +1,16 @@
+{
+  "id": 107900,
+  "models": {
+    "10": [
+      118248
+    ]
+  },
+  "name": "Table",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

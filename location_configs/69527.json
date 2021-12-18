@@ -1,0 +1,32 @@
+{
+  "id": 69527,
+  "models": {
+    "10": [
+      68190
+    ]
+  },
+  "name": "Ballista",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 16364,
+  "actions": [
+    "Fire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

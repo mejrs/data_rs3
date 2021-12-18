@@ -1,0 +1,50 @@
+{
+  "id": 57695,
+  "models": {
+    "10": [
+      17405
+    ]
+  },
+  "name": "Lever",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      37902,
+      9230
+    ],
+    [
+      37906,
+      9234
+    ],
+    [
+      37910,
+      9238
+    ],
+    [
+      37914,
+      9242
+    ],
+    [
+      37918,
+      9246
+    ]
+  ],
+  "textures": {
+    "1941": 1952,
+    "1942": 1949,
+    "1943": 1948
+  },
+  "unknown_69": 14,
+  "occludes_2": false
+}

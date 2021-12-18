@@ -1,0 +1,19 @@
+{
+  "id": 46296,
+  "models": {
+    "4": [
+      49741
+    ]
+  },
+  "name": "Job board",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "member_actions": [
+    "Look-at",
+    "Take-job (quick)",
+    "Take-job (large)",
+    null,
+    null
+  ]
+}

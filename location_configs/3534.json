@@ -1,0 +1,13 @@
+{
+  "id": 3534,
+  "models": {
+    "10": [
+      55152
+    ]
+  },
+  "name": "Anvil",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "occludes_2": false
+}

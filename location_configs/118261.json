@@ -1,0 +1,25 @@
+{
+  "id": 118261,
+  "models": {
+    "4": [
+      120792
+    ]
+  },
+  "name": "Portrait space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

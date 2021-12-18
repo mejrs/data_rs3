@@ -1,0 +1,24 @@
+{
+  "id": 30224,
+  "models": {
+    "10": [
+      33066
+    ]
+  },
+  "name": "Passageway",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_y": 160,
+  "occludes_2": false
+}

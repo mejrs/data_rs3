@@ -1,0 +1,19 @@
+{
+  "id": 83468,
+  "models": {
+    "10": [
+      85199
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "3204": 3206,
+    "3210": 3208
+  },
+  "mirror": true,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 61315,
+  "models": {
+    "4": [
+      47168,
+      46749
+    ]
+  },
+  "name": "Vandalised propaganda poster",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false
+}

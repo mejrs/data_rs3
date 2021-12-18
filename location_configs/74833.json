@@ -1,0 +1,15 @@
+{
+  "id": 74833,
+  "models": {
+    "10": [
+      67810
+    ]
+  },
+  "name": "Eggs",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false
+}

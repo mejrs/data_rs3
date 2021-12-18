@@ -1,0 +1,32 @@
+{
+  "id": 98774,
+  "models": {
+    "10": [
+      106412
+    ]
+  },
+  "name": "Table debris",
+  "dim_x": 4,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

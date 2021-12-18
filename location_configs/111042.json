@@ -1,0 +1,28 @@
+{
+  "id": 111042,
+  "models": {
+    "10": [
+      99471
+    ]
+  },
+  "name": "Ancient chains",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Loosen",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 90,
+  "scale_y": 512,
+  "scale_z": 90,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

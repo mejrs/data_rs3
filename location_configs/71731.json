@@ -1,0 +1,25 @@
+{
+  "id": 71731,
+  "models": {
+    "3": [
+      69645
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 432,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 6
+  },
+  "unknown_88": false,
+  "mapscene": 22,
+  "occludes_2": false,
+  "unknown_104": 40,
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "unknown_196": 0
+}

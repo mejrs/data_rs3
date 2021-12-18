@@ -1,0 +1,16 @@
+{
+  "id": 23595,
+  "models": {
+    "10": [
+      11550
+    ]
+  },
+  "name": "Bush",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false
+}

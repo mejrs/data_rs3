@@ -1,0 +1,11 @@
+{
+  "id": 21934,
+  "models": {
+    "10": [
+      22644
+    ]
+  },
+  "name": "Experiment table",
+  "dim_y": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 42583,
+  "models": {
+    "10": [
+      45887
+    ]
+  },
+  "name": "Fallen rocks",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Call-through",
+    "Clear",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

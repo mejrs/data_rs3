@@ -1,0 +1,11 @@
+{
+  "id": 3858,
+  "models": {
+    "10": [
+      3870
+    ]
+  },
+  "name": "Fishing rod",
+  "dim_y": 2,
+  "occludes_2": false
+}

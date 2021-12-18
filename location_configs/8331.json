@@ -1,0 +1,19 @@
+{
+  "id": 8331,
+  "models": {
+    "10": [
+      7893,
+      7767
+    ]
+  },
+  "name": "Diseased bittercap mushrooms",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

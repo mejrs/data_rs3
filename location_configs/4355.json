@@ -1,0 +1,15 @@
+{
+  "id": 4355,
+  "models": {
+    "10": [
+      36844
+    ]
+  },
+  "name": "Heim crabs",
+  "is_transparent": true,
+  "unknown_24": 9645,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

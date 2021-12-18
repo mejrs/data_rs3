@@ -1,0 +1,33 @@
+{
+  "id": 72936,
+  "models": {
+    "10": [
+      70989
+    ]
+  },
+  "name": "Bank",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    5,
+    null,
+    null,
+    null
+  ]
+}

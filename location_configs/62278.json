@@ -1,0 +1,26 @@
+{
+  "id": 62278,
+  "models": {
+    "10": [
+      1241
+    ]
+  },
+  "name": "Snotgut",
+  "unknown_24": 13515,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

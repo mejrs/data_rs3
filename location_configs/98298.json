@@ -1,0 +1,21 @@
+{
+  "id": 98298,
+  "models": {
+    "10": [
+      92386
+    ]
+  },
+  "name": "Battle standard for Bandos",
+  "unknown_24": 9642,
+  "actions": [
+    "For Bandos!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 2
+  }
+}

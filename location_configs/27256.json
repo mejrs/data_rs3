@@ -1,0 +1,36 @@
+{
+  "id": 27256,
+  "models": {
+    "10": [
+      12147
+    ]
+  },
+  "name": "Grim chest",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6466,
+      5272
+    ],
+    [
+      5545,
+      5392
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

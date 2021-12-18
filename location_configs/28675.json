@@ -1,0 +1,28 @@
+{
+  "id": 28675,
+  "models": {
+    "10": [
+      30058
+    ]
+  },
+  "name": "Trapdoor",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

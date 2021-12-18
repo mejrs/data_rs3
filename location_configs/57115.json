@@ -1,0 +1,22 @@
+{
+  "id": 57115,
+  "models": {
+    "10": [
+      48732
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 5,
+    "unknown_2": -1,
+    "unknown_3": 23,
+    "unknown_4": 65
+  }
+}

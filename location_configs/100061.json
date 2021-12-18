@@ -1,0 +1,32 @@
+{
+  "id": 100061,
+  "models": {
+    "10": [
+      107409
+    ]
+  },
+  "name": "Bubbling water",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 27689,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

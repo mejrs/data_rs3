@@ -1,0 +1,26 @@
+{
+  "id": 111119,
+  "models": {
+    "10": [
+      99471
+    ]
+  },
+  "name": "Pier",
+  "dim_x": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Dive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 69637,
+  "models": {
+    "10": [
+      68748
+    ]
+  },
+  "name": "Seers' Village",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "West:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2775": 2772
+  },
+  "occludes_2": false
+}

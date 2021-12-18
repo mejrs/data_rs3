@@ -1,0 +1,28 @@
+{
+  "id": 99449,
+  "models": {
+    "10": [
+      106909
+    ]
+  },
+  "name": "Lever",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 45,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      380
+    ]
+  }
+}

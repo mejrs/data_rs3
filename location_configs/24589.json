@@ -1,0 +1,13 @@
+{
+  "id": 24589,
+  "models": {
+    "10": [
+      25792
+    ]
+  },
+  "name": "Button",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

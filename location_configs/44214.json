@@ -1,0 +1,27 @@
+{
+  "id": 44214,
+  "models": {
+    "4": [
+      48005
+    ]
+  },
+  "name": "Tapestry",
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

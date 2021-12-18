@@ -1,0 +1,19 @@
+{
+  "id": 80382,
+  "models": {
+    "10": [
+      80636
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "scale_x": 160,
+  "scale_y": 132,
+  "scale_z": 148,
+  "translate_y": 178,
+  "occludes_2": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": 49544,
+  "models": {
+    "10": [
+      56660
+    ]
+  },
+  "name": "Crate of magic rocks",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      3014
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

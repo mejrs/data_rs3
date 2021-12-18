@@ -1,0 +1,51 @@
+{
+  "id": 85527,
+  "models": {
+    "10": [
+      71596
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      2195,
+      5383
+    ],
+    [
+      2195,
+      5389
+    ],
+    [
+      2205,
+      5393
+    ],
+    [
+      2210,
+      5397
+    ]
+  ],
+  "textures": {
+    "2062": 2077,
+    "2073": 2097,
+    "2093": 2098
+  },
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

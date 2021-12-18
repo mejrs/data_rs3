@@ -1,0 +1,27 @@
+{
+  "id": 109766,
+  "models": {
+    "10": [
+      120267,
+      120249
+    ]
+  },
+  "name": "Jumbo generator",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_24": 31072,
+  "ambient": 20,
+  "actions": [
+    "Add charges",
+    "Check charges",
+    "Remove charges",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_78": {
+    "unknown_1": 27591,
+    "unknown_2": 7
+  },
+  "occludes_2": false
+}

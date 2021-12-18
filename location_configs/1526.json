@@ -1,0 +1,28 @@
+{
+  "id": 1526,
+  "models": {
+    "0": [
+      60564
+    ]
+  },
+  "unknown_22": true,
+  "unknown_27": false,
+  "unknown_28": 16,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      38119,
+      7378
+    ],
+    [
+      41067,
+      5421
+    ]
+  ],
+  "textures": {
+    "2382": 2315
+  },
+  "scale_y": 104,
+  "unknown_196": 3
+}

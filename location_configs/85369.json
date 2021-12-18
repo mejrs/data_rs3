@@ -1,0 +1,21 @@
+{
+  "id": 85369,
+  "models": {
+    "10": [
+      88169
+    ]
+  },
+  "name": "Spikes",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Reclaim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 36235,
+  "models": {
+    "10": [
+      38412
+    ]
+  },
+  "name": "Flag banner",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

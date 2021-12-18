@@ -1,0 +1,39 @@
+{
+  "id": 35417,
+  "models": {
+    "10": [
+      36256
+    ]
+  },
+  "name": "Cactus",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 13,
+  "colours": [
+    [
+      22044,
+      12849
+    ],
+    [
+      22168,
+      12845
+    ],
+    [
+      23316,
+      12841
+    ],
+    [
+      22292,
+      12965
+    ],
+    [
+      21929,
+      12725
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 32,
+  "mapscene": 4,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 83134,
+  "models": {
+    "10": [
+      45112
+    ]
+  },
+  "name": "Icicle",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Break",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

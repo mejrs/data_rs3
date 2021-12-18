@@ -1,0 +1,26 @@
+{
+  "id": 97214,
+  "models": {
+    "10": [
+      104353
+    ]
+  },
+  "name": "Metal dragon egg",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      5278,
+      3464
+    ],
+    [
+      5275,
+      3459
+    ]
+  ],
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 2
+}

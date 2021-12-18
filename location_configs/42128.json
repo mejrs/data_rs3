@@ -1,0 +1,29 @@
+{
+  "id": 42128,
+  "models": {
+    "10": [
+      51546
+    ]
+  },
+  "name": "Reward statue (points)",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Read inscription",
+    "Rotate",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    189,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 7424,
+  "models": {
+    "10": [
+      7775
+    ]
+  },
+  "name": "Mature Axeman's Folly",
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Drain",
+    "Level",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

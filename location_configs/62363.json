@@ -1,0 +1,31 @@
+{
+  "id": 62363,
+  "models": {
+    "10": [
+      12413
+    ]
+  },
+  "name": "Plinth",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Place-statue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "translate_x": 65473,
+  "translate_z": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 87702,
+  "models": {
+    "10": [
+      90726,
+      90729
+    ]
+  },
+  "name": "Slaughtered monk",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 21812,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

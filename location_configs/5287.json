@@ -1,0 +1,53 @@
+{
+  "id": 5287,
+  "models": {
+    "10": [
+      5278,
+      5279,
+      5253
+    ]
+  },
+  "name": "Pirate Captain",
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8741,
+      1451
+    ],
+    [
+      8078,
+      64156
+    ],
+    [
+      4550,
+      8
+    ],
+    [
+      8741,
+      64049
+    ],
+    [
+      25238,
+      8396
+    ],
+    [
+      5231,
+      7496
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

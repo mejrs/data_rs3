@@ -1,0 +1,30 @@
+{
+  "id": 2650,
+  "models": {
+    "10": [
+      27483,
+      27492,
+      27480
+    ]
+  },
+  "name": "Table",
+  "dim_x": 4,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

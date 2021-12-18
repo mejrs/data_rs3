@@ -1,0 +1,17 @@
+{
+  "id": 3337,
+  "models": {
+    "10": [
+      1774
+    ]
+  },
+  "name": "Lever",
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

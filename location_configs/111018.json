@@ -1,0 +1,15 @@
+{
+  "id": 111018,
+  "models": {
+    "10": [
+      29246,
+      28564
+    ]
+  },
+  "name": "Ancient seal",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "translate_y": 65286,
+  "occludes_2": false
+}

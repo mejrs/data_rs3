@@ -1,0 +1,21 @@
+{
+  "id": 98303,
+  "models": {
+    "10": [
+      94559
+    ]
+  },
+  "name": "Battle standard for Zaros",
+  "unknown_24": 22993,
+  "actions": [
+    "For Zaros!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 7
+  }
+}

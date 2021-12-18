@@ -1,0 +1,21 @@
+{
+  "id": 94208,
+  "models": {
+    "10": [
+      100054
+    ]
+  },
+  "name": "Meilyr",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "North:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

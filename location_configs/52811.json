@@ -1,0 +1,19 @@
+{
+  "id": 52811,
+  "models": {
+    "10": [
+      12393
+    ]
+  },
+  "name": "Bed",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

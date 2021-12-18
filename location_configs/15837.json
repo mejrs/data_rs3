@@ -1,0 +1,16 @@
+{
+  "id": 15837,
+  "models": {
+    "10": [
+      15819
+    ]
+  },
+  "name": "Bamboo Pipes",
+  "colours": [
+    [
+      5912,
+      2840
+    ]
+  ],
+  "occludes_2": false
+}

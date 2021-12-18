@@ -1,0 +1,28 @@
+{
+  "id": 64121,
+  "models": {
+    "10": [
+      12968
+    ]
+  },
+  "name": "Neem drupes",
+  "unknown_19": 1,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

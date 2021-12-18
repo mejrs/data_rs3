@@ -1,0 +1,16 @@
+{
+  "id": 110649,
+  "models": {
+    "10": [
+      24594
+    ]
+  },
+  "name": "Crow's nest",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 31457,
+  "unknown_27": false,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

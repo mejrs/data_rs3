@@ -1,0 +1,34 @@
+{
+  "id": 74612,
+  "models": {
+    "10": [
+      21831
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8459,
+      5521
+    ],
+    [
+      8460,
+      5521
+    ],
+    [
+      8467,
+      5525
+    ]
+  ],
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 90,
+  "scale_z": 100,
+  "mapscene": 0,
+  "occludes_2": false
+}

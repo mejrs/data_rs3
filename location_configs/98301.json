@@ -1,0 +1,21 @@
+{
+  "id": 98301,
+  "models": {
+    "10": [
+      94832
+    ]
+  },
+  "name": "Battle standard for Brassica Prime",
+  "unknown_24": 9642,
+  "actions": [
+    "For Deliciousness!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 5
+  }
+}

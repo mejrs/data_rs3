@@ -1,0 +1,26 @@
+{
+  "id": 2050,
+  "models": {
+    "0": [
+      25029
+    ]
+  },
+  "name": "Gate",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

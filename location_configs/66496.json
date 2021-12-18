@@ -1,0 +1,34 @@
+{
+  "id": 66496,
+  "models": {
+    "10": [
+      62421
+    ]
+  },
+  "name": "Snow pile",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    "Attack",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "mapscene": 9,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    42,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": 119640,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Tree of Balance",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 384,
+  "scale_y": 512,
+  "scale_z": 128,
+  "translate_y": 65408,
+  "translate_z": 65408,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

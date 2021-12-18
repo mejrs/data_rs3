@@ -1,0 +1,26 @@
+{
+  "id": 87363,
+  "models": {
+    "10": [
+      5936
+    ]
+  },
+  "name": "Sink",
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

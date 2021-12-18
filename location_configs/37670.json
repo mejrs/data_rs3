@@ -1,0 +1,26 @@
+{
+  "id": 37670,
+  "models": {
+    "4": [
+      2111
+    ]
+  },
+  "name": "Plaque",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6028,
+      11200
+    ]
+  ],
+  "occludes_2": false
+}

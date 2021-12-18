@@ -1,0 +1,22 @@
+{
+  "id": 47261,
+  "models": {
+    "10": [
+      50905,
+      8695
+    ]
+  },
+  "name": "Brundt's boat",
+  "dim_x": 6,
+  "dim_y": 2,
+  "unknown_24": 2346,
+  "ambient": 20,
+  "actions": [
+    "Climb-aboard",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 118589,
+  "models": {
+    "10": [
+      116819
+    ]
+  },
+  "name": "Dragonkin barrel",
+  "unknown_17": false,
+  "model": false,
+  "scale_x": 108,
+  "scale_y": 108,
+  "scale_z": 108,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,69 @@
+{
+  "id": 112749,
+  "models": {
+    "10": [
+      73953,
+      89525
+    ]
+  },
+  "name": "Divine Luminite rock",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 21213,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      54991,
+      11220
+    ],
+    [
+      2116,
+      1056
+    ],
+    [
+      3135,
+      2075
+    ],
+    [
+      3127,
+      3098
+    ],
+    [
+      2109,
+      4115
+    ],
+    [
+      3143,
+      3100
+    ]
+  ],
+  "textures": {
+    "1304": 10852
+  },
+  "unknown_44": 249,
+  "unknown_78": {
+    "unknown_1": 39215,
+    "unknown_2": 10
+  },
+  "unknown_89": false,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_104": 30,
+  "unknown_1": 230,
+  "unknown_2": 270,
+  "unknown_189": true,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 103970,
+  "models": {
+    "10": [
+      102982
+    ]
+  },
+  "name": "Seiryu shrine",
+  "dim_x": 8,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Venerate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

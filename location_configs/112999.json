@@ -1,0 +1,31 @@
+{
+  "id": 112999,
+  "models": {
+    "10": [
+      99111
+    ]
+  },
+  "name": "Prifddinas gem rock",
+  "is_transparent": true,
+  "unknown_24": 2235,
+  "ambient": 37,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

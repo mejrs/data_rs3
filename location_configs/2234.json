@@ -1,0 +1,54 @@
+{
+  "id": 2234,
+  "models": {
+    "10": [
+      31901
+    ]
+  },
+  "name": "Well stacked rocks",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      10309,
+      10284
+    ],
+    [
+      10299,
+      10274
+    ],
+    [
+      10283,
+      10268
+    ],
+    [
+      10276,
+      10256
+    ],
+    [
+      10275,
+      10260
+    ],
+    [
+      10251,
+      10260
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

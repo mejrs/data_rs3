@@ -1,0 +1,25 @@
+{
+  "id": 83117,
+  "models": {
+    "10": [
+      84383
+    ]
+  },
+  "name": "Death",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        19896,
+        100
+      ],
+      [
+        19895,
+        100
+      ]
+    ]
+  }
+}

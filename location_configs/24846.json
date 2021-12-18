@@ -1,0 +1,25 @@
+{
+  "id": 24846,
+  "models": {
+    "10": [
+      64061
+    ]
+  },
+  "name": "Progress report",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8198,
+  "models": {
+    "10": [
+      8187,
+      8222,
+      7766
+    ]
+  },
+  "name": "Barley",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

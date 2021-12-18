@@ -1,0 +1,39 @@
+{
+  "id": 56867,
+  "models": {
+    "10": [
+      76532
+    ]
+  },
+  "name": "Hole",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Climb-Up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      8070
+    ]
+  ],
+  "textures": {
+    "2377": 2396
+  },
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

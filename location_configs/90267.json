@@ -1,0 +1,21 @@
+{
+  "id": 90267,
+  "models": {
+    "10": [
+      94852
+    ]
+  },
+  "name": "Scoreboard",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

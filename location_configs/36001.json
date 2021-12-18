@@ -1,0 +1,16 @@
+{
+  "id": 36001,
+  "models": {
+    "10": [
+      38331
+    ]
+  },
+  "name": "Hanging log",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 3
+}

@@ -1,0 +1,26 @@
+{
+  "id": 64293,
+  "models": {
+    "10": [
+      13632
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 7438,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_x": 20,
+  "translate_z": 30,
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 5
+  },
+  "unknown_81": 20,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 5,
+  "unknown_186": 0,
+  "unknown_196": 0
+}

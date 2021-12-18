@@ -1,0 +1,35 @@
+{
+  "id": 65723,
+  "models": {
+    "10": [
+      25738
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      8076,
+      4
+    ],
+    [
+      7952,
+      8
+    ],
+    [
+      7700,
+      12
+    ],
+    [
+      7950,
+      138
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

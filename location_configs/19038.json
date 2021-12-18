@@ -1,0 +1,24 @@
+{
+  "id": 19038,
+  "models": {
+    "10": [
+      20491,
+      20492,
+      20493,
+      20494
+    ]
+  },
+  "name": "Wintumber tree",
+  "unknown_17": false,
+  "unknown_24": 5058,
+  "ambient": 30,
+  "actions": [
+    "Dig-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "occludes_2": false
+}

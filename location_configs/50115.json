@@ -1,0 +1,13 @@
+{
+  "id": 50115,
+  "models": {
+    "10": [
+      56629
+    ]
+  },
+  "name": "Farming patch",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false,
+  "mapfunction": 611
+}

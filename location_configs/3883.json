@@ -1,0 +1,34 @@
+{
+  "id": 3883,
+  "models": {
+    "10": [
+      3944
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "scale_x": 64,
+  "scale_y": 84,
+  "scale_z": 64,
+  "unknown_81": 42,
+  "mapscene": 9,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

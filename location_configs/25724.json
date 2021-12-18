@@ -1,0 +1,34 @@
+{
+  "id": 25724,
+  "models": {
+    "10": [
+      36798,
+      36385
+    ]
+  },
+  "name": "Woodchip",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Shovel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65530,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    173,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

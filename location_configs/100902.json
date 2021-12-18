@@ -1,0 +1,36 @@
+{
+  "id": 100902,
+  "models": {
+    "22": [
+      120325
+    ]
+  },
+  "name": "Enchanted soil",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 0,
+  "actions": [
+    "Plant",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4892,
+      6697
+    ],
+    [
+      5921,
+      6573
+    ],
+    [
+      4899,
+      6573
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

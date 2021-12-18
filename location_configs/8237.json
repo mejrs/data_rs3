@@ -1,0 +1,41 @@
+{
+  "id": 8237,
+  "models": {
+    "10": [
+      8204,
+      7766
+    ]
+  },
+  "name": "Dead Krandorian Hops",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13210,
+      10518
+    ],
+    [
+      13214,
+      10398
+    ],
+    [
+      13095,
+      10407
+    ],
+    [
+      14098,
+      6435
+    ],
+    [
+      13850,
+      6554
+    ]
+  ],
+  "occludes_2": false
+}

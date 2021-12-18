@@ -1,0 +1,25 @@
+{
+  "id": 96650,
+  "models": {
+    "10": [
+      103587
+    ]
+  },
+  "name": "Figurehead",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "translate_y": 65476,
+  "occludes_2": false
+}

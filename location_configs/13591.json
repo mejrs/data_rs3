@@ -1,0 +1,19 @@
+{
+  "id": 13591,
+  "models": {
+    "22": [
+      12390
+    ]
+  },
+  "name": "Rug",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

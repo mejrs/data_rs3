@@ -1,0 +1,17 @@
+{
+  "id": 8709,
+  "models": {
+    "10": [
+      65235
+    ]
+  },
+  "name": "Hawthorn tree",
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 99,
+  "scale_y": 99,
+  "scale_z": 99,
+  "unknown_81": 42,
+  "mapscene": 2,
+  "occludes_2": false
+}

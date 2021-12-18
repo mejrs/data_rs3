@@ -1,0 +1,15 @@
+{
+  "id": 81912,
+  "models": {
+    "10": [
+      82591,
+      82605
+    ]
+  },
+  "name": "Mat",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 25,
+  "occludes_2": false
+}

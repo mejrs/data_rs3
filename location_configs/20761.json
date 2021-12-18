@@ -1,0 +1,22 @@
+{
+  "id": 20761,
+  "models": {
+    "10": [
+      63285
+    ]
+  },
+  "name": "Stalagmite",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Cross-chasm",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 7,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22425,
+  "models": {
+    "10": [
+      37288
+    ]
+  },
+  "name": "Minecart",
+  "dim_x": 8,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

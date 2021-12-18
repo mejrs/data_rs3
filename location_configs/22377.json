@@ -1,0 +1,13 @@
+{
+  "id": 22377,
+  "models": {
+    "10": [
+      22834
+    ]
+  },
+  "name": "Granary wall",
+  "unknown_22": true,
+  "ambient": 35,
+  "mirror": true,
+  "occludes_2": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": 70060,
+  "models": {
+    "10": [
+      68878
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      8467,
+      7471
+    ],
+    [
+      8459,
+      7455
+    ]
+  ],
+  "textures": {
+    "2216": 2274,
+    "2217": 2281,
+    "2218": 2276,
+    "2219": 2274,
+    "2222": 2278
+  },
+  "model": false,
+  "unknown_81": 42,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

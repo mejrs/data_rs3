@@ -1,0 +1,12 @@
+{
+  "id": 69379,
+  "models": {
+    "10": [
+      68170
+    ]
+  },
+  "name": "Obstacle pipe",
+  "dim_y": 2,
+  "unknown_22": true,
+  "occludes_2": false
+}

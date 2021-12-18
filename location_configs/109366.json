@@ -1,0 +1,18 @@
+{
+  "id": 109366,
+  "models": {
+    "10": [
+      118435
+    ]
+  },
+  "name": "Bucket of blood",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_x": 20,
+  "occludes_2": false
+}

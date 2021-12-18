@@ -1,0 +1,12 @@
+{
+  "id": 35640,
+  "models": {
+    "10": [
+      24894
+    ]
+  },
+  "name": "Shelf",
+  "ambient": 35,
+  "contrast": 25,
+  "occludes_2": false
+}

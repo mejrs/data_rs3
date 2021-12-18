@@ -1,0 +1,24 @@
+{
+  "id": 112673,
+  "models": {
+    "10": [
+      69040
+    ]
+  },
+  "name": "Prince Slime",
+  "unknown_19": 1,
+  "unknown_24": 32457,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Eradicate",
+    "Salt with Cooking",
+    "Break up with Fishing",
+    "Suck up with Invention",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

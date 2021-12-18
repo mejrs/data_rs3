@@ -1,0 +1,25 @@
+{
+  "id": 47180,
+  "models": {
+    "10": [
+      50768
+    ]
+  },
+  "name": "Pedestal",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Place-globe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1892": 1890
+  },
+  "occludes_2": false
+}

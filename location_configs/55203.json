@@ -1,0 +1,42 @@
+{
+  "id": 55203,
+  "models": {
+    "0": [
+      59845
+    ]
+  },
+  "name": "Challenge chamber",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8,
+      529
+    ],
+    [
+      12,
+      534
+    ],
+    [
+      16,
+      534
+    ],
+    [
+      20,
+      539
+    ],
+    [
+      28,
+      544
+    ],
+    [
+      23,
+      536
+    ]
+  ],
+  "unknown_170": 961
+}

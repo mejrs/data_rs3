@@ -1,0 +1,16 @@
+{
+  "id": 102284,
+  "models": {
+    "10": [
+      33637
+    ]
+  },
+  "name": "Broken range",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

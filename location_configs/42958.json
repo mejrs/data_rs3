@@ -1,0 +1,27 @@
+{
+  "id": 42958,
+  "models": {
+    "10": [
+      46552
+    ]
+  },
+  "name": "Broken chair",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

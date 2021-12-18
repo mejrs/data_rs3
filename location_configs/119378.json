@@ -1,0 +1,16 @@
+{
+  "id": 119378,
+  "models": {
+    "10": [
+      95761,
+      95787
+    ]
+  },
+  "name": "Material cache (Blood of Orcus)",
+  "unknown_21": true,
+  "ambient": 32,
+  "textures": {
+    "12338": 12335
+  },
+  "occludes_2": false
+}

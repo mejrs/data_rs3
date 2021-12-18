@@ -1,0 +1,17 @@
+{
+  "id": 96163,
+  "models": {
+    "10": [
+      103234,
+      103092
+    ]
+  },
+  "name": "Statue of Zemouregal",
+  "ambient": -10,
+  "textures": {
+    "3674": 5556,
+    "3675": 5557
+  },
+  "mirror": true,
+  "occludes_2": false
+}

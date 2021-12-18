@@ -1,0 +1,30 @@
+{
+  "id": 2318,
+  "models": {
+    "10": [
+      37448
+    ]
+  },
+  "name": "Pile of rubble",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

@@ -1,0 +1,24 @@
+{
+  "id": 81886,
+  "models": {
+    "10": [
+      82596,
+      82584,
+      82597
+    ]
+  },
+  "name": "Kennel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Customise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "scale_x": 113,
+  "occludes_2": false
+}

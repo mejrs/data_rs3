@@ -1,0 +1,29 @@
+{
+  "id": 21157,
+  "models": {
+    "10": [
+      47049
+    ]
+  },
+  "name": "Ice block",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

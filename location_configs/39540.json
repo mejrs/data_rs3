@@ -1,0 +1,19 @@
+{
+  "id": 39540,
+  "models": {
+    "10": [
+      43023
+    ]
+  },
+  "name": "Ranger armour table",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Take-armour",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

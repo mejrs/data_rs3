@@ -1,0 +1,18 @@
+{
+  "id": 97551,
+  "models": {
+    "0": [
+      42879
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "textures": {
+    "1486": 5010,
+    "2396": 1444
+  },
+  "scale_y": 137,
+  "translate_y": 1
+}

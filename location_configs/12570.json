@@ -1,0 +1,41 @@
+{
+  "id": 12570,
+  "models": {
+    "10": [
+      13576
+    ]
+  },
+  "name": "Tropical tree",
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      6703
+    ],
+    [
+      6585,
+      5673
+    ],
+    [
+      15919,
+      14876
+    ]
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

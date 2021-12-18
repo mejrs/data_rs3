@@ -1,0 +1,25 @@
+{
+  "id": 41608,
+  "models": {
+    "10": [
+      57956,
+      57960
+    ]
+  },
+  "name": "Pit iron dragon",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_24": 14251,
+  "colours": [
+    [
+      404,
+      5162
+    ],
+    [
+      396,
+      5154
+    ]
+  ],
+  "occludes_2": false
+}

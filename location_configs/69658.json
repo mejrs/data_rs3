@@ -1,0 +1,22 @@
+{
+  "id": 69658,
+  "models": {
+    "10": [
+      68752
+    ]
+  },
+  "name": "Fenkenstrain's Castle, Port Phasmatys",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "North-east:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_x": 65498,
+  "translate_z": 65498,
+  "occludes_2": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": 67992,
+  "models": {
+    "10": [
+      65558
+    ]
+  },
+  "name": "Sulphur pit",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Cook-at",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65526,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    64,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

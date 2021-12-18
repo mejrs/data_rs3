@@ -1,0 +1,47 @@
+{
+  "id": 61656,
+  "models": {
+    "10": [
+      52018
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      0,
+      34881
+    ],
+    [
+      5,
+      34887
+    ],
+    [
+      10,
+      34895
+    ],
+    [
+      15,
+      34903
+    ],
+    [
+      20,
+      34909
+    ],
+    [
+      32874,
+      43125
+    ]
+  ],
+  "textures": {
+    "1532": 2556
+  },
+  "mapscene": 71,
+  "occludes_2": false,
+  "unknown_196": 3
+}

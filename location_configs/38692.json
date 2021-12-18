@@ -1,0 +1,17 @@
+{
+  "id": 38692,
+  "models": {
+    "0": [
+      42171
+    ]
+  },
+  "name": "Non-combat zone",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 7382,
+  "ambient": 10,
+  "unknown_88": false,
+  "unknown_89": false
+}

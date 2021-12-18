@@ -1,0 +1,31 @@
+{
+  "id": 29728,
+  "models": {
+    "10": [
+      32297
+    ]
+  },
+  "name": "Crevice",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 63056,
+  "models": {
+    "22": [
+      4099
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 18,
+  "contrast": 15,
+  "textures": {
+    "2980": 9001
+  },
+  "model": false,
+  "occludes_2": false
+}

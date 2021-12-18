@@ -1,0 +1,41 @@
+{
+  "id": 96638,
+  "models": {
+    "10": [
+      103653
+    ]
+  },
+  "name": "Bathysphere",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Operate",
+    "Clear floor",
+    "View fish list",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 1671,
+    "unknown_2": 6
+  },
+  "unknown_79": {
+    "unknown_1": 1,
+    "unknown_2": 1,
+    "unknown_3": 6,
+    "values": [
+      39827,
+      39908,
+      39859,
+      39845
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 95,
+  "unknown_1": 200,
+  "unknown_2": 230
+}

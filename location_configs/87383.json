@@ -1,0 +1,19 @@
+{
+  "id": 87383,
+  "models": {
+    "10": [
+      90523,
+      90522
+    ]
+  },
+  "name": "Bridge",
+  "dim_x": 4,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

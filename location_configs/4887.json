@@ -1,0 +1,33 @@
+{
+  "id": 4887,
+  "models": {
+    "10": [
+      3177
+    ]
+  },
+  "name": "A rock",
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      53,
+      6798
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

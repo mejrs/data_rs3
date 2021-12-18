@@ -1,0 +1,21 @@
+{
+  "id": 30144,
+  "models": {
+    "0": [
+      33141
+    ]
+  },
+  "name": "Forfeit tunnel",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Exit-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

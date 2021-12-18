@@ -1,0 +1,17 @@
+{
+  "id": 80742,
+  "models": {
+    "10": [
+      81209,
+      81207
+    ]
+  },
+  "name": "Obsidian throwing ring",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65520,
+  "occludes_2": false
+}

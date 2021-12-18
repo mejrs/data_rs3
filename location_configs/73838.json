@@ -1,0 +1,16 @@
+{
+  "id": 73838,
+  "models": {
+    "10": [
+      72001
+    ]
+  },
+  "name": "Finish line",
+  "dim_x": 7,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 17172,
+  "ambient": 25,
+  "contrast": 50,
+  "occludes_2": false
+}

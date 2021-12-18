@@ -1,0 +1,19 @@
+{
+  "id": 119681,
+  "models": {
+    "10": [
+      121841
+    ]
+  },
+  "name": "Osseous teleportation device",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 15635,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 100
+}

@@ -1,0 +1,28 @@
+{
+  "id": 3307,
+  "models": {
+    "10": [
+      37488
+    ]
+  },
+  "name": "Rockpile",
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

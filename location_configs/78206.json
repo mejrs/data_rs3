@@ -1,0 +1,20 @@
+{
+  "id": 78206,
+  "models": {
+    "10": [
+      78089,
+      78095,
+      78099,
+      78087
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 9,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "translate_x": 65472,
+  "translate_z": 65344,
+  "occludes_2": false
+}

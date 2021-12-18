@@ -1,0 +1,23 @@
+{
+  "id": 35569,
+  "models": {
+    "10": [
+      61606
+    ]
+  },
+  "name": "Strange yellow plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Uproot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

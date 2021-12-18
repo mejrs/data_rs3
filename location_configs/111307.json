@@ -1,0 +1,29 @@
+{
+  "id": 111307,
+  "models": {
+    "10": [
+      37272,
+      37186
+    ]
+  },
+  "name": "Overgrown idol",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 35699,
+  "models": {
+    "10": [
+      64654
+    ]
+  },
+  "name": "Large machine",
+  "unknown_17": false,
+  "unknown_24": 10822,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_89": false,
+  "occludes_2": false
+}

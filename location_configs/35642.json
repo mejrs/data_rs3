@@ -1,0 +1,12 @@
+{
+  "id": 35642,
+  "models": {
+    "10": [
+      36222
+    ]
+  },
+  "name": "Round table",
+  "ambient": 35,
+  "contrast": 25,
+  "occludes_2": false
+}

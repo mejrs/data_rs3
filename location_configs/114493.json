@@ -1,0 +1,22 @@
+{
+  "id": 114493,
+  "models": {
+    "10": [
+      82537,
+      7767
+    ]
+  },
+  "name": "Ciku tree",
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "unknown_88": false,
+  "occludes_2": false
+}

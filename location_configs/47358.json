@@ -1,0 +1,32 @@
+{
+  "id": 47358,
+  "models": {
+    "10": [
+      50942
+    ]
+  },
+  "name": "Tunnel entrance",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "textures": {
+    "2359": 2396
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

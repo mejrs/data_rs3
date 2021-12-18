@@ -1,0 +1,36 @@
+{
+  "id": 95828,
+  "models": {
+    "10": [
+      11125
+    ]
+  },
+  "name": "Wardrobe",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4502,
+      7954
+    ],
+    [
+      4510,
+      7582
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

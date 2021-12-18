@@ -1,0 +1,13 @@
+{
+  "id": 22761,
+  "models": {
+    "0": [
+      63784
+    ]
+  },
+  "name": "Astral door",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "mirror": true
+}

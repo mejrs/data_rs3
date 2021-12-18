@@ -1,0 +1,17 @@
+{
+  "id": 102935,
+  "models": {
+    "22": [
+      112265
+    ]
+  },
+  "name": "Trawler net",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

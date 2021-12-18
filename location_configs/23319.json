@@ -1,0 +1,16 @@
+{
+  "id": 23319,
+  "models": {
+    "10": [
+      24254,
+      24258,
+      24259
+    ]
+  },
+  "name": "Cave gobins",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 6168,
+  "ambient": 15,
+  "occludes_2": false
+}

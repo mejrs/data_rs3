@@ -1,0 +1,15 @@
+{
+  "id": 54406,
+  "models": {
+    "22": [
+      64831
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_y": 250,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 69686,
+  "models": {
+    "10": [
+      68753
+    ]
+  },
+  "name": "Catherby",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "East:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2775": 2778
+  },
+  "occludes_2": false
+}

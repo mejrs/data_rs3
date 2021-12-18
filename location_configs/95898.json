@@ -1,0 +1,29 @@
+{
+  "id": 95898,
+  "models": {
+    "10": [
+      103057
+    ]
+  },
+  "name": "Wine of Zemouregal",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 37672,
+  "models": {
+    "10": [
+      35850
+    ]
+  },
+  "name": "Chart table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      5400
+    ],
+    [
+      6451,
+      5398
+    ],
+    [
+      6563,
+      5390
+    ],
+    [
+      6439,
+      5394
+    ]
+  ],
+  "textures": {
+    "314": 325
+  },
+  "occludes_2": false
+}

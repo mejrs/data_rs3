@@ -1,0 +1,48 @@
+{
+  "id": 100644,
+  "models": {
+    "10": [
+      9547
+    ]
+  },
+  "name": "Large table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Prepare",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      5408
+    ],
+    [
+      6451,
+      5404
+    ],
+    [
+      6563,
+      5392
+    ],
+    [
+      6439,
+      5400
+    ]
+  ],
+  "textures": {
+    "2073": 3171,
+    "2093": 3179
+  },
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 40451,
+  "models": {
+    "10": [
+      64743,
+      64741
+    ]
+  },
+  "name": "Livid",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 8030,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

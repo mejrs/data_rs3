@@ -1,0 +1,30 @@
+{
+  "id": 7275,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "morphs_1": {
+    "varbit": 12378,
+    "ids": [
+      7277,
+      null,
+      7278
+    ]
+  },
+  "unknown_88": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

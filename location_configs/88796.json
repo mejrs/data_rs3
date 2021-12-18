@@ -1,0 +1,13 @@
+{
+  "id": 88796,
+  "models": {
+    "10": [
+      92476
+    ]
+  },
+  "name": "PvP board",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

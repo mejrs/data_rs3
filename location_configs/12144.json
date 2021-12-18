@@ -1,0 +1,27 @@
+{
+  "id": 12144,
+  "models": {
+    "10": [
+      11990
+    ]
+  },
+  "name": "Canoe station",
+  "dim_x": 5,
+  "dim_y": 2,
+  "actions": [
+    "Chop-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

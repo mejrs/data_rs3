@@ -1,0 +1,22 @@
+{
+  "id": 66312,
+  "models": {
+    "10": [
+      29945
+    ]
+  },
+  "name": "Blocked tunnel",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Escape-caves"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

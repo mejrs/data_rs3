@@ -1,0 +1,28 @@
+{
+  "id": 78477,
+  "models": {
+    "22": [
+      78659
+    ]
+  },
+  "name": "Cliff",
+  "unknown_19": 1,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

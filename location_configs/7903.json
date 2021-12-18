@@ -1,0 +1,27 @@
+{
+  "id": 7903,
+  "models": {
+    "10": [
+      7865,
+      7767
+    ]
+  },
+  "name": "Rosemary",
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

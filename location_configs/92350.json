@@ -1,0 +1,29 @@
+{
+  "id": 92350,
+  "models": {
+    "0": [
+      98229
+    ]
+  },
+  "name": "Summoning banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      39008
+    ],
+    [
+      36300,
+      6075
+    ]
+  ],
+  "mapscene": 22
+}

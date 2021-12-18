@@ -1,0 +1,16 @@
+{
+  "id": 114165,
+  "models": {
+    "10": [
+      88302
+    ]
+  },
+  "name": "Planks",
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 116960,
+  "models": {
+    "22": [
+      90990
+    ]
+  },
+  "name": "Vault exit",
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64,
+      928
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

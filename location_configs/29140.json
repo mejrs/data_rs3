@@ -1,0 +1,12 @@
+{
+  "id": 29140,
+  "models": {
+    "10": [
+      31970
+    ]
+  },
+  "name": "Spikes",
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

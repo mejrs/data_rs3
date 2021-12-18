@@ -1,0 +1,33 @@
+{
+  "id": 110031,
+  "models": {
+    "10": [
+      1470,
+      1811,
+      2292
+    ]
+  },
+  "name": "Familiarisation portal",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

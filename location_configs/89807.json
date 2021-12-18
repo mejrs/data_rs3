@@ -1,0 +1,27 @@
+{
+  "id": 89807,
+  "models": {
+    "0": [
+      94177
+    ]
+  },
+  "name": "Drop",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 64,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

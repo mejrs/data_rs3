@@ -1,0 +1,33 @@
+{
+  "id": 95756,
+  "models": {
+    "10": [
+      45413
+    ]
+  },
+  "name": "Moving egg",
+  "is_transparent": true,
+  "unknown_24": 11085,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

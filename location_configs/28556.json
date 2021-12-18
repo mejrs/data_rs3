@@ -1,0 +1,28 @@
+{
+  "id": 28556,
+  "models": {
+    "10": [
+      31559
+    ]
+  },
+  "name": "Evil turnip patch",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 5,
+  "actions": [
+    "Pick",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

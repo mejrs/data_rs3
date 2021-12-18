@@ -1,0 +1,32 @@
+{
+  "id": 69114,
+  "models": {
+    "10": [
+      68146
+    ]
+  },
+  "name": "Root",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 35,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 64,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

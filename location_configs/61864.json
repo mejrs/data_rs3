@@ -1,0 +1,19 @@
+{
+  "id": 61864,
+  "models": {
+    "10": [
+      59058
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 10,
+  "textures": {
+    "1516": 2556
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "occludes_2": false
+}

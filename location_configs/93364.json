@@ -1,0 +1,22 @@
+{
+  "id": 93364,
+  "models": {
+    "10": [
+      98338,
+      7768,
+      98341
+    ]
+  },
+  "name": "Dead elder tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "scale_y": 150,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5849,
+  "models": {
+    "10": [
+      3722
+    ]
+  },
+  "name": "Clump of rocks",
+  "actions": [
+    "Jump-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

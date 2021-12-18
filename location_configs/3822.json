@@ -1,0 +1,28 @@
+{
+  "id": 3822,
+  "models": {
+    "10": [
+      3819
+    ]
+  },
+  "name": "Goutweed Crate",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

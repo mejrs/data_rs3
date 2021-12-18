@@ -1,0 +1,14 @@
+{
+  "id": 48709,
+  "models": {
+    "10": [
+      37253
+    ]
+  },
+  "name": "Ore",
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false
+}

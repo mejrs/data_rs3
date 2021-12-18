@@ -1,0 +1,42 @@
+{
+  "id": 96,
+  "models": {
+    "10": [
+      1176
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      49,
+      8
+    ],
+    [
+      37,
+      24
+    ],
+    [
+      7064,
+      7050
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

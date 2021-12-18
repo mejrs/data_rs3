@@ -1,0 +1,51 @@
+{
+  "id": 2235,
+  "models": {
+    "10": [
+      37163
+    ]
+  },
+  "name": "Tomb dolmen",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21547,
+      6459
+    ],
+    [
+      21543,
+      6450
+    ],
+    [
+      21539,
+      6444
+    ],
+    [
+      21534,
+      6435
+    ],
+    [
+      21530,
+      6430
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

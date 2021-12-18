@@ -1,0 +1,19 @@
+{
+  "id": 43246,
+  "models": {
+    "10": [
+      46814
+    ]
+  },
+  "name": "Burrow",
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

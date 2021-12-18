@@ -1,0 +1,19 @@
+{
+  "id": 28380,
+  "models": {
+    "10": [
+      31012
+    ]
+  },
+  "name": "Sealed door",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 25,
+  "mirror": true,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

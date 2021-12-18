@@ -1,0 +1,12 @@
+{
+  "id": 37283,
+  "models": {
+    "10": [
+      28575
+    ]
+  },
+  "name": "Coal",
+  "ambient": 5,
+  "contrast": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 26444,
+  "models": {
+    "10": [
+      75212
+    ]
+  },
+  "name": "Godly rays",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 17531,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

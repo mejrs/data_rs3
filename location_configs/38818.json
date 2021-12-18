@@ -1,0 +1,31 @@
+{
+  "id": 38818,
+  "models": {
+    "10": [
+      41073
+    ]
+  },
+  "name": "Fire pit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

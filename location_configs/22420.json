@@ -1,0 +1,13 @@
+{
+  "id": 22420,
+  "models": {
+    "10": [
+      22837
+    ]
+  },
+  "name": "Flour bin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 98287,
+  "models": {
+    "10": [
+      19942
+    ]
+  },
+  "name": "Mysterious weapon",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Take weapon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

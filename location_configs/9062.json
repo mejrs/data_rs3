@@ -1,0 +1,13 @@
+{
+  "id": 9062,
+  "models": {
+    "10": [
+      1421,
+      9005
+    ]
+  },
+  "name": "Ali M's Market",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

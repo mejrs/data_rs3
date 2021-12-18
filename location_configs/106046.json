@@ -1,0 +1,49 @@
+{
+  "id": 106046,
+  "models": {
+    "10": [
+      10478,
+      10481
+    ]
+  },
+  "name": "Puppet box",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43943,
+      1686
+    ],
+    [
+      6457,
+      553
+    ],
+    [
+      6573,
+      920
+    ],
+    [
+      5543,
+      912
+    ]
+  ],
+  "scale_x": 110,
+  "scale_y": 90,
+  "scale_z": 110,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

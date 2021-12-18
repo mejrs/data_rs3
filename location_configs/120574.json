@@ -1,0 +1,45 @@
+{
+  "id": 120574,
+  "models": {
+    "0": [
+      122274,
+      123070,
+      123078
+    ],
+    "4": [
+      122275,
+      123071,
+      123079
+    ],
+    "10": [
+      122272,
+      123068,
+      123076
+    ],
+    "22": [
+      122273,
+      123069,
+      123077
+    ]
+  },
+  "name": "Drawer 'B-C'",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65516,
+  "translate_y": 65348,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

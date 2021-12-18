@@ -1,0 +1,31 @@
+{
+  "id": 57211,
+  "models": {
+    "10": [
+      62716
+    ]
+  },
+  "name": "Frozen door",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

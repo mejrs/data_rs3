@@ -1,0 +1,30 @@
+{
+  "id": 25809,
+  "models": {
+    "10": [
+      5271
+    ]
+  },
+  "name": "Closed booth",
+  "is_transparent": true,
+  "ambient": 20,
+  "colours": [
+    [
+      12579,
+      6315
+    ],
+    [
+      12698,
+      6435
+    ],
+    [
+      12818,
+      6554
+    ],
+    [
+      21776,
+      6674
+    ]
+  ],
+  "occludes_2": false
+}

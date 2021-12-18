@@ -1,0 +1,25 @@
+{
+  "id": 39196,
+  "models": {
+    "10": [
+      42466
+    ]
+  },
+  "name": "Balcony",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Look-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

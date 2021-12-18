@@ -1,0 +1,26 @@
+{
+  "id": 73800,
+  "models": {
+    "10": [
+      64860
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "model": false,
+  "scale_x": 180,
+  "scale_y": 140,
+  "scale_z": 180,
+  "unknown_81": 80,
+  "mapscene": 6,
+  "occludes_2": false
+}

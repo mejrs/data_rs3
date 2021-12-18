@@ -1,0 +1,21 @@
+{
+  "id": 98299,
+  "models": {
+    "10": [
+      84714
+    ]
+  },
+  "name": "Battle standard for Saradomin",
+  "unknown_24": 9642,
+  "actions": [
+    "For Saradomin!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 3
+  }
+}

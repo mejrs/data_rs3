@@ -1,0 +1,36 @@
+{
+  "id": 53976,
+  "models": {
+    "10": [
+      41088
+    ]
+  },
+  "name": "Gravestone (needs blessing)",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Bless",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_79": {
+    "unknown_1": 200,
+    "unknown_2": 300,
+    "unknown_3": 10,
+    "values": [
+      1925,
+      1918,
+      1922,
+      1921,
+      1923,
+      1924,
+      1920,
+      1919
+    ]
+  },
+  "occludes_2": false
+}

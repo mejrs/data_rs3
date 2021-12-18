@@ -1,0 +1,23 @@
+{
+  "id": 69806,
+  "models": {
+    "10": [
+      68743
+    ]
+  },
+  "name": "Ardougne",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "North:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2775": 2774
+  },
+  "occludes_2": false
+}

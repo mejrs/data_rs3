@@ -1,0 +1,14 @@
+{
+  "id": 79445,
+  "models": {
+    "4": [
+      80332
+    ]
+  },
+  "name": "Chart",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65501,
+  "occludes_2": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": 11901,
+  "models": {
+    "10": [
+      60866
+    ]
+  },
+  "name": "Doors",
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6558,
+      49
+    ],
+    [
+      6682,
+      40
+    ],
+    [
+      6806,
+      33
+    ],
+    [
+      6930,
+      30
+    ],
+    [
+      7054,
+      26
+    ],
+    [
+      0,
+      7054
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

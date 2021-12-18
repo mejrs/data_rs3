@@ -1,0 +1,30 @@
+{
+  "id": 110573,
+  "models": {
+    "10": [
+      77207
+    ]
+  },
+  "name": "Rock",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2720": 9705
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "params": {
+    "6896": 59
+  }
+}

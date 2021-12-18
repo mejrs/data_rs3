@@ -1,0 +1,31 @@
+{
+  "id": 97794,
+  "models": {
+    "10": [
+      103692
+    ]
+  },
+  "name": "Fish",
+  "unknown_19": 1,
+  "unknown_24": 26945,
+  "ambient": 25,
+  "actions": [
+    "Fish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

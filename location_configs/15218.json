@@ -1,0 +1,25 @@
+{
+  "id": 15218,
+  "models": {
+    "10": [
+      15095
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_22": true,
+  "colours": [
+    [
+      7335,
+      10398
+    ],
+    [
+      7331,
+      10398
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

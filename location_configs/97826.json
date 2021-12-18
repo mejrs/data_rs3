@@ -1,0 +1,25 @@
+{
+  "id": 97826,
+  "models": {
+    "10": [
+      90726,
+      90729
+    ]
+  },
+  "name": "Dead monk",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 21812,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Free spirit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

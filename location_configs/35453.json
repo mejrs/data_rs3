@@ -1,0 +1,15 @@
+{
+  "id": 35453,
+  "models": {
+    "10": [
+      36108
+    ]
+  },
+  "name": "Palatial table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false
+}

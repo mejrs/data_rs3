@@ -1,0 +1,67 @@
+{
+  "id": 93317,
+  "models": {
+    "10": [
+      90595,
+      90598,
+      7768
+    ]
+  },
+  "name": "Elder tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop",
+    null,
+    "Clear",
+    "Guide",
+    "Inspect"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      2857,
+      5525
+    ],
+    [
+      2861,
+      5529
+    ],
+    [
+      2865,
+      5533
+    ],
+    [
+      2869,
+      5537
+    ],
+    [
+      228,
+      5529
+    ],
+    [
+      2849,
+      5525
+    ]
+  ],
+  "textures": {
+    "2191": 2202,
+    "2192": 2206,
+    "2205": 2209
+  },
+  "model": false,
+  "scale_y": 150,
+  "unknown_81": 32,
+  "mapscene": 0,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

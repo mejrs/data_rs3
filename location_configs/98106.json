@@ -1,0 +1,15 @@
+{
+  "id": 98106,
+  "models": {
+    "10": [
+      105273
+    ]
+  },
+  "name": "Totem",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 32,
+  "model": false,
+  "occludes_2": false
+}

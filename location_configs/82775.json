@@ -1,0 +1,15 @@
+{
+  "id": 82775,
+  "models": {
+    "10": [
+      83867
+    ]
+  },
+  "name": "Empty tree stump",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_69": 14,
+  "unknown_81": 32,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 72313,
+  "models": {
+    "10": [
+      69730
+    ]
+  },
+  "name": "Wall feature",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

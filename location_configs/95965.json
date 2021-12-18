@@ -1,0 +1,15 @@
+{
+  "id": 95965,
+  "models": {
+    "10": [
+      102923
+    ]
+  },
+  "name": "Mavis Grey",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 894,
+  "ambient": 15,
+  "occludes_2": false
+}

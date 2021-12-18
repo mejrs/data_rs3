@@ -1,0 +1,52 @@
+{
+  "id": 25014,
+  "models": {
+    "22": [
+      14598
+    ]
+  },
+  "name": "Portal",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Exit",
+    null,
+    "Quick-leave",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      30,
+      7050
+    ],
+    [
+      35,
+      8076
+    ],
+    [
+      39,
+      7952
+    ],
+    [
+      43,
+      7700
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16128,
+  "unknown_2": 16220,
+  "unknown_3": 16128,
+  "unknown_4": 16640,
+  "unknown_5": 64,
+  "unknown_6": 16640
+}

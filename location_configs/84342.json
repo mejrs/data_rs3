@@ -1,0 +1,17 @@
+{
+  "id": 84342,
+  "models": {
+    "10": [
+      17666
+    ]
+  },
+  "name": "Planning table",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "model": false,
+  "occludes_2": false
+}

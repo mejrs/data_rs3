@@ -1,0 +1,22 @@
+{
+  "id": 70032,
+  "models": {
+    "10": [
+      68839
+    ]
+  },
+  "name": "Hopper",
+  "dim_x": 2,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "translate_z": 64,
+  "occludes_2": false
+}

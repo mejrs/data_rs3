@@ -1,0 +1,18 @@
+{
+  "id": 84744,
+  "models": {
+    "10": [
+      74794
+    ]
+  },
+  "name": "Rock face",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 120,
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false
+}

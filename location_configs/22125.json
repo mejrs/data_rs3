@@ -1,0 +1,14 @@
+{
+  "id": 22125,
+  "models": {
+    "10": [
+      22936
+    ]
+  },
+  "name": "Candle stand",
+  "unknown_24": 5906,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 29400,
+  "models": {
+    "10": [
+      32110
+    ]
+  },
+  "name": "Chest",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

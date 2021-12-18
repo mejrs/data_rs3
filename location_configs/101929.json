@@ -1,0 +1,33 @@
+{
+  "id": 101929,
+  "models": {
+    "10": [
+      111489
+    ]
+  },
+  "name": "Unlit beacon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65476,
+  "mapscene": 87,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

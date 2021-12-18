@@ -1,0 +1,18 @@
+{
+  "id": 102535,
+  "models": {
+    "10": [
+      16290
+    ]
+  },
+  "name": "Crate",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

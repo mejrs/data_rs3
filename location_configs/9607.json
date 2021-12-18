@@ -1,0 +1,29 @@
+{
+  "id": 9607,
+  "models": {
+    "10": [
+      9500
+    ]
+  },
+  "name": "Bookcase",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "translate_x": 0,
+  "translate_y": 0,
+  "translate_z": 65520,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1121,
+  "models": {
+    "10": [
+      1672
+    ]
+  },
+  "name": "Bush",
+  "dim_y": 2,
+  "is_transparent": true,
+  "mapscene": 9,
+  "occludes_2": false
+}

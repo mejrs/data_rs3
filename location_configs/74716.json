@@ -1,0 +1,31 @@
+{
+  "id": 74716,
+  "models": {
+    "22": [
+      11342,
+      11222,
+      11314
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      32926,
+      51358
+    ],
+    [
+      32937,
+      51374
+    ],
+    [
+      6979,
+      8144
+    ]
+  ],
+  "translate_y": 65532,
+  "unknown_88": false,
+  "occludes_2": false
+}

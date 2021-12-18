@@ -1,0 +1,15 @@
+{
+  "id": 34899,
+  "models": {
+    "22": [
+      35751
+    ]
+  },
+  "name": "Rope",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_73": true,
+  "occludes_2": false
+}

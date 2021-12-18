@@ -1,0 +1,35 @@
+{
+  "id": 122056,
+  "models": {
+    "10": [
+      121926
+    ]
+  },
+  "name": "Chains",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 896,
+  "scale_y": 128,
+  "scale_z": 896,
+  "occludes_2": false,
+  "mapfunction": 4950,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2935,
+  "models": {
+    "10": [
+      37484
+    ]
+  },
+  "name": "Winch",
+  "dim_x": 4,
+  "dim_y": 5,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

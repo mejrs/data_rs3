@@ -1,0 +1,19 @@
+{
+  "id": 101637,
+  "models": {
+    "10": [
+      110761
+    ]
+  },
+  "name": "Levitating liquid terminal (3.5 litres)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_y": 65531,
+  "occludes_2": false
+}

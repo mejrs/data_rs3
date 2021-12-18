@@ -1,0 +1,21 @@
+{
+  "id": 27531,
+  "models": {
+    "10": [
+      29322
+    ]
+  },
+  "name": "Crater",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_22": true,
+  "ambient": 10,
+  "colours": [
+    [
+      29103,
+      12729
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

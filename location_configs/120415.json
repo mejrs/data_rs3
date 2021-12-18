@@ -1,0 +1,17 @@
+{
+  "id": 120415,
+  "models": {
+    "10": [
+      122545
+    ]
+  },
+  "name": "Cabinet",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

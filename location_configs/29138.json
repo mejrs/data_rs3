@@ -1,0 +1,14 @@
+{
+  "id": 29138,
+  "models": {
+    "10": [
+      31962
+    ]
+  },
+  "name": "Throne",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

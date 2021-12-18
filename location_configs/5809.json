@@ -1,0 +1,39 @@
+{
+  "id": 5809,
+  "models": {
+    "10": [
+      5655
+    ]
+  },
+  "name": "Weathervane",
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "colours": [
+    [
+      4535,
+      3627
+    ],
+    [
+      4541,
+      3627
+    ],
+    [
+      5547,
+      3747
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    56,
+    null
+  ]
+}

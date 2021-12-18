@@ -1,0 +1,29 @@
+{
+  "id": 13169,
+  "models": {
+    "10": [
+      12974
+    ]
+  },
+  "name": "Clock",
+  "unknown_19": 1,
+  "unknown_24": 3511,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 52221,
+  "models": {
+    "0": [
+      59859
+    ]
+  },
+  "name": "Auto-matching barrier",
+  "unknown_19": 1,
+  "unknown_24": 9651,
+  "ambient": 100,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 18670,
+  "models": {
+    "10": [
+      18850,
+      18839
+    ]
+  },
+  "name": "Cog",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

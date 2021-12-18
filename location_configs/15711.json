@@ -1,0 +1,21 @@
+{
+  "id": 15711,
+  "models": {
+    "10": [
+      23886
+    ]
+  },
+  "name": "Zanik",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

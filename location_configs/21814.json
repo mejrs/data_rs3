@@ -1,0 +1,28 @@
+{
+  "id": 21814,
+  "models": {
+    "0": [
+      22755
+    ]
+  },
+  "name": "Tower door",
+  "occludes_1": false,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_170": 1173,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

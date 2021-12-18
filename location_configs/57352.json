@@ -1,0 +1,27 @@
+{
+  "id": 57352,
+  "models": {
+    "10": [
+      65144
+    ]
+  },
+  "name": "Steam cloud",
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 15350,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3191,
+    "unknown_2": 25
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 127,
+  "unknown_178": 10
+}

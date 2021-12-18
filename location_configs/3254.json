@@ -1,0 +1,35 @@
+{
+  "id": 3254,
+  "models": {
+    "10": [
+      96181
+    ]
+  },
+  "name": "Bridge",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7952
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

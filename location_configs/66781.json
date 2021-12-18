@@ -1,0 +1,14 @@
+{
+  "id": 66781,
+  "models": {
+    "10": [
+      44332
+    ]
+  },
+  "name": "Gnome statue",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

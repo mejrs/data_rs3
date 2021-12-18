@@ -1,0 +1,15 @@
+{
+  "id": 1117,
+  "models": {
+    "10": [
+      1589
+    ]
+  },
+  "name": "Hedge",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 25,
+  "mapscene": 9,
+  "occludes_2": false,
+  "unknown_196": 2
+}

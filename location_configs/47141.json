@@ -1,0 +1,28 @@
+{
+  "id": 47141,
+  "models": {
+    "22": [
+      50692
+    ]
+  },
+  "name": "Smashed rampart",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

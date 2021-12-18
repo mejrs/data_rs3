@@ -1,0 +1,13 @@
+{
+  "id": 29124,
+  "models": {
+    "10": [
+      31914
+    ]
+  },
+  "name": "Ogre roof leaves",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

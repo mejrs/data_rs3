@@ -1,0 +1,28 @@
+{
+  "id": 8481,
+  "models": {
+    "10": [
+      101394,
+      7768
+    ]
+  },
+  "name": "Willow Tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      8598
+    ]
+  ],
+  "textures": {
+    "44": 61
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": 54546,
+  "models": {
+    "22": [
+      59086
+    ]
+  },
+  "name": "Blue recess",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      5278,
+      30
+    ],
+    [
+      5289,
+      36
+    ],
+    [
+      5302,
+      39
+    ],
+    [
+      5283,
+      30
+    ],
+    [
+      5286,
+      33
+    ]
+  ],
+  "textures": {
+    "2354": 2377
+  },
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

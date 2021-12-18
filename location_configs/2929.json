@@ -1,0 +1,25 @@
+{
+  "id": 2929,
+  "models": {
+    "10": [
+      1045
+    ]
+  },
+  "name": "Buried skeleton",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 24087,
+  "models": {
+    "10": [
+      25082,
+      25078,
+      25083
+    ]
+  },
+  "name": "Study desk",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

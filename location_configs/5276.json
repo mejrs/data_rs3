@@ -1,0 +1,26 @@
+{
+  "id": 5276,
+  "models": {
+    "10": [
+      5270
+    ]
+  },
+  "name": "Bank booth",
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    5,
+    null,
+    null,
+    null
+  ]
+}

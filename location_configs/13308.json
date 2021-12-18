@@ -1,0 +1,18 @@
+{
+  "id": 13308,
+  "models": {
+    "10": [
+      12903
+    ]
+  },
+  "name": "Bell-pull",
+  "unknown_19": 1,
+  "actions": [
+    "Ring",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

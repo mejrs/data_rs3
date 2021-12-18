@@ -1,0 +1,17 @@
+{
+  "id": 22844,
+  "models": {
+    "10": [
+      23400,
+      23397
+    ]
+  },
+  "name": "Table",
+  "unknown_27": false,
+  "ambient": 20,
+  "textures": {
+    "1479": 1480
+  },
+  "unknown_45": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 88350,
+  "models": {
+    "10": [
+      91795,
+      93162
+    ]
+  },
+  "dim_x": 16,
+  "dim_y": 16,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        22577,
+        120
+      ],
+      [
+        22578,
+        60
+      ]
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 112526,
+  "models": {
+    "22": [
+      1046
+    ]
+  },
+  "name": "Stepping stone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 2000,
+  "translate_y": 55,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

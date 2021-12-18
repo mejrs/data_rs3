@@ -1,0 +1,17 @@
+{
+  "id": 119063,
+  "models": {
+    "10": [
+      120511
+    ]
+  },
+  "name": "Stairs down",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_24": 33658,
+  "unknown_27": false,
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

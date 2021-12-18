@@ -1,0 +1,33 @@
+{
+  "id": 21178,
+  "models": {
+    "10": [
+      7874,
+      7766
+    ]
+  },
+  "name": "Herbs",
+  "ambient": 100,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      670
+    ],
+    [
+      19988,
+      551
+    ],
+    [
+      19992,
+      431
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17936,
+  "models": {
+    "10": [
+      17944,
+      17945
+    ]
+  },
+  "name": "Wall",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "mirror": true,
+  "occludes_2": false
+}

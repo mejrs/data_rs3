@@ -1,0 +1,33 @@
+{
+  "id": 66150,
+  "models": {
+    "10": [
+      30971
+    ]
+  },
+  "name": "Rock pile",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 7,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

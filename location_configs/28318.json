@@ -1,0 +1,16 @@
+{
+  "id": 28318,
+  "models": {
+    "10": [
+      30372
+    ]
+  },
+  "name": "Stags",
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_24": 7552,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 111092,
+  "models": {
+    "10": [
+      1774
+    ]
+  },
+  "name": "Pressure lever",
+  "unknown_19": 1,
+  "actions": [
+    "Overload",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 110546,
+  "models": {
+    "10": [
+      65852,
+      17417
+    ]
+  },
+  "name": "Table (hidey-hole)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2720": 9705
+  },
+  "translate_y": 65526,
+  "occludes_2": false,
+  "params": {
+    "6896": 51
+  }
+}

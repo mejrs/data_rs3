@@ -1,0 +1,12 @@
+{
+  "id": 26269,
+  "models": {
+    "10": [
+      27960
+    ]
+  },
+  "name": "Crane",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

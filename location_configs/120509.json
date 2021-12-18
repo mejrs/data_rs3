@@ -1,0 +1,13 @@
+{
+  "id": 120509,
+  "models": {
+    "10": [
+      122198
+    ]
+  },
+  "name": "Cathedral door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

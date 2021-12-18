@@ -1,0 +1,28 @@
+{
+  "id": 92442,
+  "models": {
+    "10": [
+      98353
+    ]
+  },
+  "name": "Yew",
+  "ambient": 64,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 3,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

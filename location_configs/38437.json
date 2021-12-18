@@ -1,0 +1,31 @@
+{
+  "id": 38437,
+  "models": {
+    "10": [
+      41817
+    ]
+  },
+  "name": "Unlit beacon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 10237,
+  "ambient": 25,
+  "contrast": 25,
+  "mapscene": 87,
+  "occludes_2": false,
+  "member_actions": [
+    "Add-logs",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

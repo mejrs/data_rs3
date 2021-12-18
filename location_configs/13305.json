@@ -1,0 +1,19 @@
+{
+  "id": 13305,
+  "models": {
+    "10": [
+      12405
+    ]
+  },
+  "name": "Mahogany bench",
+  "unknown_19": 1,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

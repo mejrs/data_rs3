@@ -1,0 +1,17 @@
+{
+  "id": 119250,
+  "models": {
+    "10": [
+      82081
+    ]
+  },
+  "name": "Barrel of powder",
+  "actions": [
+    "Stuff with powder",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 14201,
+  "models": {
+    "10": [
+      10977
+    ]
+  },
+  "name": "Red warrior",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      976
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

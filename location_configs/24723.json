@@ -1,0 +1,38 @@
+{
+  "id": 24723,
+  "models": {
+    "10": [
+      26034,
+      26053,
+      26049
+    ]
+  },
+  "name": "Drainpipe",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 10,
+  "occludes_2": false,
+  "member_actions": [
+    "Talk into",
+    null,
+    "Climb",
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  },
+  "cursors": [
+    null,
+    null,
+    181,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

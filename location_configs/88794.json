@@ -1,0 +1,16 @@
+{
+  "id": 88794,
+  "models": {
+    "10": [
+      92670
+    ]
+  },
+  "name": "Broken caravan",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 22355,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

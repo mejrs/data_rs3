@@ -1,0 +1,28 @@
+{
+  "id": 39602,
+  "models": {
+    "10": [
+      10772
+    ]
+  },
+  "name": "Rift",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

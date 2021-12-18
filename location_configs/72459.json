@@ -1,0 +1,17 @@
+{
+  "id": 72459,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Acid",
+  "actions": [
+    "Swim through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

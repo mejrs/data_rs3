@@ -1,0 +1,13 @@
+{
+  "id": 62336,
+  "models": {
+    "10": [
+      703
+    ]
+  },
+  "name": "Bowl",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

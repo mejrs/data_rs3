@@ -1,0 +1,29 @@
+{
+  "id": 40081,
+  "models": {
+    "10": [
+      9534
+    ]
+  },
+  "name": "Crane",
+  "dim_x": 2,
+  "dim_y": 4,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5784,
+      8722
+    ],
+    [
+      5545,
+      8602
+    ],
+    [
+      5665,
+      8598
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 2
+}

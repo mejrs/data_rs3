@@ -1,0 +1,12 @@
+{
+  "id": 30649,
+  "models": {
+    "10": [
+      111760
+    ]
+  },
+  "name": "Shelves",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 15412,
+  "models": {
+    "10": [
+      12660
+    ]
+  },
+  "name": "Chair space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

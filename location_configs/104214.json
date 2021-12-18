@@ -1,0 +1,15 @@
+{
+  "id": 104214,
+  "models": {
+    "10": [
+      119502
+    ]
+  },
+  "name": "Ship",
+  "dim_x": 8,
+  "dim_y": 26,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

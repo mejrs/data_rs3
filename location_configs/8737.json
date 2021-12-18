@@ -1,0 +1,11 @@
+{
+  "id": 8737,
+  "models": {
+    "10": [
+      8294
+    ]
+  },
+  "name": "Barrel Tap",
+  "dim_y": 2,
+  "occludes_2": false
+}

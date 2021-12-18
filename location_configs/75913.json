@@ -1,0 +1,37 @@
+{
+  "id": 75913,
+  "models": {
+    "0": [
+      76160,
+      76176
+    ]
+  },
+  "name": "Brickwork",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1454": 2328,
+    "1457": 2980
+  },
+  "model": false,
+  "unknown_170": 1434,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

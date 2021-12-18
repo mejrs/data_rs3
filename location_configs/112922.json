@@ -1,0 +1,39 @@
+{
+  "id": 112922,
+  "models": {
+    "4": [
+      111456
+    ],
+    "10": [
+      73930
+    ]
+  },
+  "name": "Daeyalt vein",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "scale_y": 155,
+  "translate_z": 128,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

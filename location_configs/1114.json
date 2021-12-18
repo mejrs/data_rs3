@@ -1,0 +1,13 @@
+{
+  "id": 1114,
+  "models": {
+    "10": [
+      1502
+    ]
+  },
+  "name": "Ice Throne",
+  "dim_x": 2,
+  "dim_y": 3,
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -1,0 +1,17 @@
+{
+  "id": 15268,
+  "models": {
+    "10": [
+      12670
+    ]
+  },
+  "name": "Clock space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

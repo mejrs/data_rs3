@@ -1,0 +1,19 @@
+{
+  "id": 104343,
+  "models": {
+    "10": [
+      2141
+    ]
+  },
+  "name": "Crate of Terrorbird costumes",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take Terrorbird costume",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

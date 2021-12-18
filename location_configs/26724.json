@@ -1,0 +1,22 @@
+{
+  "id": 26724,
+  "models": {
+    "10": [
+      28550
+    ]
+  },
+  "name": "Tree",
+  "dim_y": 9,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 6069,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

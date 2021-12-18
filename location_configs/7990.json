@@ -1,0 +1,20 @@
+{
+  "id": 7990,
+  "models": {
+    "10": [
+      110151,
+      7767
+    ]
+  },
+  "name": "Dead pineapple plant",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

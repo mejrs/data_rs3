@@ -1,0 +1,22 @@
+{
+  "id": 98304,
+  "models": {
+    "10": [
+      71962,
+      71964
+    ]
+  },
+  "name": "Battle standard for Seren",
+  "unknown_24": 10883,
+  "actions": [
+    "For Seren!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 8
+  }
+}

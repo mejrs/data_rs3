@@ -1,0 +1,11 @@
+{
+  "id": 8688,
+  "models": {
+    "10": [
+      8240
+    ]
+  },
+  "name": "Dresser",
+  "dim_x": 2,
+  "occludes_2": false
+}

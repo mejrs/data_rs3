@@ -1,0 +1,29 @@
+{
+  "id": 29397,
+  "models": {
+    "10": [
+      64022
+    ]
+  },
+  "name": "Smelter",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 109,
+  "ambient": 10,
+  "actions": [
+    "Withdraw-ingots",
+    "Return-ingots",
+    "Deposit-ores",
+    "Withdraw-ores",
+    null
+  ],
+  "contrast": 25,
+  "unknown_78": {
+    "unknown_1": 264,
+    "unknown_2": 12
+  },
+  "occludes_2": false,
+  "unknown_104": 30
+}

@@ -1,0 +1,29 @@
+{
+  "id": 92332,
+  "models": {
+    "0": [
+      98229
+    ]
+  },
+  "name": "Hunter banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      8492
+    ],
+    [
+      36300,
+      0
+    ]
+  ],
+  "mapscene": 22
+}

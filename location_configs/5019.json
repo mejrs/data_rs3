@@ -1,0 +1,23 @@
+{
+  "id": 5019,
+  "models": {
+    "10": [
+      10388
+    ]
+  },
+  "name": "Whetstone",
+  "dim_x": 2,
+  "colours": [
+    [
+      5545,
+      5406
+    ],
+    [
+      6466,
+      6570
+    ]
+  ],
+  "translate_x": 20,
+  "translate_z": 20,
+  "occludes_2": false
+}

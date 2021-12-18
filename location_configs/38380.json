@@ -1,0 +1,25 @@
+{
+  "id": 38380,
+  "models": {
+    "10": [
+      1637
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      3470,
+      5665
+    ]
+  ],
+  "textures": {
+    "2643": 2649,
+    "2652": 2646
+  },
+  "unknown_81": 42,
+  "mapscene": 1,
+  "occludes_2": false,
+  "unknown_189": true
+}

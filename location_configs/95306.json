@@ -1,0 +1,18 @@
+{
+  "id": 95306,
+  "models": {
+    "10": [
+      102214
+    ]
+  },
+  "name": "Signpost",
+  "unknown_21": true,
+  "actions": [
+    "Clue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

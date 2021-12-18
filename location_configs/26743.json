@@ -1,0 +1,26 @@
+{
+  "id": 26743,
+  "models": {
+    "10": [
+      11204
+    ]
+  },
+  "name": "Mahogany chest",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

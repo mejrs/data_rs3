@@ -1,0 +1,25 @@
+{
+  "id": 100574,
+  "models": {
+    "10": [
+      108035
+    ]
+  },
+  "name": "Enchanted snow",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take snowballs",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

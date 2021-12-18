@@ -1,0 +1,14 @@
+{
+  "id": 29584,
+  "models": {
+    "4": [
+      32418
+    ]
+  },
+  "name": "Coat of arms",
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 10,
+  "translate_y": 16,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 54581,
+  "models": {
+    "10": [
+      59774
+    ]
+  },
+  "name": "Fixed pillar",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

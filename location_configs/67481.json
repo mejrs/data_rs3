@@ -1,0 +1,16 @@
+{
+  "id": 67481,
+  "models": {
+    "10": [
+      36842
+    ]
+  },
+  "name": "Hanging Fish",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 15759,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

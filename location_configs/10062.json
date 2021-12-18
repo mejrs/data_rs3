@@ -1,0 +1,12 @@
+{
+  "id": 10062,
+  "models": {
+    "10": [
+      1439
+    ]
+  },
+  "name": "Obstacle net",
+  "dim_x": 2,
+  "unknown_69": 14,
+  "occludes_2": false
+}

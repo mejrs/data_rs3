@@ -1,0 +1,22 @@
+{
+  "id": 114513,
+  "models": {
+    "10": [
+      82759,
+      7768
+    ]
+  },
+  "name": "Guarana tree",
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "unknown_88": false,
+  "occludes_2": false
+}

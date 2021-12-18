@@ -1,0 +1,28 @@
+{
+  "id": 103194,
+  "models": {
+    "10": [
+      86943
+    ]
+  },
+  "name": "Water barrel",
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

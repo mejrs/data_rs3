@@ -1,0 +1,14 @@
+{
+  "id": 85000,
+  "models": {
+    "10": [
+      87075
+    ]
+  },
+  "name": "Bacon-covered decoy (P+++)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

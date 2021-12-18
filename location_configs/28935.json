@@ -1,0 +1,36 @@
+{
+  "id": 28935,
+  "models": {
+    "10": [
+      19910
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5197,
+  "actions": [
+    "Set-trap",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      57,
+      5425
+    ],
+    [
+      49,
+      5421
+    ],
+    [
+      41,
+      5417
+    ]
+  ],
+  "unknown_69": 13,
+  "mapscene": 71,
+  "occludes_2": false
+}

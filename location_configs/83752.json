@@ -1,0 +1,27 @@
+{
+  "id": 83752,
+  "models": {
+    "10": [
+      85187
+    ]
+  },
+  "name": "Tap",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 3593,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 70,
+  "unknown_1": 270,
+  "unknown_2": 280
+}

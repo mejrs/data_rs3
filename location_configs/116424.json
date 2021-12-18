@@ -1,0 +1,33 @@
+{
+  "id": 116424,
+  "models": {
+    "10": [
+      95761,
+      95790
+    ]
+  },
+  "name": "Material cache (Eye of Dagon)",
+  "unknown_21": true,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "textures": {
+    "12338": 12333
+  },
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 2882
+  }
+}

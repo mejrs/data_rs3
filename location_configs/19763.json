@@ -1,0 +1,34 @@
+{
+  "id": 19763,
+  "models": {
+    "10": [
+      37300
+    ]
+  },
+  "name": "Cave",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "textures": {
+    "1155": 1892,
+    "1516": 2556,
+    "2381": 2556
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

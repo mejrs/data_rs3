@@ -1,0 +1,23 @@
+{
+  "id": 11106,
+  "models": {
+    "10": [
+      819
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 5,
+  "colours": [
+    [
+      6689,
+      8656
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 24,
+  "occludes_2": false
+}

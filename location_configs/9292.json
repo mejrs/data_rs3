@@ -1,0 +1,28 @@
+{
+  "id": 9292,
+  "models": {
+    "0": [
+      45468
+    ]
+  },
+  "name": "Jagged wall",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Look",
+    "Jump-over",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    null,
+    181,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 2247,
+  "models": {
+    "0": [
+      37565
+    ]
+  },
+  "name": "Tomb doors",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

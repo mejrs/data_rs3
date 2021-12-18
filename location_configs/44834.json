@@ -1,0 +1,22 @@
+{
+  "id": 44834,
+  "models": {
+    "10": [
+      48420
+    ]
+  },
+  "name": "Oak pet feeder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Feed-all",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

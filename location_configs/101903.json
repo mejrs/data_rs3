@@ -1,0 +1,13 @@
+{
+  "id": 101903,
+  "models": {
+    "10": [
+      102353,
+      102350
+    ]
+  },
+  "name": "Mask of mania",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

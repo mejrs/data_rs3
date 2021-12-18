@@ -1,0 +1,32 @@
+{
+  "id": 116691,
+  "models": {
+    "10": [
+      87733
+    ]
+  },
+  "name": "Lift",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 4,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

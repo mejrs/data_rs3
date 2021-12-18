@@ -1,0 +1,30 @@
+{
+  "id": 110333,
+  "models": {
+    "10": [
+      53881
+    ]
+  },
+  "name": "Grondabans' Stalker Notes",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

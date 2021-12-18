@@ -1,0 +1,28 @@
+{
+  "id": 29217,
+  "models": {
+    "10": [
+      95137,
+      75170
+    ]
+  },
+  "name": "Barrel of Vinegar",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Fill bucket",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37187,
+      10563
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

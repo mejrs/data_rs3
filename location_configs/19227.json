@@ -1,0 +1,21 @@
+{
+  "id": 19227,
+  "models": {
+    "10": [
+      10772
+    ]
+  },
+  "name": "Pit",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    null,
+    null,
+    "Trap",
+    null,
+    null
+  ],
+  "contrast": 0,
+  "model": false,
+  "occludes_2": false
+}

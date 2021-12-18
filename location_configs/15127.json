@@ -1,0 +1,24 @@
+{
+  "id": 15127,
+  "models": {
+    "10": [
+      15056,
+      11003
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Take-axe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1562": 1559,
+    "2075": 2108
+  },
+  "occludes_2": false
+}

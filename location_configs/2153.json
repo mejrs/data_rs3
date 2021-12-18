@@ -1,0 +1,17 @@
+{
+  "id": 2153,
+  "models": {
+    "10": [
+      37513
+    ]
+  },
+  "name": "Obelisk of Fire",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 9590,
+  "ambient": 30,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

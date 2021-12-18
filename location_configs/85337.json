@@ -1,0 +1,18 @@
+{
+  "id": 85337,
+  "models": {
+    "10": [
+      88383
+    ]
+  },
+  "name": "Saradomin",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_24": 20696,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65476,
+  "occludes_2": false,
+  "unknown_196": 3
+}

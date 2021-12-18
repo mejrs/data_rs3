@@ -1,0 +1,12 @@
+{
+  "id": 20519,
+  "models": {
+    "10": [
+      19315
+    ]
+  },
+  "name": "Buffers",
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

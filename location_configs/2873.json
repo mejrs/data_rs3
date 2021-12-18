@@ -1,0 +1,26 @@
+{
+  "id": 2873,
+  "models": {
+    "10": [
+      1488
+    ]
+  },
+  "name": "Statue of Saradomin",
+  "actions": [
+    "Pray at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

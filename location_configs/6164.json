@@ -1,0 +1,37 @@
+{
+  "id": 6164,
+  "models": {
+    "10": [
+      5879,
+      1493
+    ]
+  },
+  "name": "Silver stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      28,
+      10266
+    ],
+    [
+      37,
+      10275
+    ],
+    [
+      57,
+      10295
+    ]
+  ],
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10556,
+  "models": {
+    "10": [
+      10257
+    ]
+  },
+  "name": "Champion statue",
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

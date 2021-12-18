@@ -1,0 +1,17 @@
+{
+  "id": 28040,
+  "models": {
+    "10": [
+      36409
+    ]
+  },
+  "name": "Hatch",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 6278,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

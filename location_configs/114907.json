@@ -1,0 +1,26 @@
+{
+  "id": 114907,
+  "models": {
+    "10": [
+      82170
+    ]
+  },
+  "name": "Fletching workbench",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Fletch arrows",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 13,
+  "translate_x": 65496,
+  "occludes_2": false
+}

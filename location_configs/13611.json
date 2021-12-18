@@ -1,0 +1,27 @@
+{
+  "id": 13611,
+  "models": {
+    "10": [
+      40833
+    ]
+  },
+  "name": "Limestone fireplace",
+  "dim_y": 2,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

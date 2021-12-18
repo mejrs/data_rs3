@@ -1,0 +1,21 @@
+{
+  "id": 28477,
+  "models": {
+    "10": [
+      30877
+    ]
+  },
+  "name": "Storage box",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Remove fuel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

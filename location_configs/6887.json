@@ -1,0 +1,40 @@
+{
+  "id": 6887,
+  "models": {
+    "10": [
+      46194
+    ]
+  },
+  "name": "Sithik Ints",
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4550,
+      3418
+    ],
+    [
+      38814,
+      40099
+    ],
+    [
+      4540,
+      3418
+    ]
+  ],
+  "unknown_44": 42,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

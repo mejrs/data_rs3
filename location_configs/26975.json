@@ -1,0 +1,26 @@
+{
+  "id": 26975,
+  "models": {
+    "0": [
+      25365
+    ],
+    "2": [
+      25366
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "colours": [
+    [
+      924,
+      49317
+    ],
+    [
+      920,
+      49436
+    ]
+  ]
+}

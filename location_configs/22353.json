@@ -1,0 +1,24 @@
+{
+  "id": 22353,
+  "models": {
+    "10": [
+      22922,
+      22920
+    ]
+  },
+  "name": "Statue",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "mapscene": 7,
+  "occludes_2": false
+}

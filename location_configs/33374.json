@@ -1,0 +1,15 @@
+{
+  "id": 33374,
+  "models": {
+    "0": [
+      61665
+    ]
+  },
+  "name": "Fountain",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13723,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_89": false
+}

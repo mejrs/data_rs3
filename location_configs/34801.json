@@ -1,0 +1,34 @@
+{
+  "id": 34801,
+  "models": {
+    "10": [
+      1179
+    ]
+  },
+  "name": "Potter's wheel",
+  "ambient": 25,
+  "actions": [
+    "Form",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5784,
+      7440
+    ],
+    [
+      5660,
+      7448
+    ],
+    [
+      5541,
+      7456
+    ]
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

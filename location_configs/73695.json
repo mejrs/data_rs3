@@ -1,0 +1,74 @@
+{
+  "id": 73695,
+  "models": {
+    "10": [
+      65251
+    ]
+  },
+  "name": "Black rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 2234,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10309,
+      6696
+    ],
+    [
+      10299,
+      6691
+    ],
+    [
+      10283,
+      6686
+    ],
+    [
+      10276,
+      6676
+    ],
+    [
+      10275,
+      6671
+    ],
+    [
+      35549,
+      30
+    ],
+    [
+      35539,
+      25
+    ],
+    [
+      35526,
+      20
+    ],
+    [
+      35501,
+      15
+    ],
+    [
+      38446,
+      10
+    ]
+  ],
+  "mapscene": 12,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

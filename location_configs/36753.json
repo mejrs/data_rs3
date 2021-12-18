@@ -1,0 +1,13 @@
+{
+  "id": 36753,
+  "models": {
+    "10": [
+      36508
+    ]
+  },
+  "name": "Statue",
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

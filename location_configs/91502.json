@@ -1,0 +1,30 @@
+{
+  "id": 91502,
+  "models": {
+    "10": [
+      96939
+    ]
+  },
+  "name": "Webbed entrance",
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

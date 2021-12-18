@@ -1,0 +1,19 @@
+{
+  "id": 22712,
+  "models": {
+    "10": [
+      23337,
+      23339
+    ]
+  },
+  "name": "Bust",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "textures": {
+    "1476": 1526,
+    "1479": 1480
+  },
+  "occludes_2": false
+}

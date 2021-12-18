@@ -1,0 +1,31 @@
+{
+  "id": 16715,
+  "models": {
+    "10": [
+      16668
+    ]
+  },
+  "name": "Bags for sale",
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      15009,
+      8621
+    ],
+    [
+      8621,
+      152
+    ],
+    [
+      8621,
+      152
+    ],
+    [
+      152,
+      15009
+    ]
+  ],
+  "translate_y": 30,
+  "occludes_2": false
+}

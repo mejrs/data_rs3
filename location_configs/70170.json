@@ -1,0 +1,23 @@
+{
+  "id": 70170,
+  "models": {
+    "10": [
+      52888
+    ]
+  },
+  "name": "Stone bowl",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "translate_x": 64,
+  "occludes_2": false
+}

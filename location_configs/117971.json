@@ -1,0 +1,36 @@
+{
+  "id": 117971,
+  "models": {
+    "10": [
+      118425
+    ]
+  },
+  "name": "Effigy casings",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1413": 9937
+  },
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 27060,
+  "models": {
+    "10": [
+      29000
+    ]
+  },
+  "name": "Cut roots",
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 10035,
+  "models": {
+    "10": [
+      9738
+    ]
+  },
+  "name": "Low wall",
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

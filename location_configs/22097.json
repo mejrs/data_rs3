@@ -1,0 +1,22 @@
+{
+  "id": 22097,
+  "models": {
+    "10": [
+      23069
+    ]
+  },
+  "name": "Peephole",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Peer-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 41639,
+  "models": {
+    "4": [
+      12472
+    ]
+  },
+  "name": "Pipe",
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

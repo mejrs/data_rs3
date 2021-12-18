@@ -1,0 +1,16 @@
+{
+  "id": 87163,
+  "models": {
+    "0": [
+      88870
+    ]
+  },
+  "name": "Captain's door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": -25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "unknown_170": 1097
+}

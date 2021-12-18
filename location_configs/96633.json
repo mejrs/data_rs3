@@ -1,0 +1,14 @@
+{
+  "id": 96633,
+  "models": {
+    "10": [
+      103720
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_24": 26312,
+  "model": false,
+  "occludes_2": false
+}

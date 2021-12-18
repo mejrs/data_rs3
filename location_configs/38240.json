@@ -1,0 +1,29 @@
+{
+  "id": 38240,
+  "models": {
+    "0": [
+      50737
+    ],
+    "1": [
+      50598
+    ],
+    "9": [
+      50644
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      6286
+    ]
+  ],
+  "textures": {
+    "1892": 1890
+  },
+  "occludes_2": false
+}

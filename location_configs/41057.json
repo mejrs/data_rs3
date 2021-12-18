@@ -1,0 +1,38 @@
+{
+  "id": 41057,
+  "models": {
+    "0": [
+      37465
+    ]
+  },
+  "name": "Square hole",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      36907,
+      36901
+    ],
+    [
+      32804,
+      36881
+    ]
+  ],
+  "unknown_44": 5,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

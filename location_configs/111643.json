@@ -1,0 +1,13 @@
+{
+  "id": 111643,
+  "models": {
+    "10": [
+      67906
+    ]
+  },
+  "name": "Plant",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

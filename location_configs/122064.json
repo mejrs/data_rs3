@@ -1,0 +1,27 @@
+{
+  "id": 122064,
+  "models": {
+    "10": [
+      68884
+    ]
+  },
+  "name": "Challenger's chest",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

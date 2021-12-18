@@ -1,0 +1,23 @@
+{
+  "id": 102034,
+  "models": {
+    "10": [
+      111521
+    ]
+  },
+  "name": "Church organ",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

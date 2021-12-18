@@ -1,0 +1,12 @@
+{
+  "id": 386,
+  "models": {
+    "10": [
+      904
+    ]
+  },
+  "name": "Large urn",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

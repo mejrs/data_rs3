@@ -1,0 +1,27 @@
+{
+  "id": 107357,
+  "models": {
+    "10": [
+      117542
+    ]
+  },
+  "name": "Ancient relic",
+  "unknown_24": 30575,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 594,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

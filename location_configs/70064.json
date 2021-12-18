@@ -1,0 +1,40 @@
+{
+  "id": 70064,
+  "models": {
+    "10": [
+      68881
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8467,
+      7471
+    ],
+    [
+      8459,
+      7455
+    ]
+  ],
+  "textures": {
+    "2216": 2274,
+    "2217": 2281,
+    "2218": 2276,
+    "2219": 2274,
+    "2222": 2278
+  },
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 90,
+  "scale_z": 100,
+  "unknown_81": 42,
+  "occludes_2": false,
+  "unknown_189": true,
+  "unknown_196": 2
+}

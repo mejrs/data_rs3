@@ -1,0 +1,31 @@
+{
+  "id": 52864,
+  "models": {
+    "10": [
+      57999
+    ]
+  },
+  "name": "Mysterious door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14281,
+  "ambient": 15,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

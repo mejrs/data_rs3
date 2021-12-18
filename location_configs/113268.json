@@ -1,0 +1,30 @@
+{
+  "id": 113268,
+  "models": {
+    "10": [
+      72591
+    ]
+  },
+  "name": "Burial Anvil",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Smith",
+    "Deposit-all (into metal bank)",
+    "Withdraw-all (from metal bank)",
+    "Open smithing interface",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7803": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 94244,
+  "models": {
+    "10": [
+      100052
+    ]
+  },
+  "name": "Hefin",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "North:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

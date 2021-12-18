@@ -1,0 +1,12 @@
+{
+  "id": 609,
+  "models": {
+    "10": [
+      2147
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false
+}

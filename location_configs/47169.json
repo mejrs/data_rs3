@@ -1,0 +1,16 @@
+{
+  "id": 47169,
+  "models": {
+    "10": [
+      50701
+    ]
+  },
+  "name": "Pillar",
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "textures": {
+    "1892": 1890
+  },
+  "occludes_2": false
+}

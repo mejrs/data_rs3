@@ -1,0 +1,16 @@
+{
+  "id": 111126,
+  "models": {
+    "10": [
+      95347,
+      95146
+    ]
+  },
+  "name": "Strange egg",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 4320,
+  "models": {
+    "10": [
+      1894,
+      1877
+    ]
+  },
+  "name": "Scribbled note",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 1200,
+  "ambient": 25,
+  "actions": [
+    "Recover-memory",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "mapfunction": 920
+}

@@ -1,0 +1,22 @@
+{
+  "id": 116587,
+  "models": {
+    "10": [
+      95568,
+      95526
+    ]
+  },
+  "name": "Statue of Mesomedes",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Restore",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

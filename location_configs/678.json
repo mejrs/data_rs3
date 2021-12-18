@@ -1,0 +1,13 @@
+{
+  "id": 678,
+  "models": {
+    "10": [
+      45311
+    ]
+  },
+  "name": "Tree",
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 5,
+  "occludes_2": false
+}

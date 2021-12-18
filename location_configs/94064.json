@@ -1,0 +1,35 @@
+{
+  "id": 94064,
+  "models": {
+    "10": [
+      50039
+    ]
+  },
+  "name": "Cooking range",
+  "unknown_27": false,
+  "actions": [
+    "Cook at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 4969,
+    "unknown_2": 5
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_1": 230,
+  "unknown_2": 260,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

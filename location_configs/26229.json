@@ -1,0 +1,13 @@
+{
+  "id": 26229,
+  "models": {
+    "10": [
+      27961
+    ]
+  },
+  "name": "Battle tower",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "occludes_2": false
+}

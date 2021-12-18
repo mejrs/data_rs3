@@ -1,0 +1,32 @@
+{
+  "id": 170,
+  "models": {
+    "10": [
+      1249
+    ]
+  },
+  "name": "Closed chest",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      3625
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

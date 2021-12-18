@@ -1,0 +1,43 @@
+{
+  "id": 34521,
+  "models": {
+    "10": [
+      11453
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      3470,
+      7444
+    ],
+    [
+      3350,
+      7452
+    ],
+    [
+      10652,
+      2595
+    ],
+    [
+      10772,
+      2590
+    ],
+    [
+      9661,
+      6056
+    ],
+    [
+      8745,
+      6051
+    ]
+  ],
+  "scale_z": 256,
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35448,
+  "models": {
+    "10": [
+      36211
+    ]
+  },
+  "name": "Kebab cooker",
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

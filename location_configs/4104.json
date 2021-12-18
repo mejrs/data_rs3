@@ -1,0 +1,26 @@
+{
+  "id": 4104,
+  "models": {
+    "10": [
+      4138
+    ]
+  },
+  "name": "Funeral pyre",
+  "dim_y": 3,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

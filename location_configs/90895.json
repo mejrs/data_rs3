@@ -1,0 +1,38 @@
+{
+  "id": 90895,
+  "models": {
+    "10": [
+      95426
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 654,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

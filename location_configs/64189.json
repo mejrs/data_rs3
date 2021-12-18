@@ -1,0 +1,21 @@
+{
+  "id": 64189,
+  "models": {
+    "10": [
+      12121
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 675,
+  "unknown_88": false,
+  "unknown_95": 65524,
+  "occludes_2": false,
+  "unknown_196": 3
+}

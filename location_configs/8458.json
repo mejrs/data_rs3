@@ -1,0 +1,20 @@
+{
+  "id": 8458,
+  "models": {
+    "10": [
+      101515,
+      7768
+    ]
+  },
+  "name": "Dead Maple",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

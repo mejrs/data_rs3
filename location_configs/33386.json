@@ -1,0 +1,15 @@
+{
+  "id": 33386,
+  "models": {
+    "10": [
+      38072
+    ]
+  },
+  "name": "Compacted snow",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 30,
+  "contrast": 25,
+  "occludes_2": false
+}

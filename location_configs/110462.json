@@ -1,0 +1,44 @@
+{
+  "id": 110462,
+  "models": {
+    "10": [
+      64647,
+      17366
+    ]
+  },
+  "name": "Beehive (hidey-hole)",
+  "unknown_19": 1,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "unknown_79": {
+    "unknown_1": 1,
+    "unknown_2": 1,
+    "unknown_3": 3,
+    "values": [
+      4702,
+      4701,
+      4700,
+      4705,
+      4698,
+      4703,
+      4706,
+      4704,
+      4699
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 64,
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "params": {
+    "6896": 18
+  }
+}

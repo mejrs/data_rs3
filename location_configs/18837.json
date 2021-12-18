@@ -1,0 +1,15 @@
+{
+  "id": 18837,
+  "models": {
+    "10": [
+      19129,
+      19132
+    ]
+  },
+  "name": "Goat",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "occludes_2": false
+}

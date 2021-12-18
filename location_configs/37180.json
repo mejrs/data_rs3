@@ -1,0 +1,12 @@
+{
+  "id": 37180,
+  "models": {
+    "10": [
+      36332
+    ]
+  },
+  "name": "Shelves",
+  "scale_x": 114,
+  "translate_x": 65530,
+  "occludes_2": false
+}

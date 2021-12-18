@@ -1,0 +1,20 @@
+{
+  "id": 9033,
+  "models": {
+    "10": [
+      8883
+    ]
+  },
+  "name": "Gout tuber plant",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 43960,
+  "models": {
+    "10": [
+      47585
+    ]
+  },
+  "name": "Flag",
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 55630,
+  "models": {
+    "10": [
+      61883
+    ]
+  },
+  "name": "Farming patch (wormwood fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    "Replace"
+  ]
+}

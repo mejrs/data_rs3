@@ -1,0 +1,18 @@
+{
+  "id": 4078,
+  "models": {
+    "10": [
+      4134
+    ]
+  },
+  "name": "Temple wall",
+  "unknown_24": 1302,
+  "actions": [
+    "Reinforce",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

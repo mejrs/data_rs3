@@ -1,0 +1,52 @@
+{
+  "id": 25401,
+  "models": {
+    "10": [
+      12970
+    ]
+  },
+  "name": "Orrery",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 3579,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8128,
+      12463
+    ],
+    [
+      6443,
+      7322
+    ],
+    [
+      6798,
+      7690
+    ],
+    [
+      6682,
+      7442
+    ],
+    [
+      107,
+      26735
+    ],
+    [
+      70,
+      26698
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 9125,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 60,
+  "unknown_196": 1
+}

@@ -1,0 +1,17 @@
+{
+  "id": 14436,
+  "models": {
+    "10": [
+      14717
+    ]
+  },
+  "name": "Cave entrance",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 35,
+  "scale_y": 32,
+  "unknown_73": true,
+  "occludes_2": false
+}

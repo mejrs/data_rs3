@@ -1,0 +1,17 @@
+{
+  "id": 26717,
+  "models": {
+    "10": [
+      28545
+    ]
+  },
+  "name": "Parted tree roots",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "mirror": true,
+  "model": false,
+  "occludes_2": false
+}

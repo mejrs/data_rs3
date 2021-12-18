@@ -1,0 +1,14 @@
+{
+  "id": 2170,
+  "models": {
+    "10": [
+      48710
+    ]
+  },
+  "name": "Scarecrow",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

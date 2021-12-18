@@ -1,0 +1,24 @@
+{
+  "id": 110318,
+  "models": {
+    "10": [
+      69797,
+      69800,
+      69798,
+      6709
+    ]
+  },
+  "name": "Clockwork gnome",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_88": false,
+  "occludes_2": false
+}

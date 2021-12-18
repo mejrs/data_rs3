@@ -1,0 +1,13 @@
+{
+  "id": 17126,
+  "models": {
+    "10": [
+      17144,
+      17143,
+      17145
+    ]
+  },
+  "name": "Gnome table",
+  "is_transparent": true,
+  "occludes_2": false
+}

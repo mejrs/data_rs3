@@ -1,0 +1,30 @@
+{
+  "id": 119918,
+  "models": {
+    "10": [
+      97514,
+      74816
+    ]
+  },
+  "name": "Sparkling Seren Spirit",
+  "unknown_17": false,
+  "unknown_24": 24269,
+  "ambient": 64,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 920,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

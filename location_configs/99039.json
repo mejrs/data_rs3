@@ -1,0 +1,14 @@
+{
+  "id": 99039,
+  "models": {
+    "10": [
+      106479
+    ]
+  },
+  "name": "Refreshments",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "occludes_2": false
+}

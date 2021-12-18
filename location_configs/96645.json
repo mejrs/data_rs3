@@ -1,0 +1,21 @@
+{
+  "id": 96645,
+  "models": {
+    "10": [
+      103597
+    ]
+  },
+  "name": "Shark fish-head",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

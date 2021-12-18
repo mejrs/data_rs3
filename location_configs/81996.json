@@ -1,0 +1,25 @@
+{
+  "id": 81996,
+  "models": {
+    "10": [
+      82826,
+      82822
+    ]
+  },
+  "name": "Statue of Zilyana",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Run away",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 5,
+  "occludes_2": false
+}

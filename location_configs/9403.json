@@ -1,0 +1,11 @@
+{
+  "id": 9403,
+  "models": {
+    "10": [
+      7794
+    ]
+  },
+  "name": "Unferth's patch",
+  "ambient": 25,
+  "occludes_2": false
+}

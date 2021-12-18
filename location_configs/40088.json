@@ -1,0 +1,14 @@
+{
+  "id": 40088,
+  "models": {
+    "3": [
+      35521
+    ]
+  },
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 128,
+  "scale_y": 380,
+  "scale_z": 128,
+  "occludes_2": false
+}

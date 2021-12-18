@@ -1,0 +1,34 @@
+{
+  "id": 96677,
+  "models": {
+    "10": [
+      103669
+    ]
+  },
+  "name": "Plug",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "4561": 5645,
+    "4562": 5646,
+    "4563": 5647,
+    "4564": 5644
+  },
+  "model": false,
+  "occludes_2": false,
+  "params": {
+    "5026": 25306,
+    "5025": 2
+  }
+}

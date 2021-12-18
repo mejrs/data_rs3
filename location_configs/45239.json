@@ -1,0 +1,47 @@
+{
+  "id": 45239,
+  "models": {
+    "10": [
+      11564
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5545,
+      5400
+    ],
+    [
+      6466,
+      5394
+    ],
+    [
+      24,
+      10250
+    ],
+    [
+      45,
+      10255
+    ],
+    [
+      33,
+      10260
+    ],
+    [
+      53,
+      10265
+    ]
+  ],
+  "textures": {
+    "2073": 3171,
+    "2093": 3179
+  },
+  "occludes_2": false
+}

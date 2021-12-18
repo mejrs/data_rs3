@@ -1,0 +1,14 @@
+{
+  "id": 55220,
+  "models": {
+    "10": [
+      59842
+    ]
+  },
+  "name": "Equipment table",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

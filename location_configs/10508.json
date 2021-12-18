@@ -1,0 +1,11 @@
+{
+  "id": 10508,
+  "models": {
+    "10": [
+      10192
+    ]
+  },
+  "name": "Stone Pew",
+  "dim_x": 2,
+  "occludes_2": false
+}

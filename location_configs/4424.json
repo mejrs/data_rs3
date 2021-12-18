@@ -1,0 +1,48 @@
+{
+  "id": 4424,
+  "models": {
+    "0": [
+      38190
+    ]
+  },
+  "name": "Large door",
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Attack",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8844,
+      6444
+    ],
+    [
+      6682,
+      6432
+    ],
+    [
+      7089,
+      3233
+    ],
+    [
+      6969,
+      3241
+    ]
+  ],
+  "mirror": true,
+  "unknown_75": 0,
+  "unknown_170": 960,
+  "cursors": [
+    49,
+    42,
+    null,
+    null,
+    null,
+    null
+  ]
+}

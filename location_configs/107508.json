@@ -1,0 +1,17 @@
+{
+  "id": 107508,
+  "models": {
+    "10": [
+      118515
+    ]
+  },
+  "name": "Palm tree stump",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "model": false,
+  "mapscene": 3,
+  "occludes_2": false,
+  "unknown_196": 4
+}

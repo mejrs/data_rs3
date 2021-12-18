@@ -1,0 +1,28 @@
+{
+  "id": 86836,
+  "models": {
+    "10": [
+      89042
+    ]
+  },
+  "name": "Failure indicator",
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      31568,
+      848
+    ],
+    [
+      31548,
+      828
+    ],
+    [
+      31508,
+      788
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

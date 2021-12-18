@@ -1,0 +1,12 @@
+{
+  "id": 17899,
+  "models": {
+    "10": [
+      17876
+    ]
+  },
+  "name": "Experiment booth",
+  "unknown_27": false,
+  "ambient": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 15982,
+  "models": {
+    "10": [
+      11453
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      10652,
+      10427
+    ],
+    [
+      10772,
+      10419
+    ]
+  ],
+  "unknown_44": 9,
+  "occludes_2": false
+}

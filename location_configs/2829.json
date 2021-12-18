@@ -1,0 +1,18 @@
+{
+  "id": 2829,
+  "models": {
+    "10": [
+      1226
+    ]
+  },
+  "unknown_19": 0,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

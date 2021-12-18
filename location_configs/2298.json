@@ -1,0 +1,25 @@
+{
+  "id": 2298,
+  "models": {
+    "4": [
+      2103
+    ]
+  },
+  "name": "Climbing rocks",
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

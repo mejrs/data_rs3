@@ -1,0 +1,13 @@
+{
+  "id": 110006,
+  "models": {
+    "10": [
+      117252
+    ]
+  },
+  "name": "Hay bale",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

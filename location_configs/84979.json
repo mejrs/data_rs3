@@ -1,0 +1,22 @@
+{
+  "id": 84979,
+  "models": {
+    "10": [
+      87098
+    ]
+  },
+  "name": "Pig machine hotspot",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_24": 20422,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Build",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 22454,
+  "models": {
+    "10": [
+      22927
+    ]
+  },
+  "name": "Crate",
+  "ambient": 30,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

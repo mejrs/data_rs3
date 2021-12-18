@@ -1,0 +1,23 @@
+{
+  "id": 104103,
+  "models": {
+    "10": [
+      113469
+    ]
+  },
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "textures": {
+    "3183": 7394,
+    "3626": 7397,
+    "3629": 7396,
+    "3653": 7395
+  },
+  "model": false,
+  "translate_x": 65516,
+  "translate_y": 65521,
+  "occludes_2": false,
+  "unknown_186": 0
+}

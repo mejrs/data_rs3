@@ -1,0 +1,18 @@
+{
+  "id": 103089,
+  "models": {
+    "10": [
+      112495
+    ]
+  },
+  "name": "Orrery",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

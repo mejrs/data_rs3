@@ -1,0 +1,23 @@
+{
+  "id": 4924,
+  "models": {
+    "10": [
+      1746
+    ]
+  },
+  "name": "Water Valve",
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21543,
+      7566
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 110325,
+  "models": {
+    "10": [
+      8019
+    ]
+  },
+  "name": "Christmas Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "2216": 2189,
+    "2217": 2189,
+    "2218": 2189,
+    "2219": 2189,
+    "2222": 2189
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 40453,
+  "models": {
+    "10": [
+      64734
+    ]
+  },
+  "name": "Diseased livid",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 8016,
+  "ambient": 25,
+  "actions": [
+    "Cure-plant",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

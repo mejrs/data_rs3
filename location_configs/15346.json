@@ -1,0 +1,17 @@
+{
+  "id": 15346,
+  "models": {
+    "10": [
+      12867
+    ]
+  },
+  "name": "Ranging game space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

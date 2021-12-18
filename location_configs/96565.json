@@ -1,0 +1,27 @@
+{
+  "id": 96565,
+  "models": {
+    "10": [
+      103319
+    ]
+  },
+  "name": "Chocolate container",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

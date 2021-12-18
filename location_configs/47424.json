@@ -1,0 +1,32 @@
+{
+  "id": 47424,
+  "models": {
+    "0": [
+      50205
+    ]
+  },
+  "name": "Large door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "scale_y": 130,
+  "unknown_170": 1265,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

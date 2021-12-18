@@ -1,0 +1,24 @@
+{
+  "id": 39184,
+  "models": {
+    "10": [
+      42368
+    ]
+  },
+  "name": "Warrior woman",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 10466,
+  "unknown_27": false,
+  "colours": [
+    [
+      6798,
+      6854
+    ],
+    [
+      4626,
+      24
+    ]
+  ],
+  "occludes_2": false
+}

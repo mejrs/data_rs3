@@ -1,0 +1,18 @@
+{
+  "id": 16145,
+  "models": {
+    "10": [
+      1080
+    ]
+  },
+  "name": "Skeleton",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      6241,
+      28
+    ]
+  ],
+  "occludes_2": false
+}

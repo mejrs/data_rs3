@@ -1,0 +1,17 @@
+{
+  "id": 40968,
+  "models": {
+    "10": [
+      43964,
+      43939
+    ]
+  },
+  "name": "Empty pallet",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

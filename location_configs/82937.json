@@ -1,0 +1,23 @@
+{
+  "id": 82937,
+  "models": {
+    "10": [
+      84394
+    ]
+  },
+  "name": "Monument",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 12298,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Offer chronicle fragments",
+    "Review elder chronicles",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false
+}

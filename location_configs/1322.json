@@ -1,0 +1,14 @@
+{
+  "id": 1322,
+  "models": {
+    "10": [
+      1583
+    ]
+  },
+  "name": "Hollow tree",
+  "textures": {
+    "2652": 2646
+  },
+  "mapscene": 2,
+  "occludes_2": false
+}

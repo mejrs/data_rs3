@@ -1,0 +1,13 @@
+{
+  "id": 57133,
+  "models": {
+    "10": [
+      62537
+    ]
+  },
+  "name": "Cooking pot",
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

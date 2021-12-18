@@ -1,0 +1,17 @@
+{
+  "id": 90985,
+  "models": {
+    "10": [
+      596
+    ]
+  },
+  "name": "Crater",
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "scale_x": 3,
+  "scale_z": 1,
+  "unknown_88": false,
+  "occludes_2": false
+}

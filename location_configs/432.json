@@ -1,0 +1,14 @@
+{
+  "id": 432,
+  "models": {
+    "10": [
+      1955
+    ]
+  },
+  "name": "Bed",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 30,
+  "occludes_2": false,
+  "unknown_196": 1
+}

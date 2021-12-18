@@ -1,0 +1,29 @@
+{
+  "id": 22435,
+  "models": {
+    "0": [
+      22838
+    ]
+  },
+  "name": "Large door",
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0,
+  "unknown_170": 960,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 21175,
+  "models": {
+    "10": [
+      21563
+    ]
+  },
+  "name": "Boat",
+  "dim_x": 6,
+  "dim_y": 3,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

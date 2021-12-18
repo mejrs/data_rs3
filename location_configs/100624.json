@@ -1,0 +1,25 @@
+{
+  "id": 100624,
+  "models": {
+    "10": [
+      108276,
+      108323
+    ]
+  },
+  "name": "Vault door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Perform heist",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 109931,
+  "models": {
+    "10": [
+      120355,
+      1877
+    ]
+  },
+  "name": "Yellow toadstool",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 1199,
+  "unknown_27": false,
+  "ambient": 25,
+  "occludes_2": false
+}

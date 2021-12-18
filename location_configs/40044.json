@@ -1,0 +1,32 @@
+{
+  "id": 40044,
+  "models": {
+    "10": [
+      9547
+    ]
+  },
+  "name": "Large table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      8598
+    ],
+    [
+      6439,
+      8722
+    ],
+    [
+      6443,
+      8602
+    ],
+    [
+      6451,
+      8483
+    ]
+  ],
+  "occludes_2": false
+}

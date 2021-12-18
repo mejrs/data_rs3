@@ -1,0 +1,17 @@
+{
+  "id": 56892,
+  "models": {
+    "10": [
+      44678
+    ]
+  },
+  "name": "Shelves",
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

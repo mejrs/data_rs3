@@ -1,0 +1,27 @@
+{
+  "id": 98569,
+  "models": {
+    "4": [
+      13995
+    ]
+  },
+  "name": "Plaque",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

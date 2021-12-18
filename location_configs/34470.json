@@ -1,0 +1,33 @@
+{
+  "id": 34470,
+  "models": {
+    "10": [
+      7712
+    ]
+  },
+  "name": "Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      7440
+    ],
+    [
+      6439,
+      7444
+    ],
+    [
+      6443,
+      7448
+    ],
+    [
+      6451,
+      7468
+    ]
+  ],
+  "occludes_2": false
+}

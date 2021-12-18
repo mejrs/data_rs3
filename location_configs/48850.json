@@ -1,0 +1,28 @@
+{
+  "id": 48850,
+  "models": {
+    "10": [
+      24840
+    ]
+  },
+  "name": "Safe",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      37,
+      7175
+    ],
+    [
+      45,
+      7179
+    ],
+    [
+      53,
+      7183
+    ]
+  ],
+  "occludes_2": false
+}

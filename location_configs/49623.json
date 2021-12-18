@@ -1,0 +1,22 @@
+{
+  "id": 49623,
+  "models": {
+    "10": [
+      54776
+    ]
+  },
+  "name": "Rocky debris",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Destroy",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 71,
+  "occludes_2": false
+}

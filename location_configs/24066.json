@@ -1,0 +1,14 @@
+{
+  "id": 24066,
+  "models": {
+    "10": [
+      25313
+    ]
+  },
+  "name": "Mill",
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 10,
+  "occludes_2": false
+}

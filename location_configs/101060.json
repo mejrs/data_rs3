@@ -1,0 +1,34 @@
+{
+  "id": 101060,
+  "models": {
+    "10": [
+      34525,
+      110327
+    ]
+  },
+  "name": "Zimberfizz ashes",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Talk to",
+    "Rewards",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

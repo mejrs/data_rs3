@@ -1,0 +1,29 @@
+{
+  "id": 2634,
+  "models": {
+    "10": [
+      114120
+    ]
+  },
+  "name": "Rock slide",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14988,
+  "models": {
+    "10": [
+      14879
+    ]
+  },
+  "name": "Cogs",
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

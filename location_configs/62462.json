@@ -1,0 +1,24 @@
+{
+  "id": 62462,
+  "models": {
+    "10": [
+      16784
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      54507,
+      29221
+    ],
+    [
+      54387,
+      29109
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

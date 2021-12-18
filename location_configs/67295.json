@@ -1,0 +1,37 @@
+{
+  "id": 67295,
+  "models": {
+    "10": [
+      20
+    ]
+  },
+  "name": "Chair",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      3230,
+      5396
+    ],
+    [
+      3226,
+      5404
+    ],
+    [
+      3222,
+      5394
+    ],
+    [
+      3218,
+      5390
+    ],
+    [
+      3214,
+      5384
+    ]
+  ],
+  "occludes_2": false
+}

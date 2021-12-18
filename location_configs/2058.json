@@ -1,0 +1,45 @@
+{
+  "id": 2058,
+  "models": {
+    "0": [
+      27252
+    ]
+  },
+  "name": "Gate",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10508,
+      28
+    ],
+    [
+      10512,
+      33
+    ],
+    [
+      10388,
+      37
+    ],
+    [
+      10392,
+      45
+    ]
+  ],
+  "mirror": true,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

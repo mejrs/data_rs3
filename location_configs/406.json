@@ -1,0 +1,13 @@
+{
+  "id": 406,
+  "models": {
+    "10": [
+      1370
+    ]
+  },
+  "name": "Large grave",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 82023,
+  "models": {
+    "10": [
+      82747
+    ]
+  },
+  "name": "Blocked tunnel",
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 87377,
+  "models": {
+    "10": [
+      64048
+    ]
+  },
+  "name": "Dwarf multicannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "occludes_2": false
+}

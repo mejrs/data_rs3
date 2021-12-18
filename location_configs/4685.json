@@ -1,0 +1,22 @@
+{
+  "id": 4685,
+  "models": {
+    "10": [
+      1634
+    ]
+  },
+  "name": "Hollow log",
+  "dim_x": 3,
+  "is_transparent": true,
+  "colours": [
+    [
+      4531,
+      6930
+    ],
+    [
+      4537,
+      127
+    ]
+  ],
+  "occludes_2": false
+}

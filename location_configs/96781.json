@@ -1,0 +1,30 @@
+{
+  "id": 96781,
+  "models": {
+    "10": [
+      103802
+    ]
+  },
+  "name": "Death's Hourglass",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

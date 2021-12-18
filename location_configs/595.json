@@ -1,0 +1,16 @@
+{
+  "id": 595,
+  "models": {
+    "10": [
+      28931
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "textures": {
+    "54": 49
+  },
+  "unknown_45": 2,
+  "occludes_2": false
+}

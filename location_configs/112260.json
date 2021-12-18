@@ -1,0 +1,12 @@
+{
+  "id": 112260,
+  "models": {
+    "10": [
+      86937
+    ]
+  },
+  "name": "Dresser",
+  "dim_x": 2,
+  "translate_y": 65506,
+  "occludes_2": false
+}

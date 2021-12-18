@@ -1,0 +1,20 @@
+{
+  "id": 106511,
+  "models": {
+    "10": [
+      46926
+    ]
+  },
+  "name": "Ice Maker",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Get Ice",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

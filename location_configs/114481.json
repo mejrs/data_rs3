@@ -1,0 +1,33 @@
+{
+  "id": 114481,
+  "models": {
+    "10": [
+      82488,
+      7767
+    ]
+  },
+  "name": "Diseased carambola tree",
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14516,
+      5538
+    ],
+    [
+      4259,
+      2212
+    ]
+  ],
+  "textures": {
+    "11714": 11717,
+    "11720": 11721
+  },
+  "unknown_88": false,
+  "occludes_2": false
+}

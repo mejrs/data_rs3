@@ -1,0 +1,29 @@
+{
+  "id": 56655,
+  "models": {
+    "10": [
+      62167
+    ]
+  },
+  "name": "Blue vine blossom",
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

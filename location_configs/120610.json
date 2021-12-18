@@ -1,0 +1,41 @@
+{
+  "id": 120610,
+  "models": {
+    "0": [
+      122274,
+      123190
+    ],
+    "4": [
+      122275,
+      123191
+    ],
+    "10": [
+      122272,
+      123188
+    ],
+    "22": [
+      122273,
+      123189
+    ]
+  },
+  "name": "Drawer 'Q'",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65428,
+  "translate_y": 65473,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

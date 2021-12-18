@@ -1,0 +1,29 @@
+{
+  "id": 7612,
+  "models": {
+    "10": [
+      7826,
+      7767
+    ]
+  },
+  "name": "Dwellberry bush",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      22034
+    ],
+    [
+      8722,
+      8844
+    ]
+  ],
+  "occludes_2": false
+}

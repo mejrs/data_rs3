@@ -1,0 +1,12 @@
+{
+  "id": 21846,
+  "models": {
+    "10": [
+      22719
+    ]
+  },
+  "name": "Water pipes",
+  "unknown_24": 5829,
+  "ambient": 20,
+  "occludes_2": false
+}

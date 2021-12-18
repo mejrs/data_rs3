@@ -1,0 +1,21 @@
+{
+  "id": 8063,
+  "models": {
+    "10": [
+      110084,
+      7767,
+      110075
+    ]
+  },
+  "name": "Orange tree",
+  "ambient": 25,
+  "actions": [
+    "Pick-orange",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 86819,
+  "models": {
+    "10": [
+      89040
+    ]
+  },
+  "name": "Wand of Resurrection",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

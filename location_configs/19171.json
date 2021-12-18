@@ -1,0 +1,26 @@
+{
+  "id": 19171,
+  "models": {
+    "0": [
+      6745
+    ]
+  },
+  "name": "Loose railing",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

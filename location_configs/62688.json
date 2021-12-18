@@ -1,0 +1,31 @@
+{
+  "id": 62688,
+  "models": {
+    "10": [
+      101339
+    ]
+  },
+  "name": "Reward box",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Claim-rewards",
+    "Check-DF",
+    "Exchange",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    null,
+    null,
+    5,
+    null,
+    null,
+    null
+  ]
+}

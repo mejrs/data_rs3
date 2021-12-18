@@ -1,0 +1,28 @@
+{
+  "id": 15041,
+  "models": {
+    "10": [
+      1453
+    ]
+  },
+  "name": "Picnic table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "colours": [
+    [
+      5660,
+      5673
+    ],
+    [
+      5784,
+      6585
+    ],
+    [
+      5908,
+      5673
+    ]
+  ],
+  "occludes_2": false
+}

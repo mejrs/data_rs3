@@ -1,0 +1,26 @@
+{
+  "id": 25792,
+  "models": {
+    "10": [
+      1214
+    ]
+  },
+  "name": "Suit of armour",
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      61,
+      18
+    ],
+    [
+      10153,
+      801
+    ],
+    [
+      6032,
+      6315
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 16474,
+  "models": {
+    "10": [
+      16388
+    ]
+  },
+  "name": "Opened gold chest",
+  "dim_x": 3,
+  "ambient": 10,
+  "contrast": 10,
+  "translate_y": 12,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 40580,
+  "models": {
+    "0": [
+      35700
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      37,
+      24
+    ],
+    [
+      39,
+      20
+    ]
+  ],
+  "textures": {
+    "2315": 2377,
+    "2318": 2377
+  },
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128
+}

@@ -1,0 +1,16 @@
+{
+  "id": 6269,
+  "models": {
+    "10": [
+      1213,
+      6075
+    ]
+  },
+  "name": "Cages",
+  "dim_x": 2,
+  "textures": {
+    "54": 49
+  },
+  "unknown_45": 2,
+  "occludes_2": false
+}

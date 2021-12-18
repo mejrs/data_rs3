@@ -1,0 +1,26 @@
+{
+  "id": 89978,
+  "models": {
+    "10": [
+      94316
+    ]
+  },
+  "name": "Fragmented sphere",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 320,
+  "scale_y": 320,
+  "scale_z": 320,
+  "translate_y": 200,
+  "unknown_98": true,
+  "occludes_2": false
+}

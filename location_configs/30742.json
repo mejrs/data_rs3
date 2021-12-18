@@ -1,0 +1,19 @@
+{
+  "id": 30742,
+  "models": {
+    "10": [
+      33755,
+      27501
+    ]
+  },
+  "name": "Desk",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      4888,
+      8596
+    ]
+  ],
+  "occludes_2": false
+}

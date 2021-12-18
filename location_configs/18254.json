@@ -1,0 +1,29 @@
+{
+  "id": 18254,
+  "models": {
+    "10": [
+      18203,
+      18202
+    ]
+  },
+  "name": "Altar",
+  "dim_y": 3,
+  "ambient": 40,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

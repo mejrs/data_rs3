@@ -1,0 +1,18 @@
+{
+  "id": 5161,
+  "models": {
+    "10": [
+      1947
+    ]
+  },
+  "name": "Clock",
+  "unknown_27": false,
+  "actions": [
+    "Wind",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

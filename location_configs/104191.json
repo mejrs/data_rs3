@@ -1,0 +1,14 @@
+{
+  "id": 104191,
+  "models": {
+    "10": [
+      113415
+    ]
+  },
+  "name": "Bamboo bench",
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 98328,
+  "models": {
+    "4": [
+      105527
+    ]
+  },
+  "name": "Missing poster",
+  "unknown_19": 1,
+  "ambient": 48,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

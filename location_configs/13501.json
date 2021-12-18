@@ -1,0 +1,33 @@
+{
+  "id": 13501,
+  "models": {
+    "10": [
+      12551
+    ]
+  },
+  "name": "Staircase",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    "Remove-room",
+    "Remove"
+  ],
+  "textures": {
+    "2310": 2415,
+    "2376": 2413
+  },
+  "unknown_69": 11,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

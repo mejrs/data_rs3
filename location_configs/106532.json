@@ -1,0 +1,14 @@
+{
+  "id": 106532,
+  "models": {
+    "10": [
+      117016
+    ]
+  },
+  "name": "Battery control station",
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_69": 13,
+  "occludes_2": false
+}

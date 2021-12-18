@@ -1,0 +1,16 @@
+{
+  "id": 22591,
+  "models": {
+    "10": [
+      23269
+    ]
+  },
+  "name": "Pylon",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

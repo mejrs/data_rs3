@@ -1,0 +1,18 @@
+{
+  "id": 107969,
+  "models": {
+    "10": [
+      118541
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "textures": {
+    "1754": 5970
+  },
+  "model": false,
+  "occludes_2": false
+}

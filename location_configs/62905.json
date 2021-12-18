@@ -1,0 +1,17 @@
+{
+  "id": 62905,
+  "models": {
+    "0": [
+      3212
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2018": 2980
+  }
+}

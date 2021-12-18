@@ -1,0 +1,17 @@
+{
+  "id": 56891,
+  "models": {
+    "10": [
+      45792
+    ]
+  },
+  "name": "Boxes",
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": 21598,
+  "models": {
+    "0": [
+      22117
+    ]
+  },
+  "name": "Cave opening",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21543,
+      8472
+    ],
+    [
+      21539,
+      7322
+    ],
+    [
+      21534,
+      7326
+    ],
+    [
+      21530,
+      7331
+    ]
+  ],
+  "unknown_44": 30,
+  "unknown_170": 961,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

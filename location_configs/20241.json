@@ -1,0 +1,20 @@
+{
+  "id": 20241,
+  "models": {
+    "10": [
+      97839
+    ]
+  },
+  "name": "Attacker item machine",
+  "ambient": 0,
+  "actions": [
+    null,
+    "Take runes",
+    "Take arrows",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false
+}

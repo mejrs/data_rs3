@@ -1,0 +1,28 @@
+{
+  "id": 3462,
+  "models": {
+    "10": [
+      56628
+    ]
+  },
+  "name": "Farming patch (not-meat fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Take",
+    "Reject",
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

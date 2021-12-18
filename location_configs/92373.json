@@ -1,0 +1,17 @@
+{
+  "id": 92373,
+  "models": {
+    "4": [
+      98251
+    ]
+  },
+  "name": "Magic banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 474
+  },
+  "mirror": true,
+  "mapscene": 22,
+  "occludes_2": false
+}

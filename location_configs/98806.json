@@ -1,0 +1,24 @@
+{
+  "id": 98806,
+  "models": {
+    "10": [
+      106379
+    ]
+  },
+  "name": "Bookcase",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65496,
+  "occludes_2": false,
+  "params": {
+    "5321": 9532
+  }
+}

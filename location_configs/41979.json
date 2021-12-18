@@ -1,0 +1,23 @@
+{
+  "id": 41979,
+  "models": {
+    "10": [
+      45338
+    ]
+  },
+  "name": "Shrine",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Read-book",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 14,
+  "occludes_2": false
+}

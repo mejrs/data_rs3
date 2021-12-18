@@ -1,0 +1,13 @@
+{
+  "id": 24258,
+  "models": {
+    "10": [
+      3918
+    ]
+  },
+  "name": "Mushroom",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

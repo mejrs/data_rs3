@@ -1,0 +1,27 @@
+{
+  "id": 3581,
+  "models": {
+    "10": [
+      3647
+    ]
+  },
+  "name": "Ticket Dispenser",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 1108,
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6573,
+      6449
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

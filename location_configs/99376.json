@@ -1,0 +1,29 @@
+{
+  "id": 99376,
+  "models": {
+    "10": [
+      96942
+    ]
+  },
+  "name": "Cliff",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

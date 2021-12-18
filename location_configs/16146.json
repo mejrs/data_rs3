@@ -1,0 +1,27 @@
+{
+  "id": 16146,
+  "models": {
+    "10": [
+      9246
+    ]
+  },
+  "name": "Spiky chain",
+  "unknown_21": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

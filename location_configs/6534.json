@@ -1,0 +1,20 @@
+{
+  "id": 6534,
+  "models": {
+    "0": [
+      2852
+    ],
+    "1": [
+      2898
+    ],
+    "9": [
+      2780
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15
+}

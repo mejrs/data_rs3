@@ -1,0 +1,22 @@
+{
+  "id": 84375,
+  "models": {
+    "10": [
+      85924,
+      7766,
+      85927
+    ]
+  },
+  "name": "Grapevines",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

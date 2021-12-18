@@ -1,0 +1,24 @@
+{
+  "id": 12773,
+  "models": {
+    "10": [
+      33695
+    ]
+  },
+  "name": "Wooden boards",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Smash-boards",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_y": 160,
+  "unknown_75": 0,
+  "occludes_2": false
+}

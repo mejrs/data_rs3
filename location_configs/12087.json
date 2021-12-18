@@ -1,0 +1,24 @@
+{
+  "id": 12087,
+  "models": {
+    "10": [
+      57550
+    ]
+  },
+  "name": "Reset Lever",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  }
+}

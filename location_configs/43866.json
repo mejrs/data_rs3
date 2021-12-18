@@ -1,0 +1,19 @@
+{
+  "id": 43866,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "morphs_1": {
+    "varbit": 42953,
+    "ids": [
+      43867,
+      43868
+    ]
+  },
+  "params": {
+    "23": 60
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 7754,
+  "models": {
+    "10": [
+      7834,
+      7767
+    ]
+  },
+  "name": "Cactus",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

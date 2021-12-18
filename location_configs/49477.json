@@ -1,0 +1,28 @@
+{
+  "id": 49477,
+  "models": {
+    "22": [
+      54943
+    ]
+  },
+  "name": "Red crystal",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 13644,
+  "unknown_27": false,
+  "colours": [
+    [
+      31789,
+      548
+    ],
+    [
+      31895,
+      537
+    ],
+    [
+      34977,
+      3484
+    ]
+  ],
+  "occludes_2": false
+}

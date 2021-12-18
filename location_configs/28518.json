@@ -1,0 +1,19 @@
+{
+  "id": 28518,
+  "models": {
+    "0": [
+      20797
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ]
+}

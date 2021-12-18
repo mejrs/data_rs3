@@ -1,0 +1,27 @@
+{
+  "id": 2511,
+  "models": {
+    "10": [
+      1208
+    ]
+  },
+  "name": "Tower ladder",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 9574,
+  "models": {
+    "10": [
+      4941
+    ]
+  },
+  "name": "Oil drum",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

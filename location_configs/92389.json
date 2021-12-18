@@ -1,0 +1,17 @@
+{
+  "id": 92389,
+  "models": {
+    "22": [
+      98218
+    ]
+  },
+  "name": "Cadarn voicestone",
+  "unknown_19": 1,
+  "unknown_24": 24597,
+  "ambient": 64,
+  "translate_x": 122,
+  "translate_y": 382,
+  "translate_z": 216,
+  "unknown_73": true,
+  "occludes_2": false
+}

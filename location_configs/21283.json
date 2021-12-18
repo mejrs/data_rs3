@@ -1,0 +1,22 @@
+{
+  "id": 21283,
+  "models": {
+    "10": [
+      113422,
+      75172
+    ]
+  },
+  "name": "Crate of luxurious lemons",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Take a lemon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

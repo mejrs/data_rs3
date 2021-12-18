@@ -1,0 +1,57 @@
+{
+  "id": 99949,
+  "models": {
+    "10": [
+      70755
+    ]
+  },
+  "name": "Black balloon",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 7074,
+  "ambient": 25,
+  "actions": [
+    "Burst",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8795,
+      0
+    ],
+    [
+      8896,
+      0
+    ],
+    [
+      8795,
+      0
+    ],
+    [
+      8898,
+      0
+    ],
+    [
+      8900,
+      0
+    ],
+    [
+      8902,
+      0
+    ],
+    [
+      8904,
+      0
+    ],
+    [
+      8906,
+      0
+    ]
+  ],
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 104764,
+  "models": {
+    "4": [
+      103233
+    ]
+  },
+  "name": "Propaganda poster",
+  "unknown_19": 1,
+  "ambient": 20,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_x": 40,
+  "translate_y": 0,
+  "translate_z": 30,
+  "occludes_2": false
+}

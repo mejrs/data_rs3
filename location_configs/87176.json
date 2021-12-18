@@ -1,0 +1,28 @@
+{
+  "id": 87176,
+  "models": {
+    "4": [
+      88862
+    ]
+  },
+  "name": "Dragon",
+  "unknown_19": 1,
+  "ambient": -25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

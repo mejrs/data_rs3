@@ -1,0 +1,17 @@
+{
+  "id": 12330,
+  "models": {
+    "10": [
+      90214
+    ]
+  },
+  "name": "Dwarf",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

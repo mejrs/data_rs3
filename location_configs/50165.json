@@ -1,0 +1,20 @@
+{
+  "id": 50165,
+  "models": {
+    "10": [
+      55025
+    ]
+  },
+  "name": "Farming patch (sagewort fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false,
+  "mapfunction": 611,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    null
+  ]
+}

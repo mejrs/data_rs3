@@ -1,0 +1,22 @@
+{
+  "id": 84237,
+  "models": {
+    "10": [
+      85782,
+      7766,
+      85796
+    ]
+  },
+  "name": "Sunchokes",
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

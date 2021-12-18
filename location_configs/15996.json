@@ -1,0 +1,29 @@
+{
+  "id": 15996,
+  "models": {
+    "10": [
+      11233,
+      15138
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 3,
+  "unknown_24": 3174,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 64,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 121358,
+  "models": {
+    "10": [
+      118905
+    ]
+  },
+  "name": "Azzanadra's brazier (unlit)",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "translate_x": 40,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 102303,
+  "models": {
+    "10": [
+      111600
+    ]
+  },
+  "name": "Tomb",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

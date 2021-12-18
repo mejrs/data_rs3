@@ -1,0 +1,14 @@
+{
+  "id": 38646,
+  "models": {
+    "10": [
+      41914
+    ]
+  },
+  "name": "Helm (level 30 approx.)",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

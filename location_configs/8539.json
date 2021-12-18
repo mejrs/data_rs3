@@ -1,0 +1,19 @@
+{
+  "id": 8539,
+  "models": {
+    "10": [
+      8195,
+      7766
+    ]
+  },
+  "name": "Cabbages",
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

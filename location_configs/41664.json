@@ -1,0 +1,29 @@
+{
+  "id": 41664,
+  "models": {
+    "10": [
+      45103
+    ]
+  },
+  "name": "Stone block",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      38997,
+      35064
+    ],
+    [
+      38992,
+      35050
+    ],
+    [
+      38987,
+      35057
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

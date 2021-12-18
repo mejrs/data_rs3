@@ -1,0 +1,22 @@
+{
+  "id": 23139,
+  "models": {
+    "10": [
+      13174
+    ]
+  },
+  "name": "Hedge",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      7442,
+      6550
+    ]
+  ],
+  "scale_y": 196,
+  "mapscene": 9,
+  "occludes_2": false
+}

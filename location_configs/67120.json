@@ -1,0 +1,23 @@
+{
+  "id": 67120,
+  "models": {
+    "10": [
+      55223
+    ]
+  },
+  "name": "Suspicious grooves",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Step-onto",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

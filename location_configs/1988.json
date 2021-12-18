@@ -1,0 +1,13 @@
+{
+  "id": 1988,
+  "models": {
+    "10": [
+      1554
+    ]
+  },
+  "name": "Broken log raft",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false,
+  "unknown_196": 1
+}

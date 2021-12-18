@@ -1,0 +1,18 @@
+{
+  "id": 9070,
+  "models": {
+    "10": [
+      9008,
+      9012
+    ]
+  },
+  "name": "Crate",
+  "ambient": 35,
+  "colours": [
+    [
+      6558,
+      931
+    ]
+  ],
+  "occludes_2": false
+}

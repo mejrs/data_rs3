@@ -1,0 +1,21 @@
+{
+  "id": 35671,
+  "models": {
+    "10": [
+      36228
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

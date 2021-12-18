@@ -1,0 +1,16 @@
+{
+  "id": 63390,
+  "models": {
+    "10": [
+      5089
+    ]
+  },
+  "name": "Bell",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

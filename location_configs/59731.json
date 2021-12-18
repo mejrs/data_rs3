@@ -1,0 +1,50 @@
+{
+  "id": 59731,
+  "models": {
+    "10": [
+      37192
+    ]
+  },
+  "name": "Gold Chest",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      36907,
+      7735
+    ],
+    [
+      30757,
+      7740
+    ],
+    [
+      32804,
+      7760
+    ],
+    [
+      37761,
+      50072
+    ],
+    [
+      36877,
+      52120
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

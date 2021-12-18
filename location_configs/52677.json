@@ -1,0 +1,13 @@
+{
+  "id": 52677,
+  "models": {
+    "10": [
+      11968
+    ]
+  },
+  "name": "Stones",
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 25,
+  "occludes_2": false
+}

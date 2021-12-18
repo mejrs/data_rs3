@@ -1,0 +1,21 @@
+{
+  "id": 47939,
+  "models": {
+    "10": [
+      51473
+    ]
+  },
+  "name": "Tunnel",
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      9152
+    ]
+  ],
+  "occludes_2": false
+}

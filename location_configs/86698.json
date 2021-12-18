@@ -1,0 +1,28 @@
+{
+  "id": 86698,
+  "models": {
+    "10": [
+      89016
+    ]
+  },
+  "name": "Empty rack",
+  "ambient": -25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

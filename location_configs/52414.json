@@ -1,0 +1,35 @@
+{
+  "id": 52414,
+  "models": {
+    "10": [
+      9590
+    ]
+  },
+  "name": "Small table",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6451,
+      4512
+    ],
+    [
+      6443,
+      4504
+    ],
+    [
+      6439,
+      4496
+    ],
+    [
+      6563,
+      4488
+    ]
+  ],
+  "textures": {
+    "2073": 2075,
+    "2093": 2106
+  },
+  "occludes_2": false
+}

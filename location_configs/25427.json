@@ -1,0 +1,14 @@
+{
+  "id": 25427,
+  "models": {
+    "10": [
+      27080
+    ]
+  },
+  "name": "Blackboard",
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

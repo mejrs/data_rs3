@@ -1,0 +1,21 @@
+{
+  "id": 70200,
+  "models": {
+    "10": [
+      68996
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 14278,
+  "ambient": 25,
+  "actions": [
+    "Drain",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

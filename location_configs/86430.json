@@ -1,0 +1,30 @@
+{
+  "id": 86430,
+  "models": {
+    "10": [
+      88372,
+      88373
+    ]
+  },
+  "name": "Old mine entrance",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false,
+  "member_actions": [
+    "Climb-down",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

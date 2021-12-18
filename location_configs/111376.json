@@ -1,0 +1,21 @@
+{
+  "id": 111376,
+  "models": {
+    "10": [
+      42606
+    ]
+  },
+  "name": "Plinth",
+  "ambient": 25,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 16535,
+  "models": {
+    "22": [
+      1743
+    ]
+  },
+  "name": "Climbing rocks",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6689,
+      7481
+    ]
+  ],
+  "unknown_73": true,
+  "mapscene": 25,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

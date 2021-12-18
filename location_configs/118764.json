@@ -1,0 +1,30 @@
+{
+  "id": 118764,
+  "models": {
+    "10": [
+      120945,
+      120941
+    ]
+  },
+  "name": "Wonky tree",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Decorate!",
+    null,
+    "Insult",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      453
+    ]
+  }
+}

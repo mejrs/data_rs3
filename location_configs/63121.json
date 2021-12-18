@@ -1,0 +1,22 @@
+{
+  "id": 63121,
+  "models": {
+    "10": [
+      4241
+    ]
+  },
+  "dim_x": 9,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "textures": {
+    "2980": 9001
+  },
+  "model": false,
+  "translate_x": 65436,
+  "translate_z": 65506,
+  "unknown_95": 65487,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 3
+}

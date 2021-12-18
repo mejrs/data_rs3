@@ -1,0 +1,32 @@
+{
+  "id": 3402,
+  "models": {
+    "10": [
+      18586
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 3,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      7566
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 84475,
+  "models": {
+    "10": [
+      86495
+    ]
+  },
+  "name": "Statue of Guthix",
+  "dim_x": 17,
+  "dim_y": 17,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Look-at",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128,
+  "occludes_2": false,
+  "unknown_186": 0
+}

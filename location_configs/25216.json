@@ -1,0 +1,20 @@
+{
+  "id": 25216,
+  "models": {
+    "10": [
+      12020
+    ]
+  },
+  "name": "Aged log",
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Ride",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

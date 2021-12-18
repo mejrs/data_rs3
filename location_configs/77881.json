@@ -1,0 +1,18 @@
+{
+  "id": 77881,
+  "models": {
+    "10": [
+      2289
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 148,
+  "scale_y": 148,
+  "scale_z": 148,
+  "mapscene": 51,
+  "occludes_2": false
+}

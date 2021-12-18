@@ -1,0 +1,41 @@
+{
+  "id": 78317,
+  "models": {
+    "10": [
+      7700
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      5400
+    ],
+    [
+      6443,
+      5397
+    ],
+    [
+      6806,
+      5386
+    ],
+    [
+      6682,
+      5390
+    ],
+    [
+      6439,
+      5395
+    ],
+    [
+      6558,
+      5394
+    ]
+  ],
+  "occludes_2": false
+}

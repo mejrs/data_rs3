@@ -1,0 +1,26 @@
+{
+  "id": 26299,
+  "models": {
+    "10": [
+      27919
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "actions": [
+    null,
+    "Climb-down",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    53,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 9094,
+  "models": {
+    "10": [
+      9074
+    ]
+  },
+  "name": "Bar dispenser",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 2440,
+  "occludes_2": false
+}

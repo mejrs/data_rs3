@@ -1,0 +1,16 @@
+{
+  "id": 111382,
+  "models": {
+    "10": [
+      84369
+    ]
+  },
+  "dim_x": 4,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "translate_z": 50,
+  "occludes_2": false,
+  "unknown_196": 4
+}

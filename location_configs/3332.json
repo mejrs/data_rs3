@@ -1,0 +1,12 @@
+{
+  "id": 3332,
+  "models": {
+    "10": [
+      765
+    ]
+  },
+  "name": "Temple door",
+  "dim_y": 4,
+  "occludes_2": false,
+  "unknown_196": 3
+}

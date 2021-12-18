@@ -1,0 +1,34 @@
+{
+  "id": 89375,
+  "models": {
+    "10": [
+      76022
+    ]
+  },
+  "name": "Bench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Sit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6932,
+      8460
+    ],
+    [
+      6684,
+      8455
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

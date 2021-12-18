@@ -1,0 +1,27 @@
+{
+  "id": 100217,
+  "models": {
+    "10": [
+      107728
+    ]
+  },
+  "name": "Hole",
+  "unknown_21": true,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_z": 32,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

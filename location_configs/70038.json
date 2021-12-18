@@ -1,0 +1,23 @@
+{
+  "id": 70038,
+  "models": {
+    "10": [
+      27777
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 30,
+  "contrast": 100,
+  "textures": {
+    "2242": 2270,
+    "2261": 2272,
+    "2262": 2269
+  },
+  "model": false,
+  "unknown_81": 32,
+  "occludes_2": false,
+  "unknown_189": true
+}

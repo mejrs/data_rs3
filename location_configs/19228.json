@@ -1,0 +1,29 @@
+{
+  "id": 19228,
+  "models": {
+    "10": [
+      10772
+    ]
+  },
+  "name": "Spiked pit",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Jump",
+    "Dismantle",
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

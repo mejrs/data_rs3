@@ -1,0 +1,18 @@
+{
+  "id": 46726,
+  "models": {
+    "10": [
+      50077
+    ]
+  },
+  "dim_x": 9,
+  "dim_y": 9,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 72,
+  "scale_y": 72,
+  "scale_z": 72,
+  "translate_y": 600,
+  "occludes_2": false
+}

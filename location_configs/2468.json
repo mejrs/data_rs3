@@ -1,0 +1,52 @@
+{
+  "id": 2468,
+  "models": {
+    "10": [
+      38323
+    ]
+  },
+  "name": "Portal",
+  "is_transparent": true,
+  "unknown_24": 9653,
+  "ambient": 32,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "colours": [
+    [
+      39888,
+      5958
+    ],
+    [
+      39905,
+      5975
+    ],
+    [
+      39889,
+      5959
+    ],
+    [
+      39918,
+      5988
+    ],
+    [
+      39898,
+      5968
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

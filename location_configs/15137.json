@@ -1,0 +1,23 @@
+{
+  "id": 15137,
+  "models": {
+    "10": [
+      15054
+    ]
+  },
+  "name": "Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      10432,
+      687
+    ],
+    [
+      127,
+      41178
+    ]
+  ],
+  "unknown_44": 6,
+  "occludes_2": false
+}

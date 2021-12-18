@@ -1,0 +1,50 @@
+{
+  "id": 4147,
+  "models": {
+    "10": [
+      731
+    ]
+  },
+  "name": "Cave Entrance",
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6036,
+      7335
+    ],
+    [
+      5008,
+      7326
+    ],
+    [
+      1932,
+      7446
+    ],
+    [
+      904,
+      7566
+    ],
+    [
+      900,
+      8070
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

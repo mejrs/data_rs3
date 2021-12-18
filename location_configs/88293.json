@@ -1,0 +1,17 @@
+{
+  "id": 88293,
+  "models": {
+    "10": [
+      91914
+    ]
+  },
+  "name": "Villager",
+  "unknown_24": 19167,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "translate_y": 10,
+  "translate_z": 65506,
+  "occludes_2": false,
+  "unknown_188": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": 42610,
+  "models": {
+    "10": [
+      45957
+    ]
+  },
+  "name": "Throne",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Jump-down",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      3014
+    ]
+  ],
+  "occludes_2": false
+}

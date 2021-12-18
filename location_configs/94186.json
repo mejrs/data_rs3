@@ -1,0 +1,15 @@
+{
+  "id": 94186,
+  "models": {
+    "4": [
+      99929
+    ]
+  },
+  "name": "Moomlyr",
+  "unknown_19": 1,
+  "ambient": 37,
+  "translate_x": 65502,
+  "translate_y": 65314,
+  "translate_z": 26,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 12982,
+  "models": {
+    "10": [
+      83397
+    ]
+  },
+  "name": "Treasure chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      10401,
+      28
+    ],
+    [
+      10508,
+      23
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 30804,
+  "models": {
+    "10": [
+      33871
+    ]
+  },
+  "name": "Dying roses",
+  "unknown_24": 4290,
+  "actions": [
+    "Take-seed",
+    "Water",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8680,
+  "models": {
+    "10": [
+      8178,
+      7766
+    ]
+  },
+  "name": "Dead watermelons",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7853,
+      21545
+    ],
+    [
+      17864,
+      14494
+    ]
+  ],
+  "occludes_2": false
+}

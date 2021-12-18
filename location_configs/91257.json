@@ -1,0 +1,19 @@
+{
+  "id": 91257,
+  "models": {
+    "10": [
+      96466
+    ]
+  },
+  "name": "Clock spindle",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      127,
+      43968
+    ]
+  ],
+  "occludes_2": false
+}

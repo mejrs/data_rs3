@@ -1,0 +1,11 @@
+{
+  "id": 88801,
+  "models": {
+    "10": [
+      92474
+    ]
+  },
+  "name": "Golem",
+  "dim_x": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 40838,
+  "models": {
+    "10": [
+      44462,
+      44464,
+      44463
+    ]
+  },
+  "name": "Statue",
+  "dim_x": 2,
+  "unknown_24": 10791,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    "Check-bowl",
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

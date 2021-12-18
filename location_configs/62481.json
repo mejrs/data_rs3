@@ -1,0 +1,49 @@
+{
+  "id": 62481,
+  "models": {
+    "10": [
+      60837
+    ]
+  },
+  "name": "Bench",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      782,
+      58132
+    ],
+    [
+      784,
+      58134
+    ],
+    [
+      786,
+      58136
+    ],
+    [
+      790,
+      58138
+    ],
+    [
+      791,
+      58139
+    ],
+    [
+      795,
+      58140
+    ]
+  ],
+  "unknown_69": 14,
+  "unknown_88": false,
+  "occludes_2": false
+}

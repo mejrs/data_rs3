@@ -1,0 +1,27 @@
+{
+  "id": 2636,
+  "models": {
+    "10": [
+      2243
+    ]
+  },
+  "name": "Drinks cabinet",
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    "Shut",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

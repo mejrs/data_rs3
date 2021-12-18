@@ -1,0 +1,13 @@
+{
+  "id": 28343,
+  "models": {
+    "22": [
+      30401
+    ]
+  },
+  "name": "Hay",
+  "unknown_19": 1,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

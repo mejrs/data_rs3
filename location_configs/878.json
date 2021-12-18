@@ -1,0 +1,18 @@
+{
+  "id": 878,
+  "models": {
+    "10": [
+      1525
+    ]
+  },
+  "name": "Well",
+  "is_transparent": true,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 103589,
+  "models": {
+    "10": [
+      113332
+    ]
+  },
+  "name": "Herblore table",
+  "unknown_27": false,
+  "actions": [
+    "Brew potions",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 32,
+  "mapscene": 4,
+  "occludes_2": false
+}

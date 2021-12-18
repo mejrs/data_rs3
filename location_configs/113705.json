@@ -1,0 +1,42 @@
+{
+  "id": 113705,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Bones",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 750,
+  "scale_y": 300,
+  "scale_z": 250,
+  "unknown_69": 10,
+  "translate_x": 65486,
+  "translate_y": 150,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 2,
+    "7902": 204
+  }
+}

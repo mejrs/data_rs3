@@ -1,0 +1,12 @@
+{
+  "id": 95210,
+  "models": {
+    "10": [
+      101735
+    ]
+  },
+  "name": "Pot",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

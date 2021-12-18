@@ -1,0 +1,12 @@
+{
+  "id": 18177,
+  "models": {
+    "10": [
+      18229,
+      18208
+    ]
+  },
+  "name": "Display table",
+  "dim_x": 2,
+  "occludes_2": false
+}

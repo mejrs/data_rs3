@@ -1,0 +1,74 @@
+{
+  "id": 113072,
+  "models": {
+    "10": [
+      73994,
+      74121,
+      73987
+    ]
+  },
+  "name": "Drakolith rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      2346
+    ],
+    [
+      3135,
+      3366
+    ],
+    [
+      3127,
+      3359
+    ],
+    [
+      2109,
+      2341
+    ],
+    [
+      3143,
+      2221
+    ],
+    [
+      54994,
+      2718
+    ],
+    [
+      54858,
+      1687
+    ],
+    [
+      54991,
+      2717
+    ],
+    [
+      54856,
+      2711
+    ]
+  ],
+  "textures": {
+    "322": 10865,
+    "1304": 10880
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

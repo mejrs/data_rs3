@@ -1,0 +1,15 @@
+{
+  "id": 80089,
+  "models": {
+    "10": [
+      80864
+    ]
+  },
+  "name": "Table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

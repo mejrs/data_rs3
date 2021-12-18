@@ -1,0 +1,12 @@
+{
+  "id": 104032,
+  "models": {
+    "10": [
+      113552
+    ]
+  },
+  "name": "Fishing supplies",
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

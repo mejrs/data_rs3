@@ -1,0 +1,29 @@
+{
+  "id": 5848,
+  "models": {
+    "10": [
+      5695
+    ]
+  },
+  "name": "Tall tree",
+  "dim_x": 4,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    "Climb",
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    181,
+    null,
+    null,
+    null
+  ]
+}

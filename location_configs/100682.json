@@ -1,0 +1,35 @@
+{
+  "id": 100682,
+  "models": {
+    "10": [
+      108308
+    ]
+  },
+  "name": "Furnace",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Smelt",
+    "Close doors",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

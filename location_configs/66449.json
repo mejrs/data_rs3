@@ -1,0 +1,27 @@
+{
+  "id": 66449,
+  "models": {
+    "10": [
+      52504
+    ]
+  },
+  "name": "Darkmeyer Treasury",
+  "ambient": 25,
+  "actions": [
+    "Bank",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    5,
+    null,
+    null,
+    null
+  ]
+}

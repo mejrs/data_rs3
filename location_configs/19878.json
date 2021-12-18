@@ -1,0 +1,19 @@
+{
+  "id": 19878,
+  "models": {
+    "10": [
+      20038,
+      20037
+    ]
+  },
+  "name": "Eagle lever",
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Push-up",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

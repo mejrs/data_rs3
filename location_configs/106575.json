@@ -1,0 +1,18 @@
+{
+  "id": 106575,
+  "models": {
+    "10": [
+      103690,
+      103691
+    ]
+  },
+  "name": "Ernest the Shark",
+  "dim_x": 20,
+  "dim_y": 20,
+  "unknown_19": 1,
+  "unknown_24": 26296,
+  "ambient": 64,
+  "model": false,
+  "translate_y": 115,
+  "occludes_2": false
+}

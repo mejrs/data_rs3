@@ -1,0 +1,40 @@
+{
+  "id": 56649,
+  "models": {
+    "10": [
+      62173
+    ]
+  },
+  "name": "Dead green vine blossom",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      48154,
+      11801
+    ],
+    [
+      48142,
+      11796
+    ],
+    [
+      48286,
+      11806
+    ],
+    [
+      48163,
+      11808
+    ]
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "unknown_44": 15360,
+  "occludes_2": false
+}

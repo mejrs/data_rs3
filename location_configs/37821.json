@@ -1,0 +1,38 @@
+{
+  "id": 37821,
+  "models": {
+    "10": [
+      62575
+    ]
+  },
+  "name": "Cursed magic tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 353,
+    "unknown_2": 8
+  },
+  "unknown_98": true,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_104": 200,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

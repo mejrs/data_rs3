@@ -1,0 +1,32 @@
+{
+  "id": 7240,
+  "models": {
+    "10": [
+      7562
+    ]
+  },
+  "name": "Ledge",
+  "unknown_21": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10518,
+      5667
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 103197,
+  "models": {
+    "10": [
+      44737
+    ]
+  },
+  "name": "Crate of Returning",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

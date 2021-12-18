@@ -1,0 +1,38 @@
+{
+  "id": 72600,
+  "models": {
+    "10": [
+      68948
+    ]
+  },
+  "dim_y": 4,
+  "unknown_19": 0,
+  "unknown_24": 16441,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      841,
+      39861
+    ],
+    [
+      802,
+      39852
+    ],
+    [
+      42556,
+      19583
+    ],
+    [
+      828,
+      39861
+    ]
+  ],
+  "mirror": true,
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 15
+}

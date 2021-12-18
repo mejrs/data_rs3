@@ -1,0 +1,19 @@
+{
+  "id": 55144,
+  "models": {
+    "0": [
+      59811
+    ],
+    "1": [
+      59809
+    ],
+    "9": [
+      59806
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "mirror": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": 89298,
+  "models": {
+    "22": [
+      93646
+    ]
+  },
+  "name": "Pier",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Dive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      5404
+    ],
+    [
+      6684,
+      6697
+    ]
+  ],
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false,
+  "unknown_167": 60
+}

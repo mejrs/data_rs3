@@ -1,0 +1,16 @@
+{
+  "id": 76705,
+  "models": {
+    "10": [
+      75926
+    ]
+  },
+  "name": "Incense Table",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false
+}

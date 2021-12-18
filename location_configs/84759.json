@@ -1,0 +1,25 @@
+{
+  "id": 84759,
+  "models": {
+    "10": [
+      37392,
+      37431
+    ]
+  },
+  "name": "Fremennik Province lodestone",
+  "unknown_19": 1,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "322": 10023,
+    "326": 3536
+  },
+  "unknown_81": 32,
+  "occludes_2": false,
+  "unknown_196": 4
+}

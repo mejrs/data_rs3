@@ -1,0 +1,33 @@
+{
+  "id": 14463,
+  "models": {
+    "10": [
+      14596
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      30,
+      16
+    ],
+    [
+      35,
+      20
+    ],
+    [
+      39,
+      24
+    ],
+    [
+      51,
+      33
+    ]
+  ],
+  "unknown_44": 23,
+  "occludes_2": false
+}

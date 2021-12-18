@@ -1,0 +1,19 @@
+{
+  "id": 42852,
+  "models": {
+    "10": [
+      33009,
+      33008
+    ]
+  },
+  "name": "Crumbling statue",
+  "dim_x": 6,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_24": 11494,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false
+}

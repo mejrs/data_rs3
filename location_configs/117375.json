@@ -1,0 +1,42 @@
+{
+  "id": 117375,
+  "models": {
+    "10": [
+      96039,
+      90247,
+      95735
+    ]
+  },
+  "name": "Kyzaj champion's boudoir",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      123
+    ]
+  ],
+  "textures": {
+    "12338": 12345
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3366
+  }
+}

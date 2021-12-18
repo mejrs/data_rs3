@@ -1,0 +1,25 @@
+{
+  "id": 73737,
+  "models": {
+    "10": [
+      72061
+    ]
+  },
+  "name": "Seed sacks",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Get Seeds",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "305": 1860
+  },
+  "occludes_2": false
+}

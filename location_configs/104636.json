@@ -1,0 +1,43 @@
+{
+  "id": 104636,
+  "models": {
+    "10": [
+      34356
+    ]
+  },
+  "name": "Danger sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7587,
+      5268
+    ],
+    [
+      7830,
+      5281
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 106536,
+  "models": {
+    "10": [
+      117012,
+      117011
+    ]
+  },
+  "name": "Energy container",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "occludes_2": false
+}

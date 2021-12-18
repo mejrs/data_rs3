@@ -1,0 +1,13 @@
+{
+  "id": 9014,
+  "models": {
+    "10": [
+      8899
+    ]
+  },
+  "name": "Light jungle",
+  "is_transparent": true,
+  "unknown_24": 2380,
+  "mapscene": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 30576,
+  "models": {
+    "10": [
+      33485
+    ]
+  },
+  "name": "Column",
+  "ambient": 10,
+  "contrast": 5,
+  "unknown_75": 0,
+  "mapscene": 84,
+  "occludes_2": false
+}

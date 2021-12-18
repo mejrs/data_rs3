@@ -1,0 +1,15 @@
+{
+  "id": 96189,
+  "models": {
+    "10": [
+      103154
+    ]
+  },
+  "name": "Zilyana god statue",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": 8548,
+  "models": {
+    "10": [
+      8193,
+      7766
+    ]
+  },
+  "name": "Dead cabbages",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      15913,
+      17571
+    ],
+    [
+      16161,
+      17562
+    ],
+    [
+      16280,
+      17682
+    ],
+    [
+      17300,
+      17930
+    ],
+    [
+      16274,
+      22404
+    ]
+  ],
+  "unknown_44": 47,
+  "occludes_2": false
+}

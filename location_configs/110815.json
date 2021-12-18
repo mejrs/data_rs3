@@ -1,0 +1,11 @@
+{
+  "id": 110815,
+  "models": {
+    "10": [
+      84629
+    ]
+  },
+  "name": "Torch",
+  "ambient": 25,
+  "occludes_2": false
+}

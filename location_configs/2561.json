@@ -1,0 +1,19 @@
+{
+  "id": 2561,
+  "models": {
+    "4": [
+      104328,
+      104331
+    ]
+  },
+  "name": "Bronze smelter",
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

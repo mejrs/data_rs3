@@ -1,0 +1,62 @@
+{
+  "id": 70456,
+  "models": {
+    "10": [
+      69377,
+      69369,
+      69372
+    ]
+  },
+  "name": "Mind storm",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 16609,
+  "ambient": 25,
+  "actions": [
+    "Siphon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4109,
+      4096
+    ],
+    [
+      4131,
+      4106
+    ]
+  ],
+  "textures": {
+    "2868": 2860
+  },
+  "model": false,
+  "translate_y": 65532,
+  "unknown_78": {
+    "unknown_1": 14418,
+    "unknown_2": 2
+  },
+  "unknown_79": {
+    "unknown_1": 800,
+    "unknown_2": 1000,
+    "unknown_3": 2,
+    "values": [
+      14413,
+      14497,
+      14425,
+      14491,
+      14404,
+      14469,
+      14381
+    ]
+  },
+  "unknown_81": 88,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 60,
+  "unknown_1": 246,
+  "unknown_2": 300
+}

@@ -1,0 +1,14 @@
+{
+  "id": 42580,
+  "models": {
+    "10": [
+      45807
+    ]
+  },
+  "name": "Cave exit",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "occludes_2": false
+}

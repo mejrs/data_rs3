@@ -1,0 +1,38 @@
+{
+  "id": 103585,
+  "models": {
+    "10": [
+      89511,
+      89525
+    ]
+  },
+  "name": "Mining node",
+  "unknown_24": 21250,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "scale_x": 210,
+  "scale_y": 210,
+  "scale_z": 210,
+  "unknown_75": 0,
+  "unknown_81": 32,
+  "unknown_89": false,
+  "mapscene": 4,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 101690,
+  "models": {
+    "10": [
+      103012
+    ]
+  },
+  "name": "Shelves",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take bottles",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

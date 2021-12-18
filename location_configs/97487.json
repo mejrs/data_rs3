@@ -1,0 +1,19 @@
+{
+  "id": 97487,
+  "models": {
+    "22": [
+      61706
+    ]
+  },
+  "name": "Pressure pad",
+  "unknown_19": 1,
+  "ambient": 25,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  },
+  "unknown_167": 8
+}

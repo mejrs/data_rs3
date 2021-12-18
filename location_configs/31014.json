@@ -1,0 +1,30 @@
+{
+  "id": 31014,
+  "models": {
+    "10": [
+      33883
+    ]
+  },
+  "name": "Wrecked tent",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

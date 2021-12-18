@@ -1,0 +1,51 @@
+{
+  "id": 18431,
+  "models": {
+    "0": [
+      35702
+    ]
+  },
+  "name": "Wall opening",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      7054
+    ],
+    [
+      21534,
+      6930
+    ],
+    [
+      21539,
+      6806
+    ],
+    [
+      21543,
+      6682
+    ],
+    [
+      21547,
+      6558
+    ]
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

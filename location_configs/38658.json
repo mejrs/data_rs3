@@ -1,0 +1,22 @@
+{
+  "id": 38658,
+  "models": {
+    "10": [
+      41875
+    ]
+  },
+  "name": "Anvil (level 99 approx.)",
+  "unknown_21": true,
+  "unknown_24": 10333,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Cast",
+    "Cast-Alchemy",
+    "Cast-Teleport",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

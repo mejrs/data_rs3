@@ -1,0 +1,15 @@
+{
+  "id": 52701,
+  "models": {
+    "10": [
+      57444,
+      57443
+    ]
+  },
+  "name": "Medical table",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 14072,
+  "ambient": 20,
+  "occludes_2": false
+}

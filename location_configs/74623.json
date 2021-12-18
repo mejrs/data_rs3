@@ -1,0 +1,21 @@
+{
+  "id": 74623,
+  "models": {
+    "10": [
+      73012
+    ]
+  },
+  "name": "Communication device",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Invite",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false
+}

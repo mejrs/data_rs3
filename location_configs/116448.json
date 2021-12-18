@@ -1,0 +1,18 @@
+{
+  "id": 116448,
+  "models": {
+    "4": [
+      95757
+    ]
+  },
+  "name": "Certificate of Qualification (Assistant)",
+  "unknown_19": 1,
+  "actions": [
+    "Look at",
+    "Replay cutscene",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

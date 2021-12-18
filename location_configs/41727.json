@@ -1,0 +1,15 @@
+{
+  "id": 41727,
+  "models": {
+    "10": [
+      45264,
+      45265
+    ]
+  },
+  "name": "Reindeer",
+  "unknown_24": 11054,
+  "ambient": 15,
+  "contrast": 25,
+  "unknown_89": false,
+  "occludes_2": false
+}

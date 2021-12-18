@@ -1,0 +1,23 @@
+{
+  "id": 46489,
+  "models": {
+    "10": [
+      96357
+    ]
+  },
+  "name": "Large stone door",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

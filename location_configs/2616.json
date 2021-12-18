@@ -1,0 +1,18 @@
+{
+  "id": 2616,
+  "models": {
+    "10": [
+      64786
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mapscene": 12,
+  "occludes_2": false
+}

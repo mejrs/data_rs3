@@ -1,0 +1,20 @@
+{
+  "id": 8095,
+  "models": {
+    "10": [
+      110097,
+      7767
+    ]
+  },
+  "name": "Diseased palm tree",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 8476,
+  "models": {
+    "10": [
+      101372,
+      7768,
+      101375
+    ]
+  },
+  "name": "Diseased Oak",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      9761
+    ]
+  ],
+  "textures": {
+    "44": 70
+  },
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "unknown_88": false,
+  "occludes_2": false
+}

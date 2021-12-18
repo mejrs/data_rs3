@@ -1,0 +1,14 @@
+{
+  "id": 120997,
+  "models": {
+    "10": [
+      122995
+    ]
+  },
+  "name": "The Needle",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 4
+}

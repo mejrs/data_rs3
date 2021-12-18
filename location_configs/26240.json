@@ -1,0 +1,13 @@
+{
+  "id": 26240,
+  "models": {
+    "10": [
+      27958
+    ]
+  },
+  "name": "Ladder",
+  "dim_x": 2,
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

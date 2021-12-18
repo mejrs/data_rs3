@@ -1,0 +1,17 @@
+{
+  "id": 18705,
+  "models": {
+    "10": [
+      18714
+    ]
+  },
+  "name": "Connection pipe",
+  "unknown_19": 1,
+  "colours": [
+    [
+      37035,
+      49
+    ]
+  ],
+  "occludes_2": false
+}

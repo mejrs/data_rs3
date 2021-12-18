@@ -1,0 +1,28 @@
+{
+  "id": 106350,
+  "models": {
+    "10": [
+      91740
+    ]
+  },
+  "name": "Anniversary tree",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 22431,
+  "unknown_27": false,
+  "actions": [
+    "Teleport",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 158,
+  "scale_y": 158,
+  "scale_z": 158,
+  "unknown_81": 32,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

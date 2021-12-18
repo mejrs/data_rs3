@@ -1,0 +1,16 @@
+{
+  "id": 89475,
+  "models": {
+    "10": [
+      93727
+    ]
+  },
+  "name": "Crow",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 23469,
+  "ambient": -20,
+  "model": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

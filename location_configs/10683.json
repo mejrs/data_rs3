@@ -1,0 +1,29 @@
+{
+  "id": 10683,
+  "models": {
+    "10": [
+      10458,
+      10461
+    ]
+  },
+  "name": "Decorations Box",
+  "dim_x": 2,
+  "actions": [
+    "Take-decoration",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      18343,
+      3625
+    ],
+    [
+      7104,
+      61512
+    ]
+  ],
+  "occludes_2": false
+}

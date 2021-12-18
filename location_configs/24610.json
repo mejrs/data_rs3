@@ -1,0 +1,27 @@
+{
+  "id": 24610,
+  "models": {
+    "10": [
+      25348
+    ]
+  },
+  "name": "Plaque",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

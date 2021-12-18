@@ -1,0 +1,27 @@
+{
+  "id": 42803,
+  "models": {
+    "10": [
+      46207
+    ]
+  },
+  "name": "Driftwood",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 94391,
+  "models": {
+    "10": [
+      98443
+    ]
+  },
+  "name": "Harmony pillar (Crafting)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

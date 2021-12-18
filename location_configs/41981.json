@@ -1,0 +1,16 @@
+{
+  "id": 41981,
+  "models": {
+    "10": [
+      45331
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false
+}

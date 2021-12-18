@@ -1,0 +1,24 @@
+{
+  "id": 116501,
+  "models": {
+    "10": [
+      102744
+    ]
+  },
+  "name": "Lighthouse elevator",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

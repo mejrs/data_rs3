@@ -1,0 +1,13 @@
+{
+  "id": 42749,
+  "models": {
+    "10": [
+      46201
+    ]
+  },
+  "name": "Fallen rock",
+  "ambient": 25,
+  "contrast": 20,
+  "unknown_95": 0,
+  "occludes_2": false
+}

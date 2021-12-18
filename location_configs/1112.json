@@ -1,0 +1,12 @@
+{
+  "id": 1112,
+  "models": {
+    "10": [
+      1233
+    ]
+  },
+  "name": "Pew",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false
+}

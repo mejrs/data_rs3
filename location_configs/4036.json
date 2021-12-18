@@ -1,0 +1,33 @@
+{
+  "id": 4036,
+  "models": {
+    "10": [
+      55206
+    ]
+  },
+  "name": "Runed door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13552,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

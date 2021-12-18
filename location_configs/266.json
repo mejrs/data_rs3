@@ -1,0 +1,13 @@
+{
+  "id": 266,
+  "models": {
+    "10": [
+      1858
+    ]
+  },
+  "name": "Sail",
+  "dim_y": 3,
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_196": 2
+}

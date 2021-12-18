@@ -1,0 +1,13 @@
+{
+  "id": 66106,
+  "models": {
+    "10": [
+      28222
+    ]
+  },
+  "name": "Dry stone wall",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_2": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 104730,
+  "models": {
+    "10": [
+      114873
+    ]
+  },
+  "name": "Brazier",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false,
+  "mapfunction": 629,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5854": "braziers"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 80744,
+  "models": {
+    "10": [
+      81212,
+      81218
+    ]
+  },
+  "name": "Obsidian sword",
+  "unknown_19": 1,
+  "unknown_24": 16251,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65520,
+  "unknown_89": false,
+  "occludes_2": false
+}

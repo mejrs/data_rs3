@@ -1,0 +1,31 @@
+{
+  "id": 106089,
+  "models": {
+    "10": [
+      50039
+    ]
+  },
+  "name": "Gap",
+  "is_transparent": true,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      388
+    ]
+  },
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

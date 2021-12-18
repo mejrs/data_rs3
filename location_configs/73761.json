@@ -1,0 +1,30 @@
+{
+  "id": 73761,
+  "models": {
+    "10": [
+      7873,
+      7766,
+      72034
+    ]
+  },
+  "name": "Herb patch (red herbs)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      20364,
+      790
+    ],
+    [
+      19988,
+      542
+    ],
+    [
+      19992,
+      546
+    ]
+  ],
+  "occludes_2": false
+}

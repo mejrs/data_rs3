@@ -1,0 +1,32 @@
+{
+  "id": 26286,
+  "models": {
+    "10": [
+      56030
+    ]
+  },
+  "name": "Zamorak Altar",
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pray-at",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_x": 45,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

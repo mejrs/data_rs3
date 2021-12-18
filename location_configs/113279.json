@@ -1,0 +1,22 @@
+{
+  "id": 113279,
+  "models": {
+    "10": [
+      34224
+    ]
+  },
+  "name": "Boat engine",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Tinker with invention",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

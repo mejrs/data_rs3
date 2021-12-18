@@ -1,0 +1,53 @@
+{
+  "id": 10380,
+  "models": {
+    "10": [
+      5283
+    ]
+  },
+  "name": "Boxes",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5652,
+      6550
+    ],
+    [
+      5656,
+      6555
+    ],
+    [
+      5532,
+      6559
+    ],
+    [
+      5537,
+      6434
+    ],
+    [
+      5413,
+      6435
+    ],
+    [
+      5417,
+      6444
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 16266,
+  "models": {
+    "10": [
+      16292
+    ]
+  },
+  "name": "Tree Stump",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 10,
+  "colours": [
+    [
+      6819,
+      6554
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 45077,
+  "models": {
+    "22": [
+      49400
+    ]
+  },
+  "name": "Rope",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

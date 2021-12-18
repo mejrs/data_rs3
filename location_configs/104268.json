@@ -1,0 +1,19 @@
+{
+  "id": 104268,
+  "models": {
+    "10": [
+      113428
+    ]
+  },
+  "name": "Arch",
+  "dim_x": 5,
+  "unknown_17": false,
+  "ambient": 50,
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "translate_z": 65471,
+  "occludes_2": false,
+  "unknown_186": 0
+}

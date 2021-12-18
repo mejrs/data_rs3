@@ -1,0 +1,30 @@
+{
+  "id": 92375,
+  "models": {
+    "4": [
+      98235
+    ]
+  },
+  "name": "Ranged banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      15128
+    ],
+    [
+      36300,
+      3732
+    ]
+  ],
+  "mapscene": 22,
+  "occludes_2": false
+}

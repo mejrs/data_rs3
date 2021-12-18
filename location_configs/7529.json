@@ -1,0 +1,12 @@
+{
+  "id": 7529,
+  "models": {
+    "10": [
+      63509
+    ]
+  },
+  "name": "Urns",
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

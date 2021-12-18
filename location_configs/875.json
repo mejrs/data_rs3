@@ -1,0 +1,12 @@
+{
+  "id": 875,
+  "models": {
+    "10": [
+      1284
+    ]
+  },
+  "name": "Bath",
+  "dim_y": 2,
+  "is_transparent": true,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 3456,
+  "models": {
+    "10": [
+      610
+    ]
+  },
+  "name": "Hole in the wall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 604,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

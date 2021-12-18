@@ -1,0 +1,14 @@
+{
+  "id": 96194,
+  "models": {
+    "10": [
+      103136
+    ]
+  },
+  "name": "Zemouregal's mega-stash",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

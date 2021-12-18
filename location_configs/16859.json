@@ -1,0 +1,14 @@
+{
+  "id": 16859,
+  "models": {
+    "10": [
+      16534
+    ]
+  },
+  "name": "Hanging pirate",
+  "dim_x": 3,
+  "unknown_24": 4399,
+  "translate_y": 160,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,44 @@
+{
+  "id": 100730,
+  "models": {
+    "0": [
+      966
+    ],
+    "1": [
+      967
+    ],
+    "9": [
+      968
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6040,
+      5404
+    ]
+  ],
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

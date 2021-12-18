@@ -1,0 +1,12 @@
+{
+  "id": 8900,
+  "models": {
+    "10": [
+      8664
+    ]
+  },
+  "name": "Track support",
+  "unknown_21": true,
+  "unknown_73": true,
+  "occludes_2": false
+}

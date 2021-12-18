@@ -1,0 +1,19 @@
+{
+  "id": 38902,
+  "models": {
+    "10": [
+      11798
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

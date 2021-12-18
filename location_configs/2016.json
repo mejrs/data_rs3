@@ -1,0 +1,17 @@
+{
+  "id": 2016,
+  "models": {
+    "10": [
+      2329
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_24": 522,
+  "ambient": 80,
+  "contrast": 80,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 1
+}

@@ -1,0 +1,16 @@
+{
+  "id": 22271,
+  "models": {
+    "10": [
+      22913
+    ]
+  },
+  "name": "Cannon",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

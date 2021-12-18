@@ -1,0 +1,45 @@
+{
+  "id": 47715,
+  "models": {
+    "10": [
+      51064
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      17583,
+      23833
+    ],
+    [
+      14753,
+      23835
+    ],
+    [
+      14637,
+      23837
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

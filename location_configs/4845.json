@@ -1,0 +1,27 @@
+{
+  "id": 4845,
+  "models": {
+    "10": [
+      1676
+    ]
+  },
+  "name": "Tropical tree",
+  "colours": [
+    [
+      6707,
+      6703
+    ],
+    [
+      6585,
+      5673
+    ],
+    [
+      15919,
+      14876
+    ]
+  ],
+  "unknown_81": 70,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_196": 3
+}

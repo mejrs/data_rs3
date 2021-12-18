@@ -1,0 +1,26 @@
+{
+  "id": 33932,
+  "models": {
+    "10": [
+      35798
+    ]
+  },
+  "name": "Drawers",
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

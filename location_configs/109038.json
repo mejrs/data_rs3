@@ -1,0 +1,30 @@
+{
+  "id": 109038,
+  "models": {
+    "10": [
+      70853
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 19686,
+  "ambient": 72,
+  "contrast": 100,
+  "colours": [
+    [
+      36031,
+      8511
+    ]
+  ],
+  "model": false,
+  "scale_x": 120,
+  "scale_y": 200,
+  "scale_z": 120,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_199": true
+}

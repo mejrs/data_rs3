@@ -1,0 +1,27 @@
+{
+  "id": 2568,
+  "models": {
+    "10": [
+      32110
+    ]
+  },
+  "name": "Chest",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    "Search for traps",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

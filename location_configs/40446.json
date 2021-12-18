@@ -1,0 +1,23 @@
+{
+  "id": 40446,
+  "models": {
+    "10": [
+      64741
+    ]
+  },
+  "name": "Empty patch",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Fertilise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 75779,
+  "models": {
+    "10": [
+      76733
+    ]
+  },
+  "name": "Scabaras statue",
+  "dim_x": 2,
+  "ambient": 30,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 15932,
+  "models": {
+    "10": [
+      15786
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 2,
+  "actions": [
+    "Craft",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

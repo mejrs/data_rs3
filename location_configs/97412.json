@@ -1,0 +1,20 @@
+{
+  "id": 97412,
+  "models": {
+    "10": [
+      50871
+    ]
+  },
+  "name": "Rocks",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Jump over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "occludes_2": false
+}

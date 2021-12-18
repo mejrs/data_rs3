@@ -1,0 +1,17 @@
+{
+  "id": 92395,
+  "models": {
+    "10": [
+      98216
+    ]
+  },
+  "name": "Crwys voicestone",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 24597,
+  "ambient": 64,
+  "translate_x": 190,
+  "translate_y": 325,
+  "translate_z": 216,
+  "occludes_2": false
+}

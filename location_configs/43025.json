@@ -1,0 +1,45 @@
+{
+  "id": 43025,
+  "models": {
+    "10": [
+      11796
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "colours": [
+    [
+      30,
+      7485
+    ],
+    [
+      35,
+      7490
+    ],
+    [
+      39,
+      7494
+    ],
+    [
+      43,
+      7496
+    ],
+    [
+      47,
+      7498
+    ],
+    [
+      51,
+      7500
+    ]
+  ],
+  "textures": {
+    "2355": 1468
+  },
+  "model": false,
+  "occludes_2": false
+}

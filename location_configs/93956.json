@@ -1,0 +1,14 @@
+{
+  "id": 93956,
+  "models": {
+    "10": [
+      99562
+    ]
+  },
+  "name": "Stuffed dire wolf",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 43104,
+  "models": {
+    "10": [
+      66282,
+      66288
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 11713,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 15547,
+  "models": {
+    "10": [
+      12973
+    ]
+  },
+  "name": "Clock",
+  "unknown_19": 1,
+  "unknown_24": 3511,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      4510,
+      7582
+    ],
+    [
+      4502,
+      7954
+    ]
+  ],
+  "occludes_2": false
+}

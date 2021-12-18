@@ -1,0 +1,24 @@
+{
+  "id": 73972,
+  "models": {
+    "10": [
+      72534,
+      72566
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Steal-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65472,
+  "occludes_2": false
+}

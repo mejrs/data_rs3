@@ -1,0 +1,30 @@
+{
+  "id": 98247,
+  "models": {
+    "10": [
+      105270
+    ]
+  },
+  "name": "Housing tent",
+  "dim_x": 4,
+  "dim_y": 6,
+  "ambient": 32,
+  "actions": [
+    "Enter",
+    "Enter house",
+    "Enter building mode",
+    "Enter friend's house",
+    null
+  ],
+  "mapscene": 64,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

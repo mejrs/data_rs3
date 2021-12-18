@@ -1,0 +1,32 @@
+{
+  "id": 54133,
+  "models": {
+    "10": [
+      59096
+    ]
+  },
+  "name": "Rubble",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 12713,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

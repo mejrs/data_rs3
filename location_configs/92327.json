@@ -1,0 +1,15 @@
+{
+  "id": 92327,
+  "models": {
+    "0": [
+      98248
+    ]
+  },
+  "name": "Fletching banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 484
+  },
+  "mapscene": 22
+}

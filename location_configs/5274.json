@@ -1,0 +1,40 @@
+{
+  "id": 5274,
+  "models": {
+    "10": [
+      1868
+    ]
+  },
+  "name": "Mast",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5559,
+      12698
+    ],
+    [
+      5673,
+      12818
+    ],
+    [
+      53,
+      17583
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

@@ -1,0 +1,20 @@
+{
+  "id": 46298,
+  "models": {
+    "10": [
+      49717,
+      49718
+    ]
+  },
+  "name": "Conveyor belt",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "unknown_24": 12394,
+  "ambient": 10,
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 29135,
+    "unknown_2": 5
+  },
+  "occludes_2": false
+}

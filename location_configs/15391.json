@@ -1,0 +1,21 @@
+{
+  "id": 15391,
+  "models": {
+    "10": [
+      12871
+    ]
+  },
+  "name": "Stair Space",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

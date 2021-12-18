@@ -1,0 +1,21 @@
+{
+  "id": 66474,
+  "models": {
+    "10": [
+      36864
+    ]
+  },
+  "name": "Hole",
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

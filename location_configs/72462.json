@@ -1,0 +1,18 @@
+{
+  "id": 72462,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Acid",
+  "dim_y": 3,
+  "actions": [
+    "Swim through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

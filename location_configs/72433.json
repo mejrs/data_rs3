@@ -1,0 +1,33 @@
+{
+  "id": 72433,
+  "models": {
+    "10": [
+      26271
+    ]
+  },
+  "name": "Empty bed",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 115,
+  "scale_z": 115,
+  "translate_y": 30,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 20927,
+  "models": {
+    "10": [
+      21494,
+      21492
+    ]
+  },
+  "name": "Wall",
+  "dim_x": 2,
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 25,
+  "scale_y": 135,
+  "occludes_2": false,
+  "unknown_196": 3
+}

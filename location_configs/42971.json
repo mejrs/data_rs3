@@ -1,0 +1,19 @@
+{
+  "id": 42971,
+  "models": {
+    "10": [
+      46561
+    ]
+  },
+  "name": "Statue base",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Create statue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

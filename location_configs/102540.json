@@ -1,0 +1,27 @@
+{
+  "id": 102540,
+  "models": {
+    "10": [
+      4069
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "mapscene": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 43720,
+  "models": {
+    "10": [
+      87345
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 0,
+  "colours": [
+    [
+      6715,
+      5656
+    ],
+    [
+      10586,
+      7331
+    ],
+    [
+      10471,
+      10279
+    ]
+  ],
+  "model": false,
+  "translate_x": 85,
+  "translate_y": 55,
+  "translate_z": 50,
+  "occludes_2": false
+}

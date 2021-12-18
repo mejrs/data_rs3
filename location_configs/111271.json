@@ -1,0 +1,20 @@
+{
+  "id": 111271,
+  "models": {
+    "10": [
+      34288,
+      34289
+    ]
+  },
+  "name": "Mysterious Hole",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Descend into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 35960,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 50,
+  "translate_x": 65526,
+  "translate_y": 65440,
+  "morphs_2": {
+    "varbit": 18021,
+    "ids": [
+      82743,
+      82742,
+      82742,
+      82742,
+      82742,
+      82743
+    ],
+    "default": 82742
+  }
+}

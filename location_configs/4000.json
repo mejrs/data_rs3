@@ -1,0 +1,17 @@
+{
+  "id": 4000,
+  "models": {
+    "10": [
+      3957
+    ]
+  },
+  "name": "Tent roof",
+  "colours": [
+    [
+      17686,
+      7364
+    ]
+  ],
+  "unknown_44": 2,
+  "occludes_2": false
+}

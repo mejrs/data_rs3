@@ -1,0 +1,14 @@
+{
+  "id": 2541,
+  "models": {
+    "10": [
+      48627
+    ]
+  },
+  "name": "Large table",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

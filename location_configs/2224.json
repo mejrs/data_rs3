@@ -1,0 +1,28 @@
+{
+  "id": 2224,
+  "models": {
+    "10": [
+      37237,
+      18551
+    ]
+  },
+  "name": "Ancient gallows",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

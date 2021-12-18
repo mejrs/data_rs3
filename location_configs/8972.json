@@ -1,0 +1,23 @@
+{
+  "id": 8972,
+  "models": {
+    "10": [
+      5495
+    ]
+  },
+  "name": "Logs",
+  "actions": [
+    "Take-hatchet",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      5652
+    ]
+  ],
+  "occludes_2": false
+}

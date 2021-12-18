@@ -1,0 +1,15 @@
+{
+  "id": 63981,
+  "models": {
+    "10": [
+      6314
+    ]
+  },
+  "name": "Cabbage-on-candelabrum",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

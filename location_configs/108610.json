@@ -1,0 +1,17 @@
+{
+  "id": 108610,
+  "models": {
+    "10": [
+      118213
+    ]
+  },
+  "name": "Noticeboard",
+  "dim_y": 2,
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "translate_x": 25,
+  "translate_y": 65476,
+  "occludes_2": false,
+  "unknown_186": 0
+}

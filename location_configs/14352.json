@@ -1,0 +1,23 @@
+{
+  "id": 14352,
+  "models": {
+    "10": [
+      45137
+    ]
+  },
+  "name": "Water trough",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8138,
+  "models": {
+    "10": [
+      7801,
+      7766
+    ]
+  },
+  "name": "Herb patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      14866
+    ],
+    [
+      14230,
+      14990
+    ]
+  ],
+  "occludes_2": false
+}

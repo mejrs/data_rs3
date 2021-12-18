@@ -1,0 +1,30 @@
+{
+  "id": 93222,
+  "models": {
+    "10": [
+      98772
+    ]
+  },
+  "name": "Spinning wheel",
+  "unknown_27": false,
+  "ambient": 37,
+  "actions": [
+    null,
+    "Spin",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "translate_x": 65456,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    62,
+    null,
+    null,
+    null,
+    null
+  ]
+}

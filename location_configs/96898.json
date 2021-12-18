@@ -1,0 +1,23 @@
+{
+  "id": 96898,
+  "models": {
+    "10": [
+      103969
+    ]
+  },
+  "name": "Quill",
+  "unknown_24": 26408,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Detach",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 29869,
+  "models": {
+    "10": [
+      32660
+    ]
+  },
+  "name": "Chocolate pool",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 8897,
+  "ambient": 5,
+  "actions": [
+    "Dip-Egg",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

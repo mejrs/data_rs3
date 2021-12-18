@@ -1,0 +1,29 @@
+{
+  "id": 11891,
+  "models": {
+    "10": [
+      8232
+    ]
+  },
+  "name": "Sinister barrel",
+  "is_transparent": true,
+  "colours": [
+    [
+      5541,
+      5656
+    ],
+    [
+      5665,
+      5652
+    ],
+    [
+      5660,
+      4626
+    ],
+    [
+      5784,
+      4750
+    ]
+  ],
+  "occludes_2": false
+}

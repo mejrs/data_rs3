@@ -1,0 +1,13 @@
+{
+  "id": 18225,
+  "models": {
+    "10": [
+      18254
+    ]
+  },
+  "name": "Sailfish",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

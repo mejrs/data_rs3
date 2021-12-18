@@ -1,0 +1,16 @@
+{
+  "id": 89713,
+  "models": {
+    "10": [
+      93939
+    ]
+  },
+  "name": "Effigy fragments",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 10,
+  "translate_z": 65522,
+  "occludes_2": false
+}

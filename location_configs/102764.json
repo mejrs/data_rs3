@@ -1,0 +1,22 @@
+{
+  "id": 102764,
+  "models": {
+    "10": [
+      112148
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_24": 9642,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      87,
+      7
+    ]
+  ],
+  "scale_y": 170,
+  "translate_y": 65236,
+  "occludes_2": false
+}

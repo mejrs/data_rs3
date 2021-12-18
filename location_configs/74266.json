@@ -1,0 +1,15 @@
+{
+  "id": 74266,
+  "models": {
+    "22": [
+      46920
+    ]
+  },
+  "ambient": 25,
+  "textures": {
+    "1568": 1948
+  },
+  "mirror": true,
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 12799,
+  "models": {
+    "10": [
+      13961
+    ]
+  },
+  "name": "Bank Booth",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

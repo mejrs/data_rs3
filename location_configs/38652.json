@@ -1,0 +1,22 @@
+{
+  "id": 38652,
+  "models": {
+    "10": [
+      41866
+    ]
+  },
+  "name": "Penguin (level 40 approx.)",
+  "unknown_21": true,
+  "unknown_24": 10328,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Levitate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

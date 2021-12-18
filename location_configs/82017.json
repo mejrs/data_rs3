@@ -1,0 +1,42 @@
+{
+  "id": 82017,
+  "models": {
+    "10": [
+      82738
+    ]
+  },
+  "name": "Tunnel",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

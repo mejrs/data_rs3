@@ -1,0 +1,21 @@
+{
+  "id": 118803,
+  "models": {
+    "10": [
+      87330
+    ]
+  },
+  "name": "Chest",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_x": 25,
+  "translate_y": 40,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      453
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 57119,
+  "models": {
+    "10": [
+      8656
+    ]
+  },
+  "name": "Crate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      5532,
+      6554
+    ],
+    [
+      5417,
+      5400
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

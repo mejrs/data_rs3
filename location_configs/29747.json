@@ -1,0 +1,35 @@
+{
+  "id": 29747,
+  "models": {
+    "0": [
+      32548
+    ],
+    "1": [
+      32547
+    ],
+    "9": [
+      32552
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Prospect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

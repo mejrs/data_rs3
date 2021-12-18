@@ -1,0 +1,35 @@
+{
+  "id": 116940,
+  "models": {
+    "10": [
+      85306,
+      85305
+    ]
+  },
+  "name": "Orcus altar",
+  "dim_x": 3,
+  "unknown_17": false,
+  "ambient": 0,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11923": 12360,
+    "11925": 12364
+  },
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 575,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

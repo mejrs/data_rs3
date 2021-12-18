@@ -1,0 +1,52 @@
+{
+  "id": 89479,
+  "models": {
+    "10": [
+      96198,
+      96116
+    ]
+  },
+  "name": "Obstacle pipe",
+  "ambient": 25,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      7054
+    ],
+    [
+      21534,
+      6930
+    ],
+    [
+      21539,
+      6806
+    ],
+    [
+      21543,
+      6682
+    ],
+    [
+      21547,
+      6558
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

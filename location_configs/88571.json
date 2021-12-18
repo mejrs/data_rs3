@@ -1,0 +1,41 @@
+{
+  "id": 88571,
+  "models": {
+    "0": [
+      49001
+    ],
+    "9": [
+      49002
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 64,
+  "colours": [
+    [
+      5400,
+      6568
+    ],
+    [
+      5396,
+      5526
+    ],
+    [
+      5392,
+      5522
+    ],
+    [
+      5390,
+      5518
+    ],
+    [
+      5388,
+      5514
+    ]
+  ],
+  "model": false,
+  "unknown_73": true,
+  "unknown_93": 8224,
+  "unknown_196": 1
+}

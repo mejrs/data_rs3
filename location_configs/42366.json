@@ -1,0 +1,55 @@
+{
+  "id": 42366,
+  "models": {
+    "10": [
+      31901
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    "Prospect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      10309,
+      7717
+    ],
+    [
+      10299,
+      7710
+    ],
+    [
+      10283,
+      7704
+    ],
+    [
+      10276,
+      7570
+    ],
+    [
+      10275,
+      7567
+    ],
+    [
+      10251,
+      7562
+    ]
+  ],
+  "mapscene": 24,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

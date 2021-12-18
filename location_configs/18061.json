@@ -1,0 +1,31 @@
+{
+  "id": 18061,
+  "models": {
+    "10": [
+      35403
+    ],
+    "22": [
+      17661
+    ]
+  },
+  "name": "Trapdoor tunnel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

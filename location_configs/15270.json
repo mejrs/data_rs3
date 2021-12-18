@@ -1,0 +1,18 @@
+{
+  "id": 15270,
+  "models": {
+    "10": [
+      12646
+    ]
+  },
+  "name": "Altar space",
+  "dim_x": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 34450,
+  "models": {
+    "10": [
+      1293
+    ]
+  },
+  "name": "Mangle",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5788,
+      9492
+    ]
+  ],
+  "occludes_2": false
+}

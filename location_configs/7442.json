@@ -1,0 +1,19 @@
+{
+  "id": 7442,
+  "models": {
+    "10": [
+      7777
+    ]
+  },
+  "name": "Valve",
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

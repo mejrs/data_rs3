@@ -1,0 +1,53 @@
+{
+  "id": 49960,
+  "models": {
+    "10": [
+      1219
+    ]
+  },
+  "name": "Cooking range (with logs)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      16,
+      3127
+    ],
+    [
+      20,
+      3131
+    ],
+    [
+      24,
+      3136
+    ],
+    [
+      10299,
+      5405
+    ],
+    [
+      10295,
+      5396
+    ]
+  ],
+  "textures": {
+    "2377": 2108
+  },
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

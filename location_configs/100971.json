@@ -1,0 +1,14 @@
+{
+  "id": 100971,
+  "models": {
+    "10": [
+      109799
+    ]
+  },
+  "name": "Powered trap",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

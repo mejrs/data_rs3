@@ -1,0 +1,21 @@
+{
+  "id": 55223,
+  "models": {
+    "10": [
+      59834
+    ]
+  },
+  "name": "Blackboard",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "member_actions": [
+    "Recruit",
+    null,
+    null,
+    null,
+    null
+  ]
+}

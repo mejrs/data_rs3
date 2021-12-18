@@ -1,0 +1,18 @@
+{
+  "id": 85338,
+  "models": {
+    "10": [
+      88388
+    ]
+  },
+  "name": "Zamorak",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_24": 20695,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65361,
+  "occludes_2": false,
+  "unknown_196": 3
+}

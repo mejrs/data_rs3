@@ -1,0 +1,19 @@
+{
+  "id": 118817,
+  "models": {
+    "10": [
+      121020,
+      121021
+    ]
+  },
+  "name": "Christmas tree farm",
+  "dim_x": 8,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "mirror": true,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

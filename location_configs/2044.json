@@ -1,0 +1,11 @@
+{
+  "id": 2044,
+  "models": {
+    "10": [
+      14206
+    ]
+  },
+  "name": "Trough",
+  "dim_x": 2,
+  "occludes_2": false
+}

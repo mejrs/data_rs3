@@ -1,0 +1,16 @@
+{
+  "id": 105407,
+  "models": {
+    "10": [
+      115249
+    ]
+  },
+  "name": "Doric's hut",
+  "dim_x": 19,
+  "dim_y": 13,
+  "unknown_17": false,
+  "ambient": 2,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

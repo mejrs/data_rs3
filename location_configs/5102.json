@@ -1,0 +1,16 @@
+{
+  "id": 5102,
+  "models": {
+    "10": [
+      24726,
+      63543
+    ]
+  },
+  "name": "Bed",
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_y": 110,
+  "occludes_2": false
+}

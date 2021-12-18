@@ -1,0 +1,30 @@
+{
+  "id": 16089,
+  "models": {
+    "0": [
+      15612
+    ],
+    "10": [
+      15611
+    ]
+  },
+  "name": "Oozing barrier",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 4284,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

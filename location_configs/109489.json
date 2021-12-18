@@ -1,0 +1,17 @@
+{
+  "id": 109489,
+  "models": {
+    "10": [
+      119681
+    ]
+  },
+  "name": "Clockwork monkey",
+  "unknown_19": 1,
+  "unknown_24": 30926,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_x": 65506,
+  "occludes_2": false,
+  "unknown_196": 4
+}

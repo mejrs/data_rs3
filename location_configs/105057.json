@@ -1,0 +1,15 @@
+{
+  "id": 105057,
+  "models": {
+    "10": [
+      91112
+    ]
+  },
+  "name": "Stacked hay",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 40,
+  "model": false,
+  "occludes_2": false
+}

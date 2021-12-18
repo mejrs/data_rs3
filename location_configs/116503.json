@@ -1,0 +1,27 @@
+{
+  "id": 116503,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Exit",
+  "unknown_19": 1,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      123
+    ]
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "occludes_2": false
+}

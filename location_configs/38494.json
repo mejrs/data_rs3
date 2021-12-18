@@ -1,0 +1,30 @@
+{
+  "id": 38494,
+  "models": {
+    "10": [
+      41797
+    ]
+  },
+  "name": "Windbreak",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

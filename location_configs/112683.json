@@ -1,0 +1,30 @@
+{
+  "id": 112683,
+  "models": {
+    "10": [
+      90746
+    ]
+  },
+  "name": "Mysterious note",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

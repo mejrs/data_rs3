@@ -1,0 +1,18 @@
+{
+  "id": 15438,
+  "models": {
+    "22": [
+      12883
+    ]
+  },
+  "name": "Trapdoor space",
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

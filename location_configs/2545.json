@@ -1,0 +1,18 @@
+{
+  "id": 2545,
+  "models": {
+    "10": [
+      36833
+    ]
+  },
+  "name": "Manhole cover",
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

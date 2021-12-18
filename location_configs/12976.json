@@ -1,0 +1,40 @@
+{
+  "id": 12976,
+  "models": {
+    "10": [
+      11340
+    ]
+  },
+  "name": "Barrier (Mining)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      21456
+    ],
+    [
+      31676,
+      21436
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

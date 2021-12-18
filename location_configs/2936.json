@@ -1,0 +1,32 @@
+{
+  "id": 2936,
+  "models": {
+    "10": [
+      41151
+    ]
+  },
+  "name": "Totem Pole",
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64409,
+      9306
+    ],
+    [
+      6681,
+      6686
+    ],
+    [
+      6685,
+      6690
+    ]
+  ],
+  "unknown_44": 13,
+  "occludes_2": false
+}

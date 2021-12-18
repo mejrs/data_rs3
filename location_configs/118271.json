@@ -1,0 +1,25 @@
+{
+  "id": 118271,
+  "models": {
+    "10": [
+      120785
+    ]
+  },
+  "name": "Wardrobe space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

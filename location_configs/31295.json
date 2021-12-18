@@ -1,0 +1,12 @@
+{
+  "id": 31295,
+  "models": {
+    "10": [
+      20692
+    ]
+  },
+  "name": "Wooden doors",
+  "dim_x": 4,
+  "dim_y": 4,
+  "occludes_2": false
+}

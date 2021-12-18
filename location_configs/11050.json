@@ -1,0 +1,29 @@
+{
+  "id": 11050,
+  "models": {
+    "10": [
+      10888
+    ]
+  },
+  "name": "Secret entrance",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

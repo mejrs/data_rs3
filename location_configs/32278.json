@@ -1,0 +1,13 @@
+{
+  "id": 32278,
+  "models": {
+    "10": [
+      37277
+    ]
+  },
+  "name": "Wooden defence",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

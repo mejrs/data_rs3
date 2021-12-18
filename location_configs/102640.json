@@ -1,0 +1,28 @@
+{
+  "id": 102640,
+  "models": {
+    "10": [
+      2725
+    ]
+  },
+  "name": "Hankerchief",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      127,
+      54722
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_186": 0
+}

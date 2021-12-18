@@ -1,0 +1,31 @@
+{
+  "id": 61883,
+  "models": {
+    "10": [
+      821
+    ]
+  },
+  "name": "Rockslide",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    "Mine",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    58,
+    null,
+    null,
+    null,
+    null
+  ]
+}

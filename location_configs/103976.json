@@ -1,0 +1,18 @@
+{
+  "id": 103976,
+  "models": {
+    "10": [
+      113402
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 0,
+  "textures": {
+    "7391": 7390
+  },
+  "mirror": true,
+  "occludes_2": false
+}

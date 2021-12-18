@@ -1,0 +1,17 @@
+{
+  "id": 10170,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Hopper",
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

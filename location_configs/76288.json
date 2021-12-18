@@ -1,0 +1,14 @@
+{
+  "id": 76288,
+  "models": {
+    "10": [
+      76056
+    ]
+  },
+  "name": "Smithing bellows",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

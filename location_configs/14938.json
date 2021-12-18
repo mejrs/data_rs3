@@ -1,0 +1,26 @@
+{
+  "id": 14938,
+  "models": {
+    "10": [
+      36844
+    ]
+  },
+  "name": "Fishing spot",
+  "unknown_24": 9645,
+  "actions": [
+    "Net",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

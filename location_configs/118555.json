@@ -1,0 +1,45 @@
+{
+  "id": 118555,
+  "models": {
+    "10": [
+      47640
+    ]
+  },
+  "name": "Stairway",
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64692,
+      32948
+    ],
+    [
+      64809,
+      31916
+    ],
+    [
+      64799,
+      31910
+    ]
+  ],
+  "textures": {
+    "11311": 12872,
+    "11312": 12873
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

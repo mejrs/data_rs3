@@ -1,0 +1,24 @@
+{
+  "id": 41351,
+  "models": {
+    "10": [
+      44780
+    ],
+    "22": [
+      44779
+    ]
+  },
+  "name": "Pit",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    "Trap",
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_73": true,
+  "occludes_2": false
+}

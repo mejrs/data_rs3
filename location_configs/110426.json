@@ -1,0 +1,27 @@
+{
+  "id": 110426,
+  "models": {
+    "10": [
+      67972,
+      17095
+    ]
+  },
+  "name": "Tree stump (hidey-hole)",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2720": 9705
+  },
+  "occludes_2": false,
+  "params": {
+    "6896": 44
+  }
+}

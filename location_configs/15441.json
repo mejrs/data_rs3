@@ -1,0 +1,18 @@
+{
+  "id": 15441,
+  "models": {
+    "10": [
+      12671
+    ]
+  },
+  "name": "Clockmaking space",
+  "dim_x": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 41682,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "morphs_1": {
+    "varbit": 13885,
+    "ids": [
+      41683
+    ]
+  },
+  "unknown_160": {
+    "values": [
+      74
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

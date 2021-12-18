@@ -1,0 +1,25 @@
+{
+  "id": 44760,
+  "models": {
+    "10": [
+      48346
+    ]
+  },
+  "name": "Polar habitat",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 15,
+  "scale_x": 100,
+  "scale_y": 90,
+  "scale_z": 100,
+  "occludes_2": false
+}

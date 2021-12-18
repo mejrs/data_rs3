@@ -1,0 +1,17 @@
+{
+  "id": 117007,
+  "models": {
+    "4": [
+      90989
+    ]
+  },
+  "name": "Inactive dial",
+  "unknown_19": 1,
+  "colours": [
+    [
+      64,
+      16
+    ]
+  ],
+  "occludes_2": false
+}

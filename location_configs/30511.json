@@ -1,0 +1,49 @@
+{
+  "id": 30511,
+  "models": {
+    "10": [
+      33563
+    ]
+  },
+  "name": "Barrel",
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      8481
+    ],
+    [
+      5665,
+      7452
+    ],
+    [
+      5660,
+      8472
+    ],
+    [
+      5784,
+      8596
+    ],
+    [
+      5904,
+      8720
+    ]
+  ],
+  "unknown_44": 62,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

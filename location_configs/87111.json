@@ -1,0 +1,15 @@
+{
+  "id": 87111,
+  "models": {
+    "10": [
+      88737
+    ]
+  },
+  "name": "Pew",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "ambient": -25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

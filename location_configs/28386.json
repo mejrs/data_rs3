@@ -1,0 +1,36 @@
+{
+  "id": 28386,
+  "models": {
+    "0": [
+      30986
+    ],
+    "9": [
+      30978
+    ]
+  },
+  "name": "Ladder",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mirror": true,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

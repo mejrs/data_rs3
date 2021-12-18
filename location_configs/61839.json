@@ -1,0 +1,22 @@
+{
+  "id": 61839,
+  "models": {
+    "10": [
+      1412
+    ]
+  },
+  "name": "Seed stall",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ]
+}

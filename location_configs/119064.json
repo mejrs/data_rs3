@@ -1,0 +1,30 @@
+{
+  "id": 119064,
+  "models": {
+    "10": [
+      120619
+    ]
+  },
+  "name": "Stairs down",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

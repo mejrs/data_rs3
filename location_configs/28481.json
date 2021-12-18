@@ -1,0 +1,38 @@
+{
+  "id": 28481,
+  "models": {
+    "10": [
+      30972
+    ]
+  },
+  "name": "Stairs down",
+  "dim_x": 3,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 17696,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 32,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 105751,
+  "models": {
+    "10": [
+      115980
+    ]
+  },
+  "name": "Light shard",
+  "unknown_19": 1,
+  "ambient": 35,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

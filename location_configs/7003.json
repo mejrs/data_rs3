@@ -1,0 +1,19 @@
+{
+  "id": 7003,
+  "models": {
+    "10": [
+      7116
+    ]
+  },
+  "name": "Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      61,
+      10270
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

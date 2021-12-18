@@ -1,0 +1,14 @@
+{
+  "id": 70304,
+  "models": {
+    "10": [
+      58997
+    ]
+  },
+  "name": "Arcane altar",
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

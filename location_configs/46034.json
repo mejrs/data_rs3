@@ -1,0 +1,14 @@
+{
+  "id": 46034,
+  "models": {
+    "10": [
+      37253
+    ]
+  },
+  "name": "Stone",
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 80846,
+  "models": {
+    "10": [
+      81222
+    ]
+  },
+  "name": "lavesplash_on_gaal",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 19034,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      360
+    ]
+  }
+}

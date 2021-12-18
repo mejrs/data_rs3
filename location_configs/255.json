@@ -1,0 +1,17 @@
+{
+  "id": 255,
+  "models": {
+    "10": [
+      1835
+    ]
+  },
+  "name": "Winch",
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

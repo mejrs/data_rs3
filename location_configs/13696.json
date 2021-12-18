@@ -1,0 +1,21 @@
+{
+  "id": 13696,
+  "models": {
+    "10": [
+      12404
+    ]
+  },
+  "name": "Gilded bench",
+  "unknown_19": 1,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 11,
+  "translate_x": 10,
+  "translate_z": 17,
+  "occludes_2": false
+}

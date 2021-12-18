@@ -1,0 +1,24 @@
+{
+  "id": 85361,
+  "models": {
+    "10": [
+      88164
+    ]
+  },
+  "name": "Barricade",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Reclaim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 85,
+  "occludes_2": false,
+  "unknown_196": 3
+}

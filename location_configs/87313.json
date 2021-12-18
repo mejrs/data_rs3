@@ -1,0 +1,22 @@
+{
+  "id": 87313,
+  "models": {
+    "10": [
+      81645,
+      89495
+    ]
+  },
+  "name": "Wisp Colony Map",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

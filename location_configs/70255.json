@@ -1,0 +1,29 @@
+{
+  "id": 70255,
+  "models": {
+    "10": [
+      58879
+    ]
+  },
+  "name": "Yellow crescent door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      1575,
+      14888
+    ]
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false
+}

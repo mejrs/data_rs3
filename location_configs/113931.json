@@ -1,0 +1,25 @@
+{
+  "id": 113931,
+  "models": {
+    "10": [
+      115550
+    ]
+  },
+  "name": "Event noticeboard",
+  "unknown_19": 1,
+  "unknown_24": 29617,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "8027": 11435
+  },
+  "occludes_2": false
+}

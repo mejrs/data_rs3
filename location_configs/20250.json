@@ -1,0 +1,21 @@
+{
+  "id": 20250,
+  "models": {
+    "10": [
+      97757
+    ]
+  },
+  "name": "Petrified mushroom",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Get spikes",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

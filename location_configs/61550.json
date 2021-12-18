@@ -1,0 +1,15 @@
+{
+  "id": 61550,
+  "models": {
+    "10": [
+      46327
+    ]
+  },
+  "name": "Overhanging tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_81": 42,
+  "mapscene": 6,
+  "occludes_2": false
+}

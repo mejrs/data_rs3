@@ -1,0 +1,28 @@
+{
+  "id": 85896,
+  "models": {
+    "10": [
+      88398
+    ]
+  },
+  "name": "Divine Tears Formation",
+  "ambient": 100,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 32,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

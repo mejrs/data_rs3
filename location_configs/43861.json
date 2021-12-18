@@ -1,0 +1,24 @@
+{
+  "id": 43861,
+  "models": {
+    "10": [
+      118231
+    ]
+  },
+  "name": "Crate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "params": {
+    "23": 20
+  }
+}

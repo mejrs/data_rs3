@@ -1,0 +1,27 @@
+{
+  "id": 14393,
+  "models": {
+    "22": [
+      14600
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      30,
+      16
+    ],
+    [
+      35,
+      20
+    ],
+    [
+      43,
+      28
+    ]
+  ],
+  "unknown_44": 11,
+  "occludes_2": false
+}

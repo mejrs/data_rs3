@@ -1,0 +1,18 @@
+{
+  "id": 81116,
+  "models": {
+    "0": [
+      81710
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "actions": [
+    "open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

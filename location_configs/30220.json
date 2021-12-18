@@ -1,0 +1,12 @@
+{
+  "id": 30220,
+  "models": {
+    "10": [
+      33050
+    ]
+  },
+  "name": "Punchbag",
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 39331,
+  "models": {
+    "10": [
+      31654
+    ]
+  },
+  "name": "Trapdoor",
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Climb-down",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "unknown_88": false,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

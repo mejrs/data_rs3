@@ -1,0 +1,31 @@
+{
+  "id": 97849,
+  "models": {
+    "10": [
+      105191
+    ]
+  },
+  "name": "Pillars",
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

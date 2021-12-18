@@ -1,0 +1,15 @@
+{
+  "id": 100784,
+  "models": {
+    "10": [
+      108414,
+      108417
+    ]
+  },
+  "name": "2006 Pyramid Plunder mummy statue",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 16,
+  "occludes_2": false
+}

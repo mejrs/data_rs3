@@ -1,0 +1,14 @@
+{
+  "id": 21010,
+  "models": {
+    "10": [
+      21737
+    ]
+  },
+  "name": "Gigantic penguin",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

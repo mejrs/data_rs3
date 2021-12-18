@@ -1,0 +1,25 @@
+{
+  "id": 29826,
+  "models": {
+    "10": [
+      24017
+    ]
+  },
+  "name": "Rabbit hole",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

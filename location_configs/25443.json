@@ -1,0 +1,12 @@
+{
+  "id": 25443,
+  "models": {
+    "10": [
+      27010
+    ]
+  },
+  "name": "Spiderwebs",
+  "unknown_19": 1,
+  "ambient": 5,
+  "occludes_2": false
+}

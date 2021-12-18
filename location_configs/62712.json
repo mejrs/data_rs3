@@ -1,0 +1,18 @@
+{
+  "id": 62712,
+  "models": {
+    "10": [
+      3146
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 15102,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "mapscene": 64,
+  "occludes_2": false,
+  "unknown_186": 0
+}

@@ -1,0 +1,23 @@
+{
+  "id": 114386,
+  "models": {
+    "10": [
+      81722,
+      7766
+    ]
+  },
+  "name": "Lychee bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

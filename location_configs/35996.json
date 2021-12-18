@@ -1,0 +1,34 @@
+{
+  "id": 35996,
+  "models": {
+    "22": [
+      38185
+    ]
+  },
+  "name": "Stepping stone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10638,
+      44868
+    ],
+    [
+      11146,
+      45753
+    ],
+    [
+      44998,
+      45743
+    ]
+  ],
+  "occludes_2": false
+}

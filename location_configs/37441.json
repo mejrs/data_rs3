@@ -1,0 +1,15 @@
+{
+  "id": 37441,
+  "models": {
+    "22": [
+      40705
+    ]
+  },
+  "name": "Ancient Door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "mirror": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

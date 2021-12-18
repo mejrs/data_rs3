@@ -1,0 +1,22 @@
+{
+  "id": 38650,
+  "models": {
+    "10": [
+      41865
+    ]
+  },
+  "name": "Cat (level 20 approx.)",
+  "unknown_21": true,
+  "unknown_24": 10322,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Levitate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

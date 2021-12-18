@@ -1,0 +1,24 @@
+{
+  "id": 52111,
+  "models": {
+    "0": [
+      3574
+    ]
+  },
+  "name": "Grotto",
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

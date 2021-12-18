@@ -1,0 +1,43 @@
+{
+  "id": 56638,
+  "models": {
+    "10": [
+      62170
+    ]
+  },
+  "name": "Green vine blossom",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      48674,
+      16039
+    ],
+    [
+      48666,
+      16039
+    ],
+    [
+      48654,
+      16034
+    ],
+    [
+      48670,
+      16039
+    ],
+    [
+      48675,
+      17849
+    ]
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

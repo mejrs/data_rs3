@@ -1,0 +1,19 @@
+{
+  "id": 101075,
+  "models": {
+    "10": [
+      110322
+    ]
+  },
+  "name": "Crystals",
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 84297,
+  "models": {
+    "10": [
+      85898,
+      85888,
+      7767
+    ]
+  },
+  "name": "Prickly pear cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 99399,
+  "models": {
+    "10": [
+      106742
+    ]
+  },
+  "name": "Cliff face",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 22,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65472,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 95519,
+  "models": {
+    "10": [
+      102256
+    ]
+  },
+  "name": "Vault Door",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

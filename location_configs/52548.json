@@ -1,0 +1,14 @@
+{
+  "id": 52548,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "morphs_1": {
+    "varp": 3193,
+    "ids": [
+      52549,
+      52550
+    ]
+  },
+  "is_members": true
+}

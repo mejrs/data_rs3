@@ -1,0 +1,14 @@
+{
+  "id": 83132,
+  "models": {
+    "10": [
+      84374
+    ]
+  },
+  "name": "Automaton Tracer",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 19809,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 24557,
+  "models": {
+    "10": [
+      25338
+    ]
+  },
+  "name": "Rocks",
+  "ambient": 20,
+  "textures": {
+    "1516": 1869
+  },
+  "occludes_2": false
+}

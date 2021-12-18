@@ -1,0 +1,22 @@
+{
+  "id": 113925,
+  "models": {
+    "10": [
+      47501
+    ]
+  },
+  "name": "Totem of Navigation",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Interact",
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

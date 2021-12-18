@@ -1,0 +1,21 @@
+{
+  "id": 107677,
+  "models": {
+    "10": [
+      118489
+    ]
+  },
+  "name": "Menaphos bridge gate",
+  "dim_y": 7,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_y": 65316,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

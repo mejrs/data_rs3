@@ -1,0 +1,33 @@
+{
+  "id": 18476,
+  "models": {
+    "10": [
+      11795
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      30,
+      7054
+    ],
+    [
+      35,
+      6930
+    ],
+    [
+      39,
+      6806
+    ],
+    [
+      43,
+      6682
+    ]
+  ],
+  "occludes_2": false
+}

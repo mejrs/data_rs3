@@ -1,0 +1,29 @@
+{
+  "id": 98889,
+  "models": {
+    "10": [
+      106238
+    ]
+  },
+  "name": "Weapon rack debris",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_z": 20,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

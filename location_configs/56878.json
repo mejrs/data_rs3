@@ -1,0 +1,33 @@
+{
+  "id": 56878,
+  "models": {
+    "22": [
+      62291
+    ]
+  },
+  "name": "Corpse",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_79": {
+    "unknown_1": 200,
+    "unknown_2": 500,
+    "unknown_3": 3,
+    "values": [
+      2901,
+      26996,
+      26416,
+      28439,
+      34002,
+      31413
+    ]
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 56662,
+  "models": {
+    "10": [
+      62158
+    ]
+  },
+  "name": "Diseased blue vine blossom",
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

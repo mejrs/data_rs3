@@ -1,0 +1,14 @@
+{
+  "id": 47336,
+  "models": {
+    "10": [
+      50867
+    ]
+  },
+  "name": "Well",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 5,
+  "occludes_2": false
+}

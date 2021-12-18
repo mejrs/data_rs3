@@ -1,0 +1,15 @@
+{
+  "id": 44281,
+  "models": {
+    "10": [
+      48118
+    ]
+  },
+  "name": "Ardal",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 12456,
+  "ambient": 15,
+  "occludes_2": false
+}

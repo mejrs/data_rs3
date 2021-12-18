@@ -1,0 +1,13 @@
+{
+  "id": 63558,
+  "models": {
+    "4": [
+      6295
+    ]
+  },
+  "name": "Lever",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 25,
+  "occludes_2": false
+}

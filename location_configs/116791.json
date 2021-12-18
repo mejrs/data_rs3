@@ -1,0 +1,15 @@
+{
+  "id": 116791,
+  "models": {
+    "10": [
+      91056,
+      90539
+    ]
+  },
+  "name": "Hellhound marker",
+  "dim_x": 3,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 103606,
+  "models": {
+    "10": [
+      81695
+    ]
+  },
+  "name": "Cannonballs",
+  "unknown_19": 1,
+  "ambient": 25,
+  "textures": {
+    "1551": 1943
+  },
+  "translate_x": 64,
+  "occludes_2": false
+}

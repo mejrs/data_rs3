@@ -1,0 +1,26 @@
+{
+  "id": 42586,
+  "models": {
+    "10": [
+      46089,
+      46090,
+      46088
+    ]
+  },
+  "name": "Goblin statue",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 11303,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_75": 0,
+  "occludes_2": false
+}

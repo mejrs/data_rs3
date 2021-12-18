@@ -1,0 +1,32 @@
+{
+  "id": 4705,
+  "models": {
+    "10": [
+      4292,
+      1421
+    ]
+  },
+  "name": "Fish stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      7223
+    ],
+    [
+      103,
+      5214
+    ]
+  ],
+  "unknown_44": 48,
+  "occludes_2": false
+}

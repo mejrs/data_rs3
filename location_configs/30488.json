@@ -1,0 +1,19 @@
+{
+  "id": 30488,
+  "models": {
+    "10": [
+      1537
+    ]
+  },
+  "name": "Stone stand",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "colours": [
+    [
+      61,
+      15376
+    ]
+  ],
+  "occludes_2": false
+}

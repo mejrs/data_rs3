@@ -1,0 +1,32 @@
+{
+  "id": 3924,
+  "models": {
+    "10": [
+      101399
+    ],
+    "22": [
+      3981
+    ]
+  },
+  "name": "Leaves",
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

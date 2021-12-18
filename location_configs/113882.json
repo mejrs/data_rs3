@@ -1,0 +1,29 @@
+{
+  "id": 113882,
+  "models": {
+    "10": [
+      73567
+    ]
+  },
+  "name": "Bait box",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    "Deposit",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 91334,
+  "models": {
+    "10": [
+      96593
+    ]
+  },
+  "name": "Gate",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    174,
+    null,
+    null,
+    null
+  ]
+}

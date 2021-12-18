@@ -1,0 +1,14 @@
+{
+  "id": 49112,
+  "models": {
+    "10": [
+      32856
+    ]
+  },
+  "name": "Bird food",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

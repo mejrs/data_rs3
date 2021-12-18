@@ -1,0 +1,14 @@
+{
+  "id": 35517,
+  "models": {
+    "10": [
+      36109
+    ]
+  },
+  "name": "Steps",
+  "dim_x": 3,
+  "ambient": 25,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false
+}

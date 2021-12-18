@@ -1,0 +1,30 @@
+{
+  "id": 91670,
+  "models": {
+    "10": [
+      96931
+    ]
+  },
+  "name": "Broken ramp",
+  "dim_y": 5,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Jump-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      966
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

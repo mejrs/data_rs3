@@ -1,0 +1,27 @@
+{
+  "id": 92278,
+  "models": {
+    "10": [
+      98276
+    ]
+  },
+  "name": "Throne of Fame",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Admire",
+    "Sit in",
+    "Check requirements",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 11,
+  "translate_y": 54,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false
+}

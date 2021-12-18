@@ -1,0 +1,15 @@
+{
+  "id": 105061,
+  "models": {
+    "10": [
+      114828
+    ]
+  },
+  "name": "Gnome home",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_27": false,
+  "ambient": 42,
+  "model": false,
+  "occludes_2": false
+}

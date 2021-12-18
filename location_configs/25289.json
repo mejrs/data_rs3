@@ -1,0 +1,13 @@
+{
+  "id": 25289,
+  "models": {
+    "10": [
+      26694
+    ]
+  },
+  "name": "Carved log",
+  "dim_x": 3,
+  "dim_y": 2,
+  "model": false,
+  "occludes_2": false
+}

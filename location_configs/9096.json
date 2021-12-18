@@ -1,0 +1,27 @@
+{
+  "id": 9096,
+  "models": {
+    "10": [
+      9072
+    ]
+  },
+  "name": "Bar dispenser",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

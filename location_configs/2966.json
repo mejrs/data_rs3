@@ -1,0 +1,39 @@
+{
+  "id": 2966,
+  "models": {
+    "10": [
+      748
+    ]
+  },
+  "name": "Furnace",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Look",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7952,
+      3980
+    ]
+  ],
+  "unknown_69": 13,
+  "unknown_78": {
+    "unknown_1": 3474,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

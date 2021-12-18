@@ -1,0 +1,19 @@
+{
+  "id": 53218,
+  "models": {
+    "10": [
+      56698
+    ]
+  },
+  "name": "Farming patch",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

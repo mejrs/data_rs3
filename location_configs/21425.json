@@ -1,0 +1,13 @@
+{
+  "id": 21425,
+  "models": {
+    "10": [
+      64219
+    ]
+  },
+  "name": "Bush",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 0,
+  "occludes_2": false
+}

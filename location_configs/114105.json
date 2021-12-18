@@ -1,0 +1,29 @@
+{
+  "id": 114105,
+  "models": {
+    "10": [
+      103302
+    ]
+  },
+  "name": "Dungeoneering hole",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Talk to",
+    "Dungeoneer",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

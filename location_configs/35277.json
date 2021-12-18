@@ -1,0 +1,29 @@
+{
+  "id": 35277,
+  "models": {
+    "10": [
+      54751
+    ]
+  },
+  "name": "Crate of bars",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Smith-battleaxes",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      3014
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

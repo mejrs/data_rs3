@@ -1,0 +1,28 @@
+{
+  "id": 116958,
+  "models": {
+    "10": [
+      102595,
+      96640,
+      102664,
+      102648
+    ]
+  },
+  "name": "Pylon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 33158,
+  "actions": [
+    "Charge",
+    "Check charge",
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 48161,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 150
+}

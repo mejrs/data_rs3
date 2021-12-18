@@ -1,0 +1,30 @@
+{
+  "id": 34386,
+  "models": {
+    "10": [
+      1421,
+      1484
+    ]
+  },
+  "name": "Spice stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Steal-from",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      7448
+    ],
+    [
+      6684,
+      7456
+    ]
+  ],
+  "occludes_2": false
+}

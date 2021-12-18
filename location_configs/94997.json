@@ -1,0 +1,21 @@
+{
+  "id": 94997,
+  "models": {
+    "10": [
+      101133
+    ]
+  },
+  "name": "Christmas cracker (80-100%)",
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Add paper",
+    "Check rewards",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

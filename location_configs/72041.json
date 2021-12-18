@@ -1,0 +1,12 @@
+{
+  "id": 72041,
+  "models": {
+    "4": [
+      70429
+    ]
+  },
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 11745,
+  "models": {
+    "10": [
+      109
+    ]
+  },
+  "name": "Crates",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

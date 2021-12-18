@@ -1,0 +1,62 @@
+{
+  "id": 96775,
+  "models": {
+    "10": [
+      80386
+    ]
+  },
+  "name": "Bank chest",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Use",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4757,
+      4257
+    ],
+    [
+      4755,
+      4255
+    ],
+    [
+      4753,
+      4253
+    ],
+    [
+      4739,
+      4239
+    ],
+    [
+      4745,
+      4245
+    ],
+    [
+      4507,
+      4135
+    ],
+    [
+      4511,
+      4139
+    ]
+  ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 115,
+  "unknown_69": 11,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    46,
+    5,
+    null,
+    null,
+    null
+  ]
+}

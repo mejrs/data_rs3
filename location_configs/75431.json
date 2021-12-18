@@ -1,0 +1,41 @@
+{
+  "id": 75431,
+  "models": {
+    "10": [
+      56208
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7455,
+      34943
+    ],
+    [
+      7457,
+      34941
+    ],
+    [
+      7459,
+      34939
+    ],
+    [
+      7463,
+      34937
+    ]
+  ],
+  "textures": {
+    "2980": 1889
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

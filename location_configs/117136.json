@@ -1,0 +1,28 @@
+{
+  "id": 117136,
+  "models": {
+    "10": [
+      92185
+    ]
+  },
+  "name": "Inactive portal platform",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33992,
+      7238
+    ]
+  ],
+  "textures": {
+    "12245": 12246
+  },
+  "occludes_2": false
+}

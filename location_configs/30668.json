@@ -1,0 +1,14 @@
+{
+  "id": 30668,
+  "models": {
+    "10": [
+      33772
+    ]
+  },
+  "name": "Gravestone",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "occludes_2": false
+}

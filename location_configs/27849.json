@@ -1,0 +1,13 @@
+{
+  "id": 27849,
+  "models": {
+    "10": [
+      29716
+    ]
+  },
+  "name": "Chair",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 35,
+  "occludes_2": false
+}

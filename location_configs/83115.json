@@ -1,0 +1,23 @@
+{
+  "id": 83115,
+  "models": {
+    "10": [
+      72176
+    ]
+  },
+  "name": "Spiritual ranger",
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        23943,
+        100
+      ],
+      [
+        425,
+        100
+      ]
+    ]
+  }
+}

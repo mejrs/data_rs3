@@ -1,0 +1,16 @@
+{
+  "id": 110355,
+  "models": {
+    "10": [
+      16317
+    ]
+  },
+  "name": "Books",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_x": 65496,
+  "occludes_2": false,
+  "unknown_196": 4
+}

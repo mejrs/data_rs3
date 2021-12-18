@@ -1,0 +1,17 @@
+{
+  "id": 111705,
+  "models": {
+    "10": [
+      46681
+    ]
+  },
+  "dim_x": 5,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "mirror": true,
+  "translate_x": 110,
+  "translate_z": 60,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_188": true
+}

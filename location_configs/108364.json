@@ -1,0 +1,18 @@
+{
+  "id": 108364,
+  "models": {
+    "10": [
+      119471
+    ]
+  },
+  "name": "Archway",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 32,
+  "model": false,
+  "scale_x": 135,
+  "scale_y": 155,
+  "translate_z": 65496,
+  "occludes_2": false
+}

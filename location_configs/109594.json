@@ -1,0 +1,15 @@
+{
+  "id": 109594,
+  "models": {
+    "10": [
+      112494
+    ]
+  },
+  "name": "Globe",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "translate_x": 65506,
+  "translate_z": 30,
+  "occludes_2": false
+}

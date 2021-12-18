@@ -1,0 +1,32 @@
+{
+  "id": 75904,
+  "models": {
+    "10": [
+      76671
+    ]
+  },
+  "name": "Planks",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 10,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

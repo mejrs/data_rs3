@@ -1,0 +1,15 @@
+{
+  "id": 106019,
+  "models": {
+    "10": [
+      116177
+    ]
+  },
+  "name": "Christmas cupboard",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false
+}

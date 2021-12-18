@@ -1,0 +1,19 @@
+{
+  "id": 102880,
+  "models": {
+    "10": [
+      112301
+    ]
+  },
+  "name": "Dock",
+  "dim_x": 5,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 280,
+  "unknown_94": true,
+  "occludes_2": false
+}

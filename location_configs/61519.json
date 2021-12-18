@@ -1,0 +1,21 @@
+{
+  "id": 61519,
+  "models": {
+    "10": [
+      57435
+    ]
+  },
+  "name": "Ice wall",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "textures": {
+    "1892": 1890
+  },
+  "occludes_2": false,
+  "unknown_196": 3
+}

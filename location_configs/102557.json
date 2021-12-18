@@ -1,0 +1,26 @@
+{
+  "id": 102557,
+  "models": {
+    "0": [
+      993
+    ],
+    "1": [
+      995
+    ],
+    "2": [
+      996
+    ],
+    "3": [
+      998
+    ],
+    "9": [
+      999
+    ]
+  },
+  "name": "Jetty",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_196": 1
+}

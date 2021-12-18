@@ -1,0 +1,28 @@
+{
+  "id": 14049,
+  "models": {
+    "10": [
+      12455,
+      14367
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      6439
+    ],
+    [
+      6682,
+      6424
+    ]
+  ],
+  "scale_x": 64,
+  "scale_z": 64,
+  "unknown_75": 0,
+  "occludes_2": false
+}

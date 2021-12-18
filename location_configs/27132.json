@@ -1,0 +1,15 @@
+{
+  "id": 27132,
+  "models": {
+    "10": [
+      29041
+    ]
+  },
+  "name": "Vine",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 20,
+  "occludes_2": false
+}

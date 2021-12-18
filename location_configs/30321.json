@@ -1,0 +1,14 @@
+{
+  "id": 30321,
+  "models": {
+    "10": [
+      33644
+    ]
+  },
+  "name": "Broken rusting cage",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

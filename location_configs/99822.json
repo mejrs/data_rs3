@@ -1,0 +1,34 @@
+{
+  "id": 99822,
+  "models": {
+    "10": [
+      91741
+    ]
+  },
+  "name": "Tree",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 22138,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 30,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

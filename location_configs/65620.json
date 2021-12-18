@@ -1,0 +1,26 @@
+{
+  "id": 65620,
+  "models": {
+    "10": [
+      20378
+    ]
+  },
+  "name": "Obelisk",
+  "unknown_24": 2225,
+  "unknown_78": {
+    "unknown_1": 9645,
+    "unknown_2": 2
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "member_actions": [
+    "Activate",
+    "Choose destination",
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 246,
+  "unknown_2": 266,
+  "unknown_196": 4
+}

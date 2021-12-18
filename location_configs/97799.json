@@ -1,0 +1,24 @@
+{
+  "id": 97799,
+  "models": {
+    "10": [
+      59588
+    ]
+  },
+  "name": "Mysterious pool",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14444,
+  "ambient": 20,
+  "actions": [
+    "Summon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": 42030,
+  "models": {
+    "0": [
+      38325
+    ]
+  },
+  "name": "Red barrier",
+  "unknown_19": 1,
+  "unknown_24": 9651,
+  "ambient": 100,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      127,
+      979
+    ],
+    [
+      61,
+      960
+    ]
+  ],
+  "translate_x": 20,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

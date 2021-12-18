@@ -1,0 +1,30 @@
+{
+  "id": 74710,
+  "models": {
+    "10": [
+      53459
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 70,
+  "contrast": 100,
+  "colours": [
+    [
+      8479,
+      8504
+    ]
+  ],
+  "textures": {
+    "1611": 1624
+  },
+  "model": false,
+  "scale_x": 120,
+  "scale_y": 200,
+  "scale_z": 120,
+  "unknown_88": false,
+  "occludes_2": false
+}

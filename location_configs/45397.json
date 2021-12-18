@@ -1,0 +1,18 @@
+{
+  "id": 45397,
+  "models": {
+    "10": [
+      48866
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

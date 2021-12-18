@@ -1,0 +1,30 @@
+{
+  "id": 50054,
+  "models": {
+    "10": [
+      56700
+    ]
+  },
+  "name": "Farming patch (valerian fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      20632,
+      20804
+    ],
+    [
+      20625,
+      20648
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 611,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    null
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 104443,
+  "models": {
+    "10": [
+      114168
+    ]
+  },
+  "name": "Submerged Golden Gnome",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 184,
+  "scale_y": 184,
+  "scale_z": 184,
+  "occludes_2": false
+}

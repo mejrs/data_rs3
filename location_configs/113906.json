@@ -1,0 +1,16 @@
+{
+  "id": 113906,
+  "models": {
+    "10": [
+      58323
+    ]
+  },
+  "name": "Bones",
+  "dim_x": 8,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

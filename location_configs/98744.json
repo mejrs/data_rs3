@@ -1,0 +1,16 @@
+{
+  "id": 98744,
+  "models": {
+    "10": [
+      106397
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false,
+  "unknown_186": 0
+}

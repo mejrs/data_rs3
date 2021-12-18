@@ -1,0 +1,41 @@
+{
+  "id": 27246,
+  "models": {
+    "10": [
+      25064
+    ]
+  },
+  "name": "Cabinets",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      5272
+    ],
+    [
+      5660,
+      5392
+    ],
+    [
+      5908,
+      5640
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

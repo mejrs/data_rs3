@@ -1,0 +1,23 @@
+{
+  "id": 37843,
+  "models": {
+    "10": [
+      41051
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

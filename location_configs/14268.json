@@ -1,0 +1,16 @@
+{
+  "id": 14268,
+  "models": {
+    "10": [
+      14494
+    ]
+  },
+  "name": "Lander boat",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 20,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

@@ -1,0 +1,27 @@
+{
+  "id": 9765,
+  "models": {
+    "10": [
+      99099,
+      99100
+    ]
+  },
+  "name": "Guard",
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

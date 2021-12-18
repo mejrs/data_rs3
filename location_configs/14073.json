@@ -1,0 +1,55 @@
+{
+  "id": 14073,
+  "models": {
+    "22": [
+      16232
+    ]
+  },
+  "name": "Fairy ring",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "colours": [
+    [
+      24524,
+      9891
+    ],
+    [
+      24388,
+      10010
+    ],
+    [
+      37817,
+      1331
+    ],
+    [
+      38835,
+      1323
+    ],
+    [
+      957,
+      6057
+    ],
+    [
+      941,
+      6053
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    "Use",
+    null,
+    "Select destination",
+    null,
+    null
+  ],
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

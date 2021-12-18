@@ -1,0 +1,15 @@
+{
+  "id": 92309,
+  "models": {
+    "0": [
+      98241
+    ]
+  },
+  "name": "Crafting banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 467
+  },
+  "mapscene": 22
+}

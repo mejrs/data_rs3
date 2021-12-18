@@ -1,0 +1,25 @@
+{
+  "id": 69850,
+  "models": {
+    "10": [
+      37392,
+      37419
+    ]
+  },
+  "name": "Burthorpe lodestone",
+  "unknown_19": 1,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "322": 10023,
+    "326": 2764
+  },
+  "unknown_81": 32,
+  "occludes_2": false,
+  "unknown_196": 4
+}

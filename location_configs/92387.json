@@ -1,0 +1,17 @@
+{
+  "id": 92387,
+  "models": {
+    "22": [
+      98213
+    ]
+  },
+  "name": "Ithell voicestone",
+  "unknown_19": 1,
+  "unknown_24": 24597,
+  "ambient": 64,
+  "translate_x": 65357,
+  "translate_y": 324,
+  "translate_z": 220,
+  "unknown_73": true,
+  "occludes_2": false
+}

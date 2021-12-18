@@ -1,0 +1,27 @@
+{
+  "id": 29296,
+  "models": {
+    "10": [
+      64020
+    ]
+  },
+  "name": "Gunpowder barrel",
+  "ambient": 10,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

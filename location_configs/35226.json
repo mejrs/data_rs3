@@ -1,0 +1,28 @@
+{
+  "id": 35226,
+  "models": {
+    "10": [
+      18308
+    ]
+  },
+  "name": "Bookshelf",
+  "ambient": 0,
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

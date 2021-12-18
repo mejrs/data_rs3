@@ -1,0 +1,26 @@
+{
+  "id": 92008,
+  "models": {
+    "10": [
+      97133
+    ]
+  },
+  "name": "Mushrooms",
+  "is_transparent": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

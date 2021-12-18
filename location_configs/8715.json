@@ -1,0 +1,14 @@
+{
+  "id": 8715,
+  "models": {
+    "10": [
+      8247
+    ]
+  },
+  "name": "Hay bale",
+  "ambient": 30,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

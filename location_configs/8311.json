@@ -1,0 +1,18 @@
+{
+  "id": 8311,
+  "models": {
+    "10": [
+      7794
+    ]
+  },
+  "name": "Mushroom patch",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

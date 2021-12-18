@@ -1,0 +1,35 @@
+{
+  "id": 56572,
+  "models": {
+    "10": [
+      62155
+    ]
+  },
+  "name": "Lergberry bush",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      4781
+    ],
+    [
+      8722,
+      10520
+    ],
+    [
+      12473,
+      49835
+    ]
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 98885,
+  "models": {
+    "10": [
+      106350
+    ]
+  },
+  "name": "Weapon rack",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 40,
+  "translate_z": 65506,
+  "occludes_2": false,
+  "params": {
+    "5321": 9533
+  }
+}

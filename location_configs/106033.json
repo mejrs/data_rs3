@@ -1,0 +1,15 @@
+{
+  "id": 106033,
+  "models": {
+    "10": [
+      108075
+    ]
+  },
+  "name": "Melted snowman ranger",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "model": false,
+  "occludes_2": false
+}

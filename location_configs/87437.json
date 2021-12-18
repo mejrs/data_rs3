@@ -1,0 +1,15 @@
+{
+  "id": 87437,
+  "models": {
+    "10": [
+      90538
+    ]
+  },
+  "name": "Troll",
+  "dim_x": 4,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 25,
+  "occludes_2": false
+}

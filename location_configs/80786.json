@@ -1,0 +1,23 @@
+{
+  "id": 80786,
+  "models": {
+    "10": [
+      81268
+    ]
+  },
+  "dim_x": 6,
+  "dim_y": 11,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 19083,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 7430,
+    "unknown_2": 20
+  },
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 66183,
+  "models": {
+    "10": [
+      30182,
+      30113
+    ]
+  },
+  "name": "Flame Switch",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 7,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 114526,
+  "models": {
+    "10": [
+      82760,
+      7768
+    ]
+  },
+  "name": "Dead guarana tree",
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "unknown_88": false,
+  "occludes_2": false
+}

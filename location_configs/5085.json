@@ -1,0 +1,27 @@
+{
+  "id": 5085,
+  "models": {
+    "10": [
+      34356
+    ]
+  },
+  "name": "Death list",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "unknown_81": 48,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

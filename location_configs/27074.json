@@ -1,0 +1,14 @@
+{
+  "id": 27074,
+  "models": {
+    "10": [
+      29003
+    ]
+  },
+  "name": "Beautiful flowerbed",
+  "dim_x": 3,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

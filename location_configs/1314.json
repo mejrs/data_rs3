@@ -1,0 +1,25 @@
+{
+  "id": 1314,
+  "models": {
+    "10": [
+      1593
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 3,
+  "dim_y": 2,
+  "colours": [
+    [
+      6028,
+      6579
+    ],
+    [
+      22455,
+      15919
+    ]
+  ],
+  "unknown_81": 30,
+  "mapscene": 5,
+  "occludes_2": false,
+  "unknown_196": 2
+}

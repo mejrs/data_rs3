@@ -1,0 +1,31 @@
+{
+  "id": 95858,
+  "models": {
+    "10": [
+      103058
+    ]
+  },
+  "name": "Zemouregal",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Listen to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    198,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

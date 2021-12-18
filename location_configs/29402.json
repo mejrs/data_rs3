@@ -1,0 +1,14 @@
+{
+  "id": 29402,
+  "models": {
+    "10": [
+      34201,
+      34200
+    ]
+  },
+  "name": "Safe (looted)",
+  "unknown_27": false,
+  "ambient": 25,
+  "unknown_69": 11,
+  "occludes_2": false
+}

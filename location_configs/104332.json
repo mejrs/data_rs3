@@ -1,0 +1,23 @@
+{
+  "id": 104332,
+  "models": {
+    "10": [
+      113883
+    ]
+  },
+  "name": "Hook-a-Duck",
+  "unknown_19": 1,
+  "unknown_24": 29207,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Play",
+    "Use a Light weight rod",
+    "Use a Fast action rod",
+    "Use a Magnetic rod",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

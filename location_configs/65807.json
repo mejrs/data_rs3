@@ -1,0 +1,15 @@
+{
+  "id": 65807,
+  "models": {
+    "4": [
+      26549
+    ]
+  },
+  "name": "Kitchen Sign",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 42,
+  "translate_z": 35,
+  "occludes_2": false
+}

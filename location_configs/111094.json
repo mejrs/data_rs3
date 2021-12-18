@@ -1,0 +1,17 @@
+{
+  "id": 111094,
+  "models": {
+    "10": [
+      9504
+    ]
+  },
+  "name": "Ladder",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "scale_x": 128,
+  "scale_y": 151,
+  "scale_z": 128,
+  "unknown_69": 14,
+  "mapscene": 7,
+  "occludes_2": false
+}

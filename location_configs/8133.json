@@ -1,0 +1,19 @@
+{
+  "id": 8133,
+  "models": {
+    "10": [
+      7798,
+      7766
+    ]
+  },
+  "name": "Herb patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 93882,
+  "models": {
+    "10": [
+      99540,
+      99542
+    ]
+  },
+  "name": "Hydra tooth",
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false
+}

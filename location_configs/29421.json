@@ -1,0 +1,20 @@
+{
+  "id": 29421,
+  "models": {
+    "10": [
+      64648
+    ]
+  },
+  "name": "Incomplete barrelchest",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Finish-building",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

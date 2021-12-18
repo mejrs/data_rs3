@@ -1,0 +1,28 @@
+{
+  "id": 87117,
+  "models": {
+    "10": [
+      88734
+    ]
+  },
+  "name": "Tome of Chaos",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

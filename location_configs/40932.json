@@ -1,0 +1,31 @@
+{
+  "id": 40932,
+  "models": {
+    "10": [
+      43997
+    ]
+  },
+  "name": "Spiral staircase",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Climb-up",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

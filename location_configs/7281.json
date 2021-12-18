@@ -1,0 +1,30 @@
+{
+  "id": 7281,
+  "models": {
+    "10": [
+      7728
+    ]
+  },
+  "name": "Chicken",
+  "ambient": 20,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 25,
+  "scale_y": 25,
+  "scale_z": 25,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

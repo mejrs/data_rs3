@@ -1,0 +1,12 @@
+{
+  "id": 29090,
+  "models": {
+    "10": [
+      68896
+    ]
+  },
+  "name": "Achey tree",
+  "dim_x": 9,
+  "dim_y": 3,
+  "occludes_2": false
+}

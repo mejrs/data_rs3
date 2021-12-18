@@ -1,0 +1,12 @@
+{
+  "id": 94017,
+  "models": {
+    "22": [
+      99488
+    ]
+  },
+  "name": "Armour",
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false
+}

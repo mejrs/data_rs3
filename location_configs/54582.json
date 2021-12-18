@@ -1,0 +1,23 @@
+{
+  "id": 54582,
+  "models": {
+    "10": [
+      59786
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

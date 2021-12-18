@@ -1,0 +1,17 @@
+{
+  "id": 52808,
+  "models": {
+    "10": [
+      15349
+    ]
+  },
+  "name": "Gold Castle Wars armour",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

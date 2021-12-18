@@ -1,0 +1,25 @@
+{
+  "id": 41610,
+  "models": {
+    "0": [
+      12210
+    ]
+  },
+  "name": "Pit door",
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

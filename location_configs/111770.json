@@ -1,0 +1,19 @@
+{
+  "id": 111770,
+  "models": {
+    "10": [
+      60790
+    ]
+  },
+  "name": "Dragon Eggs (shock)",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

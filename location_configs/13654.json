@@ -1,0 +1,23 @@
+{
+  "id": 13654,
+  "models": {
+    "10": [
+      12971
+    ]
+  },
+  "name": "Small orrery",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 3578,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
+  "occludes_2": false
+}

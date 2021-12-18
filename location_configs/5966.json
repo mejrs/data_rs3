@@ -1,0 +1,16 @@
+{
+  "id": 5966,
+  "models": {
+    "10": [
+      5850
+    ]
+  },
+  "name": "Passage",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "mapscene": 22,
+  "occludes_2": false,
+  "unknown_196": 3
+}

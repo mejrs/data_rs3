@@ -1,0 +1,22 @@
+{
+  "id": 105184,
+  "models": {
+    "10": [
+      113439
+    ]
+  },
+  "name": "Contract board",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Toggle",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 98505,
+  "models": {
+    "10": [
+      105553
+    ]
+  },
+  "name": "Statue of Queen Glarial",
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 5,
+  "occludes_2": false
+}

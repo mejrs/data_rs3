@@ -1,0 +1,17 @@
+{
+  "id": 56890,
+  "models": {
+    "10": [
+      45233
+    ]
+  },
+  "name": "Barrel",
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

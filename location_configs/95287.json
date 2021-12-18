@@ -1,0 +1,13 @@
+{
+  "id": 95287,
+  "models": {
+    "10": [
+      102248
+    ]
+  },
+  "name": "Portcullis",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "ambient": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 65836,
+  "models": {
+    "10": [
+      26706,
+      26682
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

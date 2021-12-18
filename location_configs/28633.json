@@ -1,0 +1,27 @@
+{
+  "id": 28633,
+  "models": {
+    "10": [
+      31302
+    ]
+  },
+  "name": "Drawers",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Search",
+    "Close",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

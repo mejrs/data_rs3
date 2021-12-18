@@ -1,0 +1,18 @@
+{
+  "id": 18810,
+  "models": {
+    "10": [
+      19003,
+      18998
+    ]
+  },
+  "name": "Cape rack space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

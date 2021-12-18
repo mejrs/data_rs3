@@ -1,0 +1,24 @@
+{
+  "id": 18695,
+  "models": {
+    "10": [
+      18775
+    ]
+  },
+  "name": "Extractor gun",
+  "unknown_24": 4897,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      50087,
+      4046
+    ]
+  ],
+  "occludes_2": false
+}

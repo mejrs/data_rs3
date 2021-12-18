@@ -1,0 +1,32 @@
+{
+  "id": 18797,
+  "models": {
+    "10": [
+      19027
+    ]
+  },
+  "name": "Magic wardrobe",
+  "dim_y": 3,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2310": 2415,
+    "2376": 2413
+  },
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

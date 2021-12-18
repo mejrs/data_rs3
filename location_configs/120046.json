@@ -1,0 +1,33 @@
+{
+  "id": 120046,
+  "models": {
+    "10": [
+      122253,
+      122265
+    ]
+  },
+  "name": "Colosseum gateway",
+  "dim_x": 7,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    "Join instance",
+    "Rejoin last instance",
+    "Enter (Non combat)",
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 4939,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

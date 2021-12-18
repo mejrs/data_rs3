@@ -1,0 +1,19 @@
+{
+  "id": 70070,
+  "models": {
+    "10": [
+      68872
+    ]
+  },
+  "name": "Tree stump",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_189": true
+}

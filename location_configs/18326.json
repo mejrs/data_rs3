@@ -1,0 +1,15 @@
+{
+  "id": 18326,
+  "models": {
+    "10": [
+      18447,
+      28587
+    ]
+  },
+  "name": "Crane",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_24": 4798,
+  "unknown_89": false,
+  "occludes_2": false
+}

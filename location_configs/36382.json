@@ -1,0 +1,13 @@
+{
+  "id": 36382,
+  "models": {
+    "10": [
+      57844
+    ]
+  },
+  "name": "Figurehead",
+  "dim_x": 2,
+  "unknown_22": true,
+  "mapscene": 22,
+  "occludes_2": false
+}

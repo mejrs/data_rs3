@@ -1,0 +1,19 @@
+{
+  "id": 118227,
+  "models": {
+    "10": [
+      73972,
+      120749
+    ]
+  },
+  "name": "Crate of Potatoes",
+  "unknown_19": 1,
+  "actions": [
+    "Prepare",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

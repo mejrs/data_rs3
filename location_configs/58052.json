@@ -1,0 +1,34 @@
+{
+  "id": 58052,
+  "models": {
+    "10": [
+      64147
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      20625,
+      5260
+    ],
+    [
+      20622,
+      139
+    ],
+    [
+      16526,
+      10382
+    ]
+  ],
+  "textures": {
+    "1848": 1888
+  },
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

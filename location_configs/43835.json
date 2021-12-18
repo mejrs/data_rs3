@@ -1,0 +1,41 @@
+{
+  "id": 43835,
+  "models": {
+    "10": [
+      70957
+    ]
+  },
+  "name": "Leaning tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2216": 2221,
+    "2217": 2221,
+    "2218": 2221,
+    "2219": 2221,
+    "2222": 2221
+  },
+  "model": false,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "mapscene": 3,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

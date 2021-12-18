@@ -1,0 +1,19 @@
+{
+  "id": 2792,
+  "models": {
+    "10": [
+      17324
+    ]
+  },
+  "name": "Counter",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Steal-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

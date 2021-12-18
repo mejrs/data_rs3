@@ -1,0 +1,29 @@
+{
+  "id": 120904,
+  "models": {
+    "10": [
+      48710
+    ]
+  },
+  "name": "Scarecrow",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

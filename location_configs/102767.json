@@ -1,0 +1,27 @@
+{
+  "id": 102767,
+  "models": {
+    "10": [
+      112148
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_24": 9642,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      87,
+      7
+    ],
+    [
+      94,
+      7
+    ]
+  ],
+  "scale_y": 170,
+  "translate_x": 65506,
+  "translate_y": 65236,
+  "occludes_2": false
+}

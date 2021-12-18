@@ -1,0 +1,55 @@
+{
+  "id": 97790,
+  "models": {
+    "10": [
+      20636
+    ]
+  },
+  "name": "Obstacle net",
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "colours": [
+    [
+      9525,
+      5547
+    ],
+    [
+      9104,
+      5532
+    ],
+    [
+      10126,
+      5656
+    ],
+    [
+      9100,
+      5652
+    ],
+    [
+      9098,
+      5904
+    ],
+    [
+      9098,
+      5904
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 256,
+  "scale_z": 128,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 0,
+    "unknown_2": 0,
+    "unknown_3": 127,
+    "unknown_4": 127
+  }
+}

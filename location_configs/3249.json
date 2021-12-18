@@ -1,0 +1,18 @@
+{
+  "id": 3249,
+  "models": {
+    "10": [
+      700
+    ]
+  },
+  "name": "Bridge",
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      6689,
+      7952
+    ]
+  ],
+  "occludes_2": false
+}

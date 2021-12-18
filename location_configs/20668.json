@@ -1,0 +1,16 @@
+{
+  "id": 20668,
+  "models": {
+    "0": [
+      9480
+    ]
+  },
+  "name": "Prison door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "is_members": true
+}

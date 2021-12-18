@@ -1,0 +1,17 @@
+{
+  "id": 120958,
+  "models": {
+    "10": [
+      122253,
+      122265
+    ]
+  },
+  "name": "Gateway",
+  "dim_x": 7,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

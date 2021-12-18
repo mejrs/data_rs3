@@ -1,0 +1,13 @@
+{
+  "id": 7400,
+  "models": {
+    "10": [
+      8025
+    ]
+  },
+  "name": "Tree Stump",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 3,
+  "occludes_2": false
+}

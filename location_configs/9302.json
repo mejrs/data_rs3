@@ -1,0 +1,36 @@
+{
+  "id": 9302,
+  "models": {
+    "0": [
+      11692
+    ],
+    "22": [
+      49679
+    ]
+  },
+  "name": "Underwall tunnel",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "ambient": 25,
+  "actions": [
+    "Climb-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 13,
+  "unknown_73": true,
+  "is_members": true,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

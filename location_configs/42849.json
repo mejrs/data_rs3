@@ -1,0 +1,43 @@
+{
+  "id": 42849,
+  "models": {
+    "22": [
+      46202
+    ]
+  },
+  "name": "Flat rock",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      34896,
+      7315
+    ],
+    [
+      34916,
+      7320
+    ],
+    [
+      34908,
+      7324
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

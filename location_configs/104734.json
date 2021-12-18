@@ -1,0 +1,35 @@
+{
+  "id": 104734,
+  "models": {
+    "10": [
+      114919
+    ]
+  },
+  "name": "Ritual circle",
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Sacrifice at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 65528,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 629,
+  "cursors": [
+    66,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5854": "ritual circles"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2014,
+  "models": {
+    "10": [
+      1814
+    ]
+  },
+  "name": "Chalice of Eternity",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Take treasure",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

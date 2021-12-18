@@ -1,0 +1,24 @@
+{
+  "id": 5126,
+  "models": {
+    "10": [
+      83789
+    ]
+  },
+  "name": "Table",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

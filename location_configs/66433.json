@@ -1,0 +1,25 @@
+{
+  "id": 66433,
+  "models": {
+    "10": [
+      31978
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      21776,
+      35967
+    ]
+  ],
+  "model": false,
+  "scale_x": 100,
+  "scale_z": 100,
+  "unknown_88": false,
+  "occludes_2": false
+}

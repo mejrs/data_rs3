@@ -1,0 +1,28 @@
+{
+  "id": 13840,
+  "models": {
+    "10": [
+      14146
+    ]
+  },
+  "name": "Spiny bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5772,
+      14742
+    ]
+  ],
+  "occludes_2": false
+}

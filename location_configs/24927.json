@@ -1,0 +1,13 @@
+{
+  "id": 24927,
+  "models": {
+    "10": [
+      81622
+    ]
+  },
+  "name": "Table",
+  "is_transparent": true,
+  "ambient": -10,
+  "contrast": 0,
+  "occludes_2": false
+}

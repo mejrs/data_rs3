@@ -1,0 +1,45 @@
+{
+  "id": 75472,
+  "models": {
+    "10": [
+      2543
+    ]
+  },
+  "name": "Nex's Followers",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5018,
+      56724
+    ],
+    [
+      61,
+      11177
+    ],
+    [
+      10351,
+      61
+    ]
+  ],
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

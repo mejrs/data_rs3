@@ -1,0 +1,28 @@
+{
+  "id": 99788,
+  "models": {
+    "10": [
+      107115
+    ]
+  },
+  "name": "Suit of armour",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

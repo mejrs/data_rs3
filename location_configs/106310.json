@@ -1,0 +1,35 @@
+{
+  "id": 106310,
+  "models": {
+    "10": [
+      116511,
+      116513
+    ]
+  },
+  "name": "World Gate engram",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8239": 8244
+  },
+  "model": false,
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

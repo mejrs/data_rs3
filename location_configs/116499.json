@@ -1,0 +1,31 @@
+{
+  "id": 116499,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_y": 400,
+  "translate_x": 60,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 106055,
+  "models": {
+    "10": [
+      116441
+    ]
+  },
+  "name": "Shadow caster",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Rotate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      388
+    ]
+  },
+  "cursors": [
+    189,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

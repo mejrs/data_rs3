@@ -1,0 +1,23 @@
+{
+  "id": 57206,
+  "models": {
+    "10": [
+      90431,
+      62521
+    ]
+  },
+  "name": "Lava-flow miner",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Rescue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

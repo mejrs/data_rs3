@@ -1,0 +1,29 @@
+{
+  "id": 61853,
+  "models": {
+    "10": [
+      55911
+    ]
+  },
+  "name": "Pillar",
+  "dim_x": 2,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

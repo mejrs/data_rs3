@@ -1,0 +1,25 @@
+{
+  "id": 99002,
+  "models": {
+    "10": [
+      106170,
+      106171
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 90,
+  "translate_z": 65446,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 105615,
+  "models": {
+    "10": [
+      115494
+    ]
+  },
+  "name": "Mural",
+  "dim_x": 13,
+  "dim_y": 21,
+  "unknown_17": false,
+  "unknown_22": true,
+  "ambient": 64,
+  "textures": {
+    "8003": 8008,
+    "8007": 8009,
+    "8013": 8014
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 20,
+    "unknown_2": 0,
+    "unknown_3": 42,
+    "unknown_4": 127
+  },
+  "unknown_196": 4
+}

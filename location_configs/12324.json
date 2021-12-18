@@ -1,0 +1,19 @@
+{
+  "id": 12324,
+  "models": {
+    "10": [
+      10222
+    ]
+  },
+  "name": "Large root",
+  "ambient": 25,
+  "actions": [
+    "Chop-roots",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

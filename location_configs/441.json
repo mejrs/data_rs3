@@ -1,0 +1,13 @@
+{
+  "id": 441,
+  "models": {
+    "10": [
+      1517
+    ]
+  },
+  "name": "Rock",
+  "is_transparent": true,
+  "unknown_81": 64,
+  "mapscene": 11,
+  "occludes_2": false
+}

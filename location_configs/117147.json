@@ -1,0 +1,32 @@
+{
+  "id": 117147,
+  "models": {
+    "10": [
+      91883
+    ]
+  },
+  "name": "Memorial megalith",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 260,
+  "scale_y": 260,
+  "scale_z": 260,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

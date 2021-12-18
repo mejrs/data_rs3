@@ -1,0 +1,21 @@
+{
+  "id": 114442,
+  "models": {
+    "10": [
+      81919,
+      7767
+    ]
+  },
+  "name": "Dead dragonfruit cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

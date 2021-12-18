@@ -1,0 +1,14 @@
+{
+  "id": 38039,
+  "models": {
+    "10": [
+      12943
+    ]
+  },
+  "name": "Reeds",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

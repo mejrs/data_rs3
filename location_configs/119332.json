@@ -1,0 +1,29 @@
+{
+  "id": 119332,
+  "models": {
+    "10": [
+      94195
+    ]
+  },
+  "name": "Opening",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

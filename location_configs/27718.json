@@ -1,0 +1,36 @@
+{
+  "id": 27718,
+  "models": {
+    "10": [
+      29643
+    ]
+  },
+  "name": "Hospital bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 5,
+  "colours": [
+    [
+      5425,
+      5541
+    ],
+    [
+      5421,
+      5665
+    ],
+    [
+      5417,
+      5660
+    ],
+    [
+      4407,
+      5545
+    ],
+    [
+      5413,
+      5660
+    ]
+  ],
+  "occludes_2": false
+}

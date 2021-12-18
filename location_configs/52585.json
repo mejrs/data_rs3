@@ -1,0 +1,15 @@
+{
+  "id": 52585,
+  "models": {
+    "10": [
+      57152
+    ]
+  },
+  "name": "Dinner table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "occludes_2": false
+}

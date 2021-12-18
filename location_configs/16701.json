@@ -1,0 +1,13 @@
+{
+  "id": 16701,
+  "models": {
+    "10": [
+      16704
+    ]
+  },
+  "name": "Light",
+  "unknown_24": 4392,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

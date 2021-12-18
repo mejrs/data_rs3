@@ -1,0 +1,13 @@
+{
+  "id": 1329,
+  "models": {
+    "10": [
+      1706
+    ]
+  },
+  "name": "Tropical leaves",
+  "dim_x": 3,
+  "dim_y": 3,
+  "occludes_2": false,
+  "unknown_196": 3
+}

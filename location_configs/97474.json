@@ -1,0 +1,12 @@
+{
+  "id": 97474,
+  "models": {
+    "10": [
+      104638
+    ]
+  },
+  "name": "Obelisk",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

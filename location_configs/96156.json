@@ -1,0 +1,16 @@
+{
+  "id": 96156,
+  "models": {
+    "10": [
+      87563
+    ]
+  },
+  "name": "Zemouregal's bedside table",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

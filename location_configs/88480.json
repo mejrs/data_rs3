@@ -1,0 +1,17 @@
+{
+  "id": 88480,
+  "models": {
+    "10": [
+      91832
+    ]
+  },
+  "name": "Sails",
+  "dim_x": 7,
+  "dim_y": 16,
+  "unknown_17": false,
+  "unknown_24": 23609,
+  "ambient": 64,
+  "model": false,
+  "translate_y": 300,
+  "occludes_2": false
+}

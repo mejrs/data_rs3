@@ -1,0 +1,32 @@
+{
+  "id": 29106,
+  "models": {
+    "10": [
+      31946,
+      31948
+    ]
+  },
+  "name": "Grimechin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8646,
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

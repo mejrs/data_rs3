@@ -1,0 +1,21 @@
+{
+  "id": 54403,
+  "models": {
+    "22": [
+      59073
+    ]
+  },
+  "name": "Orange pressure plate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 14516,
+  "unknown_27": false,
+  "colours": [
+    [
+      691,
+      6061
+    ]
+  ],
+  "unknown_89": false,
+  "occludes_2": false
+}

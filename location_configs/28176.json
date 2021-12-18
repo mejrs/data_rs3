@@ -1,0 +1,12 @@
+{
+  "id": 28176,
+  "models": {
+    "10": [
+      30067
+    ]
+  },
+  "name": "Rock barrier",
+  "unknown_19": 1,
+  "ambient": 15,
+  "occludes_2": false
+}

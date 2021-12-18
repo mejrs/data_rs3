@@ -1,0 +1,14 @@
+{
+  "id": 63982,
+  "models": {
+    "10": [
+      6313
+    ]
+  },
+  "name": "Sister Cabbage",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

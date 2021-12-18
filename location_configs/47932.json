@@ -1,0 +1,29 @@
+{
+  "id": 47932,
+  "models": {
+    "10": [
+      51453
+    ]
+  },
+  "name": "Lever",
+  "unknown_21": true,
+  "unknown_24": 12732,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      3014
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4183,
+  "models": {
+    "10": [
+      2138
+    ]
+  },
+  "name": "Boxes",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "49": 54
+  },
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

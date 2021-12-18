@@ -1,0 +1,35 @@
+{
+  "id": 492,
+  "models": {
+    "10": [
+      46701
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": -5,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1830": 1883
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

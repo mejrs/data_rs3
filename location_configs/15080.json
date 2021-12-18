@@ -1,0 +1,22 @@
+{
+  "id": 15080,
+  "models": {
+    "10": [
+      7801,
+      7875,
+      7766
+    ]
+  },
+  "name": "Herbs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Rake",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

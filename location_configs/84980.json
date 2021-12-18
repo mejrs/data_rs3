@@ -1,0 +1,22 @@
+{
+  "id": 84980,
+  "models": {
+    "10": [
+      87095
+    ]
+  },
+  "name": "Pig machine",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_24": 20422,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Upgrade",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

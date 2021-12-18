@@ -1,0 +1,25 @@
+{
+  "id": 15668,
+  "models": {
+    "10": [
+      46066
+    ]
+  },
+  "name": "Keg",
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

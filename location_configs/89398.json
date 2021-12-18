@@ -1,0 +1,29 @@
+{
+  "id": 89398,
+  "models": {
+    "10": [
+      88869
+    ]
+  },
+  "name": "Bank chest",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    5,
+    null,
+    null,
+    null
+  ]
+}

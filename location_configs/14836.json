@@ -1,0 +1,24 @@
+{
+  "id": 14836,
+  "models": {
+    "10": [
+      45753,
+      103808
+    ]
+  },
+  "name": "Fallen tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Burn-Kindling",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "unknown_98": true,
+  "occludes_2": false
+}

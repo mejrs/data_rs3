@@ -1,0 +1,26 @@
+{
+  "id": 5946,
+  "models": {
+    "10": [
+      1487
+    ]
+  },
+  "name": "Climbing rope",
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 76103,
+  "models": {
+    "0": [
+      76200
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1454": 1463,
+    "1457": 1456
+  },
+  "mirror": true,
+  "model": false,
+  "unknown_170": 1434
+}

@@ -1,0 +1,23 @@
+{
+  "id": 47045,
+  "models": {
+    "10": [
+      50475
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9154,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 1
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 30
+}

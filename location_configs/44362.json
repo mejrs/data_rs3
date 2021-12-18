@@ -1,0 +1,19 @@
+{
+  "id": 44362,
+  "models": {
+    "10": [
+      48266
+    ]
+  },
+  "name": "Massive ribs",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Remove-fur",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

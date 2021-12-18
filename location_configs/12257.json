@@ -1,0 +1,16 @@
+{
+  "id": 12257,
+  "models": {
+    "10": [
+      1758
+    ]
+  },
+  "name": "Dragon egg",
+  "colours": [
+    [
+      43125,
+      43047
+    ]
+  ],
+  "occludes_2": false
+}

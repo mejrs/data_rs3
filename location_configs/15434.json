@@ -1,0 +1,18 @@
+{
+  "id": 15434,
+  "models": {
+    "4": [
+      12889
+    ]
+  },
+  "name": "Decoration space",
+  "ambient": 100,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

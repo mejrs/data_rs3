@@ -1,0 +1,31 @@
+{
+  "id": 18060,
+  "models": {
+    "10": [
+      35404
+    ],
+    "22": [
+      17657
+    ]
+  },
+  "name": "Trapdoor table",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

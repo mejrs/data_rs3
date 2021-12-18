@@ -1,0 +1,20 @@
+{
+  "id": 119382,
+  "models": {
+    "10": [
+      90153,
+      95735,
+      96039
+    ]
+  },
+  "name": "Pontifex remains",
+  "unknown_21": true,
+  "ambient": 32,
+  "textures": {
+    "11930": 12376,
+    "11931": 12377,
+    "12338": 12335
+  },
+  "unknown_98": true,
+  "occludes_2": false
+}

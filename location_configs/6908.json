@@ -1,0 +1,16 @@
+{
+  "id": 6908,
+  "models": {
+    "10": [
+      37854
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 10,
+  "contrast": 10,
+  "textures": {
+    "2396": 1444
+  },
+  "occludes_2": false
+}

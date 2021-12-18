@@ -1,0 +1,25 @@
+{
+  "id": 6945,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Mast",
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

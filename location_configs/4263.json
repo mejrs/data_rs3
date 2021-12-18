@@ -1,0 +1,17 @@
+{
+  "id": 4263,
+  "models": {
+    "10": [
+      54932
+    ]
+  },
+  "name": "Crate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "model": false,
+  "unknown_88": false,
+  "mapscene": 92,
+  "occludes_2": false
+}

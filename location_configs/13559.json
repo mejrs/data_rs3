@@ -1,0 +1,21 @@
+{
+  "id": 13559,
+  "models": {
+    "10": [
+      13219,
+      13216
+    ]
+  },
+  "name": "Pump and drain",
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

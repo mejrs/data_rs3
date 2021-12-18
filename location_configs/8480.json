@@ -1,0 +1,24 @@
+{
+  "id": 8480,
+  "models": {
+    "10": [
+      101371,
+      7768,
+      101374
+    ]
+  },
+  "name": "Dead Oak",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "unknown_88": false,
+  "occludes_2": false
+}

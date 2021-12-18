@@ -1,0 +1,33 @@
+{
+  "id": 14304,
+  "models": {
+    "22": [
+      113306
+    ]
+  },
+  "name": "Gangplank",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "mapscene": 46,
+  "occludes_2": false,
+  "member_actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 90885,
+  "models": {
+    "10": [
+      91849
+    ]
+  },
+  "name": "Gate",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 22137,
+  "ambient": 64,
+  "model": false,
+  "unknown_89": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

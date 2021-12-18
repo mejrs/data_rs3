@@ -1,0 +1,36 @@
+{
+  "id": 22161,
+  "models": {
+    "10": [
+      17067
+    ]
+  },
+  "name": "Potted plant",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      7326,
+      6817
+    ],
+    [
+      7335,
+      6697
+    ],
+    [
+      7343,
+      6573
+    ],
+    [
+      5285,
+      6697
+    ],
+    [
+      5404,
+      6817
+    ]
+  ],
+  "occludes_2": false
+}

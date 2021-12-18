@@ -1,0 +1,23 @@
+{
+  "id": 34448,
+  "models": {
+    "10": [
+      1296
+    ]
+  },
+  "name": "Tanning line",
+  "dim_x": 3,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4517,
+      9492
+    ],
+    [
+      6024,
+      9484
+    ]
+  ],
+  "occludes_2": false
+}

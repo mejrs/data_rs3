@@ -1,0 +1,29 @@
+{
+  "id": 13212,
+  "models": {
+    "10": [
+      13116
+    ]
+  },
+  "name": "Incense burner",
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "textures": {
+    "2376": 2413
+  },
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 0
+}

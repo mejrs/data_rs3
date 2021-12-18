@@ -1,0 +1,31 @@
+{
+  "id": 349,
+  "models": {
+    "10": [
+      25881
+    ]
+  },
+  "name": "Drawers",
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "textures": {
+    "2073": 3185,
+    "2090": 2078,
+    "2093": 3631
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

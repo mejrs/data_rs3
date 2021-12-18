@@ -1,0 +1,30 @@
+{
+  "id": 104626,
+  "models": {
+    "10": [
+      107406
+    ]
+  },
+  "name": "Fortress Door",
+  "dim_x": 4,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

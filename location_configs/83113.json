@@ -1,0 +1,23 @@
+{
+  "id": 83113,
+  "models": {
+    "10": [
+      72096
+    ]
+  },
+  "name": "Spiritual mage",
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        413,
+        100
+      ],
+      [
+        415,
+        100
+      ]
+    ]
+  }
+}

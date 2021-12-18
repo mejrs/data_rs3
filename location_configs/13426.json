@@ -1,0 +1,19 @@
+{
+  "id": 13426,
+  "models": {
+    "10": [
+      12933
+    ]
+  },
+  "name": "Bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

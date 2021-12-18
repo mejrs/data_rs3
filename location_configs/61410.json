@@ -1,0 +1,36 @@
+{
+  "id": 61410,
+  "models": {
+    "10": [
+      56065
+    ]
+  },
+  "name": "Burnt tree",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Nurture",
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

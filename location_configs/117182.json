@@ -1,0 +1,37 @@
+{
+  "id": 117182,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Gap",
+  "dim_y": 6,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 768,
+  "scale_y": 128,
+  "scale_z": 128,
+  "unknown_69": 10,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6668": 3293
+  }
+}

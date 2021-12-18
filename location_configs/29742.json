@@ -1,0 +1,16 @@
+{
+  "id": 29742,
+  "models": {
+    "10": [
+      32535
+    ]
+  },
+  "name": "Steam vent",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 8845,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

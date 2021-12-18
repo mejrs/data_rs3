@@ -1,0 +1,23 @@
+{
+  "id": 84141,
+  "models": {
+    "10": [
+      85708
+    ]
+  },
+  "name": "Purification bowl (battle)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Purify corruption",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

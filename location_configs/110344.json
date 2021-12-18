@@ -1,0 +1,18 @@
+{
+  "id": 110344,
+  "models": {
+    "10": [
+      91914
+    ]
+  },
+  "name": "Ray",
+  "unknown_24": 22113,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "translate_y": 10,
+  "translate_z": 65506,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

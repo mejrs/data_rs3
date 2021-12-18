@@ -1,0 +1,20 @@
+{
+  "id": 100807,
+  "models": {
+    "10": [
+      116783
+    ]
+  },
+  "name": "Icicle",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 25,
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

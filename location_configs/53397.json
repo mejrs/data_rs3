@@ -1,0 +1,23 @@
+{
+  "id": 53397,
+  "models": {
+    "10": [
+      58637
+    ]
+  },
+  "name": "Flywheel brake",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14332,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Apply",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

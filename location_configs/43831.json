@@ -1,0 +1,25 @@
+{
+  "id": 43831,
+  "models": {
+    "10": [
+      69567
+    ]
+  },
+  "name": "Frozen bucket",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

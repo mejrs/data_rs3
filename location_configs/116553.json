@@ -1,0 +1,26 @@
+{
+  "id": 116553,
+  "models": {
+    "10": [
+      94135
+    ]
+  },
+  "name": "Shield bracket (Psiloi)",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Place shield",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65506,
+  "translate_y": 20,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

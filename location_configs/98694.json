@@ -1,0 +1,24 @@
+{
+  "id": 98694,
+  "models": {
+    "10": [
+      106246
+    ]
+  },
+  "name": "Portcullis",
+  "dim_x": 14,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Raise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 150,
+  "occludes_2": false
+}

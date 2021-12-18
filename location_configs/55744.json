@@ -1,0 +1,38 @@
+{
+  "id": 55744,
+  "models": {
+    "10": [
+      61679
+    ]
+  },
+  "name": "Locked door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13546,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Disarm",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 102322,
+  "models": {
+    "10": [
+      106183,
+      106187
+    ]
+  },
+  "name": "Drakan blood lock",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_188": true
+}

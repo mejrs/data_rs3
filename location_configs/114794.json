@@ -1,0 +1,40 @@
+{
+  "id": 114794,
+  "models": {
+    "10": [
+      84948
+    ]
+  },
+  "name": "Portal (Har-Aken)",
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    "Retune",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      29483,
+      3904
+    ]
+  ],
+  "textures": {
+    "11897": 11896
+  },
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 47739,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

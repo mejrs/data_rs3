@@ -1,0 +1,20 @@
+{
+  "id": 110072,
+  "models": {
+    "10": [
+      6663
+    ]
+  },
+  "name": "North point",
+  "unknown_19": 1,
+  "actions": [
+    "Place candle",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

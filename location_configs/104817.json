@@ -1,0 +1,16 @@
+{
+  "id": 104817,
+  "models": {
+    "10": [
+      115136
+    ]
+  },
+  "name": "Ox",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 5852,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

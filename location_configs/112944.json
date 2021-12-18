@@ -1,0 +1,55 @@
+{
+  "id": 112944,
+  "models": {
+    "0": [
+      21259
+    ],
+    "10": [
+      73987
+    ]
+  },
+  "name": "Luminite vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      11200
+    ],
+    [
+      37,
+      11200
+    ],
+    [
+      49,
+      11200
+    ],
+    [
+      45,
+      11200
+    ]
+  ],
+  "model": false,
+  "scale_y": 153,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

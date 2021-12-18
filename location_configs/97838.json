@@ -1,0 +1,75 @@
+{
+  "id": 97838,
+  "models": {
+    "10": [
+      104890
+    ]
+  },
+  "name": "Red rocks",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 2234,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10309,
+      6696
+    ],
+    [
+      10299,
+      6691
+    ],
+    [
+      10283,
+      6686
+    ],
+    [
+      10276,
+      6676
+    ],
+    [
+      10275,
+      6671
+    ],
+    [
+      35549,
+      562
+    ],
+    [
+      35539,
+      552
+    ],
+    [
+      35526,
+      542
+    ],
+    [
+      35501,
+      532
+    ],
+    [
+      38446,
+      522
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

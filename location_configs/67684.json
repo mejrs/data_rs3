@@ -1,0 +1,42 @@
+{
+  "id": 67684,
+  "models": {
+    "10": [
+      35496
+    ]
+  },
+  "name": "Sink",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9098,
+      5378
+    ],
+    [
+      8722,
+      5392
+    ],
+    [
+      8598,
+      5396
+    ],
+    [
+      8602,
+      5388
+    ],
+    [
+      8483,
+      5398
+    ]
+  ],
+  "occludes_2": false
+}

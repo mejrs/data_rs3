@@ -1,0 +1,37 @@
+{
+  "id": 97484,
+  "models": {
+    "10": [
+      104648
+    ]
+  },
+  "name": "Door",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "unknown_95": 0,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 37,
+    "unknown_2": 3,
+    "unknown_3": -1,
+    "unknown_4": 127
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 30490,
+  "models": {
+    "10": [
+      111519
+    ]
+  },
+  "name": "Crude table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_z": 110,
+  "translate_x": 20,
+  "translate_z": 65506,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

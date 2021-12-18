@@ -1,0 +1,28 @@
+{
+  "id": 53128,
+  "models": {
+    "0": [
+      58065
+    ]
+  },
+  "name": "Photo booth",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Take-photo",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 13,
+  "member_actions": [
+    null,
+    null,
+    null,
+    null,
+    "Replace"
+  ]
+}

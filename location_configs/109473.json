@@ -1,0 +1,26 @@
+{
+  "id": 109473,
+  "models": {
+    "10": [
+      119185,
+      119186,
+      119938
+    ]
+  },
+  "name": "Corrupted Scarab",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 30865,
+  "ambient": 32,
+  "actions": [
+    "Burst",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_89": false,
+  "is_members": true,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

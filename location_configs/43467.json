@@ -1,0 +1,17 @@
+{
+  "id": 43467,
+  "models": {
+    "10": [
+      47083,
+      47084,
+      47085
+    ]
+  },
+  "name": "Deadfall",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5683,
+  "mapscene": 71,
+  "occludes_2": false,
+  "unknown_196": 1
+}

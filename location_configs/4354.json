@@ -1,0 +1,30 @@
+{
+  "id": 4354,
+  "models": {
+    "10": [
+      55170
+    ]
+  },
+  "name": "Collection of bottles",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

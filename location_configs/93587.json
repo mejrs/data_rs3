@@ -1,0 +1,27 @@
+{
+  "id": 93587,
+  "models": {
+    "10": [
+      20053
+    ]
+  },
+  "name": "Pile of books",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 45,
+  "actions": [
+    "Sort",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

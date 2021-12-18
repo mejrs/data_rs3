@@ -1,0 +1,15 @@
+{
+  "id": 12967,
+  "models": {
+    "10": [
+      51097
+    ]
+  },
+  "name": "Burt McKrakon",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 12456,
+  "ambient": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 97277,
+  "models": {
+    "10": [
+      104414
+    ]
+  },
+  "name": "Table",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Deposit fish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

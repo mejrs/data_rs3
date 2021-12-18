@@ -1,0 +1,18 @@
+{
+  "id": 93699,
+  "models": {
+    "10": [
+      99455
+    ]
+  },
+  "name": "Ingram",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

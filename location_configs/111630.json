@@ -1,0 +1,18 @@
+{
+  "id": 111630,
+  "models": {
+    "10": [
+      47417
+    ]
+  },
+  "name": "Globe",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 350,
+  "scale_y": 350,
+  "scale_z": 350,
+  "occludes_2": false
+}

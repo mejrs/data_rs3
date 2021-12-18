@@ -1,0 +1,16 @@
+{
+  "id": 95239,
+  "models": {
+    "10": [
+      69546
+    ]
+  },
+  "name": "Large ribcage",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 60,
+  "contrast": 0,
+  "model": false,
+  "occludes_2": false
+}

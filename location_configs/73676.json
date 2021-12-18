@@ -1,0 +1,23 @@
+{
+  "id": 73676,
+  "models": {
+    "10": [
+      71656
+    ]
+  },
+  "name": "First-place podium",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7463,
+  "ambient": 25,
+  "actions": [
+    "Mount",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false
+}

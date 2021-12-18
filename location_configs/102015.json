@@ -1,0 +1,18 @@
+{
+  "id": 102015,
+  "models": {
+    "4": [
+      111545
+    ]
+  },
+  "name": "Ivandis Seergaze",
+  "unknown_19": 1,
+  "ambient": 80,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_x": 80,
+  "translate_y": 308,
+  "translate_z": 110,
+  "occludes_2": false
+}

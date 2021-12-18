@@ -1,0 +1,33 @@
+{
+  "id": 108362,
+  "models": {
+    "10": [
+      118850
+    ]
+  },
+  "name": "Exit",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 32,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 135,
+  "scale_y": 155,
+  "translate_z": 40,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

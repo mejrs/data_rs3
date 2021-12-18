@@ -1,0 +1,53 @@
+{
+  "id": 7330,
+  "models": {
+    "10": [
+      7392,
+      7393
+    ]
+  },
+  "name": "Old Bookshelf",
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10359,
+      12624
+    ],
+    [
+      6565,
+      7475
+    ],
+    [
+      7834,
+      7483
+    ],
+    [
+      7958,
+      7483
+    ],
+    [
+      5400,
+      4267
+    ],
+    [
+      6430,
+      5425
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

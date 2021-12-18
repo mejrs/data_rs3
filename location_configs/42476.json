@@ -1,0 +1,18 @@
+{
+  "id": 42476,
+  "models": {
+    "10": [
+      45934
+    ]
+  },
+  "name": "Stove",
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 4969,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 50
+}

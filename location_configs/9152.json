@@ -1,0 +1,16 @@
+{
+  "id": 9152,
+  "models": {
+    "10": [
+      87173
+    ]
+  },
+  "name": "Patched Wall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

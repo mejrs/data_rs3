@@ -1,0 +1,17 @@
+{
+  "id": 98107,
+  "models": {
+    "10": [
+      105274
+    ]
+  },
+  "name": "Totem",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 32,
+  "model": false,
+  "occludes_2": false
+}

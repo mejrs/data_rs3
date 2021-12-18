@@ -1,0 +1,36 @@
+{
+  "id": 114521,
+  "models": {
+    "10": [
+      82757,
+      7767
+    ]
+  },
+  "name": "Diseased guarana tree",
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      18604,
+      6575
+    ],
+    [
+      4259,
+      2212
+    ]
+  ],
+  "textures": {
+    "11714": 11717,
+    "11731": 11732
+  },
+  "scale_x": 165,
+  "scale_y": 165,
+  "scale_z": 165,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 98573,
+  "models": {
+    "10": [
+      52402
+    ]
+  },
+  "name": "Gatehouse doors",
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

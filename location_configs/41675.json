@@ -1,0 +1,30 @@
+{
+  "id": 41675,
+  "models": {
+    "0": [
+      45158
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "model": false,
+  "member_actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 85895,
+  "models": {
+    "10": [
+      88399,
+      88401
+    ]
+  },
+  "name": "Divine Tears Formation",
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      18332,
+      6044
+    ],
+    [
+      18336,
+      6048
+    ],
+    [
+      18342,
+      6054
+    ],
+    [
+      18347,
+      6064
+    ],
+    [
+      18352,
+      6069
+    ],
+    [
+      18357,
+      6070
+    ]
+  ],
+  "unknown_81": 32,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

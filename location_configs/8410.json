@@ -1,0 +1,25 @@
+{
+  "id": 8410,
+  "models": {
+    "10": [
+      20511
+    ]
+  },
+  "name": "Magic Tree Stump",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 80,
+  "unknown_88": false,
+  "mapscene": 3,
+  "occludes_2": false
+}

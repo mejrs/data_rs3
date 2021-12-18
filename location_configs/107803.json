@@ -1,0 +1,17 @@
+{
+  "id": 107803,
+  "models": {
+    "10": [
+      117754
+    ]
+  },
+  "name": "Ferry",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_24": 29067,
+  "unknown_27": false,
+  "ambient": 30,
+  "model": false,
+  "occludes_2": false
+}

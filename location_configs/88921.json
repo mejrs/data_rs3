@@ -1,0 +1,61 @@
+{
+  "id": 88921,
+  "models": {
+    "10": [
+      92032
+    ]
+  },
+  "name": "Presents",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Receive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10036,
+      31540
+    ],
+    [
+      10046,
+      31550
+    ],
+    [
+      10061,
+      31565
+    ],
+    [
+      42726,
+      40756
+    ],
+    [
+      42736,
+      40766
+    ],
+    [
+      42751,
+      40781
+    ],
+    [
+      820,
+      65254
+    ],
+    [
+      830,
+      65264
+    ],
+    [
+      845,
+      65279
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

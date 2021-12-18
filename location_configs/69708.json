@@ -1,0 +1,23 @@
+{
+  "id": 69708,
+  "models": {
+    "10": [
+      68748
+    ]
+  },
+  "name": "Ardougne Castle, Ardougne West",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "West:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2775": 2774
+  },
+  "occludes_2": false
+}

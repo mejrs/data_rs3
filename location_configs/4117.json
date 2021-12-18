@@ -1,0 +1,50 @@
+{
+  "id": 4117,
+  "models": {
+    "10": [
+      37192
+    ]
+  },
+  "name": "Steel Chest (brown)",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      36907,
+      36916
+    ],
+    [
+      30757,
+      36908
+    ],
+    [
+      32804,
+      36896
+    ],
+    [
+      37761,
+      4368
+    ],
+    [
+      36877,
+      4379
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

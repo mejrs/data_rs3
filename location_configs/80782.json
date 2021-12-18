@@ -1,0 +1,19 @@
+{
+  "id": 80782,
+  "models": {
+    "10": [
+      81262
+    ]
+  },
+  "name": "Pedestal",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 19017,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

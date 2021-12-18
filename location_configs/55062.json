@@ -1,0 +1,17 @@
+{
+  "id": 55062,
+  "models": {
+    "10": [
+      21716
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 50,
+  "model": false,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "occludes_2": false
+}

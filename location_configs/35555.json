@@ -1,0 +1,23 @@
+{
+  "id": 35555,
+  "models": {
+    "10": [
+      34356
+    ]
+  },
+  "name": "Danger sign",
+  "unknown_19": 1,
+  "ambient": 40,
+  "contrast": 15,
+  "colours": [
+    [
+      7587,
+      5268
+    ],
+    [
+      7830,
+      5281
+    ]
+  ],
+  "occludes_2": false
+}

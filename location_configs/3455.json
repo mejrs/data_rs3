@@ -1,0 +1,37 @@
+{
+  "id": 3455,
+  "models": {
+    "10": [
+      642
+    ]
+  },
+  "name": "Spear wall",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7073,
+      8466
+    ],
+    [
+      5914,
+      8463
+    ],
+    [
+      5908,
+      8460
+    ],
+    [
+      4750,
+      8456
+    ],
+    [
+      61,
+      40990
+    ]
+  ],
+  "occludes_2": false
+}

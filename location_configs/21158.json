@@ -1,0 +1,24 @@
+{
+  "id": 21158,
+  "models": {
+    "10": [
+      21654
+    ]
+  },
+  "name": "Avalanche",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "unknown_69": 7,
+  "occludes_2": false
+}

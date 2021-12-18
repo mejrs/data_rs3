@@ -1,0 +1,11 @@
+{
+  "id": 6152,
+  "models": {
+    "10": [
+      5922
+    ]
+  },
+  "name": "Bar",
+  "dim_y": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 110856,
+  "models": {
+    "10": [
+      113568
+    ]
+  },
+  "name": "Spear rack",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 50,
+  "model": false,
+  "translate_y": 20,
+  "occludes_2": false
+}

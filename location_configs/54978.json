@@ -1,0 +1,19 @@
+{
+  "id": 54978,
+  "models": {
+    "10": [
+      21537
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 50,
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "occludes_2": false,
+  "unknown_196": 3
+}

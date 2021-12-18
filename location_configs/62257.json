@@ -1,0 +1,21 @@
+{
+  "id": 62257,
+  "models": {
+    "10": [
+      615
+    ]
+  },
+  "name": "Empty pedestal",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Insert-block",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "unknown_75": 0,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 107353,
+  "models": {
+    "10": [
+      117642
+    ]
+  },
+  "name": "Warded Chest",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 594,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 77067,
+  "models": {
+    "0": [
+      77846
+    ],
+    "10": [
+      77852
+    ]
+  },
+  "name": "Old wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_z": 65521,
+  "unknown_88": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

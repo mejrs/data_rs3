@@ -1,0 +1,21 @@
+{
+  "id": 61487,
+  "models": {
+    "22": [
+      37003
+    ]
+  },
+  "name": "Stepping stone",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Jump-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,52 @@
+{
+  "id": 2589,
+  "models": {
+    "10": [
+      9466
+    ]
+  },
+  "name": "Hole",
+  "unknown_19": 1,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12579,
+      5553
+    ],
+    [
+      12574,
+      5553
+    ],
+    [
+      12698,
+      5553
+    ],
+    [
+      12694,
+      5553
+    ],
+    [
+      12818,
+      5673
+    ],
+    [
+      12942,
+      5793
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

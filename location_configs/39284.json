@@ -1,0 +1,37 @@
+{
+  "id": 39284,
+  "models": {
+    "10": [
+      1643
+    ]
+  },
+  "name": "Plant",
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
+  "colours": [
+    [
+      61,
+      14742
+    ],
+    [
+      49,
+      14866
+    ],
+    [
+      41,
+      10768
+    ],
+    [
+      37,
+      11144
+    ],
+    [
+      33,
+      11140
+    ]
+  ],
+  "unknown_44": 59,
+  "unknown_75": 0,
+  "occludes_2": false
+}

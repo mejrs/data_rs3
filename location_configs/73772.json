@@ -1,0 +1,35 @@
+{
+  "id": 73772,
+  "models": {
+    "10": [
+      71657,
+      71658
+    ]
+  },
+  "name": "Gielinor Games portal",
+  "dim_x": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 10882,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Select Game",
+    "Head to Head",
+    "Cheesewheel",
+    "Resource Race",
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 196,
+  "scale_y": 196,
+  "scale_z": 196,
+  "unknown_78": {
+    "unknown_1": 16808,
+    "unknown_2": 7
+  },
+  "occludes_2": false,
+  "unknown_104": 85,
+  "mapfunction": 627
+}

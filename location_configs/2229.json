@@ -1,0 +1,19 @@
+{
+  "id": 2229,
+  "models": {
+    "10": [
+      1469
+    ]
+  },
+  "name": "Tribal Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

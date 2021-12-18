@@ -1,0 +1,11 @@
+{
+  "id": 20323,
+  "models": {
+    "10": [
+      20798
+    ]
+  },
+  "name": "Private bank booth",
+  "ambient": 15,
+  "occludes_2": false
+}

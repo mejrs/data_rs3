@@ -1,0 +1,28 @@
+{
+  "id": 43195,
+  "models": {
+    "10": [
+      38344
+    ]
+  },
+  "name": "Luxurious bed",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 25,
+  "colours": [
+    [
+      2595,
+      2837
+    ],
+    [
+      2591,
+      2833
+    ],
+    [
+      6056,
+      8633
+    ]
+  ],
+  "occludes_2": false
+}

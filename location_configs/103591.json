@@ -1,0 +1,30 @@
+{
+  "id": 103591,
+  "models": {
+    "10": [
+      94843
+    ]
+  },
+  "name": "Reward chest",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 627,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

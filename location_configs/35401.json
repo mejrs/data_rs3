@@ -1,0 +1,44 @@
+{
+  "id": 35401,
+  "models": {
+    "0": [
+      27252
+    ]
+  },
+  "name": "Jail Door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10392,
+      7335
+    ],
+    [
+      10388,
+      7331
+    ],
+    [
+      10512,
+      7326
+    ],
+    [
+      10508,
+      7322
+    ]
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 107473,
+  "models": {
+    "10": [
+      118439
+    ]
+  },
+  "name": "Gem stall",
+  "dim_x": 5,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_z": 65506,
+  "occludes_2": false,
+  "unknown_196": 4
+}

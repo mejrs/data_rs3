@@ -1,0 +1,42 @@
+{
+  "id": 42221,
+  "models": {
+    "22": [
+      23993
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10279,
+      7475
+    ],
+    [
+      10287,
+      7479
+    ],
+    [
+      10283,
+      7483
+    ],
+    [
+      10270,
+      7471
+    ],
+    [
+      10312,
+      7471
+    ]
+  ],
+  "textures": {
+    "2377": 2314,
+    "2401": 2324
+  },
+  "translate_y": 52,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

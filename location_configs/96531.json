@@ -1,0 +1,32 @@
+{
+  "id": 96531,
+  "models": {
+    "4": [
+      91079
+    ],
+    "10": [
+      81614,
+      103318
+    ]
+  },
+  "name": "Box of modified magic boxes",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take from",
+    "Take 5 from",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

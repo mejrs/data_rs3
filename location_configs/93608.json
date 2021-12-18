@@ -1,0 +1,26 @@
+{
+  "id": 93608,
+  "models": {
+    "10": [
+      99564
+    ]
+  },
+  "name": "Grand piano",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

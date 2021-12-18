@@ -1,0 +1,15 @@
+{
+  "id": 92321,
+  "models": {
+    "0": [
+      98246
+    ]
+  },
+  "name": "Firemaking banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 481
+  },
+  "mapscene": 22
+}

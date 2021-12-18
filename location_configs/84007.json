@@ -1,0 +1,34 @@
+{
+  "id": 84007,
+  "models": {
+    "0": [
+      85340
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 38641,
+  "models": {
+    "10": [
+      41917
+    ]
+  },
+  "name": "Helm (level 30 approx.)",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Cast",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,48 @@
+{
+  "id": 73584,
+  "models": {
+    "10": [
+      19034
+    ]
+  },
+  "name": "Chest",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4502,
+      7448
+    ],
+    [
+      4510,
+      7452
+    ],
+    [
+      9135,
+      7440
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      353
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

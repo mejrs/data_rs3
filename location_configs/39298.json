@@ -1,0 +1,14 @@
+{
+  "id": 39298,
+  "models": {
+    "4": [
+      42827
+    ]
+  },
+  "name": "Web",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 15,
+  "occludes_2": false
+}

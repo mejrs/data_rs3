@@ -1,0 +1,15 @@
+{
+  "id": 87947,
+  "models": {
+    "10": [
+      91102
+    ]
+  },
+  "name": "Memorial tent",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

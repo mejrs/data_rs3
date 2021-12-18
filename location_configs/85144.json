@@ -1,0 +1,26 @@
+{
+  "id": 85144,
+  "models": {
+    "10": [
+      88346,
+      88361
+    ]
+  },
+  "name": "Stone rubble",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Reclaim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

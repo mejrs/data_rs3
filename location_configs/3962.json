@@ -1,0 +1,26 @@
+{
+  "id": 3962,
+  "models": {
+    "10": [
+      97140
+    ]
+  },
+  "name": "Sulphur",
+  "unknown_21": true,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

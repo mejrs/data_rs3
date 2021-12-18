@@ -1,0 +1,33 @@
+{
+  "id": 11289,
+  "models": {
+    "10": [
+      14188
+    ]
+  },
+  "name": "Ship's ladder",
+  "unknown_22": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12698,
+      5904
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

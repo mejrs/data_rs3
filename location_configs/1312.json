@@ -1,0 +1,13 @@
+{
+  "id": 1312,
+  "models": {
+    "10": [
+      1575
+    ]
+  },
+  "name": "Palm",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 5,
+  "occludes_2": false
+}

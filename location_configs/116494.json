@@ -1,0 +1,33 @@
+{
+  "id": 116494,
+  "models": {
+    "10": [
+      47639
+    ]
+  },
+  "name": "Open door",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11308": 12310,
+    "11311": 12323,
+    "11312": 12325
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

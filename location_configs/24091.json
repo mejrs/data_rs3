@@ -1,0 +1,13 @@
+{
+  "id": 24091,
+  "models": {
+    "4": [
+      25080
+    ]
+  },
+  "name": "Herbs",
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 20,
+  "occludes_2": false
+}

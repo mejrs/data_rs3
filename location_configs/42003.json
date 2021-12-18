@@ -1,0 +1,32 @@
+{
+  "id": 42003,
+  "models": {
+    "0": [
+      966
+    ],
+    "1": [
+      967
+    ],
+    "9": [
+      968
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6040,
+      5404
+    ]
+  ],
+  "mirror": true
+}

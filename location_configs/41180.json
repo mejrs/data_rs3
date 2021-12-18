@@ -1,0 +1,32 @@
+{
+  "id": 41180,
+  "models": {
+    "0": [
+      43942
+    ],
+    "1": [
+      44018
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      5421,
+      5535
+    ],
+    [
+      5660,
+      5523
+    ],
+    [
+      5541,
+      5528
+    ]
+  ],
+  "unknown_170": 960
+}

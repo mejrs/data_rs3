@@ -1,0 +1,34 @@
+{
+  "id": 95918,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "morphs_1": {
+    "varbit": 27220,
+    "ids": [
+      95908,
+      95909
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "4872": 25545,
+    "4875": 1,
+    "4869": 61596470,
+    "4874": 4289,
+    "4873": 2
+  }
+}

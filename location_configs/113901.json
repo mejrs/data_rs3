@@ -1,0 +1,26 @@
+{
+  "id": 113901,
+  "models": {
+    "10": [
+      47783,
+      1877
+    ]
+  },
+  "name": "Footprint",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 1199,
+  "ambient": 60,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 65531,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

@@ -1,0 +1,33 @@
+{
+  "id": 79060,
+  "models": {
+    "10": [
+      4326
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5559,
+      5400
+    ],
+    [
+      5679,
+      5398
+    ],
+    [
+      5675,
+      5394
+    ],
+    [
+      5799,
+      5390
+    ]
+  ],
+  "unknown_81": 20,
+  "occludes_2": false
+}

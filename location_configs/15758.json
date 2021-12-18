@@ -1,0 +1,22 @@
+{
+  "id": 15758,
+  "models": {
+    "0": [
+      83047,
+      83028
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Listen-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "unknown_75": 0
+}

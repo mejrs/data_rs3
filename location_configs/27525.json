@@ -1,0 +1,24 @@
+{
+  "id": 27525,
+  "models": {
+    "3": [
+      29505
+    ],
+    "9": [
+      29526
+    ]
+  },
+  "name": "Prison door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Talk-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30
+}

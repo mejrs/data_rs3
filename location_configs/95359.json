@@ -1,0 +1,15 @@
+{
+  "id": 95359,
+  "models": {
+    "10": [
+      64816
+    ]
+  },
+  "name": "Fern",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false
+}

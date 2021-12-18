@@ -1,0 +1,21 @@
+{
+  "id": 56619,
+  "models": {
+    "10": [
+      62174
+    ]
+  },
+  "name": "Red vine blossom",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 110985,
+  "models": {
+    "10": [
+      28561
+    ]
+  },
+  "name": "Dragonkin effigies",
+  "dim_x": 13,
+  "dim_y": 13,
+  "unknown_19": 1,
+  "translate_y": 65436,
+  "occludes_2": false
+}

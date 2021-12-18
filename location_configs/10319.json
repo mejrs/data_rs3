@@ -1,0 +1,26 @@
+{
+  "id": 10319,
+  "models": {
+    "4": [
+      10050
+    ]
+  },
+  "name": "Trellis top",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

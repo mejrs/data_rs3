@@ -1,0 +1,16 @@
+{
+  "id": 111979,
+  "models": {
+    "10": [
+      60316
+    ]
+  },
+  "name": "Bonfire",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

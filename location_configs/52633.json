@@ -1,0 +1,31 @@
+{
+  "id": 52633,
+  "models": {
+    "22": [
+      57373
+    ]
+  },
+  "name": "Bridge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

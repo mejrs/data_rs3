@@ -1,0 +1,33 @@
+{
+  "id": 93703,
+  "models": {
+    "10": [
+      99582
+    ]
+  },
+  "name": "Shrine of the son",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

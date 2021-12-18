@@ -1,0 +1,32 @@
+{
+  "id": 110239,
+  "models": {
+    "10": [
+      7392,
+      7393
+    ]
+  },
+  "name": "Bookcase",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

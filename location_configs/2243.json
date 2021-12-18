@@ -1,0 +1,50 @@
+{
+  "id": 2243,
+  "models": {
+    "10": [
+      37533
+    ]
+  },
+  "name": "Tomb exit",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6926,
+      7054
+    ],
+    [
+      6930,
+      6930
+    ],
+    [
+      6933,
+      6806
+    ],
+    [
+      6936,
+      6682
+    ],
+    [
+      6939,
+      6558
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

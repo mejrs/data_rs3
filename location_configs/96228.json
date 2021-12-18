@@ -1,0 +1,14 @@
+{
+  "id": 96228,
+  "models": {
+    "22": [
+      103104
+    ]
+  },
+  "name": "Hangman Hing",
+  "unknown_19": 1,
+  "unknown_24": 26183,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": 11238,
+  "models": {
+    "10": [
+      11169
+    ]
+  },
+  "name": "Powder Barrel",
+  "actions": [
+    "Add fuse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      5904
+    ],
+    [
+      5665,
+      6806
+    ],
+    [
+      5660,
+      6930
+    ],
+    [
+      5784,
+      6806
+    ]
+  ],
+  "occludes_2": false
+}

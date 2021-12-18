@@ -1,0 +1,29 @@
+{
+  "id": 30563,
+  "models": {
+    "10": [
+      33632
+    ]
+  },
+  "name": "Fishing rods",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

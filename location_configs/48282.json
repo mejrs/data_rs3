@@ -1,0 +1,21 @@
+{
+  "id": 48282,
+  "models": {
+    "10": [
+      52021
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "translate_y": 240,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

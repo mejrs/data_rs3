@@ -1,0 +1,24 @@
+{
+  "id": 57034,
+  "models": {
+    "10": [
+      62602
+    ]
+  },
+  "name": "Steam gauge",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

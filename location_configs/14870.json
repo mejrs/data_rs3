@@ -1,0 +1,12 @@
+{
+  "id": 14870,
+  "models": {
+    "10": [
+      50990
+    ]
+  },
+  "name": "Lamp",
+  "ambient": 35,
+  "contrast": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 117735,
+  "models": {
+    "10": [
+      115848
+    ]
+  },
+  "name": "Kerapac's device",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 33508,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "occludes_2": false,
+  "unknown_196": 4
+}

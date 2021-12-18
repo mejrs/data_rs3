@@ -1,0 +1,17 @@
+{
+  "id": 102964,
+  "models": {
+    "10": [
+      112181
+    ]
+  },
+  "dim_x": 7,
+  "dim_y": 9,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

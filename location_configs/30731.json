@@ -1,0 +1,13 @@
+{
+  "id": 30731,
+  "models": {
+    "10": [
+      33799
+    ]
+  },
+  "name": "Broken church pew",
+  "dim_x": 3,
+  "is_transparent": true,
+  "mirror": true,
+  "occludes_2": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": 101084,
+  "models": {
+    "10": [
+      76711
+    ]
+  },
+  "name": "Bank chest",
+  "ambient": 10,
+  "actions": [
+    null,
+    "Use",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    null,
+    46,
+    5,
+    null,
+    null,
+    null
+  ]
+}

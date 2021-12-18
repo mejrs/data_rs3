@@ -1,0 +1,31 @@
+{
+  "id": 26289,
+  "models": {
+    "10": [
+      56001
+    ]
+  },
+  "name": "Bandos altar",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Pray-at",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

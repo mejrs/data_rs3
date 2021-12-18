@@ -1,0 +1,22 @@
+{
+  "id": 30143,
+  "models": {
+    "10": [
+      33086
+    ]
+  },
+  "name": "Stone dispenser",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9011,
+  "ambient": 50,
+  "actions": [
+    "Take-stone",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

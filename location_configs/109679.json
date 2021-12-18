@@ -1,0 +1,28 @@
+{
+  "id": 109679,
+  "models": {
+    "10": [
+      49834
+    ]
+  },
+  "name": "Photo booth",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take Selfie",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128,
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_196": 2
+}

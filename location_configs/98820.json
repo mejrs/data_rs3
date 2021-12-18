@@ -1,0 +1,23 @@
+{
+  "id": 98820,
+  "models": {
+    "10": [
+      106385
+    ]
+  },
+  "name": "Books",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pick book",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 148,
+  "scale_y": 148,
+  "scale_z": 148,
+  "occludes_2": false
+}

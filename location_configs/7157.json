@@ -1,0 +1,20 @@
+{
+  "id": 7157,
+  "models": {
+    "0": [
+      37548
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

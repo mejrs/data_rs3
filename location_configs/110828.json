@@ -1,0 +1,15 @@
+{
+  "id": 110828,
+  "models": {
+    "10": [
+      24610
+    ]
+  },
+  "name": "Dead jellyfish",
+  "unknown_17": false,
+  "textures": {
+    "9750": 9743
+  },
+  "model": false,
+  "occludes_2": false
+}

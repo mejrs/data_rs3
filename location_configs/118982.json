@@ -1,0 +1,16 @@
+{
+  "id": 118982,
+  "models": {
+    "10": [
+      120589,
+      120590
+    ]
+  },
+  "name": "Display stand",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 4
+}

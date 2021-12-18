@@ -1,0 +1,16 @@
+{
+  "id": 104800,
+  "models": {
+    "10": [
+      113426
+    ]
+  },
+  "name": "Barrel of fish",
+  "unknown_27": false,
+  "ambient": 50,
+  "model": false,
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190,
+  "occludes_2": false
+}

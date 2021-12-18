@@ -1,0 +1,33 @@
+{
+  "id": 86695,
+  "models": {
+    "10": [
+      88825
+    ]
+  },
+  "name": "Suit of armour",
+  "ambient": -25,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      363
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

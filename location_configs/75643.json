@@ -1,0 +1,28 @@
+{
+  "id": 75643,
+  "models": {
+    "10": [
+      31006,
+      2214
+    ]
+  },
+  "name": "Rope",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Shimmy-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 700,
+  "scale_y": 700,
+  "scale_z": 280,
+  "translate_y": 65296,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false
+}

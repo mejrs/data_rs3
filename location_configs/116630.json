@@ -1,0 +1,39 @@
+{
+  "id": 116630,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Scaffold",
+  "dim_y": 7,
+  "actions": [
+    "Skip over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 1100,
+  "scale_y": 256,
+  "scale_z": 128,
+  "unknown_69": 10,
+  "translate_y": 120,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6668": 3104
+  }
+}

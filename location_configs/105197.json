@@ -1,0 +1,21 @@
+{
+  "id": 105197,
+  "models": {
+    "10": [
+      107200
+    ]
+  },
+  "dim_x": 4,
+  "unknown_19": 0,
+  "ambient": -42,
+  "colours": [
+    [
+      37298,
+      831
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_186": 2
+}

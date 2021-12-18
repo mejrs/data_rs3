@@ -1,0 +1,34 @@
+{
+  "id": 78760,
+  "models": {
+    "0": [
+      3803
+    ],
+    "1": [
+      35645
+    ],
+    "3": [
+      3804
+    ],
+    "9": [
+      3805
+    ]
+  },
+  "name": "Arena Exit",
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

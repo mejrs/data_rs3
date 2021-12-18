@@ -1,0 +1,13 @@
+{
+  "id": 87708,
+  "models": {
+    "10": [
+      90786
+    ]
+  },
+  "name": "Elven crystals",
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 92341,
+  "models": {
+    "0": [
+      98233
+    ]
+  },
+  "name": "Runecrafting banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      10332
+    ],
+    [
+      36300,
+      4794
+    ]
+  ],
+  "mapscene": 22
+}

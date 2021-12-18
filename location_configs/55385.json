@@ -1,0 +1,28 @@
+{
+  "id": 55385,
+  "models": {
+    "22": [
+      13533
+    ]
+  },
+  "name": "Slippery log",
+  "unknown_21": true,
+  "actions": [
+    "Walk-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

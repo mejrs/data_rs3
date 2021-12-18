@@ -1,0 +1,27 @@
+{
+  "id": 97486,
+  "models": {
+    "10": [
+      54857
+    ]
+  },
+  "name": "Kalibath",
+  "unknown_19": 1,
+  "unknown_24": 11517,
+  "ambient": 20,
+  "actions": [
+    "Distract",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  }
+}

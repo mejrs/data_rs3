@@ -1,0 +1,27 @@
+{
+  "id": 113836,
+  "models": {
+    "10": [
+      47671,
+      47672
+    ]
+  },
+  "name": "Scorpion (armed)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Retrieve spear",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11315": 11318
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

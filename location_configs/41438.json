@@ -1,0 +1,23 @@
+{
+  "id": 41438,
+  "models": {
+    "4": [
+      43913
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6440,
+      5412
+    ],
+    [
+      6428,
+      5396
+    ]
+  ],
+  "translate_z": 65532,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 6080,
+  "models": {
+    "10": [
+      5963
+    ]
+  },
+  "name": "Spinning Machine",
+  "dim_y": 2,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

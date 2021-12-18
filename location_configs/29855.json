@@ -1,0 +1,21 @@
+{
+  "id": 29855,
+  "models": {
+    "10": [
+      32636
+    ]
+  },
+  "name": "Incubator coal scuttle",
+  "unknown_19": 1,
+  "unknown_24": 8892,
+  "ambient": 5,
+  "actions": [
+    "Add-Coal",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

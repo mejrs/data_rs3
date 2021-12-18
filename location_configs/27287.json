@@ -1,0 +1,20 @@
+{
+  "id": 27287,
+  "models": {
+    "10": [
+      29257
+    ]
+  },
+  "name": "Grave",
+  "unknown_24": 5598,
+  "ambient": 10,
+  "actions": [
+    "Say-name",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

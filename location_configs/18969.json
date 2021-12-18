@@ -1,0 +1,28 @@
+{
+  "id": 18969,
+  "models": {
+    "4": [
+      45911
+    ]
+  },
+  "name": "Noticeboard",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

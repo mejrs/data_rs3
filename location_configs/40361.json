@@ -1,0 +1,42 @@
+{
+  "id": 40361,
+  "models": {
+    "0": [
+      37698
+    ],
+    "9": [
+      43605
+    ]
+  },
+  "name": "Large doors",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6444,
+      6554
+    ],
+    [
+      6559,
+      6552
+    ],
+    [
+      6434,
+      6798
+    ],
+    [
+      6435,
+      6556
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

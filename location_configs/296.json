@@ -1,0 +1,12 @@
+{
+  "id": 296,
+  "models": {
+    "10": [
+      1520
+    ]
+  },
+  "name": "Plough",
+  "dim_x": 3,
+  "dim_y": 2,
+  "occludes_2": false
+}

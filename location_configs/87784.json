@@ -1,0 +1,29 @@
+{
+  "id": 87784,
+  "models": {
+    "10": [
+      76749
+    ]
+  },
+  "name": "Second Chest",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -50,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 112276,
+  "models": {
+    "10": [
+      65371
+    ]
+  },
+  "name": "Manure mound",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

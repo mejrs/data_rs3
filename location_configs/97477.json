@@ -1,0 +1,13 @@
+{
+  "id": 97477,
+  "models": {
+    "10": [
+      104629
+    ]
+  },
+  "name": "Column",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false,
+  "mapfunction": 1206
+}

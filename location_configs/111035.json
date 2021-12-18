@@ -1,0 +1,12 @@
+{
+  "id": 111035,
+  "models": {
+    "10": [
+      29871
+    ]
+  },
+  "name": "Anchor",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

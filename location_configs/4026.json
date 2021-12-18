@@ -1,0 +1,18 @@
+{
+  "id": 4026,
+  "models": {
+    "10": [
+      3911
+    ]
+  },
+  "name": "Fractionalizing still",
+  "ambient": 30,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

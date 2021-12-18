@@ -1,0 +1,39 @@
+{
+  "id": 10375,
+  "models": {
+    "10": [
+      7914
+    ]
+  },
+  "name": "Tools",
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      5181
+    ],
+    [
+      57,
+      5177
+    ],
+    [
+      70,
+      5190
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

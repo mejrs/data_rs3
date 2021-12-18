@@ -1,0 +1,15 @@
+{
+  "id": 85674,
+  "models": {
+    "10": [
+      87338
+    ]
+  },
+  "name": "Bench",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": -10,
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

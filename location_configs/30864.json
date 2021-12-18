@@ -1,0 +1,49 @@
+{
+  "id": 30864,
+  "models": {
+    "0": [
+      9476
+    ],
+    "9": [
+      9477
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6945,
+      5545
+    ],
+    [
+      6940,
+      5541
+    ],
+    [
+      7064,
+      5665
+    ],
+    [
+      6038,
+      5660
+    ]
+  ],
+  "unknown_75": 0,
+  "unknown_170": 948,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

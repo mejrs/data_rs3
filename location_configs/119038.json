@@ -1,0 +1,19 @@
+{
+  "id": 119038,
+  "models": {
+    "10": [
+      120630
+    ]
+  },
+  "name": "Rex skeleton (incomplete)",
+  "dim_x": 5,
+  "dim_y": 8,
+  "actions": [
+    "Restore",
+    "Check restoration",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

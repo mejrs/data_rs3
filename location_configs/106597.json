@@ -1,0 +1,30 @@
+{
+  "id": 106597,
+  "models": {
+    "10": [
+      105327
+    ]
+  },
+  "name": "Portable crafter",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 22881,
+  "actions": [
+    "Tan Leather",
+    "Craft",
+    "Cut Gems",
+    "Clay Crafting",
+    "Configure"
+  ],
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    62,
+    null,
+    null,
+    null,
+    null
+  ]
+}

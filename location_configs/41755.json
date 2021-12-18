@@ -1,0 +1,19 @@
+{
+  "id": 41755,
+  "models": {
+    "0": [
+      45303
+    ]
+  },
+  "unknown_19": 0,
+  "occludes_1": false,
+  "ambient": 30,
+  "contrast": 30,
+  "textures": {
+    "1462": 1465,
+    "2062": 2073,
+    "2093": 2073
+  },
+  "mirror": true,
+  "unknown_170": 961
+}

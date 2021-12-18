@@ -1,0 +1,21 @@
+{
+  "id": 114423,
+  "models": {
+    "10": [
+      82069,
+      7767
+    ]
+  },
+  "name": "Dragonfruit cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

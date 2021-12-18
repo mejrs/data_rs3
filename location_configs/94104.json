@@ -1,0 +1,13 @@
+{
+  "id": 94104,
+  "models": {
+    "10": [
+      99963
+    ]
+  },
+  "name": "Seren Stone",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 64,
+  "occludes_2": false
+}

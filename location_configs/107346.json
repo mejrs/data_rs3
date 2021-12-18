@@ -1,0 +1,54 @@
+{
+  "id": 107346,
+  "models": {
+    "10": [
+      11231,
+      11237
+    ]
+  },
+  "name": "PLACEHOLDER Shattered World Exit Hub Portal.",
+  "dim_x": 2,
+  "unknown_24": 3174,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      50072,
+      103
+    ],
+    [
+      49948,
+      107
+    ],
+    [
+      49953,
+      111
+    ],
+    [
+      49829,
+      115
+    ],
+    [
+      49705,
+      119
+    ]
+  ],
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

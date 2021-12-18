@@ -1,0 +1,44 @@
+{
+  "id": 43597,
+  "models": {
+    "0": [
+      47338
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6594,
+      5547
+    ],
+    [
+      5559,
+      5537
+    ],
+    [
+      5404,
+      5532
+    ],
+    [
+      5524,
+      5532
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

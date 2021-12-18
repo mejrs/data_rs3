@@ -1,0 +1,29 @@
+{
+  "id": 104728,
+  "models": {
+    "10": [
+      114663
+    ]
+  },
+  "name": "Shrine",
+  "actions": [
+    "Worship",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 629,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5854": "shrines"
+  }
+}

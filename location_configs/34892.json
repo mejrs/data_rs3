@@ -1,0 +1,28 @@
+{
+  "id": 34892,
+  "models": {
+    "10": [
+      12466
+    ]
+  },
+  "name": "Dresser",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      3594,
+      7440
+    ],
+    [
+      4502,
+      7448
+    ],
+    [
+      4510,
+      7452
+    ]
+  ],
+  "translate_z": 16,
+  "occludes_2": false
+}

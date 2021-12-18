@@ -1,0 +1,18 @@
+{
+  "id": 98653,
+  "models": {
+    "10": [
+      106204
+    ]
+  },
+  "name": "Animal carcass",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "translate_x": 65486,
+  "translate_z": 80,
+  "occludes_2": false
+}

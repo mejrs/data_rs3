@@ -1,0 +1,13 @@
+{
+  "id": 74006,
+  "models": {
+    "10": [
+      72425
+    ]
+  },
+  "name": "Hammock",
+  "dim_x": 4,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 9437,
+  "models": {
+    "10": [
+      87572
+    ]
+  },
+  "name": "Bed",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Make",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

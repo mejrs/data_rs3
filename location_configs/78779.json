@@ -1,0 +1,21 @@
+{
+  "id": 78779,
+  "models": {
+    "10": [
+      4850
+    ]
+  },
+  "name": "Cannon",
+  "unknown_24": 18801,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

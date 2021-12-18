@@ -1,0 +1,30 @@
+{
+  "id": 105580,
+  "models": {
+    "10": [
+      110979
+    ]
+  },
+  "name": "Wooden lift",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

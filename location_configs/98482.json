@@ -1,0 +1,19 @@
+{
+  "id": 98482,
+  "models": {
+    "10": [
+      105872
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "mapfunction": 627,
+  "unknown_186": 2
+}

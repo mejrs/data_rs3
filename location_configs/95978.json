@@ -1,0 +1,49 @@
+{
+  "id": 95978,
+  "models": {
+    "10": [
+      103020
+    ]
+  },
+  "name": "Blood fountain",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Get blood from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "3673": 5560,
+    "3674": 5556,
+    "3675": 5557,
+    "3676": 5558,
+    "3677": 5559,
+    "3678": 5563,
+    "3679": 5562,
+    "3680": 5561
+  },
+  "mirror": true,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 4062,
+    "unknown_2": 5
+  },
+  "unknown_88": false,
+  "unknown_98": true,
+  "mapscene": 133,
+  "occludes_2": false,
+  "unknown_104": 150,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 10805,
+  "models": {
+    "10": [
+      10715
+    ]
+  },
+  "name": "Sandy's Desk",
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

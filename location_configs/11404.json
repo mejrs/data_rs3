@@ -1,0 +1,53 @@
+{
+  "id": 11404,
+  "models": {
+    "10": [
+      2260
+    ]
+  },
+  "name": "Fire",
+  "unknown_17": false,
+  "unknown_24": 475,
+  "ambient": 75,
+  "actions": [
+    null,
+    "Cook-at",
+    null,
+    null,
+    null
+  ],
+  "contrast": 75,
+  "colours": [
+    [
+      5043,
+      65181
+    ],
+    [
+      7105,
+      65209
+    ],
+    [
+      8137,
+      65485
+    ],
+    [
+      7130,
+      65234
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 3
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 50,
+  "cursors": [
+    null,
+    64,
+    null,
+    null,
+    null,
+    null
+  ]
+}

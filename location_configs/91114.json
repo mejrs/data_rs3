@@ -1,0 +1,19 @@
+{
+  "id": 91114,
+  "models": {
+    "10": [
+      96404
+    ]
+  },
+  "name": "Mysterious glow",
+  "ambient": 60,
+  "unknown_78": {
+    "unknown_1": 6772,
+    "unknown_2": 5
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 35,
+  "unknown_1": 230,
+  "unknown_2": 270
+}

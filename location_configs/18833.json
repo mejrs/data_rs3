@@ -1,0 +1,30 @@
+{
+  "id": 18833,
+  "models": {
+    "10": [
+      19125
+    ]
+  },
+  "name": "Troll ladder",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

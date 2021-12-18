@@ -1,0 +1,38 @@
+{
+  "id": 44354,
+  "models": {
+    "10": [
+      48266
+    ]
+  },
+  "name": "Massive ribs",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Remove-fur",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3763,
+      10322
+    ],
+    [
+      4905,
+      10314
+    ],
+    [
+      5027,
+      10307
+    ]
+  ],
+  "textures": {
+    "881": 404
+  },
+  "occludes_2": false
+}

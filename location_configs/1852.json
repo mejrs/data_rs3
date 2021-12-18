@@ -1,0 +1,11 @@
+{
+  "id": 1852,
+  "models": {
+    "10": [
+      2144
+    ]
+  },
+  "name": "Bay window",
+  "dim_y": 3,
+  "occludes_2": false
+}

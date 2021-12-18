@@ -1,0 +1,47 @@
+{
+  "id": 92010,
+  "models": {
+    "10": [
+      97121
+    ]
+  },
+  "name": "Mushroom",
+  "is_transparent": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      33210,
+      2490
+    ],
+    [
+      33204,
+      2484
+    ],
+    [
+      33200,
+      2480
+    ],
+    [
+      33192,
+      2472
+    ]
+  ],
+  "textures": {
+    "4787": 4789
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 83625,
+  "models": {
+    "10": [
+      85041,
+      85019
+    ]
+  },
+  "name": "Barricade table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Take 1",
+    "Take 5",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8477,
+      900
+    ],
+    [
+      8482,
+      905
+    ],
+    [
+      8487,
+      910
+    ],
+    [
+      8492,
+      915
+    ],
+    [
+      8497,
+      920
+    ],
+    [
+      8502,
+      925
+    ],
+    [
+      8507,
+      930
+    ],
+    [
+      8512,
+      935
+    ]
+  ],
+  "occludes_2": false
+}

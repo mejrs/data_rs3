@@ -1,0 +1,13 @@
+{
+  "id": 32252,
+  "models": {
+    "10": [
+      37248
+    ]
+  },
+  "name": "Tomb",
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 5,
+  "occludes_2": false
+}

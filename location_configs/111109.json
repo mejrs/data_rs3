@@ -1,0 +1,30 @@
+{
+  "id": 111109,
+  "models": {
+    "9": [
+      30814
+    ]
+  },
+  "name": "Cell door",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "mapscene": 22,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

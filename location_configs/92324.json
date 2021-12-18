@@ -1,0 +1,15 @@
+{
+  "id": 92324,
+  "models": {
+    "0": [
+      98247
+    ]
+  },
+  "name": "Fishing banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 486
+  },
+  "mapscene": 22
+}

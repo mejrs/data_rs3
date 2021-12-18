@@ -1,0 +1,30 @@
+{
+  "id": 86838,
+  "models": {
+    "10": [
+      88987
+    ]
+  },
+  "name": "Father Hackett",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 21106,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

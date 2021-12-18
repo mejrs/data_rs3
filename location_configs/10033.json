@@ -1,0 +1,25 @@
+{
+  "id": 10033,
+  "models": {
+    "10": [
+      9680
+    ]
+  },
+  "name": "Wall support",
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 4107,
+  "models": {
+    "0": [
+      37465
+    ]
+  },
+  "name": "Solid steel door",
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      36907,
+      36916
+    ],
+    [
+      30757,
+      36908
+    ],
+    [
+      32804,
+      36896
+    ]
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

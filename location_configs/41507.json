@@ -1,0 +1,17 @@
+{
+  "id": 41507,
+  "models": {
+    "10": [
+      44846
+    ]
+  },
+  "name": "Suit of armour",
+  "actions": [
+    "Borrow",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

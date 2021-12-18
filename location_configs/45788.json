@@ -1,0 +1,15 @@
+{
+  "id": 45788,
+  "models": {
+    "10": [
+      49161
+    ]
+  },
+  "name": "Egg shell",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

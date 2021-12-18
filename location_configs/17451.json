@@ -1,0 +1,14 @@
+{
+  "id": 17451,
+  "models": {
+    "10": [
+      17475,
+      17474,
+      17473
+    ]
+  },
+  "name": "Chess",
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

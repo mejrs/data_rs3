@@ -1,0 +1,24 @@
+{
+  "id": 13378,
+  "models": {
+    "10": [
+      17373,
+      17372
+    ]
+  },
+  "name": "Demon",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 65,
+  "scale_y": 65,
+  "scale_z": 65,
+  "occludes_2": false
+}

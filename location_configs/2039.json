@@ -1,0 +1,27 @@
+{
+  "id": 2039,
+  "models": {
+    "0": [
+      1509
+    ],
+    "9": [
+      1511
+    ]
+  },
+  "name": "Gate",
+  "actions": [
+    "Open",
+    "Quick open",
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

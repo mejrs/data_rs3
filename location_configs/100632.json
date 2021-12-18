@@ -1,0 +1,22 @@
+{
+  "id": 100632,
+  "models": {
+    "10": [
+      108311
+    ]
+  },
+  "name": "Hole",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  }
+}

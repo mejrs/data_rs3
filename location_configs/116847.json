@@ -1,0 +1,17 @@
+{
+  "id": 116847,
+  "models": {
+    "10": [
+      90734,
+      90754,
+      102821
+    ]
+  },
+  "name": "Aries sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 33174,
+  "unknown_27": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

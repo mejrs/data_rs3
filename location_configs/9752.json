@@ -1,0 +1,27 @@
+{
+  "id": 9752,
+  "models": {
+    "10": [
+      9721
+    ]
+  },
+  "name": "Crystal",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      43528,
+      54377
+    ]
+  ],
+  "occludes_2": false
+}

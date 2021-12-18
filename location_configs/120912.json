@@ -1,0 +1,23 @@
+{
+  "id": 120912,
+  "models": {
+    "10": [
+      1402
+    ]
+  },
+  "name": "Marker",
+  "unknown_19": 1,
+  "actions": [
+    "Place scarecrow",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      475
+    ]
+  }
+}

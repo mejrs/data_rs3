@@ -1,0 +1,14 @@
+{
+  "id": 38648,
+  "models": {
+    "10": [
+      41920
+    ]
+  },
+  "name": "Armour (level 50 approx.)",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

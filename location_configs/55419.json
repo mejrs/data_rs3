@@ -1,0 +1,19 @@
+{
+  "id": 55419,
+  "models": {
+    "0": [
+      60590
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 17,
+  "ambient": 45,
+  "contrast": 45,
+  "textures": {
+    "1468": 1453
+  },
+  "mirror": true,
+  "unknown_170": 954
+}

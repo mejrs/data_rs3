@@ -1,0 +1,37 @@
+{
+  "id": 12775,
+  "models": {
+    "10": [
+      14035
+    ]
+  },
+  "name": "Marius",
+  "dim_y": 2,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4550,
+      3301
+    ],
+    [
+      4540,
+      3293
+    ]
+  ],
+  "unknown_44": 6,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 31361,
+  "models": {
+    "10": [
+      34524
+    ]
+  },
+  "name": "Open tome",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

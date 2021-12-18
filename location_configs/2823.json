@@ -1,0 +1,25 @@
+{
+  "id": 2823,
+  "models": {
+    "10": [
+      1464
+    ]
+  },
+  "name": "Hole",
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

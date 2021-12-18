@@ -1,0 +1,18 @@
+{
+  "id": 12115,
+  "models": {
+    "10": [
+      1482
+    ]
+  },
+  "name": "Sacks",
+  "unknown_19": 1,
+  "ambient": 20,
+  "colours": [
+    [
+      8094,
+      7580
+    ]
+  ],
+  "occludes_2": false
+}

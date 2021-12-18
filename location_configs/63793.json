@@ -1,0 +1,39 @@
+{
+  "id": 63793,
+  "models": {
+    "4": [
+      9105
+    ]
+  },
+  "name": "Candle",
+  "unknown_19": 1,
+  "unknown_24": 12298,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6271,
+      7164
+    ],
+    [
+      5400,
+      4372
+    ],
+    [
+      5404,
+      4376
+    ],
+    [
+      5408,
+      4380
+    ],
+    [
+      5415,
+      4387
+    ]
+  ],
+  "translate_x": 65506,
+  "translate_y": 65476,
+  "translate_z": 65516,
+  "occludes_2": false
+}

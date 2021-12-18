@@ -1,0 +1,28 @@
+{
+  "id": 111052,
+  "models": {
+    "10": [
+      11152
+    ]
+  },
+  "name": "Broken cannon",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

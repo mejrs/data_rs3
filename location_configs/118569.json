@@ -1,0 +1,28 @@
+{
+  "id": 118569,
+  "models": {
+    "10": [
+      117403
+    ]
+  },
+  "dim_x": 4,
+  "unknown_19": 0,
+  "colours": [
+    [
+      51978,
+      20234
+    ]
+  ],
+  "textures": {
+    "12881": 13195
+  },
+  "scale_x": 100,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_78": {
+    "unknown_1": 49269,
+    "unknown_2": 8
+  },
+  "occludes_2": false,
+  "unknown_188": true
+}

@@ -1,0 +1,28 @@
+{
+  "id": 6363,
+  "models": {
+    "10": [
+      6198
+    ]
+  },
+  "name": "Door",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_24": 1909,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

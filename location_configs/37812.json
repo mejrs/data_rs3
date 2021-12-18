@@ -1,0 +1,34 @@
+{
+  "id": 37812,
+  "models": {
+    "10": [
+      1482
+    ]
+  },
+  "name": "Sack",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8094,
+      7451
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

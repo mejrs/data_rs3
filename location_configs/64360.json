@@ -1,0 +1,34 @@
+{
+  "id": 64360,
+  "models": {
+    "10": [
+      11976
+    ]
+  },
+  "name": "Vine",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 7,
+  "unknown_88": false,
+  "mapscene": 105,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

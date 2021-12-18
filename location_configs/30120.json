@@ -1,0 +1,25 @@
+{
+  "id": 30120,
+  "models": {
+    "10": [
+      32931
+    ]
+  },
+  "name": "Egg-painting machine",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_24": 11514,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 43193,
+  "models": {
+    "10": [
+      11126
+    ]
+  },
+  "name": "Mahogany wardrobe",
+  "ambient": 25,
+  "colours": [
+    [
+      3594,
+      2328
+    ],
+    [
+      4502,
+      2331
+    ],
+    [
+      4510,
+      2340
+    ]
+  ],
+  "occludes_2": false
+}

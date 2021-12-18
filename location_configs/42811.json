@@ -1,0 +1,17 @@
+{
+  "id": 42811,
+  "models": {
+    "10": [
+      46229
+    ]
+  },
+  "name": "Ice",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 11559,
+  "ambient": 25,
+  "contrast": 20,
+  "unknown_81": 28,
+  "unknown_89": false,
+  "occludes_2": false
+}

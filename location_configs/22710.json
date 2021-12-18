@@ -1,0 +1,15 @@
+{
+  "id": 22710,
+  "models": {
+    "10": [
+      23345,
+      23347
+    ]
+  },
+  "name": "Statue",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

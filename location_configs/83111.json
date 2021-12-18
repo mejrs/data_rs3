@@ -1,0 +1,23 @@
+{
+  "id": 83111,
+  "models": {
+    "10": [
+      72098
+    ]
+  },
+  "name": "Spiritual warrior",
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        14740,
+        100
+      ],
+      [
+        14741,
+        100
+      ]
+    ]
+  }
+}

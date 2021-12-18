@@ -1,0 +1,36 @@
+{
+  "id": 119347,
+  "models": {
+    "10": [
+      102595,
+      96640,
+      102664
+    ]
+  },
+  "name": "Pylon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 33160,
+  "actions": [
+    "Charge",
+    "Check charge",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      46523,
+      28725
+    ]
+  ],
+  "textures": {
+    "1440": 12373
+  },
+  "unknown_78": {
+    "unknown_1": 1821,
+    "unknown_2": 6
+  },
+  "occludes_2": false,
+  "unknown_104": 225
+}

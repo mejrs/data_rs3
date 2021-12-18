@@ -1,0 +1,30 @@
+{
+  "id": 3334,
+  "models": {
+    "10": [
+      96216
+    ]
+  },
+  "name": "Door",
+  "dim_y": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

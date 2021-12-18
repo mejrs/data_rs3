@@ -1,0 +1,33 @@
+{
+  "id": 2544,
+  "models": {
+    "10": [
+      1543
+    ]
+  },
+  "name": "Manhole",
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      49,
+      37
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

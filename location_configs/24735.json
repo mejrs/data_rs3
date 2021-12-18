@@ -1,0 +1,31 @@
+{
+  "id": 24735,
+  "models": {
+    "10": [
+      25955
+    ]
+  },
+  "name": "Beanstalk",
+  "actions": [
+    null,
+    null,
+    "Chop",
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  },
+  "cursors": [
+    null,
+    null,
+    59,
+    null,
+    null,
+    null
+  ]
+}

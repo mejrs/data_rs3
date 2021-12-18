@@ -1,0 +1,25 @@
+{
+  "id": 100706,
+  "models": {
+    "10": [
+      108299
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 45,
+  "model": false,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "unknown_186": 0
+}

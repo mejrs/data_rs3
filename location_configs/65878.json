@@ -1,0 +1,21 @@
+{
+  "id": 65878,
+  "models": {
+    "10": [
+      27770,
+      27859
+    ]
+  },
+  "name": "Sacks",
+  "unknown_24": 15601,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

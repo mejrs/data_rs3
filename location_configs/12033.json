@@ -1,0 +1,30 @@
+{
+  "id": 12033,
+  "models": {
+    "10": [
+      9291
+    ]
+  },
+  "name": "Entrance",
+  "unknown_19": 1,
+  "unknown_24": 2604,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 120,
+  "occludes_2": false,
+  "member_actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

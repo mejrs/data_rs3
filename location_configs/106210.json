@@ -1,0 +1,17 @@
+{
+  "id": 106210,
+  "models": {
+    "10": [
+      91322
+    ]
+  },
+  "name": "Nothingness",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

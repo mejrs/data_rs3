@@ -1,0 +1,18 @@
+{
+  "id": 15934,
+  "models": {
+    "10": [
+      15771,
+      15770
+    ]
+  },
+  "name": "Workbench",
+  "actions": [
+    "Take-tool",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

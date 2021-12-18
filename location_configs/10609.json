@@ -1,0 +1,27 @@
+{
+  "id": 10609,
+  "models": {
+    "10": [
+      37375
+    ]
+  },
+  "name": "Bronze Chest (black)",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      36907,
+      6491
+    ],
+    [
+      30757,
+      6448
+    ],
+    [
+      32804,
+      6469
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 61042,
+  "models": {
+    "0": [
+      45828
+    ]
+  },
+  "name": "Locked jail door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Break lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

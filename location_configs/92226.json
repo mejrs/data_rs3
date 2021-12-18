@@ -1,0 +1,29 @@
+{
+  "id": 92226,
+  "models": {
+    "10": [
+      97802
+    ]
+  },
+  "name": "Anvil",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

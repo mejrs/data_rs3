@@ -1,0 +1,20 @@
+{
+  "id": 22700,
+  "models": {
+    "10": [
+      63674
+    ]
+  },
+  "name": "Temporary wall",
+  "dim_x": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

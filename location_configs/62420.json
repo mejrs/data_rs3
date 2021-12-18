@@ -1,0 +1,29 @@
+{
+  "id": 62420,
+  "models": {
+    "10": [
+      30200,
+      30227
+    ]
+  },
+  "name": "Saradomin symbol",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

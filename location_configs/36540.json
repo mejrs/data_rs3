@@ -1,0 +1,57 @@
+{
+  "id": 36540,
+  "models": {
+    "10": [
+      38287
+    ]
+  },
+  "name": "Steps",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8247,
+      6317
+    ],
+    [
+      8243,
+      6313
+    ],
+    [
+      8239,
+      6309
+    ],
+    [
+      8235,
+      6305
+    ],
+    [
+      8231,
+      6301
+    ],
+    [
+      8227,
+      6297
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

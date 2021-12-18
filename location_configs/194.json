@@ -1,0 +1,29 @@
+{
+  "id": 194,
+  "models": {
+    "10": [
+      732
+    ]
+  },
+  "name": "Hollowed rock",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

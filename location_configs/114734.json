@@ -1,0 +1,29 @@
+{
+  "id": 114734,
+  "models": {
+    "10": [
+      8020
+    ]
+  },
+  "name": "Pile of presents",
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 920,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

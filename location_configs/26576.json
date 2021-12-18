@@ -1,0 +1,24 @@
+{
+  "id": 26576,
+  "models": {
+    "0": [
+      28454
+    ],
+    "1": [
+      28460
+    ],
+    "9": [
+      28453
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "textures": {
+    "1487": 1493,
+    "1498": 1527
+  }
+}

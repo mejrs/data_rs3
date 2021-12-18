@@ -1,0 +1,22 @@
+{
+  "id": 20264,
+  "models": {
+    "10": [
+      97794
+    ]
+  },
+  "name": "Egg hopper",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5432,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Load",
+    "Look in",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

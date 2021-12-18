@@ -1,0 +1,34 @@
+{
+  "id": 12607,
+  "models": {
+    "10": [
+      13614,
+      13612,
+      13611
+    ]
+  },
+  "name": "Banana tree",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3351,
+  "models": {
+    "10": [
+      1822
+    ]
+  },
+  "name": "Cage",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 83070,
+  "models": {
+    "10": [
+      84220,
+      84218
+    ]
+  },
+  "name": "Complete destination",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      4645
+    ]
+  ],
+  "occludes_2": false
+}

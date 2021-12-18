@@ -1,0 +1,29 @@
+{
+  "id": 4827,
+  "models": {
+    "10": [
+      110153,
+      110156
+    ]
+  },
+  "name": "Pineapple Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

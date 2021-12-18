@@ -1,0 +1,20 @@
+{
+  "id": 19839,
+  "models": {
+    "10": [
+      1618
+    ]
+  },
+  "name": "Fern",
+  "unknown_17": false,
+  "colours": [
+    [
+      17304,
+      16291
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

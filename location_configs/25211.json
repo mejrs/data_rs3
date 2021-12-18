@@ -1,0 +1,11 @@
+{
+  "id": 25211,
+  "models": {
+    "10": [
+      26558
+    ]
+  },
+  "name": "Magic door",
+  "ambient": 10,
+  "occludes_2": false
+}

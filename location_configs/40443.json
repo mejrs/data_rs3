@@ -1,0 +1,24 @@
+{
+  "id": 40443,
+  "models": {
+    "10": [
+      64744
+    ]
+  },
+  "name": "Trade wagon",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8102,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

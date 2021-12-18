@@ -1,0 +1,32 @@
+{
+  "id": 46487,
+  "models": {
+    "10": [
+      78297,
+      90208
+    ]
+  },
+  "name": "Thorgel",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 101,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

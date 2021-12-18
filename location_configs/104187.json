@@ -1,0 +1,13 @@
+{
+  "id": 104187,
+  "models": {
+    "10": [
+      113431
+    ]
+  },
+  "name": "Hanging fish",
+  "unknown_27": false,
+  "ambient": 40,
+  "model": false,
+  "occludes_2": false
+}

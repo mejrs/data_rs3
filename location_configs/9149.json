@@ -1,0 +1,19 @@
+{
+  "id": 9149,
+  "models": {
+    "10": [
+      1149
+    ]
+  },
+  "name": "Gold Screen",
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6032,
+      7745
+    ]
+  ],
+  "occludes_2": false
+}

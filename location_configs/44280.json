@@ -1,0 +1,15 @@
+{
+  "id": 44280,
+  "models": {
+    "10": [
+      48120
+    ]
+  },
+  "name": "Dermot",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 12036,
+  "ambient": 15,
+  "occludes_2": false
+}

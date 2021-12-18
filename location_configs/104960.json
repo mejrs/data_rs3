@@ -1,0 +1,28 @@
+{
+  "id": 104960,
+  "models": {
+    "10": [
+      89082
+    ]
+  },
+  "name": "Skulls thief",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 103437,
+  "models": {
+    "10": [
+      70420
+    ]
+  },
+  "name": "Fractionation still",
+  "ambient": 25,
+  "occludes_2": false
+}

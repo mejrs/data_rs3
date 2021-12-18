@@ -1,0 +1,14 @@
+{
+  "id": 33325,
+  "models": {
+    "10": [
+      46547
+    ]
+  },
+  "name": "A dais",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

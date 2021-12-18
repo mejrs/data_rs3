@@ -1,0 +1,36 @@
+{
+  "id": 32191,
+  "models": {
+    "10": [
+      37520
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 5,
+  "colours": [
+    [
+      6672,
+      47130
+    ],
+    [
+      6674,
+      47141
+    ],
+    [
+      6676,
+      47141
+    ]
+  ],
+  "textures": {
+    "1846": 1845
+  },
+  "mirror": true,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

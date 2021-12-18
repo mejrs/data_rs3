@@ -1,0 +1,22 @@
+{
+  "id": 95092,
+  "models": {
+    "10": [
+      66748,
+      101618
+    ]
+  },
+  "name": "Small obelisk",
+  "unknown_24": 25607,
+  "ambient": 10,
+  "actions": [
+    "Renew-points",
+    "Teleport to Pikkupstix",
+    null,
+    null,
+    null
+  ],
+  "contrast": 84,
+  "unknown_81": 20,
+  "occludes_2": false
+}

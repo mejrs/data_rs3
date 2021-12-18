@@ -1,0 +1,12 @@
+{
+  "id": 110015,
+  "models": {
+    "10": [
+      1893
+    ]
+  },
+  "name": "Festival hops",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

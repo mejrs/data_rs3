@@ -1,0 +1,25 @@
+{
+  "id": 94485,
+  "models": {
+    "10": [
+      100020,
+      98443
+    ]
+  },
+  "name": "Harmony pillar (Divination)",
+  "ambient": 37,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

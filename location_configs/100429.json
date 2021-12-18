@@ -1,0 +1,32 @@
+{
+  "id": 100429,
+  "models": {
+    "10": [
+      108014,
+      108029
+    ]
+  },
+  "name": "Ice block",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Craft",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

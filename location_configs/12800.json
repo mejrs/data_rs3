@@ -1,0 +1,11 @@
+{
+  "id": 12800,
+  "models": {
+    "10": [
+      13963
+    ]
+  },
+  "name": "Bank Booth",
+  "is_transparent": true,
+  "occludes_2": false
+}

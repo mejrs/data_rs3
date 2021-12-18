@@ -1,0 +1,28 @@
+{
+  "id": 53517,
+  "models": {
+    "10": [
+      1409
+    ]
+  },
+  "name": "Stones",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

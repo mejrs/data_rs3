@@ -1,0 +1,11 @@
+{
+  "id": 19124,
+  "models": {
+    "10": [
+      19464
+    ]
+  },
+  "name": "Shark head",
+  "ambient": 25,
+  "occludes_2": false
+}

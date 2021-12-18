@@ -1,0 +1,26 @@
+{
+  "id": 103206,
+  "models": {
+    "10": [
+      112860
+    ]
+  },
+  "name": "The Gate of Lloigh-enn",
+  "dim_x": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

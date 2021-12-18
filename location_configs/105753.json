@@ -1,0 +1,25 @@
+{
+  "id": 105753,
+  "models": {
+    "10": [
+      115979
+    ]
+  },
+  "name": "Light shard (Red)",
+  "unknown_19": 1,
+  "ambient": 35,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      0,
+      940
+    ]
+  ],
+  "occludes_2": false
+}

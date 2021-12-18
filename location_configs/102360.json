@@ -1,0 +1,17 @@
+{
+  "id": 102360,
+  "models": {
+    "10": [
+      111717
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 64,
+  "mirror": true,
+  "model": false,
+  "translate_y": 65521,
+  "occludes_2": false
+}

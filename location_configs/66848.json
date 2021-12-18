@@ -1,0 +1,21 @@
+{
+  "id": 66848,
+  "models": {
+    "10": [
+      35915
+    ]
+  },
+  "name": "Pottery Wheel",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Form",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

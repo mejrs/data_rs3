@@ -1,0 +1,28 @@
+{
+  "id": 41433,
+  "models": {
+    "10": [
+      43955
+    ]
+  },
+  "name": "Drawers",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5660,
+      5914
+    ],
+    [
+      4750,
+      5904
+    ],
+    [
+      5908,
+      5912
+    ]
+  ],
+  "occludes_2": false
+}

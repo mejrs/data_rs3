@@ -1,0 +1,18 @@
+{
+  "id": 111975,
+  "models": {
+    "10": [
+      60310
+    ]
+  },
+  "name": "Shackle",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

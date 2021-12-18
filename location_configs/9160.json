@@ -1,0 +1,15 @@
+{
+  "id": 9160,
+  "models": {
+    "10": [
+      9229,
+      9230
+    ]
+  },
+  "name": "Candles",
+  "unknown_24": 2564,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false
+}

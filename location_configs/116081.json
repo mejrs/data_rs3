@@ -1,0 +1,18 @@
+{
+  "id": 116081,
+  "models": {
+    "10": [
+      87236
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_24": 33217,
+  "unknown_27": false,
+  "unknown_81": 80,
+  "mapscene": 1,
+  "occludes_2": false,
+  "unknown_188": true,
+  "unknown_196": 4
+}

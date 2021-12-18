@@ -1,0 +1,28 @@
+{
+  "id": 6083,
+  "models": {
+    "10": [
+      1146
+    ]
+  },
+  "name": "Closed bank booth",
+  "is_transparent": true,
+  "colours": [
+    [
+      7056,
+      5404
+    ],
+    [
+      6814,
+      6697
+    ],
+    [
+      20,
+      43051
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 100,
+  "scale_z": 128,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 2326,
+  "models": {
+    "10": [
+      2273
+    ]
+  },
+  "name": "Branch",
+  "dim_y": 6,
+  "unknown_17": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

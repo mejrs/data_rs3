@@ -1,0 +1,25 @@
+{
+  "id": 2672,
+  "models": {
+    "10": [
+      72638
+    ]
+  },
+  "name": "An experimental anvil",
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 33202,
+  "models": {
+    "10": [
+      37478
+    ]
+  },
+  "name": "Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "occludes_2": false
+}

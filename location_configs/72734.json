@@ -1,0 +1,19 @@
+{
+  "id": 72734,
+  "models": {
+    "10": [
+      70886,
+      70890
+    ]
+  },
+  "name": "Tunnel",
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false
+}

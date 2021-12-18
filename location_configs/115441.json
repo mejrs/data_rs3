@@ -1,0 +1,21 @@
+{
+  "id": 115441,
+  "models": {
+    "10": [
+      89337
+    ]
+  },
+  "unknown_19": 0,
+  "colours": [
+    [
+      64,
+      55172
+    ]
+  ],
+  "textures": {
+    "8868": 11982
+  },
+  "scale_y": 1040,
+  "translate_y": 300,
+  "occludes_2": false
+}

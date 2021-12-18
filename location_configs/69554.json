@@ -1,0 +1,29 @@
+{
+  "id": 69554,
+  "models": {
+    "10": [
+      63399
+    ]
+  },
+  "name": "Achey Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 80,
+  "mapscene": 0,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 41907,
+  "models": {
+    "10": [
+      45441
+    ]
+  },
+  "name": "Mastic tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Harvest-twigs",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      3609,
+      6296
+    ],
+    [
+      3612,
+      6299
+    ],
+    [
+      3614,
+      6301
+    ]
+  ],
+  "unknown_81": 32,
+  "is_members": true,
+  "mapscene": 0,
+  "occludes_2": false
+}

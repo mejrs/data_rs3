@@ -1,0 +1,11 @@
+{
+  "id": 15227,
+  "models": {
+    "10": [
+      15074,
+      15078
+    ]
+  },
+  "name": "Engine Platform",
+  "occludes_2": false
+}

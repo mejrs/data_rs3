@@ -1,0 +1,33 @@
+{
+  "id": 18989,
+  "models": {
+    "10": [
+      46021
+    ]
+  },
+  "name": "Ur-lun",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 1721,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      6024,
+      8293
+    ],
+    [
+      900,
+      8412
+    ],
+    [
+      6051,
+      536
+    ],
+    [
+      5916,
+      532
+    ]
+  ],
+  "occludes_2": false
+}

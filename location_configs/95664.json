@@ -1,0 +1,31 @@
+{
+  "id": 95664,
+  "models": {
+    "0": [
+      102708
+    ]
+  },
+  "name": "Tomb door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 4338,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "model": false,
+  "unknown_89": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

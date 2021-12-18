@@ -1,0 +1,30 @@
+{
+  "id": 23856,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      6535,
+      903
+    ],
+    [
+      6545,
+      913
+    ]
+  ],
+  "unknown_73": true,
+  "morphs_1": {
+    "varbit": 5387,
+    "ids": [
+      23840,
+      23845
+    ]
+  },
+  "unknown_167": 50,
+  "params": {
+    "1159": 23856,
+    "1158": 23855
+  }
+}

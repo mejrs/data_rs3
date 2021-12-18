@@ -1,0 +1,21 @@
+{
+  "id": 98536,
+  "models": {
+    "10": [
+      105744
+    ]
+  },
+  "name": "Branching crystal",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      0
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 12785,
+  "models": {
+    "10": [
+      14028,
+      14030
+    ]
+  },
+  "name": "Bucket",
+  "is_transparent": true,
+  "unknown_24": 3558,
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 30887,
+  "models": {
+    "10": [
+      64611
+    ]
+  },
+  "name": "Empty bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 92381,
+  "models": {
+    "4": [
+      98212
+    ]
+  },
+  "name": "Trahaearn voicestone",
+  "unknown_19": 1,
+  "unknown_24": 24597,
+  "ambient": 64,
+  "translate_x": 65393,
+  "translate_y": 349,
+  "translate_z": 219,
+  "occludes_2": false
+}

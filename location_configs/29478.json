@@ -1,0 +1,22 @@
+{
+  "id": 29478,
+  "models": {
+    "10": [
+      32259
+    ]
+  },
+  "name": "Hole",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Dig",
+    "Flag",
+    "Inspect",
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 112640,
+  "models": {
+    "10": [
+      68730,
+      68809,
+      68740
+    ]
+  },
+  "name": "Medicine shelf",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Explore",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

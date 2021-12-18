@@ -1,0 +1,15 @@
+{
+  "id": 4911,
+  "models": {
+    "10": [
+      57775,
+      57788
+    ]
+  },
+  "name": "Commodore Matthias",
+  "unknown_24": 14193,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

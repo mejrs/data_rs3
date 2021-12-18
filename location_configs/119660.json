@@ -1,0 +1,24 @@
+{
+  "id": 119660,
+  "models": {
+    "4": [
+      78019
+    ]
+  },
+  "name": "Banner",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

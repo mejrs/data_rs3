@@ -1,0 +1,19 @@
+{
+  "id": 41687,
+  "models": {
+    "10": [
+      26945,
+      26585
+    ]
+  },
+  "name": "Fire",
+  "unknown_24": 6853,
+  "ambient": 75,
+  "contrast": 75,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 3
+  },
+  "unknown_88": false,
+  "occludes_2": false
+}

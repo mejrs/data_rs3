@@ -1,0 +1,52 @@
+{
+  "id": 112969,
+  "models": {
+    "0": [
+      21249
+    ]
+  },
+  "name": "Drakolith vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      6848
+    ],
+    [
+      37,
+      6848
+    ],
+    [
+      49,
+      6848
+    ],
+    [
+      45,
+      6848
+    ]
+  ],
+  "model": false,
+  "scale_y": 153,
+  "is_members": true,
+  "mapscene": 12,
+  "unknown_170": 1149,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 13282,
+  "models": {
+    "10": [
+      12568
+    ]
+  },
+  "name": "Statue",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

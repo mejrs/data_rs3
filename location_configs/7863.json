@@ -1,0 +1,25 @@
+{
+  "id": 7863,
+  "models": {
+    "10": [
+      7848,
+      7767
+    ]
+  },
+  "name": "Dead limpwurt plant",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      12833,
+      31630
+    ]
+  ],
+  "occludes_2": false
+}

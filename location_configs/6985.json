@@ -1,0 +1,12 @@
+{
+  "id": 6985,
+  "models": {
+    "10": [
+      7102
+    ]
+  },
+  "name": "Crusher",
+  "dim_x": 2,
+  "unknown_24": 2135,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 16353,
+  "models": {
+    "10": [
+      57578
+    ]
+  },
+  "name": "Big red button",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  }
+}

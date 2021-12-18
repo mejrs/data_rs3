@@ -1,0 +1,16 @@
+{
+  "id": 7241,
+  "models": {
+    "10": [
+      7573,
+      7571,
+      7572
+    ]
+  },
+  "name": "Pendulum",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 2204,
+  "occludes_2": false
+}

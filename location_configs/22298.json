@@ -1,0 +1,36 @@
+{
+  "id": 22298,
+  "models": {
+    "10": [
+      11129
+    ]
+  },
+  "name": "Locker",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      10388
+    ],
+    [
+      7952,
+      10392
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

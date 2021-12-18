@@ -1,0 +1,26 @@
+{
+  "id": 14000,
+  "models": {
+    "10": [
+      1433
+    ]
+  },
+  "unknown_19": 0,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

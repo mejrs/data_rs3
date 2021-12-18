@@ -1,0 +1,30 @@
+{
+  "id": 94229,
+  "models": {
+    "10": [
+      99939
+    ]
+  },
+  "name": "Light rift",
+  "dim_x": 10,
+  "dim_y": 10,
+  "unknown_19": 1,
+  "actions": [
+    "Convert cores",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    200,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 96636,
+  "models": {
+    "10": [
+      103583
+    ]
+  },
+  "name": "Bathysphere",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Surface",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 20,
+  "occludes_2": false
+}

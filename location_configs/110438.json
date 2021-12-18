@@ -1,0 +1,29 @@
+{
+  "id": 110438,
+  "models": {
+    "10": [
+      118301,
+      17401
+    ]
+  },
+  "name": "Crate (hidey-hole)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "model": false,
+  "translate_z": 65466,
+  "occludes_2": false,
+  "params": {
+    "6896": 32
+  }
+}

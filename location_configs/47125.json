@@ -1,0 +1,30 @@
+{
+  "id": 47125,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "morphs_1": {
+    "varbit": 11145,
+    "ids": [
+      null,
+      47126
+    ]
+  },
+  "unknown_88": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

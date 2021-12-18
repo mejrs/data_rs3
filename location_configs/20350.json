@@ -1,0 +1,35 @@
+{
+  "id": 20350,
+  "models": {
+    "10": [
+      63720
+    ]
+  },
+  "name": "Machine",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      127,
+      5146
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

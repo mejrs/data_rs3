@@ -1,0 +1,29 @@
+{
+  "id": 55636,
+  "models": {
+    "10": [
+      61883
+    ]
+  },
+  "name": "Farming patch (featherfoil fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      9653,
+      51406
+    ],
+    [
+      9672,
+      51427
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    "Replace"
+  ]
+}

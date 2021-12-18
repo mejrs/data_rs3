@@ -1,0 +1,22 @@
+{
+  "id": 61566,
+  "models": {
+    "10": [
+      57940
+    ]
+  },
+  "name": "Black stone",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "translate_y": 65532,
+  "occludes_2": false
+}

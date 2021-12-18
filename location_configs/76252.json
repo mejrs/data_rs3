@@ -1,0 +1,17 @@
+{
+  "id": 76252,
+  "models": {
+    "10": [
+      75875,
+      75908
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "occludes_2": false
+}

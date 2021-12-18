@@ -1,0 +1,42 @@
+{
+  "id": 95853,
+  "models": {
+    "10": [
+      103042
+    ]
+  },
+  "name": "Throne room door",
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "3673": 5560,
+    "3674": 5556,
+    "3675": 5557,
+    "3676": 5558,
+    "3677": 5559,
+    "3678": 5563,
+    "3679": 5562,
+    "3680": 5561
+  },
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

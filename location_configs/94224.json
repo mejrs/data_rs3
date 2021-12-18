@@ -1,0 +1,21 @@
+{
+  "id": 94224,
+  "models": {
+    "10": [
+      98467
+    ]
+  },
+  "name": "Iorwerth",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "South:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

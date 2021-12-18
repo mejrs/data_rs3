@@ -1,0 +1,16 @@
+{
+  "id": 105541,
+  "models": {
+    "10": [
+      115272
+    ]
+  },
+  "name": "Hunter supplies",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 90994,
+  "models": {
+    "10": [
+      95909
+    ]
+  },
+  "name": "Yelps's chest",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

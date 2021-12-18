@@ -1,0 +1,30 @@
+{
+  "id": 105413,
+  "models": {
+    "10": [
+      115303
+    ]
+  },
+  "name": "Trapdoor",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 42,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 130,
+  "scale_y": 130,
+  "scale_z": 130,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

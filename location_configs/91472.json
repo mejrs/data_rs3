@@ -1,0 +1,59 @@
+{
+  "id": 91472,
+  "models": {
+    "0": [
+      97017
+    ]
+  },
+  "name": "Low wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Climb over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21534,
+      14494
+    ],
+    [
+      21530,
+      14490
+    ],
+    [
+      21526,
+      14614
+    ],
+    [
+      21522,
+      14610
+    ],
+    [
+      21646,
+      14734
+    ],
+    [
+      21642,
+      14858
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128,
+  "mapscene": 21,
+  "unknown_170": 577,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 83068,
+  "models": {
+    "10": [
+      84220
+    ]
+  },
+  "name": "Active destination",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false
+}

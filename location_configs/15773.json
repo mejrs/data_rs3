@@ -1,0 +1,11 @@
+{
+  "id": 15773,
+  "models": {
+    "10": [
+      15628
+    ]
+  },
+  "name": "Ruins",
+  "ambient": 20,
+  "occludes_2": false
+}

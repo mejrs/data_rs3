@@ -1,0 +1,24 @@
+{
+  "id": 97788,
+  "models": {
+    "10": [
+      4992
+    ]
+  },
+  "name": "Broken bell",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 42,
+  "scale_y": 42,
+  "scale_z": 42,
+  "occludes_2": false
+}

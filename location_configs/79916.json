@@ -1,0 +1,33 @@
+{
+  "id": 79916,
+  "models": {
+    "10": [
+      80628,
+      80633
+    ]
+  },
+  "name": "Door",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

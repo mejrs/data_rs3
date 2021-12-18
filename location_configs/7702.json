@@ -1,0 +1,36 @@
+{
+  "id": 7702,
+  "models": {
+    "10": [
+      7826,
+      7767,
+      7815
+    ]
+  },
+  "name": "Redberry bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      22166
+    ],
+    [
+      8722,
+      5400
+    ],
+    [
+      6364,
+      821
+    ]
+  ],
+  "occludes_2": false
+}

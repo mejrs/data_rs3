@@ -1,0 +1,38 @@
+{
+  "id": 7335,
+  "models": {
+    "10": [
+      7392,
+      7678
+    ]
+  },
+  "name": "Shelves",
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6430,
+      6445
+    ],
+    [
+      5400,
+      5417
+    ]
+  ],
+  "unknown_44": 48,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

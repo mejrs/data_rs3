@@ -1,0 +1,36 @@
+{
+  "id": 114502,
+  "models": {
+    "10": [
+      82537,
+      7767
+    ]
+  },
+  "name": "Diseased ciku tree",
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      17569,
+      1195
+    ],
+    [
+      3245,
+      2212
+    ]
+  ],
+  "textures": {
+    "11713": 11717,
+    "11723": 11724
+  },
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "unknown_88": false,
+  "occludes_2": false
+}

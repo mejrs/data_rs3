@@ -1,0 +1,43 @@
+{
+  "id": 80,
+  "models": {
+    "0": [
+      44355
+    ]
+  },
+  "name": "Prison door",
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10388,
+      10261
+    ],
+    [
+      10392,
+      10264
+    ],
+    [
+      10508,
+      10252
+    ]
+  ],
+  "mirror": true,
+  "unknown_69": 13,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

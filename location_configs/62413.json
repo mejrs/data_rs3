@@ -1,0 +1,24 @@
+{
+  "id": 62413,
+  "models": {
+    "10": [
+      12413,
+      1828
+    ]
+  },
+  "name": "War's demon statue",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "translate_x": 65473,
+  "translate_z": 15,
+  "occludes_2": false
+}

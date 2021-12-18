@@ -1,0 +1,28 @@
+{
+  "id": 14057,
+  "models": {
+    "18": [
+      14369
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "colours": [
+    [
+      5404,
+      6689
+    ],
+    [
+      5413,
+      7721
+    ],
+    [
+      5524,
+      6693
+    ]
+  ],
+  "unknown_44": 52,
+  "mirror": true,
+  "scale_y": 117,
+  "occludes_2": false
+}

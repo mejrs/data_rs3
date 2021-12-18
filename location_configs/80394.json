@@ -1,0 +1,33 @@
+{
+  "id": 80394,
+  "models": {
+    "10": [
+      80810,
+      80855,
+      80832
+    ]
+  },
+  "name": "Green chair",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      1556,
+      22036
+    ],
+    [
+      1576,
+      22056
+    ]
+  ],
+  "unknown_44": 6,
+  "occludes_2": false
+}

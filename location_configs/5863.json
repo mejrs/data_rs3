@@ -1,0 +1,12 @@
+{
+  "id": 5863,
+  "models": {
+    "10": [
+      5693
+    ]
+  },
+  "name": "Burial cairn",
+  "dim_y": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

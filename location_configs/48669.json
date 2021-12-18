@@ -1,0 +1,63 @@
+{
+  "id": 48669,
+  "models": {
+    "10": [
+      52375,
+      91973
+    ]
+  },
+  "name": "Sapphire demon statuette",
+  "unknown_19": 1,
+  "unknown_24": 12899,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      478,
+      38686
+    ],
+    [
+      931,
+      38702
+    ],
+    [
+      918,
+      38718
+    ]
+  ],
+  "unknown_79": {
+    "unknown_1": 150,
+    "unknown_2": 300,
+    "unknown_3": 3,
+    "values": [
+      34416,
+      34256,
+      30311,
+      29778,
+      26895,
+      29701,
+      28724,
+      32003,
+      34898,
+      31627
+    ]
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 160,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

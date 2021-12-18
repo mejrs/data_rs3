@@ -1,0 +1,21 @@
+{
+  "id": 45238,
+  "models": {
+    "10": [
+      48811
+    ]
+  },
+  "name": "Counter",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2075": 3171,
+    "2106": 3179
+  },
+  "occludes_2": false
+}

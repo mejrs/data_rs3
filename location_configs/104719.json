@@ -1,0 +1,32 @@
+{
+  "id": 104719,
+  "models": {
+    "10": [
+      114870
+    ]
+  },
+  "name": "Tortle portal",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Activate",
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 612,
+  "cursors": [
+    null,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 38746
+  }
+}

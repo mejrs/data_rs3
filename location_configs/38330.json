@@ -1,0 +1,20 @@
+{
+  "id": 38330,
+  "models": {
+    "10": [
+      41751
+    ]
+  },
+  "name": "Gyroscope",
+  "unknown_24": 10200,
+  "ambient": 20,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

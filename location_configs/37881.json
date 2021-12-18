@@ -1,0 +1,25 @@
+{
+  "id": 37881,
+  "models": {
+    "10": [
+      1407
+    ]
+  },
+  "name": "Stones",
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      39,
+      7197
+    ],
+    [
+      41,
+      7201
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

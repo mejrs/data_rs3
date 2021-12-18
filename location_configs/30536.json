@@ -1,0 +1,27 @@
+{
+  "id": 30536,
+  "models": {
+    "10": [
+      33629
+    ]
+  },
+  "name": "Wall storage",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

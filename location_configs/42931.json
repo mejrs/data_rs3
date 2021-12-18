@@ -1,0 +1,29 @@
+{
+  "id": 42931,
+  "models": {
+    "0": [
+      46615
+    ]
+  },
+  "name": "Uninviting hole",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

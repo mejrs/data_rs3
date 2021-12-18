@@ -1,0 +1,43 @@
+{
+  "id": 10267,
+  "models": {
+    "10": [
+      10023
+    ]
+  },
+  "name": "Shield Display",
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7064,
+      6028
+    ],
+    [
+      6945,
+      7054
+    ],
+    [
+      6821,
+      6932
+    ],
+    [
+      6697,
+      6808
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

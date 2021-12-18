@@ -1,0 +1,28 @@
+{
+  "id": 62419,
+  "models": {
+    "10": [
+      30211
+    ]
+  },
+  "name": "Stele",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

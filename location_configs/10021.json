@@ -1,0 +1,12 @@
+{
+  "id": 10021,
+  "models": {
+    "10": [
+      96344
+    ]
+  },
+  "name": "Pillar",
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

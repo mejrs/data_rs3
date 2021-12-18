@@ -1,0 +1,31 @@
+{
+  "id": 77842,
+  "models": {
+    "10": [
+      77870
+    ]
+  },
+  "name": "Last Riders",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

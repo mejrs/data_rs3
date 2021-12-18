@@ -1,0 +1,33 @@
+{
+  "id": 78086,
+  "models": {
+    "22": [
+      70931
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4499,
+      36247
+    ],
+    [
+      4503,
+      36261
+    ],
+    [
+      4509,
+      36267
+    ]
+  ],
+  "textures": {
+    "2377": 1985
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

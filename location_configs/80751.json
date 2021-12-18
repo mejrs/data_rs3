@@ -1,0 +1,17 @@
+{
+  "id": 80751,
+  "models": {
+    "10": [
+      81209,
+      81213
+    ]
+  },
+  "name": "Obsidian staff",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65520,
+  "occludes_2": false
+}

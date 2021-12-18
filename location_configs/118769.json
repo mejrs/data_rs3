@@ -1,0 +1,17 @@
+{
+  "id": 118769,
+  "models": {
+    "10": [
+      120994
+    ]
+  },
+  "name": "Stage",
+  "dim_x": 6,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,14 @@
+{
+  "id": 99935,
+  "models": {
+    "10": [
+      87703
+    ]
+  },
+  "name": "Makeshift bed",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "occludes_2": false
+}

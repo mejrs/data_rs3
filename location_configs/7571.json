@@ -1,0 +1,38 @@
+{
+  "id": 7571,
+  "models": {
+    "10": [
+      7904,
+      7767
+    ]
+  },
+  "name": "Dead belladonna",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      52426,
+      54338
+    ],
+    [
+      17831,
+      10407
+    ],
+    [
+      19875,
+      10403
+    ],
+    [
+      18198,
+      10398
+    ]
+  ],
+  "unknown_44": 29,
+  "occludes_2": false
+}

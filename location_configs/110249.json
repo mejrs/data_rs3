@@ -1,0 +1,24 @@
+{
+  "id": 110249,
+  "models": {
+    "10": [
+      76495
+    ]
+  },
+  "name": "Hole",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Reach in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

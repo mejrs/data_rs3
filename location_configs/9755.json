@@ -1,0 +1,26 @@
+{
+  "id": 9755,
+  "models": {
+    "10": [
+      1226
+    ]
+  },
+  "name": "Open chest",
+  "actions": [
+    "Search",
+    "Shut",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 14005,
+  "models": {
+    "10": [
+      14095,
+      14097
+    ]
+  },
+  "name": "Pot boiler",
+  "unknown_19": 1,
+  "actions": [
+    "Add-pot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

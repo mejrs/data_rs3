@@ -1,0 +1,23 @@
+{
+  "id": 42623,
+  "models": {
+    "10": [
+      45973
+    ]
+  },
+  "name": "Spear",
+  "dim_x": 9,
+  "unknown_21": true,
+  "unknown_24": 11339,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

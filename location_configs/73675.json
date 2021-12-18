@@ -1,0 +1,21 @@
+{
+  "id": 73675,
+  "models": {
+    "10": [
+      71728
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 196,
+  "scale_y": 196,
+  "scale_z": 196,
+  "occludes_2": false
+}

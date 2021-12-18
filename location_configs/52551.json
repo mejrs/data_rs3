@@ -1,0 +1,15 @@
+{
+  "id": 52551,
+  "models": {
+    "10": [
+      68886
+    ]
+  },
+  "name": "Swaying tree",
+  "dim_x": 4,
+  "dim_y": 4,
+  "ambient": 40,
+  "contrast": 40,
+  "unknown_98": true,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 69122,
+  "models": {
+    "10": [
+      68127
+    ]
+  },
+  "name": "Reinitialisation Panel",
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

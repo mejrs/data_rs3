@@ -1,0 +1,20 @@
+{
+  "id": 113746,
+  "models": {
+    "10": [
+      58421
+    ]
+  },
+  "name": "Slayer helmet stand",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Add helmet",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 20,
+  "occludes_2": false
+}

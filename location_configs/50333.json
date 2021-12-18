@@ -1,0 +1,31 @@
+{
+  "id": 50333,
+  "models": {
+    "10": [
+      55205
+    ]
+  },
+  "name": "Dark spirit",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13555,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Exorcise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false
+}

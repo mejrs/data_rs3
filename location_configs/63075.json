@@ -1,0 +1,15 @@
+{
+  "id": 63075,
+  "models": {
+    "10": [
+      57913
+    ]
+  },
+  "name": "Statue",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65521,
+  "occludes_2": false
+}

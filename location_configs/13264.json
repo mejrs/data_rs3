@@ -1,0 +1,19 @@
+{
+  "id": 13264,
+  "models": {
+    "0": [
+      13296
+    ]
+  },
+  "name": "Stained-glass window",
+  "ambient": 10,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

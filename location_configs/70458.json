@@ -1,0 +1,30 @@
+{
+  "id": 70458,
+  "models": {
+    "10": [
+      69142,
+      69146
+    ]
+  },
+  "name": "Rock fragment",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 16626,
+  "ambient": 25,
+  "actions": [
+    "Siphon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2868": 2863
+  },
+  "model": false,
+  "translate_y": 65532,
+  "unknown_81": 88,
+  "unknown_88": false,
+  "occludes_2": false
+}

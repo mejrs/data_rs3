@@ -1,0 +1,14 @@
+{
+  "id": 118562,
+  "models": {
+    "10": [
+      120842
+    ]
+  },
+  "name": "Shackles",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_24": 33722,
+  "unknown_89": false,
+  "occludes_2": false
+}

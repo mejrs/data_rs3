@@ -1,0 +1,13 @@
+{
+  "id": 11841,
+  "models": {
+    "10": [
+      11676
+    ]
+  },
+  "name": "Bricks",
+  "ambient": 20,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

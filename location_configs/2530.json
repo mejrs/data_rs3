@@ -1,0 +1,53 @@
+{
+  "id": 2530,
+  "models": {
+    "10": [
+      8232
+    ]
+  },
+  "name": "Barrel",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5784,
+      7444
+    ],
+    [
+      5660,
+      7448
+    ],
+    [
+      5665,
+      7452
+    ],
+    [
+      5541,
+      7456
+    ],
+    [
+      5281,
+      7179
+    ],
+    [
+      5161,
+      35881
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

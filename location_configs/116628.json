@@ -1,0 +1,38 @@
+{
+  "id": 116628,
+  "models": {
+    "10": [
+      93922
+    ]
+  },
+  "name": "Odd helmet",
+  "unknown_19": 1,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      62763,
+      19755
+    ]
+  ],
+  "textures": {
+    "12284": 12609
+  },
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

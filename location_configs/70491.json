@@ -1,0 +1,68 @@
+{
+  "id": 70491,
+  "models": {
+    "10": [
+      69468
+    ]
+  },
+  "name": "Mist platform",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      4519,
+      56601
+    ],
+    [
+      4523,
+      56605
+    ],
+    [
+      4531,
+      56613
+    ],
+    [
+      4662,
+      56744
+    ],
+    [
+      4666,
+      56748
+    ],
+    [
+      4670,
+      56752
+    ],
+    [
+      4676,
+      56758
+    ]
+  ],
+  "textures": {
+    "2864": 2869,
+    "2874": 2861
+  },
+  "model": false,
+  "translate_y": 112,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 47949,
+  "models": {
+    "10": [
+      51504
+    ]
+  },
+  "name": "Strange device",
+  "dim_x": 9,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12752,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "unknown_69": 11,
+  "unknown_78": {
+    "unknown_1": 33550,
+    "unknown_2": 5
+  },
+  "occludes_2": false
+}

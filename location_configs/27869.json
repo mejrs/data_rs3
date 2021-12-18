@@ -1,0 +1,35 @@
+{
+  "id": 27869,
+  "models": {
+    "10": [
+      50150
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      3470,
+      49422
+    ],
+    [
+      3466,
+      49418
+    ],
+    [
+      410,
+      49427
+    ],
+    [
+      402,
+      49422
+    ]
+  ],
+  "mapscene": 69,
+  "occludes_2": false
+}

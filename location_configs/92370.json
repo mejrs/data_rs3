@@ -1,0 +1,16 @@
+{
+  "id": 92370,
+  "models": {
+    "4": [
+      98242
+    ]
+  },
+  "name": "Defence banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 483
+  },
+  "mapscene": 22,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 98876,
+  "models": {
+    "10": [
+      106322
+    ]
+  },
+  "name": "Chair",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65494,
+  "translate_z": 65494,
+  "occludes_2": false,
+  "params": {
+    "5321": 9532
+  }
+}

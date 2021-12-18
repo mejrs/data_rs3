@@ -1,0 +1,14 @@
+{
+  "id": 45033,
+  "models": {
+    "10": [
+      48577
+    ]
+  },
+  "name": "ra3_office_wall_hole_above",
+  "dim_y": 2,
+  "unknown_27": false,
+  "unknown_81": 40,
+  "unknown_88": false,
+  "occludes_2": false
+}

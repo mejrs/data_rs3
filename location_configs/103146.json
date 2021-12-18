@@ -1,0 +1,15 @@
+{
+  "id": 103146,
+  "models": {
+    "10": [
+      112541
+    ]
+  },
+  "name": "Falling wall",
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_24": 28778,
+  "ambient": 25,
+  "unknown_89": false,
+  "occludes_2": false
+}

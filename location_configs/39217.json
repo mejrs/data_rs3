@@ -1,0 +1,33 @@
+{
+  "id": 39217,
+  "models": {
+    "10": [
+      25671,
+      25685,
+      25684
+    ]
+  },
+  "name": "Guard",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 10457,
+  "ambient": 20,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

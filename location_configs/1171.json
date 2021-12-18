@@ -1,0 +1,26 @@
+{
+  "id": 1171,
+  "models": {
+    "10": [
+      1609
+    ]
+  },
+  "name": "Fungus",
+  "is_transparent": true,
+  "colours": [
+    [
+      6090,
+      8732
+    ],
+    [
+      5594,
+      10541
+    ],
+    [
+      5970,
+      10541
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

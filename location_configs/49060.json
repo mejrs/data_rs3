@@ -1,0 +1,27 @@
+{
+  "id": 49060,
+  "models": {
+    "10": [
+      12455
+    ]
+  },
+  "name": "Teak table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      6439
+    ],
+    [
+      6682,
+      6424
+    ]
+  ],
+  "scale_x": 64,
+  "scale_z": 64,
+  "occludes_2": false
+}

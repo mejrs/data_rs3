@@ -1,0 +1,20 @@
+{
+  "id": 87368,
+  "models": {
+    "10": [
+      90537,
+      90536
+    ]
+  },
+  "name": "Damaged pillar",
+  "dim_y": 7,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 65280,
+  "unknown_89": false,
+  "occludes_2": false
+}

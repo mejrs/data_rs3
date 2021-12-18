@@ -1,0 +1,35 @@
+{
+  "id": 17627,
+  "models": {
+    "10": [
+      18174
+    ]
+  },
+  "name": "Washing Line",
+  "dim_x": 5,
+  "unknown_24": 4778,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      6439,
+      10382
+    ],
+    [
+      37995,
+      29084
+    ],
+    [
+      37982,
+      29084
+    ],
+    [
+      6443,
+      10382
+    ]
+  ],
+  "unknown_44": 57,
+  "scale_x": 140,
+  "translate_y": 65443,
+  "occludes_2": false
+}

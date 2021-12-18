@@ -1,0 +1,29 @@
+{
+  "id": 39206,
+  "models": {
+    "10": [
+      42418
+    ]
+  },
+  "name": "Rubble mound",
+  "dim_x": 3,
+  "unknown_21": true,
+  "ambient": 5,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

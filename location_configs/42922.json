@@ -1,0 +1,27 @@
+{
+  "id": 42922,
+  "models": {
+    "0": [
+      46565
+    ]
+  },
+  "name": "Decorated door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 46808,
+  "models": {
+    "10": [
+      50314
+    ]
+  },
+  "name": "Candlestand",
+  "unknown_19": 1,
+  "unknown_24": 12298,
+  "ambient": 25,
+  "actions": [
+    "Web",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    150,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

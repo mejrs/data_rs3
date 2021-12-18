@@ -1,0 +1,28 @@
+{
+  "id": 19126,
+  "models": {
+    "10": [
+      19774
+    ]
+  },
+  "name": "Plank",
+  "unknown_24": 3743,
+  "ambient": 10,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

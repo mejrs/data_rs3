@@ -1,0 +1,20 @@
+{
+  "id": 99380,
+  "models": {
+    "10": [
+      96942
+    ]
+  },
+  "name": "Cliff",
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

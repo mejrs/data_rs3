@@ -1,0 +1,32 @@
+{
+  "id": 20801,
+  "models": {
+    "10": [
+      63270
+    ]
+  },
+  "name": "Singing bowl",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Sing-glass",
+    "Revert-crystal",
+    "Fill",
+    "Empty",
+    null
+  ],
+  "colours": [
+    [
+      32889,
+      6080
+    ],
+    [
+      38005,
+      6086
+    ]
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

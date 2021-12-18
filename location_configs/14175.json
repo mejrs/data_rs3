@@ -1,0 +1,22 @@
+{
+  "id": 14175,
+  "models": {
+    "10": [
+      11026
+    ]
+  },
+  "name": "Power-up",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      21456
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

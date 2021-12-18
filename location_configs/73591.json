@@ -1,0 +1,27 @@
+{
+  "id": 73591,
+  "models": {
+    "0": [
+      71422
+    ]
+  },
+  "name": "Hole",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

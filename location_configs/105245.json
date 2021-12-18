@@ -1,0 +1,26 @@
+{
+  "id": 105245,
+  "models": {
+    "0": [
+      41154
+    ],
+    "10": [
+      41153
+    ]
+  },
+  "name": "Wall",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "ambient": -42,
+  "model": false,
+  "member_actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ]
+}

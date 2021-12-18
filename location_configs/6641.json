@@ -1,0 +1,26 @@
+{
+  "id": 6641,
+  "models": {
+    "10": [
+      6443
+    ]
+  },
+  "name": "Canopic Jar",
+  "unknown_17": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

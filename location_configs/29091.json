@@ -1,0 +1,15 @@
+{
+  "id": 29091,
+  "models": {
+    "10": [
+      68892,
+      68891
+    ]
+  },
+  "name": "Spear spit",
+  "dim_x": 9,
+  "dim_y": 3,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

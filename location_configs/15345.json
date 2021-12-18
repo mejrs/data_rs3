@@ -1,0 +1,17 @@
+{
+  "id": 15345,
+  "models": {
+    "10": [
+      12697
+    ]
+  },
+  "name": "Elemental balance space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

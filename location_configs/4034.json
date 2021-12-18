@@ -1,0 +1,19 @@
+{
+  "id": 4034,
+  "models": {
+    "10": [
+      1883
+    ]
+  },
+  "name": "Strange crystal",
+  "unknown_19": 1,
+  "unknown_24": 13645,
+  "actions": [
+    "Touch",
+    "Get-premonition",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

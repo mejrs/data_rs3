@@ -1,0 +1,48 @@
+{
+  "id": 29936,
+  "models": {
+    "10": [
+      31644
+    ]
+  },
+  "name": "Net trap",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 5269,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10334,
+      8518
+    ],
+    [
+      10330,
+      8509
+    ],
+    [
+      10326,
+      8629
+    ],
+    [
+      10314,
+      41
+    ],
+    [
+      10306,
+      33
+    ],
+    [
+      10297,
+      24
+    ]
+  ],
+  "unknown_75": 0,
+  "mapscene": 68,
+  "occludes_2": false
+}

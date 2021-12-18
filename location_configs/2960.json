@@ -1,0 +1,26 @@
+{
+  "id": 2960,
+  "models": {
+    "10": [
+      1391
+    ]
+  },
+  "name": "Rocky Ledge",
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

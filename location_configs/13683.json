@@ -1,0 +1,21 @@
+{
+  "id": 13683,
+  "models": {
+    "10": [
+      13125
+    ]
+  },
+  "name": "Greater magic circle",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 3616,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

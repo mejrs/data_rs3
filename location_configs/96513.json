@@ -1,0 +1,18 @@
+{
+  "id": 96513,
+  "models": {
+    "10": [
+      76650
+    ]
+  },
+  "name": "Camel",
+  "unknown_24": 9669,
+  "actions": [
+    "Stack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

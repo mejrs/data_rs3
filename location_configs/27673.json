@@ -1,0 +1,13 @@
+{
+  "id": 27673,
+  "models": {
+    "10": [
+      29657
+    ]
+  },
+  "name": "Hospital bench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 0,
+  "occludes_2": false
+}

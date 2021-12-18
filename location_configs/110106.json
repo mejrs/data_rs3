@@ -1,0 +1,25 @@
+{
+  "id": 110106,
+  "models": {
+    "10": [
+      13969
+    ]
+  },
+  "name": "Bookcase",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

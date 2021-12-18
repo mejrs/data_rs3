@@ -1,0 +1,25 @@
+{
+  "id": 18424,
+  "models": {
+    "10": [
+      23975
+    ]
+  },
+  "name": "Tent",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_z": 110,
+  "occludes_2": false
+}

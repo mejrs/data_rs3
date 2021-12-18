@@ -1,0 +1,36 @@
+{
+  "id": 9008,
+  "models": {
+    "10": [
+      4138
+    ]
+  },
+  "name": "Funeral pyre",
+  "dim_y": 3,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7050,
+      6585
+    ],
+    [
+      7582,
+      5665
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

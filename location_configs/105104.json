@@ -1,0 +1,29 @@
+{
+  "id": 105104,
+  "models": {
+    "10": [
+      113650,
+      113651
+    ]
+  },
+  "name": "Tuai Leit moai",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

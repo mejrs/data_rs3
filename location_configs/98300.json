@@ -1,0 +1,21 @@
+{
+  "id": 98300,
+  "models": {
+    "10": [
+      84713
+    ]
+  },
+  "name": "Battle standard for Zamorak",
+  "unknown_24": 9642,
+  "actions": [
+    "For Zamorak!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 4
+  }
+}

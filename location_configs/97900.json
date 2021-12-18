@@ -1,0 +1,22 @@
+{
+  "id": 97900,
+  "models": {
+    "10": [
+      105225
+    ]
+  },
+  "name": "Ancient statue",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 32,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

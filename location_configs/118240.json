@@ -1,0 +1,21 @@
+{
+  "id": 118240,
+  "models": {
+    "10": [
+      92165
+    ]
+  },
+  "name": "Slayer master's Ouija board",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 65,
+  "actions": [
+    "Manage souls",
+    "Enter build mode",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

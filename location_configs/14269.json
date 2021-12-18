@@ -1,0 +1,14 @@
+{
+  "id": 14269,
+  "models": {
+    "10": [
+      14499
+    ]
+  },
+  "name": "Lander hatch",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "occludes_2": false,
+  "unknown_196": 3
+}

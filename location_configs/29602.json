@@ -1,0 +1,25 @@
+{
+  "id": 29602,
+  "models": {
+    "0": [
+      32431
+    ]
+  },
+  "name": "Jail entrance",
+  "ambient": 15,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

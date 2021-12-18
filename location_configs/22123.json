@@ -1,0 +1,14 @@
+{
+  "id": 22123,
+  "models": {
+    "10": [
+      22942
+    ]
+  },
+  "name": "Stand",
+  "unknown_24": 5906,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

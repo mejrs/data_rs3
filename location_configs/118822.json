@@ -1,0 +1,18 @@
+{
+  "id": 118822,
+  "models": {
+    "10": [
+      103661
+    ]
+  },
+  "name": "Netting",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 210,
+  "scale_y": 210,
+  "scale_z": 210,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,15 @@
+{
+  "id": 117758,
+  "models": {
+    "10": [
+      62160
+    ]
+  },
+  "name": "Sneezy plant",
+  "unknown_21": true,
+  "ambient": 25,
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

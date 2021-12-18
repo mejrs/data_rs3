@@ -1,0 +1,29 @@
+{
+  "id": 116522,
+  "models": {
+    "10": [
+      106497,
+      109308
+    ]
+  },
+  "name": "Water",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 0,
+  "actions": [
+    "Dive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 84983,
+  "models": {
+    "10": [
+      87095,
+      87094
+    ]
+  },
+  "name": "War pig machine",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_24": 20422,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Train pig",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

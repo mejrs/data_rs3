@@ -1,0 +1,26 @@
+{
+  "id": 5829,
+  "models": {
+    "10": [
+      3262
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "colours": [
+    [
+      6689,
+      5656
+    ],
+    [
+      6569,
+      5904
+    ]
+  ],
+  "translate_x": 65478,
+  "translate_y": 0,
+  "translate_z": 0,
+  "occludes_2": false,
+  "unknown_196": 3
+}

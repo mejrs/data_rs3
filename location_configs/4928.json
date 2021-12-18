@@ -1,0 +1,18 @@
+{
+  "id": 4928,
+  "models": {
+    "10": [
+      4895
+    ]
+  },
+  "name": "Crystal outcrop",
+  "unknown_21": true,
+  "actions": [
+    "Cut",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

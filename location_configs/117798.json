@@ -1,0 +1,37 @@
+{
+  "id": 117798,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Sunken column",
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Jump across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_y": 300,
+  "scale_z": 900,
+  "unknown_69": 10,
+  "translate_y": 100,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 78073,
+  "models": {
+    "4": [
+      78397
+    ]
+  },
+  "name": "Tools",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 65506,
+  "translate_z": 65516,
+  "occludes_2": false
+}

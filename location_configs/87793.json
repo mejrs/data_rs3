@@ -1,0 +1,25 @@
+{
+  "id": 87793,
+  "models": {
+    "10": [
+      90904
+    ]
+  },
+  "name": "Cage",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false
+}

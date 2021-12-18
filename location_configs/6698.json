@@ -1,0 +1,13 @@
+{
+  "id": 6698,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "morphs_2": {
+    "varbit": 11647,
+    "ids": [
+      61488,
+      61489
+    ],
+    "default": 61488
+  }
+}

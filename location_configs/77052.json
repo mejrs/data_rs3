@@ -1,0 +1,54 @@
+{
+  "id": 77052,
+  "models": {
+    "10": [
+      77750
+    ]
+  },
+  "name": "Crevice",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21547,
+      7335
+    ],
+    [
+      21543,
+      7330
+    ],
+    [
+      21539,
+      7325
+    ],
+    [
+      21534,
+      7320
+    ],
+    [
+      21530,
+      7315
+    ]
+  ],
+  "textures": {
+    "1493": 2396,
+    "1527": 2381
+  },
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

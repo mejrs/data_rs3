@@ -1,0 +1,30 @@
+{
+  "id": 9356,
+  "models": {
+    "10": [
+      62770
+    ]
+  },
+  "name": "Fight Cave",
+  "dim_x": 4,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

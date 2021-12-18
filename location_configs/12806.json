@@ -1,0 +1,29 @@
+{
+  "id": 12806,
+  "models": {
+    "10": [
+      10998,
+      11001
+    ]
+  },
+  "name": "Broken furnace",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

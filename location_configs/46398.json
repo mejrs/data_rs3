@@ -1,0 +1,28 @@
+{
+  "id": 46398,
+  "models": {
+    "10": [
+      49496
+    ]
+  },
+  "name": "Fence",
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      6439,
+      4641
+    ],
+    [
+      6430,
+      4760
+    ],
+    [
+      6550,
+      5008
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

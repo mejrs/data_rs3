@@ -1,0 +1,23 @@
+{
+  "id": 104085,
+  "models": {
+    "10": [
+      113462
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "textures": {
+    "3183": 7394,
+    "3626": 7397,
+    "3629": 7396,
+    "3653": 7395
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

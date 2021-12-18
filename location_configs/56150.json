@@ -1,0 +1,33 @@
+{
+  "id": 56150,
+  "models": {
+    "10": [
+      61278
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_79": {
+    "unknown_1": 150,
+    "unknown_2": 400,
+    "unknown_3": 20,
+    "values": [
+      43507,
+      43532,
+      43542,
+      43543,
+      2901,
+      2901,
+      2901,
+      2901
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 200,
+  "unknown_1": 230,
+  "unknown_2": 270
+}

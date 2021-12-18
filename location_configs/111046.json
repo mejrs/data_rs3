@@ -1,0 +1,26 @@
+{
+  "id": 111046,
+  "models": {
+    "10": [
+      95382
+    ]
+  },
+  "name": "Cracked hull",
+  "dim_x": 11,
+  "dim_y": 13,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Dive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 240,
+  "translate_z": 64384,
+  "occludes_2": false,
+  "unknown_188": true
+}

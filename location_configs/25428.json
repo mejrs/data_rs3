@@ -1,0 +1,14 @@
+{
+  "id": 25428,
+  "models": {
+    "10": [
+      27081
+    ]
+  },
+  "name": "Empty desk",
+  "dim_x": 2,
+  "dim_y": 2,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

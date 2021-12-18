@@ -1,0 +1,34 @@
+{
+  "id": 67635,
+  "models": {
+    "10": [
+      55163
+    ]
+  },
+  "name": "Fire pit",
+  "unknown_19": 1,
+  "unknown_24": 475,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Cook-at",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "cursors": [
+    null,
+    64,
+    null,
+    null,
+    null,
+    null
+  ]
+}

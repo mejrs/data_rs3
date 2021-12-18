@@ -1,0 +1,13 @@
+{
+  "id": 104743,
+  "models": {
+    "10": [
+      114928
+    ]
+  },
+  "name": "XP lamps",
+  "is_transparent": true,
+  "ambient": 42,
+  "model": false,
+  "occludes_2": false
+}

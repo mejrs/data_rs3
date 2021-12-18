@@ -1,0 +1,32 @@
+{
+  "id": 106090,
+  "models": {
+    "10": [
+      99467
+    ]
+  },
+  "name": "Gap",
+  "dim_x": 3,
+  "is_transparent": true,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      388
+    ]
+  },
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

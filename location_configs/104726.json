@@ -1,0 +1,31 @@
+{
+  "id": 104726,
+  "models": {
+    "10": [
+      114916
+    ]
+  },
+  "name": "Wooden tortem",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "mapfunction": 629,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5854": "wooden tortems"
+  }
+}

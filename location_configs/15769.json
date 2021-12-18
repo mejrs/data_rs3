@@ -1,0 +1,13 @@
+{
+  "id": 15769,
+  "models": {
+    "10": [
+      15622
+    ]
+  },
+  "name": "Cave",
+  "unknown_22": true,
+  "ambient": 70,
+  "unknown_88": false,
+  "occludes_2": false
+}

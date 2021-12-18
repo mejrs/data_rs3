@@ -1,0 +1,24 @@
+{
+  "id": 98726,
+  "models": {
+    "10": [
+      106263
+    ]
+  },
+  "name": "Broken window",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "translate_x": 80,
+  "translate_y": 160,
+  "translate_z": 22,
+  "unknown_78": {
+    "unknown_1": 944,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "unknown_188": true
+}

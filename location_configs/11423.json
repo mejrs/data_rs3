@@ -1,0 +1,26 @@
+{
+  "id": 11423,
+  "models": {
+    "4": [
+      37988
+    ]
+  },
+  "name": "Grill",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

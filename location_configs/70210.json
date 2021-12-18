@@ -1,0 +1,20 @@
+{
+  "id": 70210,
+  "models": {
+    "10": [
+      69079
+    ]
+  },
+  "name": "Ritual marker",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 11958,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

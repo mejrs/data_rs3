@@ -1,0 +1,22 @@
+{
+  "id": 63118,
+  "models": {
+    "10": [
+      4264
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 18,
+  "contrast": 15,
+  "textures": {
+    "2980": 9001
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_95": 65487,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 3
+}

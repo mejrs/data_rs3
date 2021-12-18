@@ -1,0 +1,31 @@
+{
+  "id": 113016,
+  "models": {
+    "10": [
+      98546
+    ]
+  },
+  "name": "Seren stone",
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

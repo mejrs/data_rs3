@@ -1,0 +1,36 @@
+{
+  "id": 7674,
+  "models": {
+    "10": [
+      7826,
+      7767,
+      7815
+    ]
+  },
+  "name": "Poison Ivy bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick-from",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      21033
+    ],
+    [
+      8722,
+      21272
+    ],
+    [
+      6364,
+      6618
+    ]
+  ],
+  "occludes_2": false
+}

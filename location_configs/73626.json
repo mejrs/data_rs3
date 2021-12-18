@@ -1,0 +1,31 @@
+{
+  "id": 73626,
+  "models": {
+    "0": [
+      18786
+    ]
+  },
+  "name": "Tripwire",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "blocks_ranged": true,
+  "mapscene": 22,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

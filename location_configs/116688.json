@@ -1,0 +1,19 @@
+{
+  "id": 116688,
+  "models": {
+    "22": [
+      120459
+    ]
+  },
+  "name": "Forget-me-nots",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false,
+  "unknown_196": 1
+}

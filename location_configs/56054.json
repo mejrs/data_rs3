@@ -1,0 +1,15 @@
+{
+  "id": 56054,
+  "models": {
+    "10": [
+      61507
+    ]
+  },
+  "name": "Celestial staff",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

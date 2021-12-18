@@ -1,0 +1,17 @@
+{
+  "id": 65225,
+  "models": {
+    "10": [
+      20387
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_81": 40,
+  "mapscene": 11,
+  "occludes_2": false,
+  "unknown_196": 2
+}

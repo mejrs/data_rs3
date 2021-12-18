@@ -1,0 +1,31 @@
+{
+  "id": 112691,
+  "models": {
+    "10": [
+      96457
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      15629,
+      33018
+    ]
+  ],
+  "textures": {
+    "2216": 2221,
+    "2217": 2221,
+    "2218": 2221,
+    "2219": 2221,
+    "2222": 2221
+  },
+  "model": false,
+  "unknown_81": 42,
+  "occludes_2": false,
+  "unknown_189": true
+}

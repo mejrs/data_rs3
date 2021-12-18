@@ -1,0 +1,16 @@
+{
+  "id": 41381,
+  "models": {
+    "22": [
+      44783
+    ]
+  },
+  "name": "Floor",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 1112,
+  "ambient": 20,
+  "contrast": 15,
+  "unknown_73": true,
+  "occludes_2": false
+}

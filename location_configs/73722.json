@@ -1,0 +1,43 @@
+{
+  "id": 73722,
+  "models": {
+    "10": [
+      64862
+    ]
+  },
+  "name": "Blue tree",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
+  "unknown_81": 80,
+  "mapscene": 1,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 10661,
+  "models": {
+    "22": [
+      7364
+    ]
+  },
+  "name": "Plank",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Walk-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false,
+  "unknown_167": 60,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

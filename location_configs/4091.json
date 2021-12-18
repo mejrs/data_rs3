@@ -1,0 +1,25 @@
+{
+  "id": 4091,
+  "models": {
+    "10": [
+      4150
+    ]
+  },
+  "name": "Fire altar",
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

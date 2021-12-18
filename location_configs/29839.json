@@ -1,0 +1,27 @@
+{
+  "id": 29839,
+  "models": {
+    "10": [
+      32622
+    ]
+  },
+  "name": "Incubator instructions",
+  "ambient": 5,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

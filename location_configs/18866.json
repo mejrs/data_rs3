@@ -1,0 +1,13 @@
+{
+  "id": 18866,
+  "models": {
+    "10": [
+      19118
+    ]
+  },
+  "name": "Deckchair",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "occludes_2": false
+}

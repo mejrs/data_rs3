@@ -1,0 +1,26 @@
+{
+  "id": 2812,
+  "models": {
+    "10": [
+      1203
+    ]
+  },
+  "name": "Ladder",
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

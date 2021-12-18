@@ -1,0 +1,12 @@
+{
+  "id": 12319,
+  "models": {
+    "10": [
+      13427
+    ]
+  },
+  "name": "Chair",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

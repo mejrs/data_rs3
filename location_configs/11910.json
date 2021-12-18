@@ -1,0 +1,12 @@
+{
+  "id": 11910,
+  "models": {
+    "10": [
+      11536
+    ]
+  },
+  "name": "Creature",
+  "dim_x": 2,
+  "ambient": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 12135,
+  "models": {
+    "10": [
+      12116
+    ]
+  },
+  "name": "Coffin",
+  "ambient": 10,
+  "contrast": 5,
+  "occludes_2": false
+}

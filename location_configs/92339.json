@@ -1,0 +1,15 @@
+{
+  "id": 92339,
+  "models": {
+    "0": [
+      98253
+    ]
+  },
+  "name": "Prayer banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 476
+  },
+  "mapscene": 22
+}

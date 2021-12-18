@@ -1,0 +1,19 @@
+{
+  "id": 7154,
+  "models": {
+    "10": [
+      7434
+    ]
+  },
+  "name": "Passage",
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

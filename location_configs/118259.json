@@ -1,0 +1,25 @@
+{
+  "id": 118259,
+  "models": {
+    "10": [
+      12712
+    ]
+  },
+  "name": "Ladder space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

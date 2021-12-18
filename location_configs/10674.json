@@ -1,0 +1,19 @@
+{
+  "id": 10674,
+  "models": {
+    "10": [
+      10466,
+      10557
+    ]
+  },
+  "name": "Paintcans",
+  "dim_x": 2,
+  "actions": [
+    "Paint-bauble",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

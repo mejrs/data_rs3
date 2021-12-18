@@ -1,0 +1,20 @@
+{
+  "id": 119387,
+  "models": {
+    "10": [
+      96039,
+      95735,
+      89803
+    ]
+  },
+  "name": "Armarium debris",
+  "unknown_21": true,
+  "ambient": 32,
+  "textures": {
+    "11930": 12376,
+    "11931": 12377,
+    "12338": 12335
+  },
+  "unknown_98": true,
+  "occludes_2": false
+}

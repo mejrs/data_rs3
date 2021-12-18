@@ -1,0 +1,22 @@
+{
+  "id": 114507,
+  "models": {
+    "10": [
+      82569,
+      7768
+    ]
+  },
+  "name": "Dead ciku tree",
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "unknown_88": false,
+  "occludes_2": false
+}

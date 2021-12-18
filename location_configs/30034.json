@@ -1,0 +1,32 @@
+{
+  "id": 30034,
+  "models": {
+    "22": [
+      17368
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10266,
+      34900
+    ],
+    [
+      10270,
+      34927
+    ],
+    [
+      10275,
+      34915
+    ]
+  ],
+  "textures": {
+    "2377": 1155
+  },
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

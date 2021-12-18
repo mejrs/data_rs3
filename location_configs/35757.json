@@ -1,0 +1,22 @@
+{
+  "id": 35757,
+  "models": {
+    "10": [
+      11125
+    ]
+  },
+  "name": "Wardrobe",
+  "ambient": 25,
+  "colours": [
+    [
+      4502,
+      7954
+    ],
+    [
+      4510,
+      7582
+    ]
+  ],
+  "scale_y": 112,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 106675,
+  "models": {
+    "10": [
+      117250
+    ]
+  },
+  "name": "Cosmetics stall",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Buy",
+    null,
+    "Search",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    56,
+    null,
+    null,
+    null
+  ]
+}

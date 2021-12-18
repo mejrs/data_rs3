@@ -1,0 +1,23 @@
+{
+  "id": 2951,
+  "models": {
+    "10": [
+      1770
+    ]
+  },
+  "name": "Rotten Yommi",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "colours": [
+    [
+      6315,
+      11045
+    ],
+    [
+      8497,
+      11045
+    ]
+  ],
+  "occludes_2": false
+}

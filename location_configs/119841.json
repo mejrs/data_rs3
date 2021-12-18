@@ -1,0 +1,16 @@
+{
+  "id": 119841,
+  "models": {
+    "10": [
+      121849,
+      121930
+    ]
+  },
+  "name": "Stove",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 34048,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_188": true
+}

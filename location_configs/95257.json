@@ -1,0 +1,15 @@
+{
+  "id": 95257,
+  "models": {
+    "10": [
+      101629
+    ]
+  },
+  "name": "Butterfly",
+  "unknown_19": 1,
+  "unknown_24": 25647,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

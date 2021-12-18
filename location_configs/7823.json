@@ -1,0 +1,26 @@
+{
+  "id": 7823,
+  "models": {
+    "10": [
+      98309,
+      98310
+    ]
+  },
+  "name": "Compost Bin",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

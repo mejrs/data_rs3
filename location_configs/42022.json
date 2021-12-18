@@ -1,0 +1,53 @@
+{
+  "id": 42022,
+  "models": {
+    "10": [
+      45572
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 3,
+  "unknown_24": 3174,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Leave-game",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      17057,
+      2731
+    ],
+    [
+      17059,
+      1713
+    ],
+    [
+      17064,
+      1849
+    ],
+    [
+      17069,
+      1856
+    ],
+    [
+      17074,
+      1990
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 22651,
+    "unknown_2": 10
+  },
+  "unknown_81": 40,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 150,
+  "unknown_1": 240,
+  "unknown_2": 260
+}

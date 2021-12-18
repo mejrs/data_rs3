@@ -1,0 +1,28 @@
+{
+  "id": 93678,
+  "models": {
+    "10": [
+      99400
+    ]
+  },
+  "name": "Curtain",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Draw-back",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 110,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

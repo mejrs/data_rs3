@@ -1,0 +1,26 @@
+{
+  "id": 20499,
+  "models": {
+    "10": [
+      834
+    ],
+    "22": [
+      46800
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "colours": [
+    [
+      6689,
+      21530
+    ]
+  ],
+  "textures": {
+    "2377": 2396
+  },
+  "scale_y": 153,
+  "occludes_2": false
+}

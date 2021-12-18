@@ -1,0 +1,19 @@
+{
+  "id": 119633,
+  "models": {
+    "10": [
+      121765,
+      121761
+    ]
+  },
+  "name": "Guthix icon (started)",
+  "unknown_19": 1,
+  "actions": [
+    "Carve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

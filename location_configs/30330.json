@@ -1,0 +1,15 @@
+{
+  "id": 30330,
+  "models": {
+    "10": [
+      33633
+    ]
+  },
+  "name": "Research desk",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

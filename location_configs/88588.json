@@ -1,0 +1,20 @@
+{
+  "id": 88588,
+  "models": {
+    "10": [
+      91929
+    ]
+  },
+  "name": "Cow wheel",
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_24": 22127,
+  "ambient": 64,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 1961,
+    "unknown_2": 20
+  },
+  "occludes_2": false,
+  "unknown_104": 120
+}

@@ -1,0 +1,34 @@
+{
+  "id": 7877,
+  "models": {
+    "10": [
+      7853,
+      7767
+    ]
+  },
+  "name": "Diseased marigold",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      2873,
+      3755
+    ],
+    [
+      21679,
+      24743
+    ],
+    [
+      21675,
+      21541
+    ]
+  ],
+  "unknown_44": 28,
+  "occludes_2": false
+}

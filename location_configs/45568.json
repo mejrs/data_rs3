@@ -1,0 +1,14 @@
+{
+  "id": 45568,
+  "models": {
+    "10": [
+      49183
+    ]
+  },
+  "name": "Wooden pillar",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mapscene": 99,
+  "occludes_2": false
+}

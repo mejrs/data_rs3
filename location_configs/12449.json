@@ -1,0 +1,38 @@
+{
+  "id": 12449,
+  "models": {
+    "0": [
+      12367
+    ]
+  },
+  "name": "Large door",
+  "occludes_1": false,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6940,
+      7700
+    ],
+    [
+      5662,
+      8976
+    ],
+    [
+      7064,
+      8846
+    ],
+    [
+      6038,
+      8976
+    ]
+  ],
+  "unknown_44": 30,
+  "unknown_75": 0,
+  "unknown_170": 960
+}

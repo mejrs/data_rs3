@@ -1,0 +1,35 @@
+{
+  "id": 29314,
+  "models": {
+    "10": [
+      25041
+    ]
+  },
+  "name": "Rack",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 20,
+  "colours": [
+    [
+      7463,
+      10394
+    ],
+    [
+      7587,
+      10514
+    ],
+    [
+      7582,
+      6550
+    ],
+    [
+      6550,
+      7566
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

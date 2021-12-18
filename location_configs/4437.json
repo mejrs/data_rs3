@@ -1,0 +1,57 @@
+{
+  "id": 4437,
+  "models": {
+    "10": [
+      38201
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 9657,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      30,
+      6930
+    ],
+    [
+      35,
+      7054
+    ],
+    [
+      39,
+      6930
+    ],
+    [
+      43,
+      6806
+    ],
+    [
+      47,
+      6682
+    ],
+    [
+      51,
+      6558
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

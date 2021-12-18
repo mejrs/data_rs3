@@ -1,0 +1,40 @@
+{
+  "id": 16112,
+  "models": {
+    "10": [
+      15871
+    ]
+  },
+  "name": "Goo covered vine",
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6589,
+      2985
+    ],
+    [
+      6585,
+      1955
+    ],
+    [
+      6705,
+      926
+    ]
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

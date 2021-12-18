@@ -1,0 +1,19 @@
+{
+  "id": 25601,
+  "models": {
+    "10": [
+      1496
+    ]
+  },
+  "name": "Bench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      6044,
+      5648
+    ]
+  ],
+  "unknown_44": 4,
+  "occludes_2": false
+}

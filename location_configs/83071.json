@@ -1,0 +1,22 @@
+{
+  "id": 83071,
+  "models": {
+    "10": [
+      84204
+    ]
+  },
+  "name": "Control panel",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

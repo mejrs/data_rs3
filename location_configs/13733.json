@@ -1,0 +1,16 @@
+{
+  "id": 13733,
+  "models": {
+    "0": [
+      12664
+    ]
+  },
+  "name": "Window space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ]
+}

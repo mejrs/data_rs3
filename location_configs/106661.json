@@ -1,0 +1,23 @@
+{
+  "id": 106661,
+  "models": {
+    "10": [
+      117227
+    ]
+  },
+  "name": "Bucking Baroo",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 30372,
+  "actions": [
+    "Climb on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_89": false,
+  "occludes_2": false
+}

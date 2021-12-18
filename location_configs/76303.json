@@ -1,0 +1,17 @@
+{
+  "id": 76303,
+  "models": {
+    "10": [
+      76047,
+      76043,
+      76025
+    ]
+  },
+  "name": "Dye pool",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

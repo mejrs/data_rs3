@@ -1,0 +1,33 @@
+{
+  "id": 8639,
+  "models": {
+    "10": [
+      8174,
+      7766
+    ]
+  },
+  "name": "Dead sweetcorn plant",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14786,
+      10514
+    ],
+    [
+      21978,
+      10394
+    ],
+    [
+      14897,
+      10403
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": 11506,
+  "models": {
+    "10": [
+      55201
+    ]
+  },
+  "name": "Gold crescent door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 13586,
+  "ambient": 50,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      1575,
+      6696
+    ],
+    [
+      1610,
+      6740
+    ],
+    [
+      1658,
+      6773
+    ]
+  ],
+  "model": false,
+  "blocks_ranged": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

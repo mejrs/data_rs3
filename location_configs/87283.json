@@ -1,0 +1,19 @@
+{
+  "id": 87283,
+  "models": {
+    "10": [
+      89506,
+      89523
+    ]
+  },
+  "name": "Broken divine herb patch I",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 21250,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 10,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_189": true
+}

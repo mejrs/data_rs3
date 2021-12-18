@@ -1,0 +1,32 @@
+{
+  "id": 20247,
+  "models": {
+    "10": [
+      97800
+    ]
+  },
+  "name": "Horn of glory",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 5423,
+  "ambient": 64,
+  "actions": [
+    "Call",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

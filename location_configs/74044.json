@@ -1,0 +1,36 @@
+{
+  "id": 74044,
+  "models": {
+    "4": [
+      47048
+    ]
+  },
+  "name": "Spinning light",
+  "unknown_19": 1,
+  "unknown_24": 5738,
+  "ambient": 80,
+  "contrast": 25,
+  "colours": [
+    [
+      10475,
+      949
+    ],
+    [
+      11212,
+      924
+    ],
+    [
+      7488,
+      7192
+    ],
+    [
+      47,
+      7184
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 32609,
+    "unknown_2": 5
+  },
+  "occludes_2": false
+}

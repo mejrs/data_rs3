@@ -1,0 +1,70 @@
+{
+  "id": 77579,
+  "models": {
+    "10": [
+      57997
+    ]
+  },
+  "name": "Mysterious entrance",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14281,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      6670,
+      33036
+    ],
+    [
+      6674,
+      33056
+    ],
+    [
+      6556,
+      33062
+    ],
+    [
+      6552,
+      33055
+    ],
+    [
+      6550,
+      33040
+    ],
+    [
+      6554,
+      33056
+    ],
+    [
+      6671,
+      33044
+    ],
+    [
+      6557,
+      33053
+    ],
+    [
+      6548,
+      33051
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

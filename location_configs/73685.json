@@ -1,0 +1,30 @@
+{
+  "id": 73685,
+  "models": {
+    "22": [
+      1114
+    ]
+  },
+  "name": "Patched planks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      6932,
+      5404
+    ],
+    [
+      6684,
+      6697
+    ]
+  ],
+  "textures": {
+    "2073": 2075
+  },
+  "scale_z": 64,
+  "translate_z": 65504,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

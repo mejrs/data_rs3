@@ -1,0 +1,18 @@
+{
+  "id": 9115,
+  "models": {
+    "10": [
+      9060
+    ]
+  },
+  "name": "Smoke",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 2439,
+  "unknown_78": {
+    "unknown_1": 4050,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 100
+}

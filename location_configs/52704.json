@@ -1,0 +1,57 @@
+{
+  "id": 52704,
+  "models": {
+    "10": [
+      57208
+    ]
+  },
+  "name": "Mushroom patch",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5592,
+      10531
+    ],
+    [
+      5584,
+      10527
+    ],
+    [
+      5574,
+      10522
+    ],
+    [
+      6348,
+      4376
+    ],
+    [
+      9414,
+      9386
+    ],
+    [
+      9404,
+      9379
+    ]
+  ],
+  "unknown_81": 25,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

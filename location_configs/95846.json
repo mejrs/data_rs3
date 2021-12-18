@@ -1,0 +1,53 @@
+{
+  "id": 95846,
+  "models": {
+    "10": [
+      88730,
+      103000
+    ]
+  },
+  "name": "Orange barrier",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      65215,
+      3032
+    ]
+  ],
+  "textures": {
+    "3571": 5574,
+    "3673": 5560,
+    "3674": 5556,
+    "3675": 5557,
+    "3676": 5558,
+    "3677": 5559,
+    "3678": 5563,
+    "3679": 5562,
+    "3680": 5561
+  },
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 22758,
+    "unknown_2": 5
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 180,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 121812,
+  "models": {
+    "10": [
+      124240
+    ]
+  },
+  "name": "Centre cannon",
+  "unknown_19": 1,
+  "unknown_24": 2232,
+  "unknown_27": false,
+  "actions": [
+    "Fire!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

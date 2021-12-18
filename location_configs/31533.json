@@ -1,0 +1,15 @@
+{
+  "id": 31533,
+  "models": {
+    "0": [
+      34924
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "unknown_75": 0,
+  "mapscene": 22,
+  "occludes_2": false
+}

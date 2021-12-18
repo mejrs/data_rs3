@@ -1,0 +1,28 @@
+{
+  "id": 49468,
+  "models": {
+    "22": [
+      54943
+    ]
+  },
+  "name": "Blue crystal",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 13644,
+  "unknown_27": false,
+  "colours": [
+    [
+      31789,
+      39333
+    ],
+    [
+      31895,
+      39326
+    ],
+    [
+      34977,
+      34204
+    ]
+  ],
+  "occludes_2": false
+}

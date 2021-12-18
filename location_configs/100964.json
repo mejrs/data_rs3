@@ -1,0 +1,13 @@
+{
+  "id": 100964,
+  "models": {
+    "10": [
+      109793
+    ]
+  },
+  "name": "Sprinkler",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 32,
+  "occludes_2": false
+}

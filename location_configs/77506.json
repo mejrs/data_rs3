@@ -1,0 +1,25 @@
+{
+  "id": 77506,
+  "models": {
+    "10": [
+      77216
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 4,
+  "dim_y": 6,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Walk-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 113596,
+  "models": {
+    "10": [
+      74642
+    ]
+  },
+  "name": "Cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

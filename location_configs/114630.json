@@ -1,0 +1,27 @@
+{
+  "id": 114630,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Dinosaur breeding pen",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "actions": [
+    "Check animals",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_y": 512,
+  "scale_z": 512,
+  "translate_x": 65408,
+  "translate_z": 64,
+  "occludes_2": false
+}

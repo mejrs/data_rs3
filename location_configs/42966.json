@@ -1,0 +1,20 @@
+{
+  "id": 42966,
+  "models": {
+    "10": [
+      46543
+    ]
+  },
+  "name": "Shelves",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Place jar",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

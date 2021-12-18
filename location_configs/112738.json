@@ -1,0 +1,26 @@
+{
+  "id": 112738,
+  "models": {
+    "10": [
+      72605
+    ]
+  },
+  "name": "Forge",
+  "unknown_27": false,
+  "actions": [
+    "Heat",
+    "Deposit-All (Into Metal Bank)",
+    "Withdraw-All (From Metal Bank)",
+    "Open Smithing Interface",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

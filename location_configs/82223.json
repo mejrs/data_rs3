@@ -1,0 +1,31 @@
+{
+  "id": 82223,
+  "models": {
+    "10": [
+      54598,
+      83389,
+      83387
+    ]
+  },
+  "name": "Hoardstalker melee equipment",
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

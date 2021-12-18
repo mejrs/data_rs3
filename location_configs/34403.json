@@ -1,0 +1,37 @@
+{
+  "id": 34403,
+  "models": {
+    "10": [
+      20389
+    ]
+  },
+  "name": "Bunk bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7954,
+      9492
+    ],
+    [
+      7830,
+      9496
+    ],
+    [
+      7582,
+      9500
+    ],
+    [
+      32836,
+      2595
+    ],
+    [
+      32832,
+      2590
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 88910,
+  "models": {
+    "22": [
+      92911
+    ]
+  },
+  "name": "Rubber chicken drumsticks",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take portion",
+    "Take many portions",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

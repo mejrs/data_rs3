@@ -1,0 +1,11 @@
+{
+  "id": 10440,
+  "models": {
+    "10": [
+      10189
+    ]
+  },
+  "name": "Rock Chair",
+  "ambient": 20,
+  "occludes_2": false
+}

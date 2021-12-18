@@ -1,0 +1,38 @@
+{
+  "id": 38550,
+  "models": {
+    "10": [
+      41860
+    ]
+  },
+  "name": "Juggling equipment",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      18343,
+      10151
+    ],
+    [
+      17984,
+      9792
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

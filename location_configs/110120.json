@@ -1,0 +1,30 @@
+{
+  "id": 110120,
+  "models": {
+    "10": [
+      12512
+    ]
+  },
+  "name": "Mirror",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pose",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      7587
+    ],
+    [
+      7952,
+      7954
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

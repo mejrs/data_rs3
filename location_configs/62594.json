@@ -1,0 +1,26 @@
+{
+  "id": 62594,
+  "models": {
+    "10": [
+      1843
+    ]
+  },
+  "name": "Punchbowl",
+  "dim_x": 13,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13898,
+  "ambient": 25,
+  "actions": [
+    "Get-punch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false
+}

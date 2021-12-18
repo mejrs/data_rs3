@@ -1,0 +1,42 @@
+{
+  "id": 19553,
+  "models": {
+    "10": [
+      733
+    ]
+  },
+  "name": "Burrow",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8656,
+      7595
+    ],
+    [
+      8644,
+      6569
+    ],
+    [
+      8631,
+      6439
+    ],
+    [
+      8747,
+      6558
+    ],
+    [
+      8862,
+      7954
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 34,
+  "scale_z": 64,
+  "occludes_2": false
+}

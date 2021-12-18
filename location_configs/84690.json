@@ -1,0 +1,14 @@
+{
+  "id": 84690,
+  "models": {
+    "10": [
+      86270
+    ]
+  },
+  "name": "Torture table",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 15,
+  "occludes_2": false
+}

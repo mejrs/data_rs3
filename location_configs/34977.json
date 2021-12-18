@@ -1,0 +1,21 @@
+{
+  "id": 34977,
+  "models": {
+    "10": [
+      118262
+    ]
+  },
+  "name": "Locked chest",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

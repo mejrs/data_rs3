@@ -1,0 +1,13 @@
+{
+  "id": 8716,
+  "models": {
+    "10": [
+      8248
+    ]
+  },
+  "name": "Haystack",
+  "dim_y": 2,
+  "ambient": 30,
+  "scale_x": 100,
+  "occludes_2": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 100639,
+  "models": {
+    "10": [
+      108302,
+      108232
+    ]
+  },
+  "name": "Tasty looking seaweed",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 26323,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Gather",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 65521,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "params": {
+    "5026": 25288,
+    "5025": 1
+  }
+}

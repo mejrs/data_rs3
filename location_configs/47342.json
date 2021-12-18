@@ -1,0 +1,13 @@
+{
+  "id": 47342,
+  "models": {
+    "10": [
+      50909
+    ]
+  },
+  "name": "Mast",
+  "is_transparent": true,
+  "ambient": 45,
+  "contrast": 20,
+  "occludes_2": false
+}

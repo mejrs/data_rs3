@@ -1,0 +1,16 @@
+{
+  "id": 103950,
+  "models": {
+    "10": [
+      113675
+    ]
+  },
+  "name": "Miniquest",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 15909,
+  "ambient": 32,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

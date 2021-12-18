@@ -1,0 +1,15 @@
+{
+  "id": 37394,
+  "models": {
+    "10": [
+      40704
+    ]
+  },
+  "name": "Palm tree",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "unknown_81": 70,
+  "occludes_2": false
+}

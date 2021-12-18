@@ -1,0 +1,17 @@
+{
+  "id": 6153,
+  "models": {
+    "10": [
+      5922
+    ]
+  },
+  "name": "Bar",
+  "dim_y": 2,
+  "colours": [
+    [
+      41,
+      8008
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 45075,
+  "models": {
+    "10": [
+      34290,
+      34292
+    ]
+  },
+  "name": "Coffin",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false
+}

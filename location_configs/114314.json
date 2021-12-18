@@ -1,0 +1,14 @@
+{
+  "id": 114314,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "[ph]",
+  "dim_x": 2,
+  "scale_x": 256,
+  "scale_y": 512,
+  "scale_z": 128,
+  "occludes_2": false
+}

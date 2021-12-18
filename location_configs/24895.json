@@ -1,0 +1,17 @@
+{
+  "id": 24895,
+  "models": {
+    "10": [
+      111413
+    ]
+  },
+  "name": "Bar",
+  "dim_y": 8,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 126,
+  "occludes_2": false
+}

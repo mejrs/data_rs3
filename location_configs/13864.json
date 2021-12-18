@@ -1,0 +1,20 @@
+{
+  "id": 13864,
+  "models": {
+    "10": [
+      14144
+    ]
+  },
+  "name": "Boat",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_17": false,
+  "actions": [
+    null,
+    null,
+    null,
+    "Continue-trek",
+    "Escape-event"
+  ],
+  "occludes_2": false
+}

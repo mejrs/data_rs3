@@ -1,0 +1,26 @@
+{
+  "id": 1297,
+  "models": {
+    "10": [
+      1633
+    ]
+  },
+  "name": "Fallen tree",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_21": true,
+  "colours": [
+    [
+      5029,
+      3470
+    ],
+    [
+      4814,
+      6684
+    ]
+  ],
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_189": true,
+  "unknown_196": 2
+}

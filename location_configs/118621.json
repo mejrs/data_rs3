@@ -1,0 +1,14 @@
+{
+  "id": 118621,
+  "models": {
+    "10": [
+      120979
+    ]
+  },
+  "name": "Christmas cards",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "model": false,
+  "occludes_2": false
+}

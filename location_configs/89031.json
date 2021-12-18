@@ -1,0 +1,12 @@
+{
+  "id": 89031,
+  "models": {
+    "10": [
+      92915
+    ]
+  },
+  "name": "Snowman",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

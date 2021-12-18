@@ -1,0 +1,38 @@
+{
+  "id": 2863,
+  "models": {
+    "0": [
+      120155
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2075": 3184,
+    "2106": 3184
+  },
+  "scale_y": 150,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      263
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

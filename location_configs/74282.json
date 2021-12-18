@@ -1,0 +1,30 @@
+{
+  "id": 74282,
+  "models": {
+    "10": [
+      72626
+    ]
+  },
+  "name": "Wood scrap pile",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 691,
+  "models": {
+    "10": [
+      1149
+    ]
+  },
+  "name": "Screen",
+  "dim_y": 2,
+  "occludes_2": false
+}

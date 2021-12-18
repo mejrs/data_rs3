@@ -1,0 +1,22 @@
+{
+  "id": 80845,
+  "models": {
+    "10": [
+      81223
+    ]
+  },
+  "name": "lavesplash",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 19033,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      360
+    ]
+  }
+}

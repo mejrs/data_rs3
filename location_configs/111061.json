@@ -1,0 +1,13 @@
+{
+  "id": 111061,
+  "models": {
+    "10": [
+      47430
+    ]
+  },
+  "name": "Destroyed boat",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 0,
+  "occludes_2": false
+}

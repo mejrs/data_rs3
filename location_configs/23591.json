@@ -1,0 +1,15 @@
+{
+  "id": 23591,
+  "models": {
+    "10": [
+      24599
+    ]
+  },
+  "name": "Kalphite queen legs",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 6269,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 16135,
+  "models": {
+    "10": [
+      15567
+    ]
+  },
+  "name": "Gift of Peace",
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

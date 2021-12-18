@@ -1,0 +1,21 @@
+{
+  "id": 37969,
+  "models": {
+    "10": [
+      41069
+    ]
+  },
+  "name": "Soft soil",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

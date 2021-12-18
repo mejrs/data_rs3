@@ -1,0 +1,32 @@
+{
+  "id": 97847,
+  "models": {
+    "10": [
+      105199
+    ]
+  },
+  "name": "Bound logs",
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

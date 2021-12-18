@@ -1,0 +1,19 @@
+{
+  "id": 40185,
+  "models": {
+    "0": [
+      113309
+    ]
+  },
+  "name": "Cell door",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

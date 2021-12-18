@@ -1,0 +1,21 @@
+{
+  "id": 83484,
+  "models": {
+    "10": [
+      85002
+    ]
+  },
+  "name": "Saradomin flag",
+  "unknown_24": 10883,
+  "ambient": 25,
+  "actions": [
+    "Capture",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 28,
+  "occludes_2": false
+}

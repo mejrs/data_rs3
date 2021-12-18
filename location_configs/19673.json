@@ -1,0 +1,25 @@
+{
+  "id": 19673,
+  "models": {
+    "10": [
+      19932
+    ]
+  },
+  "name": "Net trap",
+  "unknown_17": false,
+  "actions": [
+    "Dismantle",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 0,
+    "unknown_2": 0,
+    "unknown_3": 38,
+    "unknown_4": 44
+  }
+}

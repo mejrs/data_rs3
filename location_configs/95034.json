@@ -1,0 +1,24 @@
+{
+  "id": 95034,
+  "models": {
+    "10": [
+      95932
+    ]
+  },
+  "name": "Rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 89039,
+  "models": {
+    "10": [
+      34092,
+      92912
+    ]
+  },
+  "name": "Festive Food",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Shop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

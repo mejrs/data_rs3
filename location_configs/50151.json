@@ -1,0 +1,34 @@
+{
+  "id": 50151,
+  "models": {
+    "10": [
+      56627
+    ]
+  },
+  "name": "Farming patch (buckthorn fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      3498,
+      6244
+    ],
+    [
+      3502,
+      6254
+    ],
+    [
+      3512,
+      6262
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 611,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    null
+  ]
+}

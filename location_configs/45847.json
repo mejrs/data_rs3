@@ -1,0 +1,39 @@
+{
+  "id": 45847,
+  "models": {
+    "0": [
+      25036
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6550,
+      5408
+    ],
+    [
+      6430,
+      5404
+    ]
+  ],
+  "blocks_ranged": true,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

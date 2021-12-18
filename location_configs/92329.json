@@ -1,0 +1,29 @@
+{
+  "id": 92329,
+  "models": {
+    "0": [
+      98231
+    ]
+  },
+  "name": "Herblore banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      22424
+    ],
+    [
+      36300,
+      8878
+    ]
+  ],
+  "mapscene": 22
+}

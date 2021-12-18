@@ -1,0 +1,19 @@
+{
+  "id": 47563,
+  "models": {
+    "10": [
+      1482
+    ]
+  },
+  "name": "Sacks",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8094,
+      7822
+    ]
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false
+}

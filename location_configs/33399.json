@@ -1,0 +1,13 @@
+{
+  "id": 33399,
+  "models": {
+    "10": [
+      38092
+    ]
+  },
+  "name": "Pillar",
+  "unknown_24": 481,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

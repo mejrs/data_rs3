@@ -1,0 +1,44 @@
+{
+  "id": 100647,
+  "models": {
+    "10": [
+      103609
+    ]
+  },
+  "name": "Coral",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 26323,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "4561": 5645,
+    "4562": 5646,
+    "4563": 5647,
+    "4564": 5644
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

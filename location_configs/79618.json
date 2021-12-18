@@ -1,0 +1,13 @@
+{
+  "id": 79618,
+  "models": {
+    "10": [
+      78160
+    ]
+  },
+  "name": "Sacks",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

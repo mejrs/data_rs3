@@ -1,0 +1,39 @@
+{
+  "id": 104435,
+  "models": {
+    "10": [
+      103605
+    ]
+  },
+  "name": "Bank chest",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "textures": {
+    "4561": 5645,
+    "4562": 5646,
+    "4563": 5647,
+    "4564": 5644
+  },
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    46,
+    null,
+    5,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5239": 1
+  }
+}

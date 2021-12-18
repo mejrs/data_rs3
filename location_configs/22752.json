@@ -1,0 +1,14 @@
+{
+  "id": 22752,
+  "models": {
+    "10": [
+      23258
+    ]
+  },
+  "name": "Cable",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false,
+  "unknown_196": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": 23,
+  "models": {
+    "10": [
+      78161
+    ]
+  },
+  "name": "Sacks",
+  "ambient": 25,
+  "actions": [
+    "Prod",
+    "Open",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    49,
+    null,
+    null,
+    null,
+    null
+  ]
+}

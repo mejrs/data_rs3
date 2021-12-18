@@ -1,0 +1,29 @@
+{
+  "id": 70332,
+  "models": {
+    "22": [
+      69278
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      500,
+      63781
+    ]
+  ],
+  "textures": {
+    "1507": 1470,
+    "1742": 1843
+  },
+  "unknown_44": 32768,
+  "model": false,
+  "translate_y": 65533,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 7
+}

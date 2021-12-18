@@ -1,0 +1,14 @@
+{
+  "id": 71893,
+  "models": {
+    "10": [
+      70377
+    ]
+  },
+  "name": "Small Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

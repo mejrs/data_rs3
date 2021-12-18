@@ -1,0 +1,42 @@
+{
+  "id": 67021,
+  "models": {
+    "10": [
+      49522
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6670,
+      11
+    ],
+    [
+      6674,
+      16
+    ],
+    [
+      6550,
+      21
+    ],
+    [
+      6552,
+      26
+    ],
+    [
+      6554,
+      31
+    ],
+    [
+      6556,
+      41
+    ]
+  ],
+  "occludes_2": false
+}

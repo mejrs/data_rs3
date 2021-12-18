@@ -1,0 +1,38 @@
+{
+  "id": 41365,
+  "models": {
+    "0": [
+      44795
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_28": 12,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6558,
+      49
+    ],
+    [
+      6682,
+      40
+    ],
+    [
+      6806,
+      33
+    ],
+    [
+      6930,
+      30
+    ],
+    [
+      7054,
+      26
+    ]
+  ],
+  "mirror": true,
+  "unknown_170": 453
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6438,
+  "models": {
+    "10": [
+      6357
+    ]
+  },
+  "name": "Vampyre tomb",
+  "dim_x": 5,
+  "dim_y": 3,
+  "unknown_24": 1915,
+  "occludes_2": false
+}

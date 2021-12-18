@@ -1,0 +1,51 @@
+{
+  "id": 112992,
+  "models": {
+    "0": [
+      21257
+    ]
+  },
+  "name": "Phasmatite vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      18661
+    ],
+    [
+      37,
+      18661
+    ],
+    [
+      49,
+      18661
+    ],
+    [
+      45,
+      18661
+    ]
+  ],
+  "model": false,
+  "scale_y": 153,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

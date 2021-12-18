@@ -1,0 +1,26 @@
+{
+  "id": 96517,
+  "models": {
+    "10": [
+      103300,
+      103301
+    ]
+  },
+  "name": "Nest of eggs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Take eggs",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      17390
+    ]
+  ],
+  "occludes_2": false
+}

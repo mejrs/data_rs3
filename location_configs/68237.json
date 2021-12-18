@@ -1,0 +1,20 @@
+{
+  "id": 68237,
+  "models": {
+    "10": [
+      66087
+    ]
+  },
+  "name": "Small obelisk",
+  "unknown_24": 8510,
+  "ambient": 25,
+  "actions": [
+    "Renew points",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

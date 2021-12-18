@@ -1,0 +1,22 @@
+{
+  "id": 16513,
+  "models": {
+    "10": [
+      103280
+    ]
+  },
+  "name": "Dimensional portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 26210,
+  "ambient": 80,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 954,
+    "unknown_2": 12
+  },
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

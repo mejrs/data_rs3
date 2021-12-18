@@ -1,0 +1,50 @@
+{
+  "id": 42281,
+  "models": {
+    "10": [
+      7906,
+      38319
+    ]
+  },
+  "name": "Barricade table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6451,
+      6444
+    ],
+    [
+      6443,
+      6440
+    ],
+    [
+      6439,
+      6436
+    ],
+    [
+      6563,
+      6432
+    ],
+    [
+      6558,
+      6428
+    ],
+    [
+      6682,
+      6424
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

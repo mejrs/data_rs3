@@ -1,0 +1,36 @@
+{
+  "id": 40068,
+  "models": {
+    "10": [
+      25130,
+      25154,
+      25148
+    ]
+  },
+  "name": "Bar",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6674,
+      8602
+    ],
+    [
+      5652,
+      8606
+    ],
+    [
+      5656,
+      8610
+    ],
+    [
+      5532,
+      8614
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 40431,
+  "models": {
+    "0": [
+      64723
+    ]
+  },
+  "name": "Broken fence",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ]
+}

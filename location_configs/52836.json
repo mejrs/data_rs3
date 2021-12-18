@@ -1,0 +1,15 @@
+{
+  "id": 52836,
+  "models": {
+    "10": [
+      57911
+    ]
+  },
+  "name": "Sack",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false
+}

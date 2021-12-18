@@ -1,0 +1,26 @@
+{
+  "id": 111124,
+  "models": {
+    "10": [
+      29700
+    ]
+  },
+  "name": "Locker",
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

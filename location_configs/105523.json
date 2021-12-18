@@ -1,0 +1,22 @@
+{
+  "id": 105523,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "morphs_2": {
+    "varbit": 34225,
+    "ids": [
+      105525,
+      105525,
+      105525,
+      105524
+    ],
+    "default": 105525
+  }
+}

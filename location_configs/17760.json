@@ -1,0 +1,42 @@
+{
+  "id": 17760,
+  "models": {
+    "0": [
+      7371
+    ]
+  },
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6439,
+      13592
+    ],
+    [
+      6430,
+      13840
+    ],
+    [
+      6554,
+      13964
+    ]
+  ],
+  "mirror": true,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

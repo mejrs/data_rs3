@@ -1,0 +1,27 @@
+{
+  "id": 34532,
+  "models": {
+    "10": [
+      11126
+    ]
+  },
+  "name": "Wardrobe",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      3594,
+      7440
+    ],
+    [
+      4502,
+      7448
+    ],
+    [
+      4510,
+      7452
+    ]
+  ],
+  "occludes_2": false
+}

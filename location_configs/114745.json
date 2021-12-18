@@ -1,0 +1,22 @@
+{
+  "id": 114745,
+  "models": {
+    "10": [
+      86721
+    ]
+  },
+  "name": "War's Insignia",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 612,
+  "unknown_186": 0
+}

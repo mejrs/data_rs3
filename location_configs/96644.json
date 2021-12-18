@@ -1,0 +1,21 @@
+{
+  "id": 96644,
+  "models": {
+    "10": [
+      103596
+    ]
+  },
+  "name": "Swordfish fish-head",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

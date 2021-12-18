@@ -1,0 +1,26 @@
+{
+  "id": 18045,
+  "models": {
+    "10": [
+      17643
+    ]
+  },
+  "name": "Vampyre statue",
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "Search",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    56,
+    null,
+    null,
+    null
+  ]
+}

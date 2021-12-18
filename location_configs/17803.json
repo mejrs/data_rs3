@@ -1,0 +1,28 @@
+{
+  "id": 17803,
+  "models": {
+    "10": [
+      52877
+    ]
+  },
+  "name": "Morchella mushrooms",
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

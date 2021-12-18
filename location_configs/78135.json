@@ -1,0 +1,15 @@
+{
+  "id": 78135,
+  "models": {
+    "10": [
+      78376
+    ]
+  },
+  "name": "Chimney",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_93": 8224,
+  "unknown_98": true,
+  "occludes_2": false
+}

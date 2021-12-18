@@ -1,0 +1,21 @@
+{
+  "id": 41685,
+  "models": {
+    "10": [
+      45187
+    ]
+  },
+  "name": "Yeti",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 11040,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      74
+    ]
+  }
+}

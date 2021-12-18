@@ -1,0 +1,29 @@
+{
+  "id": 116951,
+  "models": {
+    "22": [
+      90990
+    ]
+  },
+  "name": "Shadow button",
+  "unknown_19": 1,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64,
+      49839
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

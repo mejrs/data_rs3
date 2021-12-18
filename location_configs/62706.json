@@ -1,0 +1,20 @@
+{
+  "id": 62706,
+  "models": {
+    "0": [
+      101342
+    ]
+  },
+  "name": "Entrance door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true
+}

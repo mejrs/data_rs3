@@ -1,0 +1,28 @@
+{
+  "id": 30571,
+  "models": {
+    "22": [
+      111516
+    ]
+  },
+  "name": "Mausoleum",
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

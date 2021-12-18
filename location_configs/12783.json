@@ -1,0 +1,25 @@
+{
+  "id": 12783,
+  "models": {
+    "10": [
+      13987
+    ]
+  },
+  "name": "Repaired roof",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

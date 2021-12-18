@@ -1,0 +1,28 @@
+{
+  "id": 43878,
+  "models": {
+    "10": [
+      69522,
+      69024
+    ]
+  },
+  "name": "Rotten barrel",
+  "unknown_19": 1,
+  "unknown_24": 1200,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 4,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

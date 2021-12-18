@@ -1,0 +1,13 @@
+{
+  "id": 6719,
+  "unknown_19": 1,
+  "mirror": true,
+  "scale_y": 150,
+  "morphs_1": {
+    "varbit": 4570,
+    "ids": [
+      6714,
+      6715
+    ]
+  }
+}

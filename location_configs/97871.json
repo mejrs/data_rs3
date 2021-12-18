@@ -1,0 +1,34 @@
+{
+  "id": 97871,
+  "models": {
+    "10": [
+      90492,
+      90536
+    ]
+  },
+  "name": "Pillar",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 21469,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

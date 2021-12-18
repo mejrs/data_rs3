@@ -1,0 +1,22 @@
+{
+  "id": 540,
+  "models": {
+    "10": [
+      51749
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

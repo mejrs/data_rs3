@@ -1,0 +1,61 @@
+{
+  "id": 58007,
+  "models": {
+    "10": [
+      27209,
+      26267
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_28": 25,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6681,
+      5401
+    ],
+    [
+      6685,
+      5405
+    ],
+    [
+      6689,
+      5409
+    ],
+    [
+      6695,
+      5415
+    ],
+    [
+      6714,
+      5434
+    ]
+  ],
+  "textures": {
+    "1947": 1954
+  },
+  "mirror": true,
+  "unknown_69": 10,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

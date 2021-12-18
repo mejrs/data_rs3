@@ -1,0 +1,18 @@
+{
+  "id": 40228,
+  "models": {
+    "10": [
+      43823
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "contrast": 25,
+  "textures": {
+    "2319": 2381
+  },
+  "occludes_2": false
+}

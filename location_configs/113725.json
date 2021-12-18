@@ -1,0 +1,44 @@
+{
+  "id": 113725,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Bones",
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 1000,
+  "scale_y": 250,
+  "scale_z": 350,
+  "unknown_69": 10,
+  "translate_x": 65436,
+  "translate_y": 65456,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 5,
+    "7902": 1672
+  }
+}

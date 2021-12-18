@@ -1,0 +1,29 @@
+{
+  "id": 105527,
+  "models": {
+    "10": [
+      17405
+    ]
+  },
+  "name": "Pressure release (evil)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

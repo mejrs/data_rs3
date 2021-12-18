@@ -1,0 +1,13 @@
+{
+  "id": 6193,
+  "models": {
+    "10": [
+      1294
+    ]
+  },
+  "name": "Dwarf mirror",
+  "scale_x": 100,
+  "scale_y": 80,
+  "scale_z": 100,
+  "occludes_2": false
+}

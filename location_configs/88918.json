@@ -1,0 +1,24 @@
+{
+  "id": 88918,
+  "models": {
+    "10": [
+      62446
+    ]
+  },
+  "name": "Christmas tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 15112,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Decorate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

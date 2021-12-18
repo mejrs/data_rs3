@@ -1,0 +1,14 @@
+{
+  "id": 16639,
+  "models": {
+    "10": [
+      16842
+    ]
+  },
+  "name": "Windswept Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_81": 30,
+  "mapscene": 6,
+  "occludes_2": false
+}

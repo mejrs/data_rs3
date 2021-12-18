@@ -1,0 +1,20 @@
+{
+  "id": 51659,
+  "models": {
+    "4": [
+      57028
+    ]
+  },
+  "name": "Vault access lever",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

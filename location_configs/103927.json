@@ -1,0 +1,16 @@
+{
+  "id": 103927,
+  "models": {
+    "10": [
+      113548
+    ]
+  },
+  "name": "Invisible salmon",
+  "is_transparent": true,
+  "unknown_24": 29124,
+  "ambient": 64,
+  "model": false,
+  "translate_y": 100,
+  "unknown_88": false,
+  "occludes_2": false
+}

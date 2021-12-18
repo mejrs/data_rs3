@@ -1,0 +1,13 @@
+{
+  "id": 17891,
+  "models": {
+    "10": [
+      17868
+    ]
+  },
+  "name": "Bookshelf",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "occludes_2": false
+}

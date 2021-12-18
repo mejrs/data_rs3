@@ -1,0 +1,44 @@
+{
+  "id": 6571,
+  "models": {
+    "10": [
+      49402
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6670,
+      16
+    ],
+    [
+      6674,
+      24
+    ],
+    [
+      6550,
+      32
+    ],
+    [
+      6552,
+      40
+    ],
+    [
+      6554,
+      48
+    ],
+    [
+      6556,
+      57
+    ]
+  ],
+  "textures": {
+    "1532": 1516
+  },
+  "occludes_2": false
+}

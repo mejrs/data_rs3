@@ -1,0 +1,23 @@
+{
+  "id": 27321,
+  "models": {
+    "10": [
+      29293
+    ]
+  },
+  "name": "Rock wall",
+  "dim_x": 4,
+  "dim_y": 2,
+  "ambient": 10,
+  "colours": [
+    [
+      21522,
+      10258
+    ],
+    [
+      26896,
+      10258
+    ]
+  ],
+  "occludes_2": false
+}

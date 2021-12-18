@@ -1,0 +1,75 @@
+{
+  "id": 12683,
+  "models": {
+    "10": [
+      10733
+    ]
+  },
+  "name": "Gear crate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Bank",
+    "Collect",
+    "Take cape",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6439,
+      5778
+    ],
+    [
+      6434,
+      5774
+    ],
+    [
+      6429,
+      5770
+    ],
+    [
+      6424,
+      5766
+    ],
+    [
+      2063,
+      37910
+    ],
+    [
+      2083,
+      37920
+    ],
+    [
+      55246,
+      21456
+    ],
+    [
+      17358,
+      21416
+    ]
+  ],
+  "textures": {
+    "1565": 1943,
+    "1576": 1940,
+    "2062": 2061,
+    "2073": 2078,
+    "2093": 2082
+  },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    5,
+    5,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

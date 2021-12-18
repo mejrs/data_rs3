@@ -1,0 +1,48 @@
+{
+  "id": 100746,
+  "models": {
+    "0": [
+      25086
+    ]
+  },
+  "name": "Church door",
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8844,
+      5396
+    ],
+    [
+      6682,
+      5408
+    ],
+    [
+      7089,
+      3233
+    ],
+    [
+      6969,
+      3241
+    ]
+  ],
+  "textures": {
+    "2108": 3171
+  },
+  "mirror": true,
+  "unknown_75": 0,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "unknown_170": 948
+}

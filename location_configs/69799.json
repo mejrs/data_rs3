@@ -1,0 +1,22 @@
+{
+  "id": 69799,
+  "models": {
+    "10": [
+      68755
+    ]
+  },
+  "name": "Mort Myre",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "North-west:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_x": 38,
+  "translate_z": 65498,
+  "occludes_2": false
+}

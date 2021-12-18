@@ -1,0 +1,23 @@
+{
+  "id": 75923,
+  "models": {
+    "0": [
+      76224,
+      76215
+    ]
+  },
+  "name": "Rug",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Parrot drop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false
+}

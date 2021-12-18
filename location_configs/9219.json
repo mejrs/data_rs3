@@ -1,0 +1,38 @@
+{
+  "id": 9219,
+  "models": {
+    "10": [
+      9221,
+      9216,
+      9211
+    ]
+  },
+  "name": "White Tree patch",
+  "ambient": 25,
+  "actions": [
+    "Pick-fruit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21712,
+      2167
+    ],
+    [
+      21714,
+      2159
+    ],
+    [
+      21720,
+      2157
+    ],
+    [
+      5338,
+      5198
+    ]
+  ],
+  "occludes_2": false
+}

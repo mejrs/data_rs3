@@ -1,0 +1,14 @@
+{
+  "id": 108024,
+  "models": {
+    "10": [
+      76021
+    ]
+  },
+  "name": "Cushions",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

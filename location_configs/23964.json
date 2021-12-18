@@ -1,0 +1,12 @@
+{
+  "id": 23964,
+  "models": {
+    "10": [
+      24823
+    ]
+  },
+  "name": "Mould",
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

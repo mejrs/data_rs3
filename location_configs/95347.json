@@ -1,0 +1,33 @@
+{
+  "id": 95347,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 27077,
+    "ids": [
+      6325,
+      95352,
+      95353,
+      95353
+    ]
+  },
+  "unknown_160": {
+    "values": [
+      370
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

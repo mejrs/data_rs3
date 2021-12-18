@@ -1,0 +1,19 @@
+{
+  "id": 3216,
+  "models": {
+    "10": [
+      1757
+    ]
+  },
+  "name": "Mud",
+  "unknown_19": 1,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 118020,
+  "models": {
+    "0": [
+      46744
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    "Teleport Zanaris",
+    "Enter shed",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

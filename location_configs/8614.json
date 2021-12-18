@@ -1,0 +1,26 @@
+{
+  "id": 8614,
+  "models": {
+    "10": [
+      8165,
+      7766
+    ]
+  },
+  "name": "Dead strawberry plant",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20005,
+      22
+    ]
+  ],
+  "unknown_44": 2,
+  "occludes_2": false
+}

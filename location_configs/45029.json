@@ -1,0 +1,28 @@
+{
+  "id": 45029,
+  "models": {
+    "0": [
+      48578
+    ]
+  },
+  "name": "Hole in wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

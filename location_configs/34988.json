@@ -1,0 +1,20 @@
+{
+  "id": 34988,
+  "models": {
+    "10": [
+      35726
+    ]
+  },
+  "name": "Crater",
+  "unknown_21": true,
+  "ambient": 10,
+  "colours": [
+    [
+      29103,
+      12729
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

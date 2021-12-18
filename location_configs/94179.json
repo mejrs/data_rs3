@@ -1,0 +1,29 @@
+{
+  "id": 94179,
+  "models": {
+    "10": [
+      86931
+    ]
+  },
+  "name": "Loom",
+  "unknown_19": 1,
+  "ambient": 64,
+  "unknown_69": 11,
+  "translate_y": 65533,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Weave",
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    null,
+    62,
+    null,
+    null,
+    null,
+    null
+  ]
+}

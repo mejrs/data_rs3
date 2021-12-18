@@ -1,0 +1,17 @@
+{
+  "id": 120357,
+  "models": {
+    "22": [
+      80252
+    ]
+  },
+  "name": "Book",
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "unknown_73": true,
+  "occludes_2": false
+}

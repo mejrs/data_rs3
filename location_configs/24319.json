@@ -1,0 +1,18 @@
+{
+  "id": 24319,
+  "models": {
+    "10": [
+      11535
+    ]
+  },
+  "name": "Bathtub",
+  "dim_y": 2,
+  "ambient": 25,
+  "colours": [
+    [
+      43123,
+      10341
+    ]
+  ],
+  "occludes_2": false
+}

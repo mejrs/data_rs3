@@ -1,0 +1,21 @@
+{
+  "id": 90934,
+  "models": {
+    "4": [
+      95544,
+      95531
+    ]
+  },
+  "name": "Valve wheel",
+  "unknown_19": 1,
+  "unknown_24": 23400,
+  "ambient": 64,
+  "unknown_69": 13,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

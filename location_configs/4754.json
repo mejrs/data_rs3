@@ -1,0 +1,30 @@
+{
+  "id": 4754,
+  "models": {
+    "10": [
+      110034
+    ]
+  },
+  "name": "Banana Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 106290,
+  "models": {
+    "10": [
+      91740
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 22431,
+  "unknown_27": false,
+  "ambient": 30,
+  "colours": [
+    [
+      4301,
+      4387
+    ]
+  ],
+  "textures": {
+    "4107": 6395,
+    "4108": 6396
+  },
+  "model": false,
+  "unknown_81": 30,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

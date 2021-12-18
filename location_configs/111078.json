@@ -1,0 +1,23 @@
+{
+  "id": 111078,
+  "models": {
+    "10": [
+      64048,
+      64054,
+      64046,
+      64051
+    ]
+  },
+  "name": "BF cannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Damage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

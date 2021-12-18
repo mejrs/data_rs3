@@ -1,0 +1,16 @@
+{
+  "id": 6756,
+  "models": {
+    "10": [
+      6283
+    ]
+  },
+  "name": "Dead tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

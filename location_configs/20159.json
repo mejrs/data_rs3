@@ -1,0 +1,42 @@
+{
+  "id": 20159,
+  "models": {
+    "3": [
+      51575
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7838,
+      7054
+    ],
+    [
+      7843,
+      6930
+    ],
+    [
+      7719,
+      6806
+    ],
+    [
+      7723,
+      6682
+    ],
+    [
+      7599,
+      6558
+    ],
+    [
+      7603,
+      6563
+    ]
+  ],
+  "mapscene": 22,
+  "occludes_2": false
+}

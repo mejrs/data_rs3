@@ -1,0 +1,28 @@
+{
+  "id": 83044,
+  "models": {
+    "10": [
+      84281
+    ]
+  },
+  "name": "Scattered parchment",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

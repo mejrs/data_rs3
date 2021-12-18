@@ -1,0 +1,21 @@
+{
+  "id": 95861,
+  "models": {
+    "10": [
+      103117
+    ]
+  },
+  "name": "Operating table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Return to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

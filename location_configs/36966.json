@@ -1,0 +1,14 @@
+{
+  "id": 36966,
+  "models": {
+    "10": [
+      36785
+    ]
+  },
+  "name": "Stairs",
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "mapscene": 7,
+  "occludes_2": false
+}

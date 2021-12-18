@@ -1,0 +1,47 @@
+{
+  "id": 42870,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      37,
+      7335
+    ],
+    [
+      931,
+      43951
+    ],
+    [
+      918,
+      43932
+    ],
+    [
+      478,
+      43237
+    ]
+  ],
+  "morphs_1": {
+    "varbit": 11237,
+    "ids": [
+      42868,
+      42869
+    ]
+  },
+  "mapscene": 12,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

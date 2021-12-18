@@ -1,0 +1,14 @@
+{
+  "id": 102822,
+  "models": {
+    "10": [
+      112074,
+      112077
+    ]
+  },
+  "name": "Large Table",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

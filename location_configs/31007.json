@@ -1,0 +1,14 @@
+{
+  "id": 31007,
+  "models": {
+    "10": [
+      33884
+    ]
+  },
+  "name": "Nesting bird",
+  "unknown_19": 1,
+  "unknown_24": 9143,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

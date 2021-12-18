@@ -1,0 +1,12 @@
+{
+  "id": 9106,
+  "models": {
+    "10": [
+      9066
+    ]
+  },
+  "name": "Gear box",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

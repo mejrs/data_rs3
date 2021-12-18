@@ -1,0 +1,26 @@
+{
+  "id": 117418,
+  "models": {
+    "10": [
+      21696
+    ]
+  },
+  "name": "Ancient casket",
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

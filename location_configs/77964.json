@@ -1,0 +1,29 @@
+{
+  "id": 77964,
+  "models": {
+    "10": [
+      77991
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65517,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 111075,
+  "models": {
+    "10": [
+      64048
+    ]
+  },
+  "name": "Destroyed BF cannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "occludes_2": false
+}

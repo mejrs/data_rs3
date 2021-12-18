@@ -1,0 +1,11 @@
+{
+  "id": 37321,
+  "models": {
+    "10": [
+      40095
+    ]
+  },
+  "name": "Hanging roots",
+  "ambient": 15,
+  "occludes_2": false
+}

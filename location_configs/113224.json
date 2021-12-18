@@ -1,0 +1,72 @@
+{
+  "id": 113224,
+  "models": {
+    "10": [
+      73989,
+      74113
+    ]
+  },
+  "name": "Adamantite rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      40102
+    ],
+    [
+      3135,
+      44188
+    ],
+    [
+      3127,
+      48272
+    ],
+    [
+      2109,
+      40969
+    ],
+    [
+      3143,
+      43140
+    ],
+    [
+      54994,
+      21663
+    ],
+    [
+      54858,
+      21667
+    ],
+    [
+      54991,
+      21662
+    ],
+    [
+      54856,
+      21659
+    ]
+  ],
+  "textures": {
+    "322": 10889,
+    "1304": 10874
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

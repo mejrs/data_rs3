@@ -1,0 +1,24 @@
+{
+  "id": 6492,
+  "models": {
+    "10": [
+      6266
+    ]
+  },
+  "name": "Obelisk",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 1943,
+  "ambient": 15,
+  "colours": [
+    [
+      7485,
+      10277
+    ]
+  ],
+  "unknown_44": 2,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "occludes_2": false
+}

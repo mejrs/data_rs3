@@ -1,0 +1,20 @@
+{
+  "id": 4093,
+  "models": {
+    "10": [
+      4138
+    ]
+  },
+  "name": "Funeral Pyre",
+  "dim_y": 3,
+  "unknown_24": 1303,
+  "actions": [
+    "Prepare",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 37,
+  "occludes_2": false
+}

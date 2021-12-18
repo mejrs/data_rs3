@@ -1,0 +1,14 @@
+{
+  "id": 114123,
+  "models": {
+    "10": [
+      113661
+    ]
+  },
+  "name": "Tortle trap",
+  "unknown_17": false,
+  "ambient": 20,
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false
+}

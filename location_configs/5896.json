@@ -1,0 +1,12 @@
+{
+  "id": 5896,
+  "models": {
+    "10": [
+      5706
+    ]
+  },
+  "name": "Ancient Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

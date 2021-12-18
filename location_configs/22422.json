@@ -1,0 +1,29 @@
+{
+  "id": 22422,
+  "models": {
+    "10": [
+      1379
+    ]
+  },
+  "name": "Hopper",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6684,
+      6573
+    ],
+    [
+      6932,
+      6817
+    ]
+  ],
+  "occludes_2": false
+}

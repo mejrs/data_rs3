@@ -1,0 +1,26 @@
+{
+  "id": 77246,
+  "models": {
+    "10": [
+      77711
+    ]
+  },
+  "name": "Subterranean spring",
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

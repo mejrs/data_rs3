@@ -1,0 +1,20 @@
+{
+  "id": 13508,
+  "models": {
+    "10": [
+      12462,
+      12464
+    ]
+  },
+  "name": "Rune display case",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "translate_x": 10,
+  "translate_z": 10,
+  "occludes_2": false
+}

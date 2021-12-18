@@ -1,0 +1,20 @@
+{
+  "id": 13401,
+  "models": {
+    "10": [
+      12955,
+      12956
+    ]
+  },
+  "name": "Dartboard",
+  "ambient": 15,
+  "actions": [
+    "Throw-at",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

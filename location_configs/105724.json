@@ -1,0 +1,19 @@
+{
+  "id": 105724,
+  "models": {
+    "10": [
+      116071
+    ]
+  },
+  "name": "Geyser",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 23103,
+  "ambient": 10,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -1,0 +1,20 @@
+{
+  "id": 96185,
+  "models": {
+    "4": [
+      103086
+    ]
+  },
+  "name": "'Mr Zemouregal on Ice'",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

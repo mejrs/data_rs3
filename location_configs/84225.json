@@ -1,0 +1,24 @@
+{
+  "id": 84225,
+  "models": {
+    "10": [
+      85917,
+      7767
+    ]
+  },
+  "name": "Diseased butterfly flower plant",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2194": 2199
+  },
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": 49019,
+  "models": {
+    "10": [
+      38363
+    ]
+  },
+  "name": "Bank booth",
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6684,
+      6419
+    ],
+    [
+      5665,
+      6424
+    ],
+    [
+      5545,
+      6429
+    ],
+    [
+      5547,
+      6434
+    ],
+    [
+      5549,
+      6439
+    ]
+  ],
+  "textures": {
+    "2096": 2075
+  },
+  "blocks_ranged": true,
+  "occludes_2": false
+}

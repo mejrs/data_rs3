@@ -1,0 +1,29 @@
+{
+  "id": 47720,
+  "models": {
+    "10": [
+      51062
+    ]
+  },
+  "name": "Log",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      17583,
+      23833
+    ],
+    [
+      14753,
+      23835
+    ],
+    [
+      14637,
+      23837
+    ]
+  ],
+  "occludes_2": false
+}

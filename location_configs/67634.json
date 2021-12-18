@@ -1,0 +1,17 @@
+{
+  "id": 67634,
+  "models": {
+    "10": [
+      52457
+    ]
+  },
+  "name": "Fire pit",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 65472,
+  "unknown_98": true,
+  "occludes_2": false
+}

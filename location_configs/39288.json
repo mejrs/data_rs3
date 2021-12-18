@@ -1,0 +1,14 @@
+{
+  "id": 39288,
+  "models": {
+    "10": [
+      42828
+    ]
+  },
+  "name": "Perch",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 15,
+  "occludes_2": false
+}

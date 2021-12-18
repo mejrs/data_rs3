@@ -1,0 +1,12 @@
+{
+  "id": 39183,
+  "models": {
+    "10": [
+      42493
+    ]
+  },
+  "name": "Desk",
+  "dim_x": 2,
+  "ambient": 25,
+  "occludes_2": false
+}

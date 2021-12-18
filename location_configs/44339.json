@@ -1,0 +1,25 @@
+{
+  "id": 44339,
+  "models": {
+    "10": [
+      48193
+    ]
+  },
+  "name": "Chasm",
+  "dim_x": 6,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Jump-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false
+}

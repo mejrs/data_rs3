@@ -1,0 +1,14 @@
+{
+  "id": 120367,
+  "models": {
+    "10": [
+      68739
+    ]
+  },
+  "name": "Baby barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false
+}

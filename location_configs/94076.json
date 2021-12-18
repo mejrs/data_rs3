@@ -1,0 +1,29 @@
+{
+  "id": 94076,
+  "models": {
+    "10": [
+      100000
+    ]
+  },
+  "name": "Singing bowl",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 37,
+  "actions": [
+    "Sing glass",
+    "Revert crystal",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

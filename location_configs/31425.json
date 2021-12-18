@@ -1,0 +1,14 @@
+{
+  "id": 31425,
+  "models": {
+    "10": [
+      34504
+    ]
+  },
+  "name": "Rock mound",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

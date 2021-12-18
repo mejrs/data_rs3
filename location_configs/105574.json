@@ -1,0 +1,23 @@
+{
+  "id": 105574,
+  "models": {
+    "10": [
+      115506,
+      115509
+    ]
+  },
+  "name": "Crate of green crystals (Empowered)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

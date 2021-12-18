@@ -1,0 +1,33 @@
+{
+  "id": 93585,
+  "models": {
+    "10": [
+      99567,
+      99566
+    ]
+  },
+  "name": "Grandfather clock",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "unknown_78": {
+    "unknown_1": 7856,
+    "unknown_2": 15
+  },
+  "occludes_2": false,
+  "unknown_104": 90,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  },
+  "unknown_1": 260,
+  "unknown_2": 260
+}

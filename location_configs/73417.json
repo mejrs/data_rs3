@@ -1,0 +1,13 @@
+{
+  "id": 73417,
+  "models": {
+    "10": [
+      71435
+    ]
+  },
+  "name": "Vanity case",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

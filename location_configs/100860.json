@@ -1,0 +1,39 @@
+{
+  "id": 100860,
+  "models": {
+    "4": [
+      98235
+    ]
+  },
+  "name": "Invention banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      8103
+    ],
+    [
+      36300,
+      39723
+    ],
+    [
+      42048,
+      8088
+    ],
+    [
+      43063,
+      8080
+    ]
+  ],
+  "translate_x": 10,
+  "mapscene": 22,
+  "occludes_2": false
+}

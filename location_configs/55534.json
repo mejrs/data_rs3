@@ -1,0 +1,32 @@
+{
+  "id": 55534,
+  "models": {
+    "10": [
+      61932
+    ]
+  },
+  "name": "Salve nettles",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 611,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

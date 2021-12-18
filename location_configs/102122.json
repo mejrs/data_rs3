@@ -1,0 +1,28 @@
+{
+  "id": 102122,
+  "models": {
+    "10": [
+      56961
+    ]
+  },
+  "name": "Monocle",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 920,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

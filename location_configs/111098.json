@@ -1,0 +1,19 @@
+{
+  "id": 111098,
+  "models": {
+    "4": [
+      34778
+    ]
+  },
+  "name": "Poster",
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

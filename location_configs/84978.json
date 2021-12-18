@@ -1,0 +1,15 @@
+{
+  "id": 84978,
+  "models": {
+    "10": [
+      87098
+    ]
+  },
+  "name": "Plans",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_24": 20422,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 8399,
+  "models": {
+    "10": [
+      102114,
+      7768
+    ]
+  },
+  "name": "Magic Tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

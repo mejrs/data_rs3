@@ -1,0 +1,19 @@
+{
+  "id": 13513,
+  "models": {
+    "4": [
+      12526
+    ]
+  },
+  "name": "Portrait",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

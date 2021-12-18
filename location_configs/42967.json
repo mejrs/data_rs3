@@ -1,0 +1,13 @@
+{
+  "id": 42967,
+  "models": {
+    "10": [
+      46540
+    ]
+  },
+  "name": "Full shelves",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 3886,
+  "models": {
+    "10": [
+      97142
+    ]
+  },
+  "name": "Tree",
+  "ambient": 30,
+  "unknown_81": 32,
+  "mapscene": 6,
+  "occludes_2": false
+}

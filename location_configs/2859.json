@@ -1,0 +1,30 @@
+{
+  "id": 2859,
+  "unknown_19": 1,
+  "actions": [
+    "Cook-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "is_members": true,
+  "morphs_2": {
+    "varbit": 13025,
+    "ids": [
+      73286,
+      73287,
+      73288
+    ],
+    "default": 73286
+  },
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 92236,
+  "models": {
+    "10": [
+      98142
+    ]
+  },
+  "name": "Rune Goldberg machine",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 24505,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 635
+}

@@ -1,0 +1,23 @@
+{
+  "id": 116600,
+  "models": {
+    "10": [
+      95568,
+      95373,
+      95602
+    ]
+  },
+  "name": "Statue of Padosan",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pay respects",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

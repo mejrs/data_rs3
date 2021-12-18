@@ -1,0 +1,57 @@
+{
+  "id": 3789,
+  "models": {
+    "10": [
+      37256
+    ]
+  },
+  "name": "Stone Staircase",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21522,
+      7310
+    ],
+    [
+      21530,
+      7315
+    ],
+    [
+      21534,
+      7320
+    ],
+    [
+      21539,
+      7325
+    ],
+    [
+      21543,
+      7330
+    ],
+    [
+      21547,
+      7335
+    ]
+  ],
+  "unknown_69": 14,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 13396,
+  "models": {
+    "10": [
+      12960
+    ]
+  },
+  "name": "Elemental balance",
+  "unknown_24": 3582,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

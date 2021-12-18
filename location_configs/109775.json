@@ -1,0 +1,23 @@
+{
+  "id": 109775,
+  "models": {
+    "10": [
+      120261,
+      120262,
+      120245
+    ]
+  },
+  "name": "Auto disassembler",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 31075,
+  "ambient": 20,
+  "actions": [
+    "Manage",
+    "Withdraw products",
+    null,
+    "Modify",
+    "Remove"
+  ],
+  "occludes_2": false
+}

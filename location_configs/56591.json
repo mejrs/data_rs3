@@ -1,0 +1,21 @@
+{
+  "id": 56591,
+  "models": {
+    "10": [
+      62148
+    ]
+  },
+  "name": "Kalferberry bush",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

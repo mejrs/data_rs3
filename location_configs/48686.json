@@ -1,0 +1,19 @@
+{
+  "id": 48686,
+  "models": {
+    "10": [
+      52382,
+      52385
+    ]
+  },
+  "name": "Tomb",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 12902,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

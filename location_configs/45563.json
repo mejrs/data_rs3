@@ -1,0 +1,14 @@
+{
+  "id": 45563,
+  "models": {
+    "10": [
+      49181
+    ]
+  },
+  "name": "Stone pillar",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mapscene": 100,
+  "occludes_2": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 70103,
+  "models": {
+    "10": [
+      68953,
+      68921
+    ]
+  },
+  "name": "Easter egg",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Crack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36824,
+      3014
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    100,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

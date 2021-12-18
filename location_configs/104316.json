@@ -1,0 +1,16 @@
+{
+  "id": 104316,
+  "models": {
+    "10": [
+      113842
+    ]
+  },
+  "name": "Switch A",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

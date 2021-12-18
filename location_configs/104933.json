@@ -1,0 +1,17 @@
+{
+  "id": 104933,
+  "models": {
+    "10": [
+      81695
+    ]
+  },
+  "name": "Cannon balls",
+  "unknown_19": 1,
+  "ambient": 0,
+  "textures": {
+    "1551": 1943
+  },
+  "translate_y": 65416,
+  "occludes_2": false,
+  "unknown_196": 4
+}

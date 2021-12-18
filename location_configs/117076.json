@@ -1,0 +1,19 @@
+{
+  "id": 117076,
+  "models": {
+    "10": [
+      96924
+    ]
+  },
+  "name": "Shadow anchor",
+  "unknown_19": 1,
+  "ambient": 0,
+  "translate_y": 65476,
+  "unknown_78": {
+    "unknown_1": 14524,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 75,
+  "unknown_196": 4
+}

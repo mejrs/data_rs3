@@ -1,0 +1,21 @@
+{
+  "id": 52655,
+  "models": {
+    "4": [
+      57377
+    ]
+  },
+  "name": "Projector",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Watch-briefing",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

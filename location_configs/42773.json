@@ -1,0 +1,14 @@
+{
+  "id": 42773,
+  "models": {
+    "10": [
+      46213
+    ]
+  },
+  "name": "Ice rock",
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

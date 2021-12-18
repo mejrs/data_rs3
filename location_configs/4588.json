@@ -1,0 +1,30 @@
+{
+  "id": 4588,
+  "models": {
+    "10": [
+      50455,
+      4574
+    ]
+  },
+  "name": "Lighting mechanism",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

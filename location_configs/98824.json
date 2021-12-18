@@ -1,0 +1,22 @@
+{
+  "id": 98824,
+  "models": {
+    "10": [
+      106332
+    ]
+  },
+  "name": "Window",
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Barricade",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_188": true
+}

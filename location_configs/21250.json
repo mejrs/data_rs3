@@ -1,0 +1,19 @@
+{
+  "id": 21250,
+  "models": {
+    "10": [
+      97841
+    ]
+  },
+  "name": "Collector Converter",
+  "ambient": 0,
+  "actions": [
+    "Convert",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

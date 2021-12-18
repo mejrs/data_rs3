@@ -1,0 +1,24 @@
+{
+  "id": 115459,
+  "models": {
+    "4": [
+      90392
+    ]
+  },
+  "name": "'The Lake of Fire'",
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Hang painting",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 130,
+  "scale_y": 180,
+  "scale_z": 180,
+  "translate_y": 60,
+  "occludes_2": false
+}

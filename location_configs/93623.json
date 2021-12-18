@@ -1,0 +1,19 @@
+{
+  "id": 93623,
+  "models": {
+    "10": [
+      99560
+    ]
+  },
+  "name": "Stuffed bear",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

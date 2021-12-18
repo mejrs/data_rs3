@@ -1,0 +1,37 @@
+{
+  "id": 50382,
+  "models": {
+    "10": [
+      53442
+    ]
+  },
+  "name": "Green crescent door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      1575,
+      26137
+    ]
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 61314,
+  "models": {
+    "4": [
+      47168
+    ]
+  },
+  "name": "Propaganda poster",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Vandalise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

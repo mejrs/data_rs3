@@ -1,0 +1,28 @@
+{
+  "id": 117236,
+  "models": {
+    "10": [
+      93869
+    ]
+  },
+  "name": "Weapons cache",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

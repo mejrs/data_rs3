@@ -1,0 +1,29 @@
+{
+  "id": 7703,
+  "models": {
+    "10": [
+      7819,
+      7767
+    ]
+  },
+  "name": "Diseased redberry bush",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      8737
+    ],
+    [
+      8722,
+      10776
+    ]
+  ],
+  "occludes_2": false
+}

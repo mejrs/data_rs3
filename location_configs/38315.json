@@ -1,0 +1,32 @@
+{
+  "id": 38315,
+  "models": {
+    "10": [
+      75511
+    ]
+  },
+  "name": "Map",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

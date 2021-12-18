@@ -1,0 +1,18 @@
+{
+  "id": 10972,
+  "models": {
+    "10": [
+      10916,
+      10913
+    ]
+  },
+  "name": "Fallen statue",
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

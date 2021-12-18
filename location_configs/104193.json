@@ -1,0 +1,17 @@
+{
+  "id": 104193,
+  "models": {
+    "10": [
+      103661
+    ]
+  },
+  "name": "Fishing net",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

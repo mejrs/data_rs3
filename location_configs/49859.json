@@ -1,0 +1,40 @@
+{
+  "id": 49859,
+  "models": {
+    "10": [
+      56677
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      39963,
+      21533
+    ],
+    [
+      39958,
+      21528
+    ],
+    [
+      39955,
+      21525
+    ],
+    [
+      39976,
+      21546
+    ],
+    [
+      39946,
+      21516
+    ]
+  ],
+  "textures": {
+    "1902": 1914
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

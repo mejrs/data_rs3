@@ -1,0 +1,24 @@
+{
+  "id": 61951,
+  "models": {
+    "10": [
+      60698
+    ]
+  },
+  "name": "Sound machine",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Operate",
+    null,
+    "Query",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "unknown_88": false,
+  "occludes_2": false
+}

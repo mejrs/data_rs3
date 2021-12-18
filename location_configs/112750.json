@@ -1,0 +1,20 @@
+{
+  "id": 112750,
+  "models": {
+    "10": [
+      102146
+    ]
+  },
+  "name": "Enchanted tree (wilting)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Interact",
+    "Chop with woodcutting",
+    "Tend tree with farming",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

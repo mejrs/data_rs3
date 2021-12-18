@@ -1,0 +1,28 @@
+{
+  "id": 79211,
+  "models": {
+    "22": [
+      64262
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -10,
+  "contrast": 15,
+  "colours": [
+    [
+      8216,
+      8279
+    ],
+    [
+      8214,
+      8277
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_88": false,
+  "unknown_97": true,
+  "mapscene": 113,
+  "occludes_2": false
+}

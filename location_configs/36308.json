@@ -1,0 +1,16 @@
+{
+  "id": 36308,
+  "models": {
+    "10": [
+      38430
+    ]
+  },
+  "name": "Wall",
+  "ambient": 25,
+  "contrast": 20,
+  "textures": {
+    "39": 55
+  },
+  "mapscene": 21,
+  "occludes_2": false
+}

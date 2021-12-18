@@ -1,0 +1,29 @@
+{
+  "id": 41038,
+  "models": {
+    "10": [
+      43867
+    ]
+  },
+  "name": "Brazier",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

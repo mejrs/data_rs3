@@ -1,0 +1,31 @@
+{
+  "id": 20657,
+  "models": {
+    "0": [
+      63228
+    ]
+  },
+  "name": "Air vent",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "is_members": true,
+  "unknown_170": 1009,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

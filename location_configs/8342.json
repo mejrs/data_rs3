@@ -1,0 +1,21 @@
+{
+  "id": 8342,
+  "models": {
+    "10": [
+      7796,
+      7768
+    ]
+  },
+  "name": "Spirit Tree Patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false
+}

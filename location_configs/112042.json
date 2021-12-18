@@ -1,0 +1,14 @@
+{
+  "id": 112042,
+  "models": {
+    "10": [
+      109924
+    ]
+  },
+  "name": "Butler",
+  "unknown_24": 32181,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

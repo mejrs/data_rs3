@@ -1,0 +1,13 @@
+{
+  "id": 103175,
+  "models": {
+    "10": [
+      112514
+    ]
+  },
+  "name": "Latrine",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

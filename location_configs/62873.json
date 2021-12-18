@@ -1,0 +1,17 @@
+{
+  "id": 62873,
+  "models": {
+    "4": [
+      3059
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 15102,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

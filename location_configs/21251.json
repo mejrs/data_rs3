@@ -1,0 +1,15 @@
+{
+  "id": 21251,
+  "models": {
+    "10": [
+      46024
+    ]
+  },
+  "name": "Ur-vass",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 1721,
+  "ambient": 15,
+  "contrast": 25,
+  "occludes_2": false
+}

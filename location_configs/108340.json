@@ -1,0 +1,13 @@
+{
+  "id": 108340,
+  "models": {
+    "10": [
+      117856
+    ]
+  },
+  "name": "Bush",
+  "ambient": 32,
+  "model": false,
+  "translate_z": 65486,
+  "occludes_2": false
+}

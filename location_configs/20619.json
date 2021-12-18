@@ -1,0 +1,33 @@
+{
+  "id": 20619,
+  "models": {
+    "10": [
+      21323
+    ]
+  },
+  "name": "Stairs",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "scale_y": 135,
+  "unknown_69": 7,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

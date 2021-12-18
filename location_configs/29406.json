@@ -1,0 +1,33 @@
+{
+  "id": 29406,
+  "models": {
+    "10": [
+      64052,
+      64050,
+      64056,
+      64055
+    ]
+  },
+  "name": "Gold dwarf multicannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "ambient": 10,
+  "actions": [
+    "Fire",
+    "Pick-up",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    211,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

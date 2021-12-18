@@ -1,0 +1,17 @@
+{
+  "id": 12337,
+  "models": {
+    "10": [
+      28677
+    ]
+  },
+  "name": "Pirate Pete",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

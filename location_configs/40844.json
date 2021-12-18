@@ -1,0 +1,23 @@
+{
+  "id": 40844,
+  "models": {
+    "10": [
+      44504,
+      44509
+    ]
+  },
+  "name": "Stone table",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

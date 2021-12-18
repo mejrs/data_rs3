@@ -1,0 +1,13 @@
+{
+  "id": 28640,
+  "models": {
+    "10": [
+      31298
+    ]
+  },
+  "name": "Destroyed bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "occludes_2": false
+}

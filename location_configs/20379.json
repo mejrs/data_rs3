@@ -1,0 +1,12 @@
+{
+  "id": 20379,
+  "models": {
+    "10": [
+      20789
+    ]
+  },
+  "name": "Altar",
+  "dim_x": 3,
+  "ambient": 15,
+  "occludes_2": false
+}

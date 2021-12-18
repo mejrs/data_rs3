@@ -1,0 +1,21 @@
+{
+  "id": 4764,
+  "models": {
+    "10": [
+      1261
+    ]
+  },
+  "name": "Bamboo Stool",
+  "is_transparent": true,
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 17849,
+  "models": {
+    "10": [
+      39288
+    ]
+  },
+  "name": "Chopped Root",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5526,
+      7574
+    ],
+    [
+      5518,
+      7566
+    ],
+    [
+      5514,
+      7562
+    ],
+    [
+      5510,
+      7558
+    ]
+  ],
+  "translate_y": 65527,
+  "occludes_2": false
+}

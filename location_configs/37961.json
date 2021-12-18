@@ -1,0 +1,56 @@
+{
+  "id": 37961,
+  "models": {
+    "10": [
+      41070
+    ]
+  },
+  "name": "Roots",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5524,
+      8340
+    ],
+    [
+      5528,
+      8342
+    ],
+    [
+      6555,
+      8346
+    ],
+    [
+      6558,
+      8343
+    ],
+    [
+      6565,
+      8350
+    ],
+    [
+      7710,
+      8353
+    ]
+  ],
+  "mapscene": 6,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

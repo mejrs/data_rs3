@@ -1,0 +1,16 @@
+{
+  "id": 104639,
+  "models": {
+    "10": [
+      113187
+    ]
+  },
+  "name": "Ship",
+  "dim_x": 5,
+  "dim_y": 12,
+  "ambient": 0,
+  "translate_y": 26,
+  "translate_z": 64,
+  "occludes_2": false,
+  "unknown_196": 4
+}

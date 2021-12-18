@@ -1,0 +1,39 @@
+{
+  "id": 22721,
+  "models": {
+    "10": [
+      23441,
+      23440,
+      23435
+    ]
+  },
+  "name": "Furnace",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "unknown_78": {
+    "unknown_1": 3474,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "member_actions": [
+    "Smelt",
+    "Deposit-All (Into Metal Bank)",
+    "Withdraw-All (From Metal Bank)",
+    null,
+    null
+  ],
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

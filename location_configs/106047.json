@@ -1,0 +1,28 @@
+{
+  "id": 106047,
+  "models": {
+    "10": [
+      116138
+    ]
+  },
+  "name": "Exit door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

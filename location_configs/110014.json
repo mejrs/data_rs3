@@ -1,0 +1,19 @@
+{
+  "id": 110014,
+  "models": {
+    "10": [
+      1915
+    ]
+  },
+  "name": "Festival hops",
+  "ambient": 25,
+  "actions": [
+    "Grab hops",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

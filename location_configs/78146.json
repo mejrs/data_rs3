@@ -1,0 +1,13 @@
+{
+  "id": 78146,
+  "models": {
+    "10": [
+      78422,
+      78426,
+      78432
+    ]
+  },
+  "name": "Rune mannequin",
+  "translate_z": 65472,
+  "occludes_2": false
+}

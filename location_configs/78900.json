@@ -1,0 +1,20 @@
+{
+  "id": 78900,
+  "models": {
+    "0": [
+      69941
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -35,
+  "contrast": 15,
+  "textures": {
+    "1512": 1517,
+    "1529": 1470
+  },
+  "model": false,
+  "scale_y": 160,
+  "unknown_88": false
+}

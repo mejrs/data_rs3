@@ -1,0 +1,55 @@
+{
+  "id": 46805,
+  "models": {
+    "10": [
+      50153
+    ]
+  },
+  "name": "Chair",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Web",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      398,
+      49422
+    ],
+    [
+      406,
+      49430
+    ],
+    [
+      403,
+      49427
+    ],
+    [
+      393,
+      49417
+    ],
+    [
+      410,
+      49434
+    ],
+    [
+      414,
+      49438
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    150,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 6905,
+  "models": {
+    "4": [
+      6914
+    ]
+  },
+  "name": "Hole",
+  "unknown_19": 1,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

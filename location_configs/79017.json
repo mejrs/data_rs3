@@ -1,0 +1,16 @@
+{
+  "id": 79017,
+  "models": {
+    "10": [
+      79627
+    ]
+  },
+  "name": "Broken wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

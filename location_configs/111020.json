@@ -1,0 +1,11 @@
+{
+  "id": 111020,
+  "models": {
+    "10": [
+      28562
+    ]
+  },
+  "name": "Shimmering barrier",
+  "dim_x": 3,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 64282,
+  "models": {
+    "10": [
+      13460,
+      11437
+    ]
+  },
+  "name": "Throne",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 15455,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

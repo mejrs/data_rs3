@@ -1,0 +1,19 @@
+{
+  "id": 43718,
+  "models": {
+    "10": [
+      70353
+    ]
+  },
+  "name": "Logs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_x": 65496,
+  "translate_z": 65486,
+  "occludes_2": false
+}

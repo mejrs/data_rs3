@@ -1,0 +1,22 @@
+{
+  "id": 53347,
+  "models": {
+    "10": [
+      55165
+    ]
+  },
+  "name": "Cooking range (empty)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    null,
+    null,
+    null,
+    "Replace"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 120044,
+  "models": {
+    "10": [
+      122251,
+      122465
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "colours": [
+    [
+      48571,
+      27052
+    ]
+  ],
+  "textures": {
+    "13853": 13855
+  },
+  "occludes_2": false,
+  "unknown_186": 2
+}

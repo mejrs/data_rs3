@@ -1,0 +1,40 @@
+{
+  "id": 3774,
+  "models": {
+    "10": [
+      37479
+    ]
+  },
+  "name": "Exit",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7308,
+      7303
+    ]
+  ],
+  "textures": {
+    "1437": 1444
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

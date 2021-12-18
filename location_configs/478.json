@@ -1,0 +1,31 @@
+{
+  "id": 478,
+  "models": {
+    "10": [
+      2157
+    ]
+  },
+  "name": "Mossy rock",
+  "is_transparent": true,
+  "contrast": 10,
+  "colours": [
+    [
+      21025,
+      17052
+    ],
+    [
+      21022,
+      17049
+    ],
+    [
+      21019,
+      17047
+    ],
+    [
+      17044,
+      21016
+    ]
+  ],
+  "mapscene": 12,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2093,
+  "models": {
+    "10": [
+      111404
+    ]
+  },
+  "name": "Storm barn",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Store",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

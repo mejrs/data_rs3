@@ -1,0 +1,47 @@
+{
+  "id": 43100,
+  "models": {
+    "10": [
+      46822
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 11713,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7062,
+      5404
+    ],
+    [
+      7056,
+      5404
+    ],
+    [
+      28,
+      10270
+    ],
+    [
+      10270,
+      10266
+    ],
+    [
+      10275,
+      10270
+    ],
+    [
+      10279,
+      10275
+    ]
+  ],
+  "occludes_2": false
+}

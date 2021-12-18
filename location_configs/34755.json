@@ -1,0 +1,39 @@
+{
+  "id": 34755,
+  "models": {
+    "10": [
+      27381
+    ]
+  },
+  "name": "Bank deposit box",
+  "ambient": 25,
+  "actions": [
+    "Deposit",
+    "Deposit-All",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6554,
+      7440
+    ],
+    [
+      6435,
+      7448
+    ],
+    [
+      6315,
+      7456
+    ]
+  ],
+  "textures": {
+    "2314": 2377,
+    "2324": 2401,
+    "2563": 2401
+  },
+  "occludes_2": false,
+  "mapfunction": 3651
+}

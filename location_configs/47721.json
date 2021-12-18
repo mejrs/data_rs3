@@ -1,0 +1,45 @@
+{
+  "id": 47721,
+  "models": {
+    "10": [
+      95125
+    ]
+  },
+  "name": "Prized dairy cow",
+  "dim_y": 2,
+  "unknown_24": 22120,
+  "ambient": 20,
+  "actions": [
+    "Milk",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      3480,
+      677
+    ],
+    [
+      3464,
+      669
+    ]
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Steal-cowbell",
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      257
+    ]
+  },
+  "unknown_202": 3
+}

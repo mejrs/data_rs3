@@ -1,0 +1,28 @@
+{
+  "id": 14538,
+  "models": {
+    "10": [
+      14705
+    ]
+  },
+  "name": "Mushroom",
+  "is_transparent": true,
+  "colours": [
+    [
+      9436,
+      7269
+    ],
+    [
+      16569,
+      16441
+    ],
+    [
+      7442,
+      54294
+    ]
+  ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "occludes_2": false
+}

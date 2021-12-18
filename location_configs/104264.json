@@ -1,0 +1,15 @@
+{
+  "id": 104264,
+  "models": {
+    "10": [
+      113602
+    ]
+  },
+  "name": "Khan's house",
+  "dim_x": 13,
+  "dim_y": 8,
+  "model": false,
+  "translate_y": 65438,
+  "translate_z": 9,
+  "occludes_2": false
+}

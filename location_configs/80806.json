@@ -1,0 +1,15 @@
+{
+  "id": 80806,
+  "models": {
+    "10": [
+      65993
+    ]
+  },
+  "name": "TzHaar-Xil",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 16150,
+  "ambient": 10,
+  "contrast": 0,
+  "occludes_2": false
+}

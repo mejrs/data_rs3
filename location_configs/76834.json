@@ -1,0 +1,44 @@
+{
+  "id": 76834,
+  "models": {
+    "10": [
+      52361
+    ]
+  },
+  "name": "Zamorakian statuette",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      478,
+      792
+    ],
+    [
+      931,
+      808
+    ],
+    [
+      918,
+      824
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 920,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

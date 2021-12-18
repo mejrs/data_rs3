@@ -1,0 +1,12 @@
+{
+  "id": 24556,
+  "models": {
+    "10": [
+      25355
+    ]
+  },
+  "name": "Specimen table",
+  "dim_x": 2,
+  "ambient": 20,
+  "occludes_2": false
+}

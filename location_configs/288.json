@@ -1,0 +1,19 @@
+{
+  "id": 288,
+  "models": {
+    "10": [
+      63585
+    ]
+  },
+  "name": "Convenient rock",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Build hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

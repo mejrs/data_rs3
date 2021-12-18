@@ -1,0 +1,51 @@
+{
+  "id": 34873,
+  "models": {
+    "10": [
+      60471
+    ]
+  },
+  "name": "Staircase",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5392,
+      7440
+    ],
+    [
+      5396,
+      7448
+    ],
+    [
+      5400,
+      7452
+    ],
+    [
+      5404,
+      7456
+    ]
+  ],
+  "unknown_69": 13,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

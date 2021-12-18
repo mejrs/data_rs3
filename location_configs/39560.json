@@ -1,0 +1,23 @@
+{
+  "id": 39560,
+  "models": {
+    "10": [
+      42941
+    ]
+  },
+  "name": "Rock (empty)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "colours": [
+    [
+      13433,
+      13324
+    ]
+  ],
+  "unknown_44": 32,
+  "occludes_2": false
+}

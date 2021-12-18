@@ -1,0 +1,12 @@
+{
+  "id": 1126,
+  "models": {
+    "10": [
+      1568
+    ]
+  },
+  "name": "Rosebush",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false
+}

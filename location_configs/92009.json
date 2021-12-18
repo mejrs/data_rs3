@@ -1,0 +1,26 @@
+{
+  "id": 92009,
+  "models": {
+    "10": [
+      97125
+    ]
+  },
+  "name": "Mushroom",
+  "is_transparent": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

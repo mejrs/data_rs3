@@ -1,0 +1,24 @@
+{
+  "id": 66147,
+  "models": {
+    "10": [
+      31021
+    ]
+  },
+  "name": "Rock pile",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Add-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

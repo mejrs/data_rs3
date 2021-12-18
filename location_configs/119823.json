@@ -1,0 +1,16 @@
+{
+  "id": 119823,
+  "models": {
+    "10": [
+      121936
+    ]
+  },
+  "name": "Crashed troll boat",
+  "dim_x": 3,
+  "dim_y": 11,
+  "unknown_17": false,
+  "ambient": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

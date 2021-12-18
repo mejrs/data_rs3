@@ -1,0 +1,23 @@
+{
+  "id": 70247,
+  "models": {
+    "10": [
+      53446
+    ]
+  },
+  "name": "Orange triangle door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

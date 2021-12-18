@@ -1,0 +1,18 @@
+{
+  "id": 107476,
+  "models": {
+    "10": [
+      118437
+    ]
+  },
+  "name": "Fish tent",
+  "dim_x": 5,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,43 @@
+{
+  "id": 52419,
+  "models": {
+    "10": [
+      7906
+    ]
+  },
+  "name": "Counter",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      4385
+    ],
+    [
+      6558,
+      4500
+    ],
+    [
+      6563,
+      4505
+    ],
+    [
+      6439,
+      4381
+    ],
+    [
+      6451,
+      4393
+    ],
+    [
+      6682,
+      4624
+    ]
+  ],
+  "occludes_2": false
+}

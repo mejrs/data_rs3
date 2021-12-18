@@ -1,0 +1,30 @@
+{
+  "id": 39872,
+  "models": {
+    "10": [
+      61601
+    ]
+  },
+  "name": "Unfinished bridge",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    "Repair",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    55,
+    174,
+    null,
+    null,
+    null,
+    null
+  ]
+}

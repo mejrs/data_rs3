@@ -1,0 +1,28 @@
+{
+  "id": 7219,
+  "models": {
+    "0": [
+      7590
+    ]
+  },
+  "name": "Passageway",
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_170": 961,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

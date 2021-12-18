@@ -1,0 +1,36 @@
+{
+  "id": 92943,
+  "models": {
+    "10": [
+      98301,
+      98302
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 18848,
+  "ambient": 37,
+  "colours": [
+    [
+      57282,
+      11202
+    ],
+    [
+      57305,
+      10714
+    ]
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 354,
+    "unknown_2": 10
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_1": 230,
+  "unknown_2": 260,
+  "unknown_186": 0
+}

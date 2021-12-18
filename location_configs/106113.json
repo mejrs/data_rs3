@@ -1,0 +1,15 @@
+{
+  "id": 106113,
+  "models": {
+    "10": [
+      116419,
+      116420
+    ]
+  },
+  "name": "Jas",
+  "dim_x": 8,
+  "dim_y": 6,
+  "unknown_24": 29916,
+  "unknown_89": false,
+  "occludes_2": false
+}

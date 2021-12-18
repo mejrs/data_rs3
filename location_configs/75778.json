@@ -1,0 +1,27 @@
+{
+  "id": 75778,
+  "models": {
+    "10": [
+      31006,
+      2214
+    ]
+  },
+  "name": "Exit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 500,
+  "scale_y": 700,
+  "scale_z": 500,
+  "unknown_75": 0,
+  "occludes_2": false
+}

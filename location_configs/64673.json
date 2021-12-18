@@ -1,0 +1,21 @@
+{
+  "id": 64673,
+  "models": {
+    "10": [
+      17512
+    ]
+  },
+  "name": "Agility obstacle",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

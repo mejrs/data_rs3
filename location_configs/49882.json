@@ -1,0 +1,60 @@
+{
+  "id": 49882,
+  "models": {
+    "10": [
+      56675
+    ]
+  },
+  "name": "Runeleaf",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4123,
+      38044
+    ],
+    [
+      4118,
+      38039
+    ],
+    [
+      4136,
+      38057
+    ],
+    [
+      4108,
+      38029
+    ],
+    [
+      4115,
+      38036
+    ],
+    [
+      4106,
+      38027
+    ]
+  ],
+  "textures": {
+    "1902": 1899
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 611,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

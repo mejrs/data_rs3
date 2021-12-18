@@ -1,0 +1,12 @@
+{
+  "id": 71961,
+  "models": {
+    "10": [
+      70355,
+      70369
+    ]
+  },
+  "name": "Lamp oil still",
+  "dim_x": 2,
+  "occludes_2": false
+}

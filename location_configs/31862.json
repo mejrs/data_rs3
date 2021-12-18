@@ -1,0 +1,28 @@
+{
+  "id": 31862,
+  "models": {
+    "10": [
+      61062
+    ]
+  },
+  "name": "Stage barrier",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

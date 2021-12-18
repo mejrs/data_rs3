@@ -1,0 +1,15 @@
+{
+  "id": 96308,
+  "models": {
+    "10": [
+      102938
+    ]
+  },
+  "name": "Pigeon",
+  "unknown_19": 1,
+  "unknown_24": 4133,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 54,
+  "occludes_2": false
+}

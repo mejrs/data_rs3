@@ -1,0 +1,29 @@
+{
+  "id": 14517,
+  "models": {
+    "10": [
+      8012
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "colours": [
+    [
+      8478,
+      7452
+    ],
+    [
+      8602,
+      8481
+    ],
+    [
+      8598,
+      8472
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "unknown_81": 200,
+  "occludes_2": false
+}

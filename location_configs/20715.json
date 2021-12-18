@@ -1,0 +1,25 @@
+{
+  "id": 20715,
+  "models": {
+    "10": [
+      1715
+    ]
+  },
+  "name": "Sturdy tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "is_members": true,
+  "mapscene": 6,
+  "occludes_2": false
+}

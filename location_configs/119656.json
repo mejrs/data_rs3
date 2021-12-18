@@ -1,0 +1,31 @@
+{
+  "id": 119656,
+  "models": {
+    "10": [
+      121791
+    ]
+  },
+  "name": "Latsyrc",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      44983,
+      5276
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

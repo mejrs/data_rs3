@@ -1,0 +1,27 @@
+{
+  "id": 119812,
+  "models": {
+    "4": [
+      34351
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "model": false,
+  "unknown_79": {
+    "unknown_1": 200,
+    "unknown_2": 500,
+    "unknown_3": 15,
+    "values": [
+      2025,
+      1968,
+      1966,
+      1964,
+      2024,
+      1969
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 110,
+  "unknown_198": true
+}

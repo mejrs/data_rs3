@@ -1,0 +1,25 @@
+{
+  "id": 15664,
+  "models": {
+    "10": [
+      15388
+    ]
+  },
+  "name": "18lb shot",
+  "actions": [
+    "Throw",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    177,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

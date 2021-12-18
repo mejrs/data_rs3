@@ -1,0 +1,34 @@
+{
+  "id": 100167,
+  "models": {
+    "10": [
+      107348,
+      107349
+    ]
+  },
+  "name": "Treasure chest",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "mapfunction": 627,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

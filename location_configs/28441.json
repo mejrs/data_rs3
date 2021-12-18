@@ -1,0 +1,32 @@
+{
+  "id": 28441,
+  "models": {
+    "10": [
+      31008
+    ],
+    "22": [
+      31004
+    ]
+  },
+  "name": "Pipe",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

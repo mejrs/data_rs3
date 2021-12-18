@@ -1,0 +1,36 @@
+{
+  "id": 110081,
+  "models": {
+    "10": [
+      6661
+    ]
+  },
+  "name": "Candle (smoke grey)",
+  "unknown_19": 1,
+  "actions": [
+    "Place candle",
+    "Remove candle",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      120,
+      55
+    ],
+    [
+      7288,
+      53
+    ],
+    [
+      7289,
+      51
+    ],
+    [
+      8307,
+      46
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 70203,
+  "models": {
+    "10": [
+      62076
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 14278,
+  "ambient": 25,
+  "textures": {
+    "1420": 3044
+  },
+  "occludes_2": false
+}

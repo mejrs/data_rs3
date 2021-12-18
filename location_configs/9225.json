@@ -1,0 +1,19 @@
+{
+  "id": 9225,
+  "models": {
+    "10": [
+      9199,
+      7766
+    ]
+  },
+  "name": "Snowdrop patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

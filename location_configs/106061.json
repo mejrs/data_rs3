@@ -1,0 +1,29 @@
+{
+  "id": 106061,
+  "models": {
+    "10": [
+      90878
+    ]
+  },
+  "name": "Viewing panel",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Hinder",
+    "Help",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      388
+    ]
+  }
+}

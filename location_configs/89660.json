@@ -1,0 +1,29 @@
+{
+  "id": 89660,
+  "models": {
+    "10": [
+      93993
+    ]
+  },
+  "name": "Mysterious statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

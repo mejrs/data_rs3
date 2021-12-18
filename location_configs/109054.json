@@ -1,0 +1,33 @@
+{
+  "id": 109054,
+  "models": {
+    "10": [
+      119008
+    ]
+  },
+  "name": "Shifting tombs",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    "Solo",
+    "Search",
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 64976,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    56,
+    null,
+    null,
+    null
+  ]
+}

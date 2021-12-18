@@ -1,0 +1,15 @@
+{
+  "id": 38814,
+  "models": {
+    "10": [
+      41105
+    ]
+  },
+  "name": "Entrance",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_24": 7391,
+  "ambient": 10,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 97480,
+  "models": {
+    "10": [
+      104635
+    ]
+  },
+  "name": "Weapons",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

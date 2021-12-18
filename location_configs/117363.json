@@ -1,0 +1,24 @@
+{
+  "id": 117363,
+  "models": {
+    "10": [
+      96038,
+      95735,
+      95736
+    ]
+  },
+  "name": "Earthen clay",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Uncover",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12332": 12351
+  },
+  "occludes_2": false
+}

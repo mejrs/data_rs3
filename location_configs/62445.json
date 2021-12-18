@@ -1,0 +1,34 @@
+{
+  "id": 62445,
+  "models": {
+    "10": [
+      27687
+    ]
+  },
+  "name": "<col=ffff00>Infinity",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    "Dancefloor-check",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "blocks_ranged": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

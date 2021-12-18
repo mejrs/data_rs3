@@ -1,0 +1,22 @@
+{
+  "id": 27576,
+  "models": {
+    "22": [
+      15997
+    ]
+  },
+  "name": "Pier",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Dive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false
+}

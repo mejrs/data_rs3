@@ -1,0 +1,27 @@
+{
+  "id": 16217,
+  "models": {
+    "10": [
+      16125
+    ]
+  },
+  "name": "Potion shelves",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

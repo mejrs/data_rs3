@@ -1,0 +1,37 @@
+{
+  "id": 52780,
+  "models": {
+    "0": [
+      13286
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_28": 16,
+  "ambient": 10,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      8406,
+      8222
+    ],
+    [
+      5417,
+      5274
+    ],
+    [
+      6430,
+      6292
+    ]
+  ],
+  "mirror": true,
+  "unknown_170": 960
+}

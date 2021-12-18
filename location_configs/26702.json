@@ -1,0 +1,15 @@
+{
+  "id": 26702,
+  "models": {
+    "0": [
+      28384
+    ]
+  },
+  "name": "Secure door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 25,
+  "unknown_170": 960
+}

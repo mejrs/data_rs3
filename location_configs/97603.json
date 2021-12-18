@@ -1,0 +1,17 @@
+{
+  "id": 97603,
+  "models": {
+    "10": [
+      86771
+    ]
+  },
+  "name": "Vorago",
+  "dim_x": 8,
+  "dim_y": 8,
+  "unknown_19": 1,
+  "unknown_24": 20316,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false
+}

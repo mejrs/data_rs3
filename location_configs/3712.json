@@ -1,0 +1,29 @@
+{
+  "id": 3712,
+  "models": {
+    "10": [
+      54806
+    ]
+  },
+  "name": "Blue lodestone",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Charge",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 120,
+  "occludes_2": false,
+  "cursors": [
+    169,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

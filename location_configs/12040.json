@@ -1,0 +1,18 @@
+{
+  "id": 12040,
+  "models": {
+    "10": [
+      57499
+    ]
+  },
+  "name": "Mid mechanism slider",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 14100,
+  "unknown_78": {
+    "unknown_1": 28272,
+    "unknown_2": 8
+  },
+  "occludes_2": false
+}

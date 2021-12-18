@@ -1,0 +1,12 @@
+{
+  "id": 18363,
+  "models": {
+    "10": [
+      18215
+    ]
+  },
+  "name": "Child's bed",
+  "dim_x": 2,
+  "ambient": 20,
+  "occludes_2": false
+}

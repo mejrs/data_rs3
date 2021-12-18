@@ -1,0 +1,15 @@
+{
+  "id": 110894,
+  "models": {
+    "10": [
+      26405
+    ]
+  },
+  "name": "Mysterious rod",
+  "unknown_27": false,
+  "model": false,
+  "translate_x": 32,
+  "translate_y": 65480,
+  "translate_z": 66,
+  "occludes_2": false
+}

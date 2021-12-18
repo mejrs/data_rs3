@@ -1,0 +1,51 @@
+{
+  "id": 3525,
+  "models": {
+    "0": [
+      37629
+    ]
+  },
+  "name": "Grotto",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      19731,
+      4372
+    ],
+    [
+      19736,
+      5528
+    ],
+    [
+      19745,
+      6555
+    ],
+    [
+      19759,
+      7710
+    ],
+    [
+      19769,
+      7715
+    ]
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

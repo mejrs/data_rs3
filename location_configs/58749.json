@@ -1,0 +1,34 @@
+{
+  "id": 58749,
+  "models": {
+    "0": [
+      15533
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_27": false,
+  "unknown_28": 25,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      9222,
+      9247
+    ],
+    [
+      9228,
+      9253
+    ],
+    [
+      9236,
+      9261
+    ],
+    [
+      9242,
+      9267
+    ]
+  ],
+  "mirror": true
+}

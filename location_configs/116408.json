@@ -1,0 +1,30 @@
+{
+  "id": 116408,
+  "models": {
+    "10": [
+      95761,
+      95791
+    ]
+  },
+  "name": "Material cache (fossilised bone)",
+  "unknown_21": true,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 2871
+  }
+}

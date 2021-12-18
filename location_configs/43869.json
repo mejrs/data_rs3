@@ -1,0 +1,21 @@
+{
+  "id": 43869,
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_y": 20,
+  "morphs_1": {
+    "varbit": 42954,
+    "ids": [
+      43870,
+      43871
+    ]
+  },
+  "unknown_196": 4,
+  "params": {
+    "23": 80
+  }
+}

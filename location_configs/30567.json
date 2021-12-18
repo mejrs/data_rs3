@@ -1,0 +1,36 @@
+{
+  "id": 30567,
+  "models": {
+    "10": [
+      12117
+    ]
+  },
+  "name": "Lectern",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4510,
+      7587
+    ],
+    [
+      4502,
+      7954
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

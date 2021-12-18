@@ -1,0 +1,25 @@
+{
+  "id": 103567,
+  "models": {
+    "10": [
+      113025,
+      113024
+    ]
+  },
+  "name": "Font",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Claim loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

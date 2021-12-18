@@ -1,0 +1,20 @@
+{
+  "id": 52810,
+  "models": {
+    "10": [
+      11125
+    ]
+  },
+  "name": "Gilded wardrobe",
+  "ambient": 25,
+  "actions": [
+    "Change-clothes",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false
+}

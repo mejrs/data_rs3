@@ -1,0 +1,14 @@
+{
+  "id": 40128,
+  "models": {
+    "10": [
+      7704
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 65506,
+  "occludes_2": false
+}

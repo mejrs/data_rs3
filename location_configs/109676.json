@@ -1,0 +1,26 @@
+{
+  "id": 109676,
+  "models": {
+    "10": [
+      25038
+    ]
+  },
+  "name": "Crate of tomatoes",
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 35961,
+  "models": {
+    "10": [
+      64653
+    ]
+  },
+  "name": "Conveyor loader",
+  "unknown_17": false,
+  "unknown_24": 10822,
+  "ambient": 15,
+  "actions": [
+    "Load-keg",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 4010,
+    "unknown_2": 8
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_104": 80
+}

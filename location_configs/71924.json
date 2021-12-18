@@ -1,0 +1,11 @@
+{
+  "id": 71924,
+  "models": {
+    "10": [
+      70409
+    ]
+  },
+  "name": "Piano",
+  "dim_x": 2,
+  "occludes_2": false
+}

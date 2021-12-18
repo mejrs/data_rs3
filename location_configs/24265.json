@@ -1,0 +1,24 @@
+{
+  "id": 24265,
+  "models": {
+    "10": [
+      103272
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 25,
+  "model": false,
+  "translate_y": 65534,
+  "unknown_78": {
+    "unknown_1": 4063,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 40,
+  "unknown_1": 240,
+  "unknown_2": 260
+}

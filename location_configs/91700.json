@@ -1,0 +1,14 @@
+{
+  "id": 91700,
+  "models": {
+    "10": [
+      97107
+    ]
+  },
+  "name": "Globe",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

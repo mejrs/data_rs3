@@ -1,0 +1,14 @@
+{
+  "id": 32897,
+  "models": {
+    "10": [
+      35685
+    ]
+  },
+  "name": "Elven lamp",
+  "unknown_19": 1,
+  "unknown_24": 1212,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

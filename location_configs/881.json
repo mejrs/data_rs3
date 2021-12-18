@@ -1,0 +1,32 @@
+{
+  "id": 881,
+  "models": {
+    "10": [
+      25033
+    ]
+  },
+  "name": "Manhole",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1559": 1562
+  },
+  "unknown_69": 13,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

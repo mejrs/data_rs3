@@ -1,0 +1,15 @@
+{
+  "id": 92112,
+  "models": {
+    "10": [
+      97544
+    ]
+  },
+  "name": "Death's note",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "model": false,
+  "translate_z": 64,
+  "unknown_88": false,
+  "occludes_2": false
+}

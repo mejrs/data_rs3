@@ -1,0 +1,12 @@
+{
+  "id": 21612,
+  "models": {
+    "10": [
+      22001,
+      22007
+    ]
+  },
+  "name": "Crate",
+  "ambient": 10,
+  "occludes_2": false
+}

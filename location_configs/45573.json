@@ -1,0 +1,57 @@
+{
+  "id": 45573,
+  "models": {
+    "10": [
+      49404
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6670,
+      7320
+    ],
+    [
+      6674,
+      7325
+    ],
+    [
+      6550,
+      7330
+    ],
+    [
+      6552,
+      7335
+    ],
+    [
+      6554,
+      7340
+    ],
+    [
+      6556,
+      7345
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 73668,
+  "models": {
+    "3": [
+      68970
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4286,
+      4786
+    ],
+    [
+      4257,
+      4770
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

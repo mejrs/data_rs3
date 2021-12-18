@@ -1,0 +1,25 @@
+{
+  "id": 2910,
+  "models": {
+    "10": [
+      1224
+    ]
+  },
+  "name": "Desk",
+  "actions": [
+    "Look",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 35697,
+  "models": {
+    "10": [
+      64653
+    ]
+  },
+  "name": "Conveyor loader",
+  "unknown_17": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

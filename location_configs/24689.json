@@ -1,0 +1,29 @@
+{
+  "id": 24689,
+  "models": {
+    "10": [
+      17878
+    ]
+  },
+  "name": "Experiment tube",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 5,
+  "colours": [
+    [
+      7452,
+      6554
+    ],
+    [
+      8483,
+      6430
+    ],
+    [
+      8472,
+      6550
+    ]
+  ],
+  "unknown_44": 11,
+  "occludes_2": false
+}

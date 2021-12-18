@@ -1,0 +1,28 @@
+{
+  "id": 35471,
+  "models": {
+    "10": [
+      36105
+    ]
+  },
+  "name": "Ornate chest",
+  "ambient": 25,
+  "actions": [
+    "Close",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

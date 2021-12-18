@@ -1,0 +1,13 @@
+{
+  "id": 17898,
+  "models": {
+    "10": [
+      17878
+    ]
+  },
+  "name": "Lab tube",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "occludes_2": false
+}

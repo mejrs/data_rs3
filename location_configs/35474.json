@@ -1,0 +1,13 @@
+{
+  "id": 35474,
+  "models": {
+    "10": [
+      36111
+    ]
+  },
+  "name": "Divan",
+  "dim_y": 2,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

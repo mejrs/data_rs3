@@ -1,0 +1,15 @@
+{
+  "id": 94049,
+  "models": {
+    "10": [
+      99962
+    ]
+  },
+  "name": "Statue of Seren",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 37,
+  "contrast": 15,
+  "occludes_2": false
+}

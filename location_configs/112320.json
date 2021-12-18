@@ -1,0 +1,21 @@
+{
+  "id": 112320,
+  "models": {
+    "10": [
+      86945,
+      64537
+    ]
+  },
+  "name": "Trough",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Fill",
+    "Check contents",
+    "Remove as mush",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

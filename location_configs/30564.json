@@ -1,0 +1,14 @@
+{
+  "id": 30564,
+  "models": {
+    "10": [
+      33578
+    ]
+  },
+  "name": "Wall chest coffin",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 64,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 30199,
+  "models": {
+    "22": [
+      33091
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 9007,
+  "ambient": 30,
+  "contrast": 25,
+  "mirror": true,
+  "model": false,
+  "unknown_73": true,
+  "unknown_78": {
+    "unknown_1": 6536,
+    "unknown_2": 20
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 85
+}

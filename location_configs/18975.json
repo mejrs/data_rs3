@@ -1,0 +1,27 @@
+{
+  "id": 18975,
+  "models": {
+    "10": [
+      45938
+    ]
+  },
+  "name": "Dirty plates",
+  "dim_x": 2,
+  "unknown_24": 175,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

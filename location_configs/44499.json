@@ -1,0 +1,14 @@
+{
+  "id": 44499,
+  "models": {
+    "10": [
+      40092
+    ]
+  },
+  "name": "Pillar",
+  "dim_x": 3,
+  "ambient": 20,
+  "contrast": 10,
+  "translate_y": 227,
+  "occludes_2": false
+}

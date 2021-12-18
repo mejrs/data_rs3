@@ -1,0 +1,30 @@
+{
+  "id": 103594,
+  "models": {
+    "10": [
+      113157
+    ]
+  },
+  "name": "Sailing boat",
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Bless",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 240,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

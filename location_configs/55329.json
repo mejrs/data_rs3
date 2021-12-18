@@ -1,0 +1,15 @@
+{
+  "id": 55329,
+  "models": {
+    "10": [
+      57704
+    ]
+  },
+  "name": "Magical amplifier",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

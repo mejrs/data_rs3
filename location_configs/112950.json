@@ -1,0 +1,32 @@
+{
+  "id": 112950,
+  "models": {
+    "10": [
+      66089
+    ]
+  },
+  "name": "Stone slab vein",
+  "unknown_24": 8529,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

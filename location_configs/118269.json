@@ -1,0 +1,25 @@
+{
+  "id": 118269,
+  "models": {
+    "10": [
+      120797
+    ]
+  },
+  "name": "Wheel space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

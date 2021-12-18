@@ -1,0 +1,14 @@
+{
+  "id": 118895,
+  "models": {
+    "10": [
+      108413
+    ]
+  },
+  "name": "2007 Fremennik Longboat statue",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

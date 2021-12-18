@@ -1,0 +1,21 @@
+{
+  "id": 114411,
+  "models": {
+    "10": [
+      81789,
+      81776,
+      7767
+    ]
+  },
+  "name": "Mango bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

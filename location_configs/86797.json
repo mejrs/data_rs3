@@ -1,0 +1,28 @@
+{
+  "id": 86797,
+  "models": {
+    "10": [
+      89115
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 3,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

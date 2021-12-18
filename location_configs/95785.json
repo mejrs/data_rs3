@@ -1,0 +1,27 @@
+{
+  "id": 95785,
+  "models": {
+    "10": [
+      25568
+    ]
+  },
+  "name": "Display case",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 103596,
+  "models": {
+    "10": [
+      113159
+    ]
+  },
+  "name": "Sarim's Revenge",
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "translate_y": 240,
+  "occludes_2": false
+}

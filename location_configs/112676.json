@@ -1,0 +1,17 @@
+{
+  "id": 112676,
+  "models": {
+    "10": [
+      97092
+    ]
+  },
+  "name": "Prince Slime",
+  "unknown_19": 1,
+  "unknown_24": 32457,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

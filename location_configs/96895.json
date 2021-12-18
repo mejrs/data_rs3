@@ -1,0 +1,26 @@
+{
+  "id": 96895,
+  "models": {
+    "10": [
+      36844
+    ]
+  },
+  "name": "Ominous Fishing Spot",
+  "unknown_24": 9645,
+  "actions": [
+    "Lure",
+    "Bait",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    60,
+    60,
+    null,
+    null,
+    null,
+    null
+  ]
+}

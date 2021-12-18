@@ -1,0 +1,22 @@
+{
+  "id": 96657,
+  "models": {
+    "10": [
+      103599
+    ]
+  },
+  "name": "Driftwood prawnbroker",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Interact",
+    "Prawn perks",
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "occludes_2": false
+}

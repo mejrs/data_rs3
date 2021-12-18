@@ -1,0 +1,26 @@
+{
+  "id": 13292,
+  "models": {
+    "10": [
+      11124
+    ]
+  },
+  "name": "Magic chest",
+  "unknown_24": 3118,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

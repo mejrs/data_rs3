@@ -1,0 +1,21 @@
+{
+  "id": 42858,
+  "models": {
+    "10": [
+      32999
+    ]
+  },
+  "name": "Canoe",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

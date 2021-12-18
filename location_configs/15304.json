@@ -1,0 +1,17 @@
+{
+  "id": 15304,
+  "models": {
+    "10": [
+      12648
+    ]
+  },
+  "name": "Bell pull space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

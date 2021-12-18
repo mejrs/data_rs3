@@ -1,0 +1,15 @@
+{
+  "id": 13925,
+  "models": {
+    "10": [
+      14271
+    ]
+  },
+  "name": "Hole",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 3835,
+  "occludes_2": false
+}

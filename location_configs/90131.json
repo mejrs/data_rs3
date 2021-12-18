@@ -1,0 +1,19 @@
+{
+  "id": 90131,
+  "models": {
+    "10": [
+      94245
+    ]
+  },
+  "name": "Overhang",
+  "unknown_19": 1,
+  "actions": [
+    "Wall run",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

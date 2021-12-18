@@ -1,0 +1,15 @@
+{
+  "id": 82744,
+  "models": {
+    "10": [
+      83846
+    ]
+  },
+  "name": "Pile of dirt",
+  "dim_x": 4,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 50,
+  "occludes_2": false
+}

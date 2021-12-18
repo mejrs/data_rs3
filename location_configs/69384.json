@@ -1,0 +1,27 @@
+{
+  "id": 69384,
+  "models": {
+    "10": [
+      68177
+    ]
+  },
+  "name": "Obstacle net",
+  "dim_x": 2,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 15201,
+  "models": {
+    "10": [
+      15049
+    ]
+  },
+  "name": "Hole",
+  "is_transparent": true,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 120632,
+  "models": {
+    "22": [
+      90990
+    ]
+  },
+  "name": "Suspicious dial",
+  "unknown_19": 1,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64,
+      49839
+    ]
+  ],
+  "occludes_2": false
+}

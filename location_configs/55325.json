@@ -1,0 +1,22 @@
+{
+  "id": 55325,
+  "models": {
+    "10": [
+      25880
+    ]
+  },
+  "name": "Drawers",
+  "ambient": 25,
+  "colours": [
+    [
+      7706,
+      6689
+    ],
+    [
+      7587,
+      6449
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

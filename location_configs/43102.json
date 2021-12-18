@@ -1,0 +1,29 @@
+{
+  "id": 43102,
+  "models": {
+    "10": [
+      70443
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 11713,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Drop coin in",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

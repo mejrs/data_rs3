@@ -1,0 +1,37 @@
+{
+  "id": 50456,
+  "models": {
+    "10": [
+      53094
+    ]
+  },
+  "name": "Blue shield door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      1575,
+      38557
+    ]
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

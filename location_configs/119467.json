@@ -1,0 +1,26 @@
+{
+  "id": 119467,
+  "models": {
+    "10": [
+      69556
+    ]
+  },
+  "name": "Lilies of the valley",
+  "unknown_17": false,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 104194,
+  "models": {
+    "10": [
+      36629
+    ]
+  },
+  "name": "Standing rods",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 50,
+  "model": false,
+  "occludes_2": false
+}

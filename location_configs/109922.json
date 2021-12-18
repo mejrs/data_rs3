@@ -1,0 +1,43 @@
+{
+  "id": 109922,
+  "models": {
+    "10": [
+      1877
+    ]
+  },
+  "name": "Blue toadstool",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 1199,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7333,
+      527
+    ],
+    [
+      7341,
+      659
+    ],
+    [
+      8369,
+      663
+    ],
+    [
+      8379,
+      666
+    ],
+    [
+      8390,
+      672
+    ],
+    [
+      10442,
+      5419
+    ]
+  ],
+  "occludes_2": false
+}

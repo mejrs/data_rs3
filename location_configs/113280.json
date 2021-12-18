@@ -1,0 +1,22 @@
+{
+  "id": 113280,
+  "models": {
+    "10": [
+      34223
+    ]
+  },
+  "name": "Crafting workbench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Sew sails with crafting",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

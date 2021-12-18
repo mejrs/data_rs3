@@ -1,0 +1,27 @@
+{
+  "id": 74635,
+  "models": {
+    "10": [
+      73021
+    ]
+  },
+  "name": "Nyriki's crate",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 30,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

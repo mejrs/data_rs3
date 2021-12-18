@@ -1,0 +1,27 @@
+{
+  "id": 70773,
+  "models": {
+    "10": [
+      96141
+    ]
+  },
+  "name": "Tomb",
+  "dim_x": 4,
+  "dim_y": 4,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 160,
+  "models": {
+    "4": [
+      50962
+    ]
+  },
+  "name": "Lever",
+  "unknown_19": 1,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65466,
+  "occludes_2": false
+}

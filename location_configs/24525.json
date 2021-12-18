@@ -1,0 +1,14 @@
+{
+  "id": 24525,
+  "models": {
+    "10": [
+      25440
+    ]
+  },
+  "name": "Canal barge",
+  "unknown_22": true,
+  "mirror": true,
+  "translate_y": 240,
+  "occludes_2": false,
+  "unknown_196": 2
+}

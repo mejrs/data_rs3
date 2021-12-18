@@ -1,0 +1,35 @@
+{
+  "id": 46274,
+  "models": {
+    "10": [
+      68885
+    ]
+  },
+  "name": "Mahogany",
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      3470,
+      8070
+    ]
+  ],
+  "unknown_81": 64,
+  "mapscene": 1,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

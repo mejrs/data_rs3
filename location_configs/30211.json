@@ -1,0 +1,13 @@
+{
+  "id": 30211,
+  "models": {
+    "10": [
+      33079
+    ]
+  },
+  "name": "Spear barrel",
+  "is_transparent": true,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

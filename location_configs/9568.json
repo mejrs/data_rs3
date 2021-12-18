@@ -1,0 +1,11 @@
+{
+  "id": 9568,
+  "models": {
+    "10": [
+      2397
+    ]
+  },
+  "name": "Bucket",
+  "is_transparent": true,
+  "occludes_2": false
+}

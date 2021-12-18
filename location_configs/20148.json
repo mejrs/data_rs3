@@ -1,0 +1,24 @@
+{
+  "id": 20148,
+  "models": {
+    "10": [
+      20689
+    ]
+  },
+  "name": "Winch",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      7706,
+      5537
+    ],
+    [
+      7954,
+      5656
+    ]
+  ],
+  "unknown_44": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 116933,
+  "models": {
+    "10": [
+      85159
+    ]
+  },
+  "name": "Door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

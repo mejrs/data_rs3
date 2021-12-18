@@ -1,0 +1,22 @@
+{
+  "id": 61576,
+  "models": {
+    "10": [
+      57521
+    ]
+  },
+  "name": "Wall",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "occludes_2": false
+}

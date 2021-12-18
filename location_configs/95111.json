@@ -1,0 +1,48 @@
+{
+  "id": 95111,
+  "models": {
+    "10": [
+      32694,
+      101618
+    ]
+  },
+  "name": "Small obelisk",
+  "unknown_24": 25607,
+  "ambient": 10,
+  "actions": [
+    "Renew points",
+    "Teleport to Pikkupstix",
+    null,
+    null,
+    null
+  ],
+  "contrast": 84,
+  "colours": [
+    [
+      11934,
+      12559
+    ],
+    [
+      11939,
+      12563
+    ],
+    [
+      8984,
+      6308
+    ],
+    [
+      7475,
+      6316
+    ],
+    [
+      27171,
+      25891
+    ],
+    [
+      27881,
+      25916
+    ]
+  ],
+  "unknown_81": 20,
+  "occludes_2": false
+}

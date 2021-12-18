@@ -1,0 +1,12 @@
+{
+  "id": 6538,
+  "models": {
+    "10": [
+      6304
+    ]
+  },
+  "name": "Sphinx",
+  "dim_y": 2,
+  "translate_z": 20,
+  "occludes_2": false
+}

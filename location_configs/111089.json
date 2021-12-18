@@ -1,0 +1,48 @@
+{
+  "id": 111089,
+  "models": {
+    "10": [
+      34835
+    ]
+  },
+  "name": "Perch rock",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      39991,
+      8374
+    ],
+    [
+      43063,
+      8384
+    ],
+    [
+      39995,
+      8389
+    ],
+    [
+      40000,
+      8394
+    ],
+    [
+      40004,
+      8399
+    ],
+    [
+      40012,
+      8404
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

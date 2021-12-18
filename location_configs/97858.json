@@ -1,0 +1,23 @@
+{
+  "id": 97858,
+  "models": {
+    "10": [
+      105200,
+      105201
+    ]
+  },
+  "name": "Axe in stake",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take axe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

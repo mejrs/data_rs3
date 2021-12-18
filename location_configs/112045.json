@@ -1,0 +1,22 @@
+{
+  "id": 112045,
+  "models": {
+    "10": [
+      114870
+    ]
+  },
+  "name": "Tortle portal (to North Turtle)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 612
+}

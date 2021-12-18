@@ -1,0 +1,15 @@
+{
+  "id": 108958,
+  "models": {
+    "10": [
+      119511
+    ]
+  },
+  "name": "Sarcophagus",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "occludes_2": false,
+  "mapfunction": 3979
+}

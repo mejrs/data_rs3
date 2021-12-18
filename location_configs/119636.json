@@ -1,0 +1,19 @@
+{
+  "id": 119636,
+  "models": {
+    "10": [
+      121765,
+      121760
+    ]
+  },
+  "name": "Automaton icon (started)",
+  "unknown_19": 1,
+  "actions": [
+    "Carve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

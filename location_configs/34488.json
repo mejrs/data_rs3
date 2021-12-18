@@ -1,0 +1,28 @@
+{
+  "id": 34488,
+  "models": {
+    "10": [
+      19037
+    ]
+  },
+  "name": "Box",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6682,
+      7452
+    ],
+    [
+      6443,
+      7468
+    ],
+    [
+      6930,
+      7440
+    ]
+  ],
+  "occludes_2": false
+}

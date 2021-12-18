@@ -1,0 +1,14 @@
+{
+  "id": 1876,
+  "models": {
+    "10": [
+      2164
+    ]
+  },
+  "name": "Altar slab",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

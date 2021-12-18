@@ -1,0 +1,23 @@
+{
+  "id": 105578,
+  "models": {
+    "10": [
+      115508,
+      115509
+    ]
+  },
+  "name": "Crate of red crystals (Empowered)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 112514,
+  "models": {
+    "10": [
+      67619
+    ]
+  },
+  "name": "Crafting Pillar",
+  "actions": [
+    "Stabilise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

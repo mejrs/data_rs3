@@ -1,0 +1,16 @@
+{
+  "id": 79613,
+  "models": {
+    "10": [
+      75637
+    ]
+  },
+  "name": "Bench",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 88,
+  "translate_z": 65482,
+  "occludes_2": false
+}

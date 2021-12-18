@@ -1,0 +1,23 @@
+{
+  "id": 29739,
+  "models": {
+    "10": [
+      28602,
+      27934
+    ]
+  },
+  "name": "Villagers",
+  "unknown_24": 1364,
+  "unknown_27": false,
+  "colours": [
+    [
+      4550,
+      8646
+    ],
+    [
+      25238,
+      41143
+    ]
+  ],
+  "occludes_2": false
+}

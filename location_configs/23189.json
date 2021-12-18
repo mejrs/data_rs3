@@ -1,0 +1,12 @@
+{
+  "id": 23189,
+  "models": {
+    "10": [
+      18323
+    ]
+  },
+  "name": "Wreck",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

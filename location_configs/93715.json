@@ -1,0 +1,23 @@
+{
+  "id": 93715,
+  "models": {
+    "22": [
+      6269
+    ]
+  },
+  "name": "Broken glass",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 0,
+  "translate_y": 0,
+  "translate_z": 65456,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  },
+  "unknown_167": 8
+}

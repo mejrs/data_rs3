@@ -1,0 +1,27 @@
+{
+  "id": 119251,
+  "models": {
+    "10": [
+      18949
+    ]
+  },
+  "name": "Ladder",
+  "unknown_22": true,
+  "colours": [
+    [
+      7836,
+      6439
+    ],
+    [
+      7834,
+      6435
+    ],
+    [
+      6930,
+      6674
+    ]
+  ],
+  "unknown_44": 19,
+  "mapscene": 7,
+  "occludes_2": false
+}

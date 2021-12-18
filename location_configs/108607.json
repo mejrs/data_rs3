@@ -1,0 +1,16 @@
+{
+  "id": 108607,
+  "models": {
+    "10": [
+      118211
+    ]
+  },
+  "name": "Bank vault",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_y": 132,
+  "scale_z": 152,
+  "occludes_2": false
+}

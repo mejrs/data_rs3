@@ -1,0 +1,22 @@
+{
+  "id": 81836,
+  "models": {
+    "10": [
+      81702
+    ]
+  },
+  "name": "Cherry tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "textures": {
+    "2637": 4108,
+    "2653": 4107,
+    "8256": 7379
+  },
+  "occludes_2": false
+}

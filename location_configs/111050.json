@@ -1,0 +1,19 @@
+{
+  "id": 111050,
+  "models": {
+    "10": [
+      1508
+    ]
+  },
+  "name": "Cannon",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Shoot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

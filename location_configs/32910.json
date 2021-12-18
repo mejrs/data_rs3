@@ -1,0 +1,46 @@
+{
+  "id": 32910,
+  "models": {
+    "10": [
+      11797
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      30,
+      10250
+    ],
+    [
+      35,
+      10253
+    ],
+    [
+      39,
+      10256
+    ],
+    [
+      43,
+      10259
+    ],
+    [
+      47,
+      10262
+    ],
+    [
+      51,
+      10265
+    ]
+  ],
+  "textures": {
+    "2355": 1476
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 117004,
+  "models": {
+    "4": [
+      90989
+    ]
+  },
+  "name": "Ice dial",
+  "unknown_19": 1,
+  "colours": [
+    [
+      64,
+      35639
+    ]
+  ],
+  "occludes_2": false
+}

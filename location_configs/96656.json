@@ -1,0 +1,21 @@
+{
+  "id": 96656,
+  "models": {
+    "10": [
+      103601
+    ]
+  },
+  "name": "Prawnbroker hotspot",
+  "unknown_19": 1,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "occludes_2": false
+}

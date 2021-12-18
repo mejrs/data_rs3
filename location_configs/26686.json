@@ -1,0 +1,58 @@
+{
+  "id": 26686,
+  "models": {
+    "10": [
+      28530
+    ]
+  },
+  "name": "Sewer entrance",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6032,
+      6674
+    ],
+    [
+      5908,
+      6550
+    ],
+    [
+      5784,
+      6554
+    ],
+    [
+      5660,
+      6430
+    ],
+    [
+      7582,
+      7463
+    ],
+    [
+      6563,
+      6439
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

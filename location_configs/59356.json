@@ -1,0 +1,32 @@
+{
+  "id": 59356,
+  "models": {
+    "10": [
+      27687
+    ]
+  },
+  "name": "Entrance",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pass through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "blocks_ranged": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

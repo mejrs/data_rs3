@@ -1,0 +1,29 @@
+{
+  "id": 81925,
+  "models": {
+    "10": [
+      82587
+    ]
+  },
+  "name": "Name plaque",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Read",
+    "Rename",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 18767,
+  "models": {
+    "10": [
+      19009
+    ]
+  },
+  "name": "Teak cape rack",
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

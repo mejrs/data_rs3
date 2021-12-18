@@ -1,0 +1,25 @@
+{
+  "id": 14290,
+  "models": {
+    "10": [
+      11027
+    ]
+  },
+  "name": "Blue door",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      37840
+    ],
+    [
+      31676,
+      37820
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

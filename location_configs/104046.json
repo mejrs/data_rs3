@@ -1,0 +1,32 @@
+{
+  "id": 104046,
+  "models": {
+    "10": [
+      104443
+    ]
+  },
+  "name": "Deck chair",
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Sit",
+    "Recolour",
+    "Take",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37783
+  }
+}

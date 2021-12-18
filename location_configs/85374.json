@@ -1,0 +1,22 @@
+{
+  "id": 85374,
+  "models": {
+    "22": [
+      88162
+    ]
+  },
+  "name": "Planks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Reclaim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

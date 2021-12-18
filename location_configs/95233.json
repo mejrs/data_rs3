@@ -1,0 +1,13 @@
+{
+  "id": 95233,
+  "models": {
+    "10": [
+      101746
+    ]
+  },
+  "name": "Sea creature egg",
+  "ambient": 25,
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

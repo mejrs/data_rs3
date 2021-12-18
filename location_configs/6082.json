@@ -1,0 +1,21 @@
+{
+  "id": 6082,
+  "models": {
+    "10": [
+      1229
+    ]
+  },
+  "name": "Bank table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      7056,
+      5404
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 100,
+  "scale_z": 128,
+  "occludes_2": false
+}

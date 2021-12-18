@@ -1,0 +1,30 @@
+{
+  "id": 7800,
+  "models": {
+    "10": [
+      7951,
+      7768
+    ]
+  },
+  "name": "Dead Calquat",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      10277
+    ],
+    [
+      6709,
+      10401
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

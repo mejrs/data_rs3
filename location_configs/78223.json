@@ -1,0 +1,18 @@
+{
+  "id": 78223,
+  "models": {
+    "22": [
+      78119
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 0,
+  "contrast": 15,
+  "model": false,
+  "scale_y": 512,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 80
+}

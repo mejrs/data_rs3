@@ -1,0 +1,23 @@
+{
+  "id": 87706,
+  "models": {
+    "10": [
+      97336,
+      97333
+    ]
+  },
+  "name": "Elf Ranger",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 21813,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": 116629,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Cliff",
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 128,
+  "scale_y": 640,
+  "scale_z": 256,
+  "unknown_69": 10,
+  "translate_y": 512,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6668": 3103
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": 104042,
+  "models": {
+    "10": [
+      77993
+    ]
+  },
+  "name": "Hammock",
+  "dim_x": 2,
+  "unknown_21": true,
+  "actions": [
+    "Rest",
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "scale_x": 175,
+  "scale_y": 150,
+  "scale_z": 175,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37779
+  }
+}

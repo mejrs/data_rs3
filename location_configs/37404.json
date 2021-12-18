@@ -1,0 +1,29 @@
+{
+  "id": 37404,
+  "models": {
+    "22": [
+      40700
+    ]
+  },
+  "name": "Foliage",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

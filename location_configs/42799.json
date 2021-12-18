@@ -1,0 +1,24 @@
+{
+  "id": 42799,
+  "models": {
+    "10": [
+      46230
+    ]
+  },
+  "name": "Blocked icy stream",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 11565,
+  "ambient": 25,
+  "actions": [
+    "Unblock-stream",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

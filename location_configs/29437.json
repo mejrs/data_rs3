@@ -1,0 +1,14 @@
+{
+  "id": 29437,
+  "models": {
+    "10": [
+      32222
+    ]
+  },
+  "name": "Rotten Catapult",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_24": 1223,
+  "unknown_75": 0,
+  "occludes_2": false
+}

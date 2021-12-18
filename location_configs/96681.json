@@ -1,0 +1,23 @@
+{
+  "id": 96681,
+  "models": {
+    "10": [
+      103612,
+      103611
+    ]
+  },
+  "name": "Kelp",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 26323,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "4561": 5645,
+    "4562": 5646,
+    "4563": 5647,
+    "4564": 5644
+  },
+  "model": false,
+  "occludes_2": false
+}

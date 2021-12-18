@@ -1,0 +1,20 @@
+{
+  "id": 23116,
+  "models": {
+    "10": [
+      14395
+    ]
+  },
+  "name": "Pile of eggs",
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Take-egg",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

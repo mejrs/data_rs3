@@ -1,0 +1,13 @@
+{
+  "id": 95328,
+  "models": {
+    "10": [
+      102257
+    ]
+  },
+  "name": "Light orb",
+  "unknown_24": 25939,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

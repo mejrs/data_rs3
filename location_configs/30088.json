@@ -1,0 +1,18 @@
+{
+  "id": 30088,
+  "models": {
+    "10": [
+      32965,
+      32967
+    ]
+  },
+  "name": "Easter Bird",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 11539,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

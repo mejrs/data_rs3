@@ -1,0 +1,30 @@
+{
+  "id": 54258,
+  "models": {
+    "10": [
+      59703
+    ]
+  },
+  "name": "Anvil",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

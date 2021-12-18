@@ -1,0 +1,11 @@
+{
+  "id": 97193,
+  "models": {
+    "10": [
+      104343
+    ]
+  },
+  "name": "Dispenser",
+  "ambient": 64,
+  "occludes_2": false
+}

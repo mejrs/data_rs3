@@ -1,0 +1,14 @@
+{
+  "id": 36702,
+  "models": {
+    "10": [
+      38575,
+      9626
+    ]
+  },
+  "name": "Ruined Pillar",
+  "ambient": 20,
+  "contrast": 10,
+  "unknown_81": 120,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 102178,
+  "models": {
+    "4": [
+      111419
+    ]
+  },
+  "name": "Hanging meat",
+  "unknown_19": 1,
+  "ambient": -10,
+  "mirror": true,
+  "occludes_2": false
+}

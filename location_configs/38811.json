@@ -1,0 +1,23 @@
+{
+  "id": 38811,
+  "models": {
+    "10": [
+      41081
+    ]
+  },
+  "name": "Passage",
+  "dim_x": 5,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

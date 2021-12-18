@@ -1,0 +1,29 @@
+{
+  "id": 117150,
+  "models": {
+    "10": [
+      91951
+    ]
+  },
+  "name": "War golem arm",
+  "dim_x": 7,
+  "dim_y": 8,
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

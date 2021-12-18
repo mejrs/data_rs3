@@ -1,0 +1,32 @@
+{
+  "id": 12291,
+  "models": {
+    "10": [
+      10232
+    ]
+  },
+  "name": "Jade root (mutated)",
+  "unknown_21": true,
+  "unknown_24": 3403,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

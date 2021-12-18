@@ -1,0 +1,15 @@
+{
+  "id": 54966,
+  "models": {
+    "10": [
+      59333
+    ]
+  },
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 10,
+  "translate_z": 65518,
+  "occludes_2": false
+}

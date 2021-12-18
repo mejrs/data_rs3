@@ -1,0 +1,19 @@
+{
+  "id": 53735,
+  "models": {
+    "10": [
+      56694
+    ]
+  },
+  "name": "Farming patch (lycopus fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    "Replace"
+  ]
+}

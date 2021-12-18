@@ -1,0 +1,35 @@
+{
+  "id": 76499,
+  "models": {
+    "10": [
+      76724
+    ]
+  },
+  "name": "Palace entrance",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pass-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "unknown_69": 5,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

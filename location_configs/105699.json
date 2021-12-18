@@ -1,0 +1,34 @@
+{
+  "id": 105699,
+  "models": {
+    "10": [
+      82814
+    ]
+  },
+  "name": "Scaffolding",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_27": false,
+  "ambient": 100,
+  "colours": [
+    [
+      10762,
+      15882
+    ],
+    [
+      10764,
+      15884
+    ],
+    [
+      10768,
+      15888
+    ]
+  ],
+  "model": false,
+  "scale_x": 220,
+  "scale_y": 185,
+  "scale_z": 220,
+  "unknown_75": 0,
+  "unknown_81": 1,
+  "occludes_2": false
+}

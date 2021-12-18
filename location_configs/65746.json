@@ -1,0 +1,14 @@
+{
+  "id": 65746,
+  "models": {
+    "10": [
+      24544
+    ]
+  },
+  "name": "Armour Rack",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

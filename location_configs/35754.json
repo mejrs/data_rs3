@@ -1,0 +1,40 @@
+{
+  "id": 35754,
+  "models": {
+    "10": [
+      38141
+    ]
+  },
+  "name": "Bookcase",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      7587
+    ],
+    [
+      7952,
+      7706
+    ],
+    [
+      5002,
+      46024
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

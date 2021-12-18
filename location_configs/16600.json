@@ -1,0 +1,32 @@
+{
+  "id": 16600,
+  "models": {
+    "10": [
+      16764
+    ]
+  },
+  "name": "Hurdle",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 4357,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

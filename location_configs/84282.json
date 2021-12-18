@@ -1,0 +1,39 @@
+{
+  "id": 84282,
+  "models": {
+    "10": [
+      85770,
+      7766
+    ]
+  },
+  "name": "Diseased snape grass",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      26526,
+      13726
+    ],
+    [
+      26532,
+      23732
+    ],
+    [
+      26535,
+      13735
+    ],
+    [
+      26529,
+      13729
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

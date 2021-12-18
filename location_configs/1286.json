@@ -1,0 +1,38 @@
+{
+  "id": 1286,
+  "models": {
+    "10": [
+      1716
+    ]
+  },
+  "name": "Dead tree",
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6028,
+      3470
+    ],
+    [
+      7054,
+      3470
+    ]
+  ],
+  "unknown_81": 32,
+  "mapscene": 27,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

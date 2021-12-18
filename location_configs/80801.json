@@ -1,0 +1,15 @@
+{
+  "id": 80801,
+  "models": {
+    "10": [
+      65981
+    ]
+  },
+  "name": "TzHaar-Mej",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 16125,
+  "ambient": 10,
+  "contrast": 0,
+  "occludes_2": false
+}

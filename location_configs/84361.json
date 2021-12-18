@@ -1,0 +1,24 @@
+{
+  "id": 84361,
+  "models": {
+    "10": [
+      85829,
+      7767,
+      85831
+    ]
+  },
+  "name": "Barberry bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

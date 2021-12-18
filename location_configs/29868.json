@@ -1,0 +1,23 @@
+{
+  "id": 29868,
+  "models": {
+    "10": [
+      32632
+    ]
+  },
+  "name": "Coal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Fill-Buckets",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

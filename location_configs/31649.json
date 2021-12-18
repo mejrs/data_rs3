@@ -1,0 +1,29 @@
+{
+  "id": 31649,
+  "models": {
+    "4": [
+      24884
+    ]
+  },
+  "name": "Notices",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

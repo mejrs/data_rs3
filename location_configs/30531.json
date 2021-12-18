@@ -1,0 +1,27 @@
+{
+  "id": 30531,
+  "models": {
+    "4": [
+      33558
+    ]
+  },
+  "name": "Instructions",
+  "unknown_19": 1,
+  "actions": [
+    "Look-at",
+    "Read",
+    null,
+    null,
+    null
+  ],
+  "scale_y": 160,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    50,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 25827,
+  "models": {
+    "0": [
+      639
+    ]
+  },
+  "name": "Door",
+  "occludes_1": false,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6697,
+      5305
+    ],
+    [
+      6945,
+      5301
+    ],
+    [
+      6814,
+      5297
+    ],
+    [
+      6940,
+      5293
+    ],
+    [
+      4638,
+      5289
+    ],
+    [
+      4762,
+      5285
+    ]
+  ],
+  "textures": {
+    "2318": 2108
+  },
+  "mirror": true,
+  "unknown_75": 0,
+  "unknown_170": 960,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 61336,
+  "models": {
+    "10": [
+      99146
+    ]
+  },
+  "name": "Vampyric Altar",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 24668,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 11,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

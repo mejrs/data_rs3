@@ -1,0 +1,12 @@
+{
+  "id": 117094,
+  "models": {
+    "10": [
+      85159
+    ]
+  },
+  "name": "Door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

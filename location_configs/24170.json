@@ -1,0 +1,17 @@
+{
+  "id": 24170,
+  "models": {
+    "10": [
+      18173,
+      18174
+    ]
+  },
+  "name": "Washing Line",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "unknown_24": 4778,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_196": 1
+}

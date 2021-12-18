@@ -1,0 +1,33 @@
+{
+  "id": 86696,
+  "models": {
+    "10": [
+      89016
+    ]
+  },
+  "name": "Empty rack",
+  "ambient": -25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      363
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 36978,
+  "models": {
+    "10": [
+      36523
+    ]
+  },
+  "name": "Organ",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2062": 3172,
+    "2066": 3172,
+    "2073": 3171,
+    "2076": 3179,
+    "2093": 3179,
+    "2094": 3171
+  },
+  "occludes_2": false
+}

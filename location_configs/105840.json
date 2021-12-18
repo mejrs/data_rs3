@@ -1,0 +1,14 @@
+{
+  "id": 105840,
+  "models": {
+    "10": [
+      115986
+    ]
+  },
+  "name": "Banner",
+  "unknown_27": false,
+  "ambient": 100,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,19 @@
+{
+  "id": 75814,
+  "models": {
+    "10": [
+      76744,
+      76697
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2739": 2733
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

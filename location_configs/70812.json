@@ -1,0 +1,31 @@
+{
+  "id": 70812,
+  "models": {
+    "10": [
+      69863,
+      69864
+    ]
+  },
+  "name": "Summoning portal",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    "Quick instanced encounter",
+    "Rejoin last instance",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 15463,
+    "unknown_2": 12
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 80,
+  "unknown_196": 3
+}

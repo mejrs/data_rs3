@@ -1,0 +1,15 @@
+{
+  "id": 97821,
+  "models": {
+    "10": [
+      105222
+    ]
+  },
+  "name": "Water pool",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "occludes_2": false
+}

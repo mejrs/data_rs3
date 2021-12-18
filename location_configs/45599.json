@@ -1,0 +1,16 @@
+{
+  "id": 45599,
+  "models": {
+    "10": [
+      49188
+    ]
+  },
+  "name": "Roots",
+  "unknown_19": 1,
+  "unknown_24": 12281,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

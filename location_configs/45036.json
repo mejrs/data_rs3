@@ -1,0 +1,16 @@
+{
+  "id": 45036,
+  "models": {
+    "10": [
+      48574
+    ]
+  },
+  "name": "Work desk",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

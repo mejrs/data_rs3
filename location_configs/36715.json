@@ -1,0 +1,43 @@
+{
+  "id": 36715,
+  "models": {
+    "10": [
+      38598
+    ]
+  },
+  "name": "Ogre Coffin",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7442,
+      6028
+    ],
+    [
+      7446,
+      7054
+    ],
+    [
+      7322,
+      6930
+    ],
+    [
+      7326,
+      6806
+    ],
+    [
+      7331,
+      6682
+    ],
+    [
+      7335,
+      6558
+    ]
+  ],
+  "mapscene": 34,
+  "occludes_2": false
+}

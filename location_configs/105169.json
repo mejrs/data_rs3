@@ -1,0 +1,14 @@
+{
+  "id": 105169,
+  "models": {
+    "10": [
+      114854
+    ]
+  },
+  "name": "Wisp cage",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "model": false,
+  "occludes_2": false
+}

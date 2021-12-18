@@ -1,0 +1,16 @@
+{
+  "id": 1663,
+  "models": {
+    "10": [
+      841
+    ]
+  },
+  "name": "Bricks",
+  "ambient": 25,
+  "contrast": 25,
+  "textures": {
+    "39": 55
+  },
+  "mirror": true,
+  "occludes_2": false
+}

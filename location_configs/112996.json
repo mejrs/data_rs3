@@ -1,0 +1,54 @@
+{
+  "id": 112996,
+  "models": {
+    "10": [
+      99106
+    ]
+  },
+  "name": "Soft clay rock",
+  "is_transparent": true,
+  "unknown_24": 2234,
+  "ambient": 37,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      38446,
+      6599
+    ],
+    [
+      35549,
+      6589
+    ],
+    [
+      35539,
+      6582
+    ],
+    [
+      35526,
+      6445
+    ],
+    [
+      35501,
+      6437
+    ]
+  ],
+  "unknown_44": 992,
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

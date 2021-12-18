@@ -1,0 +1,20 @@
+{
+  "id": 70004,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": -10,
+  "contrast": 5,
+  "morphs_1": {
+    "varbit": 1704,
+    "ids": [
+      61664,
+      19153,
+      43493
+    ]
+  },
+  "unknown_81": 32,
+  "is_members": true,
+  "mapscene": 106
+}

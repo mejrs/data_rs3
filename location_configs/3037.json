@@ -1,0 +1,29 @@
+{
+  "id": 3037,
+  "models": {
+    "10": [
+      1571
+    ]
+  },
+  "name": "Oak",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 64,
+  "mapscene": 1,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

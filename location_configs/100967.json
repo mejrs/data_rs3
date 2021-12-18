@@ -1,0 +1,19 @@
+{
+  "id": 100967,
+  "models": {
+    "10": [
+      109796
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 105,
+  "scale_y": 105,
+  "scale_z": 105,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 114180,
+  "models": {
+    "10": [
+      113411
+    ]
+  },
+  "name": "Bait barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 1
+}

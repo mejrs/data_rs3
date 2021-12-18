@@ -1,0 +1,12 @@
+{
+  "id": 43370,
+  "models": {
+    "10": [
+      46801
+    ]
+  },
+  "name": "Boat front",
+  "dim_x": 2,
+  "ambient": 25,
+  "occludes_2": false
+}

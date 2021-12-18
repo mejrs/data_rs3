@@ -1,0 +1,16 @@
+{
+  "id": 105437,
+  "models": {
+    "10": [
+      115315
+    ]
+  },
+  "name": "Dwarf cannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false
+}

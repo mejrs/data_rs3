@@ -1,0 +1,14 @@
+{
+  "id": 17060,
+  "models": {
+    "10": [
+      16896,
+      16908
+    ]
+  },
+  "name": "Crossbow Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_81": 30,
+  "occludes_2": false
+}

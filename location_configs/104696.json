@@ -1,0 +1,33 @@
+{
+  "id": 104696,
+  "models": {
+    "10": [
+      114750,
+      114752
+    ]
+  },
+  "name": "Cocoaberry bush",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Forage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    171,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6038": 11759
+  }
+}

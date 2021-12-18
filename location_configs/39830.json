@@ -1,0 +1,41 @@
+{
+  "id": 39830,
+  "models": {
+    "10": [
+      62260
+    ]
+  },
+  "name": "Bank deposit box",
+  "unknown_24": 9642,
+  "ambient": 25,
+  "actions": [
+    "Deposit",
+    "Deposit-all",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6554,
+      7440
+    ],
+    [
+      6435,
+      7448
+    ],
+    [
+      6315,
+      7456
+    ]
+  ],
+  "unknown_69": 11,
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 70,
+  "mapfunction": 3651
+}

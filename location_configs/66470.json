@@ -1,0 +1,53 @@
+{
+  "id": 66470,
+  "models": {
+    "10": [
+      52018
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      0,
+      34881
+    ],
+    [
+      5,
+      34887
+    ],
+    [
+      10,
+      34895
+    ],
+    [
+      15,
+      34903
+    ],
+    [
+      20,
+      34909
+    ],
+    [
+      32874,
+      43125
+    ]
+  ],
+  "textures": {
+    "1532": 2556
+  },
+  "occludes_2": false
+}

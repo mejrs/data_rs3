@@ -1,0 +1,19 @@
+{
+  "id": 94267,
+  "models": {
+    "10": [
+      100028
+    ]
+  },
+  "name": "Bottles",
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 37,
+  "model": false,
+  "translate_x": 65436,
+  "translate_y": 72,
+  "translate_z": 70,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 19888,
+  "models": {
+    "10": [
+      20051
+    ]
+  },
+  "name": "Camping equipment",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

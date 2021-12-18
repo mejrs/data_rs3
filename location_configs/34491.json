@@ -1,0 +1,27 @@
+{
+  "id": 34491,
+  "models": {
+    "10": [
+      13135
+    ]
+  },
+  "name": "Telescope",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5400,
+      7448
+    ],
+    [
+      5545,
+      7452
+    ],
+    [
+      6466,
+      7468
+    ]
+  ],
+  "occludes_2": false
+}

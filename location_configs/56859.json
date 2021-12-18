@@ -1,0 +1,22 @@
+{
+  "id": 56859,
+  "models": {
+    "10": [
+      62289
+    ]
+  },
+  "name": "Empty stall",
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Stock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

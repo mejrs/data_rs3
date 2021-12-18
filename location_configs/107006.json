@@ -1,0 +1,47 @@
+{
+  "id": 107006,
+  "models": {
+    "10": [
+      87345
+    ]
+  },
+  "name": "Bank chest",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Bank",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6715,
+      5656
+    ],
+    [
+      10586,
+      7331
+    ],
+    [
+      10471,
+      10279
+    ]
+  ],
+  "scale_x": 108,
+  "scale_y": 108,
+  "scale_z": 108,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    null,
+    5,
+    null,
+    null,
+    null,
+    null
+  ]
+}

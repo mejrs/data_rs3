@@ -1,0 +1,19 @@
+{
+  "id": 7576,
+  "models": {
+    "10": [
+      7801,
+      7767
+    ]
+  },
+  "name": "Bush Patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

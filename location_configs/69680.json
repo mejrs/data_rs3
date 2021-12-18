@@ -1,0 +1,20 @@
+{
+  "id": 69680,
+  "models": {
+    "10": [
+      68747
+    ]
+  },
+  "name": "Ardougne Mill",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "North:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

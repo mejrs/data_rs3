@@ -1,0 +1,15 @@
+{
+  "id": 18892,
+  "models": {
+    "10": [
+      4058
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 45,
+  "mapscene": 24,
+  "occludes_2": false
+}

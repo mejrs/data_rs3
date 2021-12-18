@@ -1,0 +1,16 @@
+{
+  "id": 81944,
+  "models": {
+    "10": [
+      82811
+    ]
+  },
+  "name": "Scaffolding",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false
+}

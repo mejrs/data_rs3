@@ -1,0 +1,37 @@
+{
+  "id": 8865,
+  "models": {
+    "10": [
+      8197,
+      7766
+    ]
+  },
+  "name": "Kelda Hops",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      13210,
+      35891
+    ],
+    [
+      13214,
+      35899
+    ],
+    [
+      13850,
+      26661
+    ],
+    [
+      14098,
+      26780
+    ]
+  ],
+  "occludes_2": false
+}

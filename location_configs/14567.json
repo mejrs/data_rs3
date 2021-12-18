@@ -1,0 +1,33 @@
+{
+  "id": 14567,
+  "models": {
+    "10": [
+      8012
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "colours": [
+    [
+      8478,
+      7326
+    ],
+    [
+      8602,
+      7322
+    ],
+    [
+      8598,
+      7446
+    ],
+    [
+      8846,
+      7442
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "unknown_81": 230,
+  "occludes_2": false
+}

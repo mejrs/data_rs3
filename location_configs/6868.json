@@ -1,0 +1,17 @@
+{
+  "id": 6868,
+  "models": {
+    "10": [
+      6793
+    ]
+  },
+  "name": "Ogre Drums",
+  "is_transparent": true,
+  "colours": [
+    [
+      9556,
+      8514
+    ]
+  ],
+  "occludes_2": false
+}

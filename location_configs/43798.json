@@ -1,0 +1,17 @@
+{
+  "id": 43798,
+  "models": {
+    "4": [
+      69747
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 0,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "translate_x": 25,
+  "translate_y": 120,
+  "translate_z": 25,
+  "occludes_2": false
+}

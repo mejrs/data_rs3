@@ -1,0 +1,13 @@
+{
+  "id": 12071,
+  "models": {
+    "10": [
+      57497
+    ]
+  },
+  "name": "Drive mechanism",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

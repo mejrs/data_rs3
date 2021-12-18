@@ -1,0 +1,31 @@
+{
+  "id": 36732,
+  "models": {
+    "10": [
+      38622
+    ]
+  },
+  "name": "Wooden defence",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6024,
+      7440
+    ],
+    [
+      6798,
+      7448
+    ],
+    [
+      6550,
+      7452
+    ],
+    [
+      6674,
+      7456
+    ]
+  ],
+  "occludes_2": false
+}

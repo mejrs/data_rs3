@@ -1,0 +1,59 @@
+{
+  "id": 18976,
+  "models": {
+    "0": [
+      45937
+    ]
+  },
+  "name": "Hole",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7442,
+      10502
+    ],
+    [
+      7446,
+      10378
+    ],
+    [
+      7322,
+      10382
+    ],
+    [
+      7326,
+      10258
+    ],
+    [
+      7331,
+      10262
+    ],
+    [
+      7335,
+      10266
+    ]
+  ],
+  "textures": {
+    "2359": 2396
+  },
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

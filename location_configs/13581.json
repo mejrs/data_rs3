@@ -1,0 +1,19 @@
+{
+  "id": 13581,
+  "models": {
+    "10": [
+      12443
+    ]
+  },
+  "name": "Chair",
+  "is_transparent": true,
+  "actions": [
+    "Sit-on",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

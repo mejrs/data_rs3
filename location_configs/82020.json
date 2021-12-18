@@ -1,0 +1,29 @@
+{
+  "id": 82020,
+  "models": {
+    "10": [
+      82734
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_186": 0
+}

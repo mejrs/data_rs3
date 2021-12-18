@@ -1,0 +1,29 @@
+{
+  "id": 52770,
+  "models": {
+    "10": [
+      11234
+    ]
+  },
+  "name": "Broken portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

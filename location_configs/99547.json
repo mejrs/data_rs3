@@ -1,0 +1,34 @@
+{
+  "id": 99547,
+  "models": {
+    "10": [
+      107041
+    ]
+  },
+  "name": "Bundle of logs",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      380
+    ]
+  },
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

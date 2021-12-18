@@ -1,0 +1,29 @@
+{
+  "id": 86767,
+  "models": {
+    "10": [
+      66770
+    ]
+  },
+  "name": "Supply crate",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": -25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

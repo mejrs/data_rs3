@@ -1,0 +1,22 @@
+{
+  "id": 43657,
+  "models": {
+    "10": [
+      8027
+    ]
+  },
+  "name": "Sleigh",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Summon Christmas spirit",
+    "Give Christmas spirit",
+    "Configure",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

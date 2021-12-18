@@ -1,0 +1,25 @@
+{
+  "id": 74208,
+  "models": {
+    "4": [
+      72498
+    ]
+  },
+  "name": "Bat-in-Box",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 17237,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take bat-in-box",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "translate_x": 50,
+  "translate_z": 65526,
+  "occludes_2": false
+}

@@ -1,0 +1,47 @@
+{
+  "id": 93423,
+  "models": {
+    "10": [
+      99252
+    ]
+  },
+  "name": "Stool",
+  "unknown_24": 24696,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      406,
+      49430
+    ],
+    [
+      410,
+      49434
+    ],
+    [
+      402,
+      49426
+    ],
+    [
+      398,
+      49422
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

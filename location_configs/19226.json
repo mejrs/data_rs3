@@ -1,0 +1,25 @@
+{
+  "id": 19226,
+  "models": {
+    "10": [
+      19891
+    ]
+  },
+  "name": "Magic box",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 5221,
+  "ambient": 30,
+  "actions": [
+    "Retrieve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128,
+  "occludes_2": false
+}

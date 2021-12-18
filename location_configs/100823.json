@@ -1,0 +1,35 @@
+{
+  "id": 100823,
+  "models": {
+    "10": [
+      116777
+    ]
+  },
+  "name": "Teleport shard",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Leave",
+    "Search",
+    "Quick exit",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "scale_x": 30,
+  "scale_y": 30,
+  "scale_z": 30,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

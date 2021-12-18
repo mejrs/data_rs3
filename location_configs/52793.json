@@ -1,0 +1,17 @@
+{
+  "id": 52793,
+  "models": {
+    "10": [
+      12938
+    ]
+  },
+  "name": "Plant",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

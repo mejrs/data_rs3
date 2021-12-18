@@ -1,0 +1,35 @@
+{
+  "id": 61386,
+  "models": {
+    "0": [
+      48825
+    ]
+  },
+  "unknown_19": 0,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5392,
+      8460
+    ],
+    [
+      5388,
+      8462
+    ],
+    [
+      5385,
+      8458
+    ]
+  ],
+  "unknown_75": 0,
+  "unknown_163": {
+    "unknown_1": 18,
+    "unknown_2": 2,
+    "unknown_3": 5,
+    "unknown_4": 41
+  },
+  "unknown_170": 960
+}

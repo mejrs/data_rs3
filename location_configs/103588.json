@@ -1,0 +1,22 @@
+{
+  "id": 103588,
+  "models": {
+    "10": [
+      113330
+    ]
+  },
+  "name": "Crafting table",
+  "unknown_27": false,
+  "actions": [
+    "Craft rigging",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 32,
+  "mapscene": 4,
+  "occludes_2": false
+}

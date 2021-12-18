@@ -1,0 +1,15 @@
+{
+  "id": 96146,
+  "models": {
+    "10": [
+      103073
+    ]
+  },
+  "name": "Zemouregal's bedroom table",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

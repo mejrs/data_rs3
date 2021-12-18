@@ -1,0 +1,20 @@
+{
+  "id": 93301,
+  "models": {
+    "10": [
+      98319,
+      7768
+    ]
+  },
+  "name": "Elder tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

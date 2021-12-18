@@ -1,0 +1,30 @@
+{
+  "id": 104048,
+  "models": {
+    "10": [
+      101739
+    ]
+  },
+  "name": "Statue",
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37785
+  }
+}

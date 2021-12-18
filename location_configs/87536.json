@@ -1,0 +1,30 @@
+{
+  "id": 87536,
+  "models": {
+    "10": [
+      90584
+    ]
+  },
+  "name": "Crystal tree shard",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 64,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "member_actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

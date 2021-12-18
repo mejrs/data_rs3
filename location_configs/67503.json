@@ -1,0 +1,23 @@
+{
+  "id": 67503,
+  "models": {
+    "10": [
+      1942
+    ]
+  },
+  "name": "Piano stool",
+  "dim_x": 2,
+  "actions": [
+    "Sit on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  }
+}

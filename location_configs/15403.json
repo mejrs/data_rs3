@@ -1,0 +1,19 @@
+{
+  "id": 15403,
+  "models": {
+    "10": [
+      12714
+    ]
+  },
+  "name": "Larder space",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

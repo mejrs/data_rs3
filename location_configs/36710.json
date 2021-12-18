@@ -1,0 +1,27 @@
+{
+  "id": 36710,
+  "models": {
+    "10": [
+      38573
+    ]
+  },
+  "name": "Tall vine",
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

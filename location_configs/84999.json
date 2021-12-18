@@ -1,0 +1,21 @@
+{
+  "id": 84999,
+  "models": {
+    "10": [
+      87077
+    ]
+  },
+  "name": "Bacon-covered decoy",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Poison",
+    "Add more bacon",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

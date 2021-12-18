@@ -1,0 +1,20 @@
+{
+  "id": 69773,
+  "models": {
+    "10": [
+      68747
+    ]
+  },
+  "name": "Lumbridge mill, Varrock",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "North:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

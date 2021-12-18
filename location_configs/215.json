@@ -1,0 +1,22 @@
+{
+  "id": 215,
+  "models": {
+    "0": [
+      63580
+    ]
+  },
+  "name": "Wall",
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_28": 32,
+  "ambient": 25,
+  "contrast": 25,
+  "unknown_69": 7,
+  "member_actions": [
+    "Grapple",
+    "Build hidey-hole",
+    null,
+    null,
+    null
+  ]
+}

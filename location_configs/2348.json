@@ -1,0 +1,46 @@
+{
+  "id": 2348,
+  "models": {
+    "10": [
+      36768
+    ]
+  },
+  "name": "Stairs",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5408,
+      8466
+    ],
+    [
+      5404,
+      8462
+    ],
+    [
+      5396,
+      8458
+    ]
+  ],
+  "unknown_69": 10,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

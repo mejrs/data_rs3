@@ -1,0 +1,19 @@
+{
+  "id": 7868,
+  "models": {
+    "10": [
+      7852,
+      7767
+    ]
+  },
+  "name": "Marigold",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

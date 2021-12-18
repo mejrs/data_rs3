@@ -1,0 +1,20 @@
+{
+  "id": 13177,
+  "models": {
+    "10": [
+      12488
+    ]
+  },
+  "name": "Icon of Guthix",
+  "dim_x": 2,
+  "ambient": 15,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

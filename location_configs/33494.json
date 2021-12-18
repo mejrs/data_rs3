@@ -1,0 +1,25 @@
+{
+  "id": 33494,
+  "models": {
+    "4": [
+      2255
+    ]
+  },
+  "name": "Torch",
+  "unknown_19": 1,
+  "unknown_24": 9585,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4886,
+      5908
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 1
+  },
+  "occludes_2": false,
+  "unknown_104": 30
+}

@@ -1,0 +1,20 @@
+{
+  "id": 113236,
+  "models": {
+    "10": [
+      72197
+    ]
+  },
+  "name": "Pipe",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "colours": [
+    [
+      2063,
+      39624
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2869,
+  "models": {
+    "10": [
+      120090
+    ]
+  },
+  "name": "Cupboard",
+  "dim_y": 2,
+  "ambient": 0,
+  "actions": [
+    "Search",
+    "Shut",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "translate_x": 20,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      263
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

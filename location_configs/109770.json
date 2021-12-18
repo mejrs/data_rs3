@@ -1,0 +1,28 @@
+{
+  "id": 109770,
+  "models": {
+    "10": [
+      120269
+    ]
+  },
+  "name": "Partial potion producer DX",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 31070,
+  "ambient": 20,
+  "actions": [
+    "Manage",
+    "Withdraw products",
+    null,
+    "Modify",
+    "Remove"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      966
+    ]
+  ],
+  "occludes_2": false
+}

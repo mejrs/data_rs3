@@ -1,0 +1,18 @@
+{
+  "id": 34964,
+  "models": {
+    "0": [
+      35733
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 30,
+  "contrast": 100,
+  "textures": {
+    "2588": 2607
+  },
+  "unknown_170": 960,
+  "unknown_171": 512
+}

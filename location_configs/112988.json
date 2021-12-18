@@ -1,0 +1,49 @@
+{
+  "id": 112988,
+  "models": {
+    "10": [
+      47919
+    ]
+  },
+  "name": "Rubble",
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      6286
+    ],
+    [
+      21534,
+      6290
+    ],
+    [
+      21539,
+      6294
+    ],
+    [
+      21543,
+      6298
+    ]
+  ],
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

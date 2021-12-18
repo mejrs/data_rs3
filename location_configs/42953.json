@@ -1,0 +1,21 @@
+{
+  "id": 42953,
+  "models": {
+    "10": [
+      46545
+    ]
+  },
+  "name": "Empty sarcophagus",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

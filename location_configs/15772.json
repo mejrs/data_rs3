@@ -1,0 +1,11 @@
+{
+  "id": 15772,
+  "models": {
+    "10": [
+      15627
+    ]
+  },
+  "name": "Boulders",
+  "ambient": 20,
+  "occludes_2": false
+}

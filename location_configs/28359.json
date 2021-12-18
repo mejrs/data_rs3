@@ -1,0 +1,23 @@
+{
+  "id": 28359,
+  "models": {
+    "10": [
+      30408,
+      30421
+    ]
+  },
+  "name": "Incubator",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Take-egg",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

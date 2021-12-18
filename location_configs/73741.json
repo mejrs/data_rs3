@@ -1,0 +1,30 @@
+{
+  "id": 73741,
+  "models": {
+    "10": [
+      7873,
+      7766,
+      72034
+    ]
+  },
+  "name": "Herb patch (blue herbs)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      20364,
+      37526
+    ],
+    [
+      19988,
+      37406
+    ],
+    [
+      19992,
+      37410
+    ]
+  ],
+  "occludes_2": false
+}

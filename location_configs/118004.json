@@ -1,0 +1,34 @@
+{
+  "id": 118004,
+  "models": {
+    "10": [
+      117704
+    ]
+  },
+  "name": "Green valve",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34919,
+      1294
+    ],
+    [
+      23355,
+      1562
+    ]
+  ],
+  "textures": {
+    "12847": 12906
+  },
+  "unknown_45": 2,
+  "occludes_2": false,
+  "unknown_196": 4
+}

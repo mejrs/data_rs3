@@ -1,0 +1,16 @@
+{
+  "id": 104865,
+  "models": {
+    "10": [
+      114938
+    ]
+  },
+  "name": "Dead druid",
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 126,
+  "occludes_2": false
+}

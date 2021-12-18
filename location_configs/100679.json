@@ -1,0 +1,34 @@
+{
+  "id": 100679,
+  "models": {
+    "10": [
+      58576
+    ]
+  },
+  "name": "Memo",
+  "unknown_19": 1,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65526,
+  "translate_y": 65431,
+  "translate_z": 65471,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

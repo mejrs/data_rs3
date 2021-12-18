@@ -1,0 +1,25 @@
+{
+  "id": 39305,
+  "models": {
+    "0": [
+      12209
+    ]
+  },
+  "name": "Door",
+  "ambient": -15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

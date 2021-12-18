@@ -1,0 +1,11 @@
+{
+  "id": 92001,
+  "models": {
+    "10": [
+      97121
+    ]
+  },
+  "name": "Mushroom",
+  "is_transparent": true,
+  "occludes_2": false
+}

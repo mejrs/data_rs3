@@ -1,0 +1,27 @@
+{
+  "id": 18046,
+  "models": {
+    "10": [
+      17616,
+      17642
+    ]
+  },
+  "name": "Statue with key",
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "Search",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    56,
+    null,
+    null,
+    null
+  ]
+}

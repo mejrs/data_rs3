@@ -1,0 +1,41 @@
+{
+  "id": 45286,
+  "models": {
+    "10": [
+      48809
+    ]
+  },
+  "name": "Barrel of swords",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5448,
+      5400
+    ],
+    [
+      6466,
+      5394
+    ],
+    [
+      6461,
+      5396
+    ],
+    [
+      6453,
+      5392
+    ],
+    [
+      6449,
+      5388
+    ]
+  ],
+  "textures": {
+    "2106": 3179
+  },
+  "occludes_2": false
+}

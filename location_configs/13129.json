@@ -1,0 +1,27 @@
+{
+  "id": 13129,
+  "models": {
+    "0": [
+      12909
+    ],
+    "3": [
+      12910
+    ]
+  },
+  "name": "Boxing ring",
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

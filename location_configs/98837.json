@@ -1,0 +1,14 @@
+{
+  "id": 98837,
+  "models": {
+    "4": [
+      106330
+    ]
+  },
+  "name": "Painting",
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_x": 40,
+  "translate_y": 65476,
+  "occludes_2": false
+}

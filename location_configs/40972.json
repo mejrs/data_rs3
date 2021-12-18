@@ -1,0 +1,32 @@
+{
+  "id": 40972,
+  "models": {
+    "10": [
+      43966,
+      43939
+    ]
+  },
+  "name": "Fire rune pile",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    "Take",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

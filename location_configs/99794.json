@@ -1,0 +1,15 @@
+{
+  "id": 99794,
+  "models": {
+    "10": [
+      88642
+    ]
+  },
+  "name": "Interrogation rack",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

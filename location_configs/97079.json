@@ -1,0 +1,25 @@
+{
+  "id": 97079,
+  "models": {
+    "10": [
+      104035
+    ]
+  },
+  "name": "Shattered Pylon",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true,
+  "params": {
+    "5102": 1
+  }
+}

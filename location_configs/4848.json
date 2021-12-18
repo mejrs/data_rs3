@@ -1,0 +1,18 @@
+{
+  "id": 4848,
+  "models": {
+    "10": [
+      1706
+    ]
+  },
+  "name": "Tropical Leaves",
+  "dim_x": 3,
+  "dim_y": 3,
+  "colours": [
+    [
+      6707,
+      6703
+    ]
+  ],
+  "occludes_2": false
+}

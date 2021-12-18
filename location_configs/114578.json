@@ -1,0 +1,22 @@
+{
+  "id": 114578,
+  "models": {
+    "10": [
+      78404
+    ]
+  },
+  "name": "Oculi apoterrasaur egg",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "textures": {
+    "11475": 11477
+  },
+  "occludes_2": false
+}

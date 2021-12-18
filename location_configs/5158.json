@@ -1,0 +1,19 @@
+{
+  "id": 5158,
+  "models": {
+    "10": [
+      5153
+    ]
+  },
+  "name": "Pile of canes",
+  "unknown_27": false,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

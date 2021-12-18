@@ -1,0 +1,30 @@
+{
+  "id": 1626,
+  "models": {
+    "0": [
+      844
+    ],
+    "1": [
+      845
+    ],
+    "2": [
+      846
+    ],
+    "3": [
+      847
+    ],
+    "9": [
+      848
+    ],
+    "10": [
+      862
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "unknown_196": 2
+}

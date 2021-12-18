@@ -1,0 +1,18 @@
+{
+  "id": 38663,
+  "models": {
+    "10": [
+      105562
+    ]
+  },
+  "name": "Harmonised Anima",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7463,
+  "unknown_27": false,
+  "ambient": 75,
+  "model": false,
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false
+}

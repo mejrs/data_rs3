@@ -1,0 +1,14 @@
+{
+  "id": 19940,
+  "models": {
+    "10": [
+      20078
+    ]
+  },
+  "name": "Bird feeder",
+  "is_transparent": true,
+  "unknown_24": 5308,
+  "unknown_27": false,
+  "unknown_69": 13,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 119669,
+  "models": {
+    "10": [
+      50103,
+      50142
+    ]
+  },
+  "name": "Bookcase",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

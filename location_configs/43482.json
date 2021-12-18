@@ -1,0 +1,19 @@
+{
+  "id": 43482,
+  "models": {
+    "10": [
+      47080
+    ]
+  },
+  "name": "Old fishing rod",
+  "unknown_24": 5267,
+  "actions": [
+    "Dismantle",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

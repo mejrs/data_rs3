@@ -1,0 +1,28 @@
+{
+  "id": 41684,
+  "models": {
+    "0": [
+      45165
+    ]
+  },
+  "name": "Roots",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "model": false,
+  "member_actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

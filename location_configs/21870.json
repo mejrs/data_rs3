@@ -1,0 +1,21 @@
+{
+  "id": 21870,
+  "models": {
+    "10": [
+      22635
+    ]
+  },
+  "name": "Cage",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

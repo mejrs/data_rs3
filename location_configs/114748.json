@@ -1,0 +1,32 @@
+{
+  "id": 114748,
+  "models": {
+    "10": [
+      84807
+    ]
+  },
+  "name": "Altar of War",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_24": 28428,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 575,
+  "unknown_186": 0,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

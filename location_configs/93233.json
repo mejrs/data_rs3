@@ -1,0 +1,21 @@
+{
+  "id": 93233,
+  "models": {
+    "0": [
+      2214
+    ],
+    "2": [
+      4873
+    ],
+    "3": [
+      71602
+    ],
+    "9": [
+      2215
+    ]
+  },
+  "name": "Barricade",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

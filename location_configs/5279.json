@@ -1,0 +1,28 @@
+{
+  "id": 5279,
+  "models": {
+    "10": [
+      5255
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

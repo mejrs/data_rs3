@@ -1,0 +1,12 @@
+{
+  "id": 3677,
+  "models": {
+    "10": [
+      3724
+    ]
+  },
+  "name": "Stone Mechanism",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "occludes_2": false
+}

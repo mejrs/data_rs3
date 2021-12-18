@@ -1,0 +1,20 @@
+{
+  "id": 71541,
+  "models": {
+    "0": [
+      69991
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": -5,
+  "contrast": 15,
+  "textures": {
+    "1512": 1492,
+    "1529": 1470
+  },
+  "model": false,
+  "unknown_88": false,
+  "mapscene": 22
+}

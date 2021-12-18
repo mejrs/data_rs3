@@ -1,0 +1,18 @@
+{
+  "id": 29433,
+  "models": {
+    "10": [
+      32227
+    ]
+  },
+  "name": "Target rock",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_24": 2418,
+  "ambient": 25,
+  "contrast": 25,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_196": 2
+}

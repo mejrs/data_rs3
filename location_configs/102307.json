@@ -1,0 +1,30 @@
+{
+  "id": 102307,
+  "models": {
+    "10": [
+      81435
+    ]
+  },
+  "name": "Barrel of gunpowder",
+  "unknown_19": 1,
+  "unknown_24": 19218,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Roll",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    196,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

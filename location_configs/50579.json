@@ -1,0 +1,32 @@
+{
+  "id": 50579,
+  "models": {
+    "10": [
+      57212
+    ]
+  },
+  "name": "Shady grove",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "unknown_81": 25,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

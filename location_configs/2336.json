@@ -1,0 +1,55 @@
+{
+  "id": 2336,
+  "models": {
+    "10": [
+      88399,
+      88401
+    ]
+  },
+  "name": "Sacred Metal Formation",
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      18332,
+      41
+    ],
+    [
+      18336,
+      45
+    ],
+    [
+      18342,
+      51
+    ],
+    [
+      18347,
+      61
+    ],
+    [
+      18352,
+      66
+    ],
+    [
+      18357,
+      67
+    ]
+  ],
+  "unknown_81": 32,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

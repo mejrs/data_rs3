@@ -1,0 +1,17 @@
+{
+  "id": 116852,
+  "models": {
+    "10": [
+      90734,
+      90909,
+      102821
+    ]
+  },
+  "name": "Taurus sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 33175,
+  "unknown_27": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2017,
+  "models": {
+    "10": [
+      2329
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_24": 522,
+  "ambient": 80,
+  "contrast": 80,
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_88": false,
+  "occludes_2": false
+}

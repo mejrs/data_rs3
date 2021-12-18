@@ -1,0 +1,26 @@
+{
+  "id": 27895,
+  "models": {
+    "10": [
+      29719
+    ]
+  },
+  "name": "Operation side table",
+  "dim_x": 2,
+  "ambient": 10,
+  "colours": [
+    [
+      49,
+      5281
+    ],
+    [
+      41,
+      5272
+    ],
+    [
+      78,
+      5276
+    ]
+  ],
+  "occludes_2": false
+}

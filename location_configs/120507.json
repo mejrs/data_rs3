@@ -1,0 +1,38 @@
+{
+  "id": 120507,
+  "models": {
+    "10": [
+      122202,
+      122200
+    ]
+  },
+  "name": "Cathedral door",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Pass through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 32,
+  "unknown_2": 13884,
+  "unknown_3": 32,
+  "unknown_4": 96,
+  "unknown_5": 64,
+  "unknown_6": 96
+}

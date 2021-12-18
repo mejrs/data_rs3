@@ -1,0 +1,21 @@
+{
+  "id": 54074,
+  "models": {
+    "10": [
+      59735
+    ]
+  },
+  "name": "Herb patch",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

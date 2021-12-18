@@ -1,0 +1,21 @@
+{
+  "id": 84972,
+  "models": {
+    "10": [
+      87092
+    ]
+  },
+  "name": "Pig decoy hotspot",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

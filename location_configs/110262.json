@@ -1,0 +1,27 @@
+{
+  "id": 110262,
+  "models": {
+    "10": [
+      2194
+    ]
+  },
+  "name": "Keg",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Get drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  }
+}

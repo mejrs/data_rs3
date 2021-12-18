@@ -1,0 +1,29 @@
+{
+  "id": 55993,
+  "models": {
+    "10": [
+      61125
+    ]
+  },
+  "name": "Altar",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 9154,
+  "ambient": 15,
+  "actions": [
+    "Recharge",
+    "Quick-Recharge",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 60,
+  "unknown_1": 230,
+  "unknown_2": 270
+}

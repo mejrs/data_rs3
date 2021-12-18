@@ -1,0 +1,27 @@
+{
+  "id": 3263,
+  "models": {
+    "10": [
+      2259
+    ]
+  },
+  "name": "Swamp",
+  "unknown_24": 480,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

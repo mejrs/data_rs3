@@ -1,0 +1,14 @@
+{
+  "id": 29593,
+  "models": {
+    "10": [
+      30265
+    ]
+  },
+  "name": "Jail bunk",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

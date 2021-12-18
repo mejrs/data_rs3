@@ -1,0 +1,13 @@
+{
+  "id": 683,
+  "models": {
+    "10": [
+      11878
+    ]
+  },
+  "name": "Grandfather clock",
+  "unknown_24": 1726,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13646,
+  "models": {
+    "10": [
+      12507
+    ]
+  },
+  "name": "Lectern",
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5446": 4
+  }
+}

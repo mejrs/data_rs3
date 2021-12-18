@@ -1,0 +1,25 @@
+{
+  "id": 57357,
+  "models": {
+    "10": [
+      65136
+    ]
+  },
+  "name": "Ice sculpture",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 15363,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Modify",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "occludes_2": false
+}

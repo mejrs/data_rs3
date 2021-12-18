@@ -1,0 +1,17 @@
+{
+  "id": 2663,
+  "models": {
+    "10": [
+      1482
+    ]
+  },
+  "name": "Sacks",
+  "actions": [
+    null,
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 21123,
+  "models": {
+    "10": [
+      21534
+    ]
+  },
+  "name": "Stepping Stone",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 3743,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

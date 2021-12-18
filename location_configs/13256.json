@@ -1,0 +1,17 @@
+{
+  "id": 13256,
+  "models": {
+    "0": [
+      13268
+    ]
+  },
+  "name": "Decorative window",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

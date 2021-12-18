@@ -1,0 +1,22 @@
+{
+  "id": 30263,
+  "models": {
+    "10": [
+      33693
+    ]
+  },
+  "name": "Wooden doors",
+  "unknown_22": true,
+  "actions": [
+    "Walk-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1830": 2321
+  },
+  "scale_y": 160,
+  "occludes_2": false
+}

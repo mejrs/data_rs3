@@ -1,0 +1,47 @@
+{
+  "id": 74868,
+  "models": {
+    "10": [
+      66752
+    ]
+  },
+  "name": "Rack",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7463,
+      6424
+    ],
+    [
+      7587,
+      6434
+    ],
+    [
+      7582,
+      6429
+    ],
+    [
+      6550,
+      6414
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

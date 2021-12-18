@@ -1,0 +1,37 @@
+{
+  "id": 116698,
+  "models": {
+    "10": [
+      96705,
+      90490
+    ]
+  },
+  "name": "Secret passage",
+  "dim_x": 6,
+  "dim_y": 4,
+  "unknown_17": false,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 180,
+  "scale_y": 170,
+  "scale_z": 170,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

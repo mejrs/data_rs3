@@ -1,0 +1,26 @@
+{
+  "id": 12774,
+  "models": {
+    "10": [
+      31006,
+      2214
+    ]
+  },
+  "name": "Shantay Pass",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Go-through",
+    "Look-at",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 250,
+  "scale_y": 500,
+  "scale_z": 250,
+  "unknown_69": 10,
+  "unknown_75": 0,
+  "occludes_2": false
+}

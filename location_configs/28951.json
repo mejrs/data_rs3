@@ -1,0 +1,31 @@
+{
+  "id": 28951,
+  "models": {
+    "10": [
+      31906
+    ]
+  },
+  "name": "Eucalyptus tree",
+  "dim_x": 4,
+  "dim_y": 4,
+  "ambient": 20,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_81": 64,
+  "mapscene": 2,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3483,
+  "models": {
+    "10": [
+      55196
+    ]
+  },
+  "name": "Blue wibbly thing",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 13586,
+  "ambient": 50,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      1575,
+      38557
+    ],
+    [
+      1610,
+      38590
+    ],
+    [
+      1658,
+      38641
+    ]
+  ],
+  "model": false,
+  "blocks_ranged": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

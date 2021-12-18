@@ -1,0 +1,14 @@
+{
+  "id": 65647,
+  "models": {
+    "10": [
+      18456
+    ]
+  },
+  "name": "Ruins",
+  "unknown_19": 1,
+  "unknown_24": 2227,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

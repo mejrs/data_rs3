@@ -1,0 +1,29 @@
+{
+  "id": 8521,
+  "models": {
+    "10": [
+      102144,
+      7768
+    ]
+  },
+  "name": "Diseased Yew",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      10778
+    ]
+  ],
+  "textures": {
+    "44": 70
+  },
+  "unknown_88": false,
+  "occludes_2": false
+}

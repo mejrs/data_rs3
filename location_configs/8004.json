@@ -1,0 +1,21 @@
+{
+  "id": 8004,
+  "models": {
+    "10": [
+      110016,
+      7767,
+      110034
+    ]
+  },
+  "name": "Banana tree",
+  "ambient": 25,
+  "actions": [
+    "Pick-banana",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

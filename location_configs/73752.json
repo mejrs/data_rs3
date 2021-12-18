@@ -1,0 +1,30 @@
+{
+  "id": 73752,
+  "models": {
+    "10": [
+      7874,
+      7766,
+      72034
+    ]
+  },
+  "name": "Herb patch (black herbs)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      20364,
+      19468
+    ],
+    [
+      19988,
+      19476
+    ],
+    [
+      19992,
+      19480
+    ]
+  ],
+  "occludes_2": false
+}

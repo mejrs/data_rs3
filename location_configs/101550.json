@@ -1,0 +1,26 @@
+{
+  "id": 101550,
+  "models": {
+    "10": [
+      110725
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 3,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 240,
+  "unknown_88": false,
+  "occludes_2": false
+}

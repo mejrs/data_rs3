@@ -1,0 +1,11 @@
+{
+  "id": 15995,
+  "models": {
+    "10": [
+      15766
+    ]
+  },
+  "name": "Stall",
+  "dim_x": 2,
+  "occludes_2": false
+}

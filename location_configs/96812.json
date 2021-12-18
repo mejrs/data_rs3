@@ -1,0 +1,17 @@
+{
+  "id": 96812,
+  "models": {
+    "10": [
+      104119
+    ]
+  },
+  "name": "Uncharged spear",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 26411,
+  "unknown_89": false,
+  "occludes_2": false,
+  "params": {
+    "5102": 1
+  }
+}

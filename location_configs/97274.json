@@ -1,0 +1,19 @@
+{
+  "id": 97274,
+  "models": {
+    "10": [
+      81652
+    ]
+  },
+  "name": "Coconut crate",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

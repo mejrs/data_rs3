@@ -1,0 +1,45 @@
+{
+  "id": 99820,
+  "models": {
+    "10": [
+      87330
+    ]
+  },
+  "name": "Open chest",
+  "is_transparent": true,
+  "ambient": 64,
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6715,
+      5656
+    ],
+    [
+      10586,
+      7331
+    ],
+    [
+      10471,
+      10279
+    ]
+  ],
+  "scale_x": 108,
+  "scale_y": 108,
+  "scale_z": 108,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

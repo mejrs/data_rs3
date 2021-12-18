@@ -1,0 +1,16 @@
+{
+  "id": 64545,
+  "models": {
+    "10": [
+      17155
+    ]
+  },
+  "name": "Gate",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_y": 150,
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14969,
+  "models": {
+    "10": [
+      14873,
+      14874
+    ]
+  },
+  "name": "Barrow",
+  "dim_x": 2,
+  "occludes_2": false
+}

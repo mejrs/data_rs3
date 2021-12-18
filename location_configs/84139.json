@@ -1,0 +1,19 @@
+{
+  "id": 84139,
+  "models": {
+    "10": [
+      85707
+    ]
+  },
+  "name": "Pillar of purification",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

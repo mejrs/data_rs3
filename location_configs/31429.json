@@ -1,0 +1,12 @@
+{
+  "id": 31429,
+  "models": {
+    "10": [
+      34509
+    ]
+  },
+  "name": "Crystalline structure",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": 5282,
+  "models": {
+    "10": [
+      14304,
+      14305
+    ]
+  },
+  "name": "Ectofuntus",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_24": 1657,
+  "ambient": 70,
+  "actions": [
+    "Worship",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "colours": [
+    [
+      22464,
+      20797
+    ],
+    [
+      6457,
+      14631
+    ],
+    [
+      7723,
+      14627
+    ],
+    [
+      7971,
+      14622
+    ],
+    [
+      6693,
+      14746
+    ],
+    [
+      8090,
+      14742
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

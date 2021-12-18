@@ -1,0 +1,19 @@
+{
+  "id": 33216,
+  "models": {
+    "10": [
+      1078
+    ]
+  },
+  "name": "Corpse",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8418,
+      8226
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 92455,
+  "models": {
+    "10": [
+      98963
+    ]
+  },
+  "name": "Prifddinas guard",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 88,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_z": 65440,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

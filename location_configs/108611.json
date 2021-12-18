@@ -1,0 +1,14 @@
+{
+  "id": 108611,
+  "models": {
+    "10": [
+      118210
+    ]
+  },
+  "name": "Barrier",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

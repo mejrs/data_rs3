@@ -1,0 +1,30 @@
+{
+  "id": 46626,
+  "models": {
+    "10": [
+      50039
+    ]
+  },
+  "name": "Web strand",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Walk-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

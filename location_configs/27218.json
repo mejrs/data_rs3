@@ -1,0 +1,18 @@
+{
+  "id": 27218,
+  "models": {
+    "10": [
+      29135
+    ]
+  },
+  "name": "Slide",
+  "actions": [
+    "Slide-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "occludes_2": false
+}

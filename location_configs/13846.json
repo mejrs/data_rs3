@@ -1,0 +1,29 @@
+{
+  "id": 13846,
+  "models": {
+    "10": [
+      14148,
+      14172
+    ]
+  },
+  "name": "Vine hanging from branch",
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Swing-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

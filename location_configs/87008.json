@@ -1,0 +1,19 @@
+{
+  "id": 87008,
+  "models": {
+    "10": [
+      88650
+    ]
+  },
+  "name": "Prison",
+  "dim_x": 9,
+  "dim_y": 16,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

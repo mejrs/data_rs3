@@ -1,0 +1,22 @@
+{
+  "id": 17075,
+  "models": {
+    "10": [
+      16896,
+      16908
+    ]
+  },
+  "name": "Strong Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 40,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 30,
+  "occludes_2": false
+}

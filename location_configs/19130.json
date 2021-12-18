@@ -1,0 +1,16 @@
+{
+  "id": 19130,
+  "models": {
+    "10": [
+      19507,
+      19506
+    ]
+  },
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 0,
+  "unknown_24": 5141,
+  "ambient": 25,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": 107370,
+  "models": {
+    "10": [
+      117658
+    ]
+  },
+  "name": "Red Portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Return to Shattered Worlds",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21036,
+      681
+    ]
+  ],
+  "textures": {
+    "4311": 13975
+  },
+  "model": false,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "unknown_75": 0,
+  "unknown_78": {
+    "unknown_1": 24885,
+    "unknown_2": 15
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 180,
+  "mapfunction": 612
+}

@@ -1,0 +1,24 @@
+{
+  "id": 61527,
+  "models": {
+    "10": [
+      57422
+    ]
+  },
+  "name": "Tree",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

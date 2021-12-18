@@ -1,0 +1,16 @@
+{
+  "id": 204,
+  "models": {
+    "10": [
+      14204
+    ]
+  },
+  "name": "Candles",
+  "colours": [
+    [
+      6695,
+      18
+    ]
+  ],
+  "occludes_2": false
+}

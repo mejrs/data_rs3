@@ -1,0 +1,23 @@
+{
+  "id": 30108,
+  "models": {
+    "10": [
+      32840
+    ]
+  },
+  "name": "Broken incubator",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

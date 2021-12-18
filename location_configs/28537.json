@@ -1,0 +1,24 @@
+{
+  "id": 28537,
+  "models": {
+    "10": [
+      38632
+    ]
+  },
+  "name": "Furnace",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65530,
+  "unknown_73": true,
+  "unknown_78": {
+    "unknown_1": 3474,
+    "unknown_2": 10
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 150
+}

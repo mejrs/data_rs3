@@ -1,0 +1,28 @@
+{
+  "id": 94098,
+  "models": {
+    "10": [
+      98760
+    ]
+  },
+  "name": "Crate",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 37,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

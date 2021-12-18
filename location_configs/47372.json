@@ -1,0 +1,39 @@
+{
+  "id": 47372,
+  "models": {
+    "4": [
+      50964
+    ]
+  },
+  "name": "Lever D",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pull",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      792,
+      8096
+    ],
+    [
+      788,
+      8092
+    ],
+    [
+      784,
+      8088
+    ],
+    [
+      780,
+      8084
+    ]
+  ],
+  "translate_y": 65466,
+  "occludes_2": false
+}

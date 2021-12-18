@@ -1,0 +1,25 @@
+{
+  "id": 4933,
+  "models": {
+    "10": [
+      4893
+    ]
+  },
+  "name": "Glowing fungus",
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

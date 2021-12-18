@@ -1,0 +1,33 @@
+{
+  "id": 97398,
+  "models": {
+    "10": [
+      104415,
+      115137
+    ]
+  },
+  "name": "Sinkhole portal (inactive)",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1304": 5516
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

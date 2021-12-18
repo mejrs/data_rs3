@@ -1,0 +1,26 @@
+{
+  "id": 3679,
+  "models": {
+    "10": [
+      1499
+    ]
+  },
+  "name": "Standard",
+  "unknown_24": 9642,
+  "colours": [
+    [
+      43957,
+      43325
+    ],
+    [
+      115,
+      86
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 70
+}

@@ -1,0 +1,32 @@
+{
+  "id": 43853,
+  "models": {
+    "22": [
+      70945
+    ]
+  },
+  "name": "Compacted snow",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43125,
+      34937
+    ]
+  ],
+  "model": false,
+  "translate_y": 65513,
+  "unknown_73": true,
+  "unknown_75": 0,
+  "mapscene": 66,
+  "occludes_2": false,
+  "unknown_167": 90
+}

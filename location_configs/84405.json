@@ -1,0 +1,22 @@
+{
+  "id": 84405,
+  "models": {
+    "10": [
+      85938,
+      8222,
+      7766
+    ]
+  },
+  "name": "Reeds",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

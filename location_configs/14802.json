@@ -1,0 +1,18 @@
+{
+  "id": 14802,
+  "models": {
+    "10": [
+      63642
+    ]
+  },
+  "name": "Astral token (broken)",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 98962,
+  "models": {
+    "10": [
+      106134
+    ]
+  },
+  "name": "Vanescula's sarcophagus",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

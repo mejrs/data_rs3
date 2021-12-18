@@ -1,0 +1,17 @@
+{
+  "id": 96300,
+  "models": {
+    "10": [
+      103247
+    ]
+  },
+  "name": "Fur stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2587": 2607
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 31275,
+  "models": {
+    "10": [
+      34337
+    ]
+  },
+  "name": "Rock prop",
+  "dim_x": 4,
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 15,
+  "occludes_2": false
+}

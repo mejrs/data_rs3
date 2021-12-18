@@ -1,0 +1,18 @@
+{
+  "id": 42349,
+  "models": {
+    "10": [
+      4646
+    ]
+  },
+  "name": "Cooking pots",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      61,
+      35885
+    ]
+  ],
+  "occludes_2": false
+}

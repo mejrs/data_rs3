@@ -1,0 +1,28 @@
+{
+  "id": 86777,
+  "models": {
+    "10": [
+      89109
+    ]
+  },
+  "name": "Looted coffin",
+  "dim_x": 3,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

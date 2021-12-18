@@ -1,0 +1,50 @@
+{
+  "id": 37354,
+  "models": {
+    "0": [
+      25030
+    ]
+  },
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7587,
+      7445
+    ],
+    [
+      7582,
+      7442
+    ],
+    [
+      7706,
+      7439
+    ],
+    [
+      7830,
+      7436
+    ],
+    [
+      7954,
+      7433
+    ]
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

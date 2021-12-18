@@ -1,0 +1,18 @@
+{
+  "id": 6246,
+  "models": {
+    "10": [
+      6046
+    ]
+  },
+  "name": "Table",
+  "unknown_24": 1875,
+  "actions": [
+    "Take-beer",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

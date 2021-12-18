@@ -1,0 +1,11 @@
+{
+  "id": 24112,
+  "models": {
+    "10": [
+      25183
+    ]
+  },
+  "name": "Sink",
+  "dim_x": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3076,
+  "models": {
+    "10": [
+      3245
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "textures": {
+    "2383": 2377
+  },
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

@@ -1,0 +1,14 @@
+{
+  "id": 27717,
+  "models": {
+    "10": [
+      29643
+    ]
+  },
+  "name": "Hospital bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 5,
+  "occludes_2": false
+}

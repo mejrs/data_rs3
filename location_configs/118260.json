@@ -1,0 +1,25 @@
+{
+  "id": 118260,
+  "models": {
+    "10": [
+      12732
+    ]
+  },
+  "name": "Stove space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 93334,
+  "models": {
+    "10": [
+      98333,
+      7768
+    ]
+  },
+  "name": "Diseased elder tree",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5656,
+      10776
+    ]
+  ],
+  "textures": {
+    "44": 70
+  },
+  "unknown_88": false,
+  "occludes_2": false
+}

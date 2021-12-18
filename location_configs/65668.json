@@ -1,0 +1,26 @@
+{
+  "id": 65668,
+  "models": {
+    "10": [
+      64795
+    ]
+  },
+  "name": "Oak",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "textures": {
+    "2283": 2282,
+    "2285": 2282,
+    "2286": 2282
+  },
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "translate_y": 19,
+  "occludes_2": false,
+  "unknown_189": true
+}

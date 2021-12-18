@@ -1,0 +1,34 @@
+{
+  "id": 113893,
+  "models": {
+    "10": [
+      58284,
+      58291
+    ]
+  },
+  "name": "Healthy herbs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 0
+}

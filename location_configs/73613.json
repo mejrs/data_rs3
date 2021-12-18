@@ -1,0 +1,23 @@
+{
+  "id": 73613,
+  "models": {
+    "0": [
+      71532,
+      71405
+    ]
+  },
+  "name": "Decoration hotspot",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 17035,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "contrast": 15,
+  "unknown_88": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 110307,
+  "models": {
+    "10": [
+      7997
+    ]
+  },
+  "name": "Energy rift",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 7215,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Channel",
+    null,
+    "Configure",
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 80,
+  "unknown_78": {
+    "unknown_1": 24155,
+    "unknown_2": 15
+  },
+  "occludes_2": false,
+  "unknown_104": 100
+}

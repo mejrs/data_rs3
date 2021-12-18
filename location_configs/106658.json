@@ -1,0 +1,30 @@
+{
+  "id": 106658,
+  "models": {
+    "10": [
+      117266
+    ]
+  },
+  "name": "Easter Egg Shy",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Play",
+    "Throw balls",
+    "Throw cabbages",
+    "Throw chinchompas",
+    "Search"
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    56,
+    null
+  ]
+}

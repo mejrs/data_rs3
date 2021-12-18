@@ -1,0 +1,29 @@
+{
+  "id": 116952,
+  "models": {
+    "22": [
+      90990
+    ]
+  },
+  "name": "Smoke button",
+  "unknown_19": 1,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64,
+      22437
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 34030,
+  "models": {
+    "10": [
+      35008
+    ]
+  },
+  "unknown_19": 0,
+  "colours": [
+    [
+      61,
+      30
+    ]
+  ],
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70,
+  "unknown_95": 0,
+  "occludes_2": false
+}

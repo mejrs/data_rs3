@@ -1,0 +1,14 @@
+{
+  "id": 38325,
+  "models": {
+    "10": [
+      41473,
+      41466
+    ]
+  },
+  "name": "Tube",
+  "unknown_24": 10192,
+  "ambient": 20,
+  "contrast": 10,
+  "occludes_2": false
+}

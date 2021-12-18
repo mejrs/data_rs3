@@ -1,0 +1,17 @@
+{
+  "id": 75461,
+  "models": {
+    "10": [
+      75214
+    ]
+  },
+  "name": "Unlocked Prison Barrier",
+  "dim_x": 5,
+  "unknown_22": true,
+  "unknown_24": 17355,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

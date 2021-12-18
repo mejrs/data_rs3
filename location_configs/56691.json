@@ -1,0 +1,22 @@
+{
+  "id": 56691,
+  "models": {
+    "10": [
+      62216
+    ]
+  },
+  "name": "Cauldron",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

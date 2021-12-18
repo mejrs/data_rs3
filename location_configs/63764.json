@@ -1,0 +1,41 @@
+{
+  "id": 63764,
+  "models": {
+    "10": [
+      9657
+    ]
+  },
+  "name": "Wood pile",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5386,
+      4404
+    ],
+    [
+      5388,
+      4364
+    ],
+    [
+      5390,
+      4396
+    ],
+    [
+      5394,
+      4386
+    ],
+    [
+      5396,
+      4372
+    ]
+  ],
+  "textures": {
+    "2075": 2078
+  },
+  "translate_x": 10,
+  "occludes_2": false
+}

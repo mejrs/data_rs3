@@ -1,0 +1,18 @@
+{
+  "id": 49421,
+  "models": {
+    "10": [
+      96035
+    ]
+  },
+  "name": "General Wartface",
+  "unknown_19": 1,
+  "unknown_24": 6181,
+  "ambient": 64,
+  "scale_x": 148,
+  "scale_y": 148,
+  "scale_z": 148,
+  "translate_y": 64819,
+  "translate_z": 65526,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19220,
+  "models": {
+    "10": [
+      19973
+    ]
+  },
+  "name": "Perch",
+  "is_transparent": true,
+  "unknown_27": false,
+  "scale_x": 76,
+  "scale_y": 76,
+  "scale_z": 76,
+  "mapscene": 9,
+  "occludes_2": false
+}

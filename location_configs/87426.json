@@ -1,0 +1,15 @@
+{
+  "id": 87426,
+  "models": {
+    "10": [
+      90580
+    ]
+  },
+  "name": "Red Axe multicannon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 15,
+  "contrast": 25,
+  "unknown_75": 0,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 119062,
+  "models": {
+    "10": [
+      120620
+    ]
+  },
+  "name": "Dragonkin statue",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

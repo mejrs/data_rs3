@@ -1,0 +1,54 @@
+{
+  "id": 112964,
+  "models": {
+    "10": [
+      99109
+    ]
+  },
+  "name": "Runite rock",
+  "is_transparent": true,
+  "unknown_24": 2235,
+  "ambient": 37,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      38446,
+      34126
+    ],
+    [
+      35549,
+      34110
+    ],
+    [
+      35539,
+      34093
+    ],
+    [
+      35526,
+      34082
+    ],
+    [
+      35501,
+      34066
+    ]
+  ],
+  "unknown_44": 992,
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

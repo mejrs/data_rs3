@@ -1,0 +1,24 @@
+{
+  "id": 104380,
+  "models": {
+    "10": [
+      114090
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 78,
+  "scale_y": 95,
+  "scale_z": 78,
+  "occludes_2": false
+}

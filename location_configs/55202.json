@@ -1,0 +1,42 @@
+{
+  "id": 55202,
+  "models": {
+    "0": [
+      59845
+    ]
+  },
+  "name": "Auto-matching chamber",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8,
+      21905
+    ],
+    [
+      12,
+      21910
+    ],
+    [
+      16,
+      21910
+    ],
+    [
+      20,
+      21915
+    ],
+    [
+      28,
+      21920
+    ],
+    [
+      23,
+      21912
+    ]
+  ],
+  "unknown_170": 961
+}

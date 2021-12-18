@@ -1,0 +1,22 @@
+{
+  "id": 88781,
+  "models": {
+    "10": [
+      92554
+    ]
+  },
+  "name": "Strategy board",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Vote",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

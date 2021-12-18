@@ -1,0 +1,30 @@
+{
+  "id": 61551,
+  "models": {
+    "10": [
+      57480
+    ]
+  },
+  "name": "Snow-covered tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 42,
+  "mapscene": 6,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 111372,
+  "models": {
+    "10": [
+      42591
+    ]
+  },
+  "name": "Pool",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

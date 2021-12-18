@@ -1,0 +1,52 @@
+{
+  "id": 7228,
+  "models": {
+    "10": [
+      7581
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 2196,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "colours": [
+    [
+      10394,
+      5662
+    ],
+    [
+      10518,
+      5786
+    ],
+    [
+      10514,
+      5910
+    ],
+    [
+      10638,
+      6034
+    ],
+    [
+      10762,
+      3604
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    56,
+    null
+  ]
+}

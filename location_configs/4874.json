@@ -1,0 +1,17 @@
+{
+  "id": 4874,
+  "models": {
+    "10": [
+      4758
+    ]
+  },
+  "name": "Crafting Stall",
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

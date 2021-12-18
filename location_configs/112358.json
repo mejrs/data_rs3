@@ -1,0 +1,21 @@
+{
+  "id": 112358,
+  "models": {
+    "10": [
+      64874
+    ]
+  },
+  "name": "Dragon manure",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 1881,
+  "actions": [
+    "Muck out",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 920
+}

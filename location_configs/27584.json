@@ -1,0 +1,21 @@
+{
+  "id": 27584,
+  "models": {
+    "10": [
+      64626
+    ]
+  },
+  "name": "Gas canister",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Sabotage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 82777,
+  "models": {
+    "4": [
+      4301
+    ]
+  },
+  "name": "Abstract mural",
+  "ambient": 40,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "colours": [
+    [
+      8,
+      65178
+    ],
+    [
+      16,
+      65059
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

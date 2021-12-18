@@ -1,0 +1,14 @@
+{
+  "id": 53652,
+  "models": {
+    "0": [
+      58648
+    ]
+  },
+  "name": "Beer hatch",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25
+}

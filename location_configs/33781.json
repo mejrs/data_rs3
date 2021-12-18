@@ -1,0 +1,14 @@
+{
+  "id": 33781,
+  "models": {
+    "0": [
+      36781
+    ]
+  },
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2108": 3171
+  },
+  "mirror": true
+}

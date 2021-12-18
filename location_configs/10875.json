@@ -1,0 +1,14 @@
+{
+  "id": 10875,
+  "models": {
+    "10": [
+      10815
+    ]
+  },
+  "name": "Stone block",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 3070,
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 106007,
+  "models": {
+    "10": [
+      30299
+    ]
+  },
+  "name": "Snow",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 40,
+  "contrast": 40,
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 36748,
+  "models": {
+    "10": [
+      76649
+    ]
+  },
+  "name": "Cart camel",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_24": 9669,
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 110342,
+  "models": {
+    "10": [
+      91891
+    ]
+  },
+  "name": "Junior",
+  "unknown_24": 22107,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

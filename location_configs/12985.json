@@ -1,0 +1,37 @@
+{
+  "id": 12985,
+  "models": {
+    "10": [
+      12151
+    ]
+  },
+  "name": "Bank chest",
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6682,
+      5396
+    ],
+    [
+      6443,
+      5408
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

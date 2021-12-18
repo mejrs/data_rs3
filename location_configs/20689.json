@@ -1,0 +1,38 @@
+{
+  "id": 20689,
+  "models": {
+    "10": [
+      63229
+    ]
+  },
+  "name": "Watcher",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Rotate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        7446,
+        90
+      ]
+    ]
+  },
+  "cursors": [
+    189,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

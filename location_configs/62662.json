@@ -1,0 +1,23 @@
+{
+  "id": 62662,
+  "models": {
+    "10": [
+      1652
+    ]
+  },
+  "name": "Noticeboard",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Look-at",
+    "Administrate",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 20,
+  "occludes_2": false
+}

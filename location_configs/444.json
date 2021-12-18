@@ -1,0 +1,18 @@
+{
+  "id": 444,
+  "models": {
+    "10": [
+      1405
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "textures": {
+    "1493": 1516
+  },
+  "mapscene": 11,
+  "occludes_2": false
+}

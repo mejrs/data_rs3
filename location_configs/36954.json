@@ -1,0 +1,30 @@
+{
+  "id": 36954,
+  "models": {
+    "10": [
+      5499
+    ]
+  },
+  "name": "Water barrel",
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      5400
+    ],
+    [
+      6684,
+      5408
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

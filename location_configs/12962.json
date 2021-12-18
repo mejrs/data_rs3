@@ -1,0 +1,33 @@
+{
+  "id": 12962,
+  "models": {
+    "10": [
+      51100
+    ]
+  },
+  "name": "John Everyman",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 1565,
+  "colours": [
+    [
+      5532,
+      7587
+    ],
+    [
+      5656,
+      7706
+    ],
+    [
+      5652,
+      7830
+    ],
+    [
+      6674,
+      7954
+    ]
+  ],
+  "occludes_2": false
+}

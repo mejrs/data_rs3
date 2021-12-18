@@ -1,0 +1,25 @@
+{
+  "id": 120956,
+  "models": {
+    "10": [
+      122917,
+      122919
+    ]
+  },
+  "name": "Dilapidated siege engine",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 50680,
+    "unknown_2": 7
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 130,
+  "unknown_1": 240,
+  "unknown_2": 270,
+  "unknown_196": 4
+}

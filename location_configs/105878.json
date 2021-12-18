@@ -1,0 +1,22 @@
+{
+  "id": 105878,
+  "models": {
+    "10": [
+      115932
+    ]
+  },
+  "name": "Tower",
+  "dim_x": 16,
+  "dim_y": 16,
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 225,
+  "scale_y": 225,
+  "scale_z": 225,
+  "translate_y": 63845,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true,
+  "unknown_196": 4
+}

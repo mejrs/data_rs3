@@ -1,0 +1,22 @@
+{
+  "id": 10706,
+  "models": {
+    "10": [
+      10477,
+      10456
+    ]
+  },
+  "name": "Large Box",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      43943,
+      9878
+    ]
+  ],
+  "scale_x": 220,
+  "scale_y": 128,
+  "scale_z": 220,
+  "occludes_2": false
+}

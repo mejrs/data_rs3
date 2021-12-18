@@ -1,0 +1,31 @@
+{
+  "id": 115419,
+  "models": {
+    "10": [
+      96044
+    ]
+  },
+  "name": "Mesh",
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Screen",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    1,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 24124,
+  "models": {
+    "10": [
+      24883,
+      24882
+    ]
+  },
+  "name": "Shop counter",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_22": true,
+  "occludes_2": false
+}

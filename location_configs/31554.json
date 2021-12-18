@@ -1,0 +1,11 @@
+{
+  "id": 31554,
+  "models": {
+    "10": [
+      29700
+    ]
+  },
+  "name": "Locker",
+  "ambient": 0,
+  "occludes_2": false
+}

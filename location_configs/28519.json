@@ -1,0 +1,15 @@
+{
+  "id": 28519,
+  "models": {
+    "10": [
+      30923
+    ]
+  },
+  "name": "Power indicator",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

@@ -1,0 +1,22 @@
+{
+  "id": 8534,
+  "models": {
+    "10": [
+      102148,
+      102150,
+      7768
+    ]
+  },
+  "name": "Dead Yew",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "mapscene": 0,
+  "occludes_2": false
+}

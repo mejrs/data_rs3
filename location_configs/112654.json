@@ -1,0 +1,26 @@
+{
+  "id": 112654,
+  "models": {
+    "10": [
+      68409,
+      68410
+    ]
+  },
+  "name": "Buckthorn bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Explore",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 49546,
+  "models": {
+    "22": [
+      56650
+    ]
+  },
+  "name": "Tile",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

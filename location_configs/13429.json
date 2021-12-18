@@ -1,0 +1,19 @@
+{
+  "id": 13429,
+  "models": {
+    "10": [
+      12936
+    ]
+  },
+  "name": "Large-leaf Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

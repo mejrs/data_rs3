@@ -1,0 +1,24 @@
+{
+  "id": 36627,
+  "models": {
+    "10": [
+      5514
+    ]
+  },
+  "name": "Rock",
+  "is_transparent": true,
+  "unknown_24": 1727,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      61,
+      5282
+    ]
+  ],
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70,
+  "unknown_88": false,
+  "occludes_2": false
+}

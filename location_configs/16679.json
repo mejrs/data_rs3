@@ -1,0 +1,53 @@
+{
+  "id": 16679,
+  "models": {
+    "10": [
+      37368
+    ]
+  },
+  "name": "Stalagmites",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      9098,
+      25
+    ],
+    [
+      8846,
+      32
+    ],
+    [
+      8722,
+      38
+    ],
+    [
+      8598,
+      44
+    ],
+    [
+      8602,
+      50
+    ],
+    [
+      8478,
+      54
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

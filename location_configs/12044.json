@@ -1,0 +1,18 @@
+{
+  "id": 12044,
+  "models": {
+    "10": [
+      57495
+    ]
+  },
+  "name": "Tall mechanism slider",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 14099,
+  "unknown_78": {
+    "unknown_1": 32596,
+    "unknown_2": 12
+  },
+  "occludes_2": false
+}

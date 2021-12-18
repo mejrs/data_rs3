@@ -1,0 +1,47 @@
+{
+  "id": 56598,
+  "models": {
+    "10": [
+      62155
+    ]
+  },
+  "name": "Kalferberry bush",
+  "ambient": 25,
+  "actions": [
+    "Pick-from",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      45470,
+      4009
+    ],
+    [
+      45466,
+      4005
+    ],
+    [
+      45494,
+      3895
+    ],
+    [
+      45490,
+      3888
+    ],
+    [
+      46493,
+      4000
+    ],
+    [
+      46497,
+      4006
+    ]
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

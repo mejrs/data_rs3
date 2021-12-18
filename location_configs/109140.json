@@ -1,0 +1,29 @@
+{
+  "id": 109140,
+  "models": {
+    "10": [
+      118727,
+      118726
+    ]
+  },
+  "name": "Treasure chest",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    "Toggle auto-collect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

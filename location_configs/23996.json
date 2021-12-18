@@ -1,0 +1,17 @@
+{
+  "id": 23996,
+  "models": {
+    "10": [
+      25142,
+      22174,
+      25134,
+      25148
+    ]
+  },
+  "name": "Bar",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "mirror": true,
+  "occludes_2": false
+}

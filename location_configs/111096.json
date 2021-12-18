@@ -1,0 +1,52 @@
+{
+  "id": 111096,
+  "models": {
+    "10": [
+      27500,
+      27501
+    ]
+  },
+  "name": "Desk",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      5656,
+      6697
+    ],
+    [
+      5652,
+      6812
+    ],
+    [
+      10351,
+      8423
+    ],
+    [
+      5219,
+      8415
+    ],
+    [
+      5214,
+      8407
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

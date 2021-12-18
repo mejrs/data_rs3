@@ -1,0 +1,18 @@
+{
+  "id": 87305,
+  "models": {
+    "10": [
+      89520
+    ]
+  },
+  "name": "Broken divine tree",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 21213,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 10,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_189": true
+}

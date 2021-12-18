@@ -1,0 +1,37 @@
+{
+  "id": 41054,
+  "models": {
+    "0": [
+      43985
+    ]
+  },
+  "name": "Skull nose cavity",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    "Squeeze-into",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5421,
+      5535
+    ],
+    [
+      5660,
+      5523
+    ],
+    [
+      5541,
+      5528
+    ]
+  ],
+  "unknown_170": 960
+}

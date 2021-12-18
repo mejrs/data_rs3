@@ -1,0 +1,16 @@
+{
+  "id": 117800,
+  "models": {
+    "10": [
+      116516
+    ]
+  },
+  "name": "Incubator",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

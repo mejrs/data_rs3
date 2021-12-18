@@ -1,0 +1,36 @@
+{
+  "id": 24887,
+  "models": {
+    "10": [
+      64027
+    ]
+  },
+  "name": "Furnace",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Smelt",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 3474,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 127,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

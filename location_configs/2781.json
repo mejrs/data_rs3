@@ -1,0 +1,16 @@
+{
+  "id": 2781,
+  "models": {
+    "10": [
+      32221
+    ]
+  },
+  "name": "Catapult",
+  "dim_y": 4,
+  "unknown_22": true,
+  "unknown_24": 1223,
+  "ambient": 15,
+  "contrast": 15,
+  "unknown_73": true,
+  "occludes_2": false
+}

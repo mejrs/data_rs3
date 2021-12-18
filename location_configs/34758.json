@@ -1,0 +1,32 @@
+{
+  "id": 34758,
+  "models": {
+    "10": [
+      27384
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6435,
+      7444
+    ],
+    [
+      6554,
+      7448
+    ],
+    [
+      5289,
+      7452
+    ],
+    [
+      6315,
+      7456
+    ]
+  ],
+  "occludes_2": false
+}

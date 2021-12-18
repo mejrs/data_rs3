@@ -1,0 +1,11 @@
+{
+  "id": 301,
+  "models": {
+    "10": [
+      14206
+    ]
+  },
+  "name": "Food trough",
+  "dim_x": 2,
+  "occludes_2": false
+}

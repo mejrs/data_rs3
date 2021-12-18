@@ -1,0 +1,26 @@
+{
+  "id": 87812,
+  "models": {
+    "10": [
+      50039
+    ]
+  },
+  "name": "Obstacle",
+  "unknown_19": 1,
+  "actions": [
+    "Climb through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

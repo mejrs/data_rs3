@@ -1,0 +1,53 @@
+{
+  "id": 83748,
+  "models": {
+    "10": [
+      37482
+    ]
+  },
+  "name": "Ladder",
+  "unknown_19": 1,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7690,
+      5392
+    ],
+    [
+      7566,
+      5396
+    ],
+    [
+      7442,
+      5400
+    ],
+    [
+      7446,
+      5404
+    ],
+    [
+      7322,
+      5408
+    ],
+    [
+      7326,
+      5412
+    ]
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

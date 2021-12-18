@@ -1,0 +1,19 @@
+{
+  "id": 101206,
+  "models": {
+    "10": [
+      110367
+    ]
+  },
+  "name": "Underworld root",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  }
+}

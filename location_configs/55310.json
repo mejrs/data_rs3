@@ -1,0 +1,15 @@
+{
+  "id": 55310,
+  "models": {
+    "0": [
+      50226
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "unknown_170": 961
+}

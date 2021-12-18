@@ -1,0 +1,24 @@
+{
+  "id": 65952,
+  "models": {
+    "10": [
+      1288
+    ]
+  },
+  "name": "Bed",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

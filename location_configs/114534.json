@@ -1,0 +1,19 @@
+{
+  "id": 114534,
+  "models": {
+    "10": [
+      82804,
+      7768
+    ]
+  },
+  "name": "Money tree",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

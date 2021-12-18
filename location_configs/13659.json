@@ -1,0 +1,17 @@
+{
+  "id": 13659,
+  "models": {
+    "10": [
+      12952
+    ]
+  },
+  "name": "Crystal ball",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 43483,
+  "models": {
+    "10": [
+      47080
+    ]
+  },
+  "name": "Old fishing rod",
+  "actions": [
+    "Set-trap",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "unknown_75": 0,
+  "mapscene": 68,
+  "occludes_2": false,
+  "unknown_1": 48,
+  "unknown_2": 15584,
+  "unknown_3": 48,
+  "unknown_4": 80,
+  "unknown_5": 64,
+  "unknown_6": 80
+}

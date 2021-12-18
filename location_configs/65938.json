@@ -1,0 +1,31 @@
+{
+  "id": 65938,
+  "models": {
+    "10": [
+      27875
+    ]
+  },
+  "name": "Scoreboard",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6554,
+      5408
+    ],
+    [
+      6550,
+      5396
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 38150,
+  "models": {
+    "10": [
+      41319
+    ]
+  },
+  "name": "Portal",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 10099,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 6536,
+    "unknown_2": 15
+  },
+  "occludes_2": false,
+  "unknown_104": 64
+}

@@ -1,0 +1,27 @@
+{
+  "id": 14929,
+  "models": {
+    "0": [
+      14889
+    ]
+  },
+  "name": "Colony gate",
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

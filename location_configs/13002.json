@@ -1,0 +1,41 @@
+{
+  "id": 13002,
+  "models": {
+    "0": [
+      9476
+    ],
+    "9": [
+      9477
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7064,
+      5784
+    ],
+    [
+      6940,
+      5904
+    ],
+    [
+      6945,
+      5541
+    ],
+    [
+      6038,
+      5660
+    ]
+  ],
+  "unknown_75": 0,
+  "unknown_170": 948
+}

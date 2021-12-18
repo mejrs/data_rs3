@@ -1,0 +1,17 @@
+{
+  "id": 5881,
+  "models": {
+    "10": [
+      5439
+    ]
+  },
+  "name": "Standing torch",
+  "colours": [
+    [
+      5669,
+      5524
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 0
+}

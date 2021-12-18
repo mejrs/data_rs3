@@ -1,0 +1,28 @@
+{
+  "id": 31860,
+  "models": {
+    "10": [
+      61066
+    ]
+  },
+  "name": "Stage",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

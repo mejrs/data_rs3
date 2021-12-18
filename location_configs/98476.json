@@ -1,0 +1,30 @@
+{
+  "id": 98476,
+  "models": {
+    "10": [
+      105648
+    ]
+  },
+  "name": "Crystal formation",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 45,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

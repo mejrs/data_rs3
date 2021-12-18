@@ -1,0 +1,29 @@
+{
+  "id": 121439,
+  "models": {
+    "10": [
+      123984
+    ]
+  },
+  "name": "Calcified fungus",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

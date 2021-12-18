@@ -1,0 +1,32 @@
+{
+  "id": 7101,
+  "models": {
+    "0": [
+      12669
+    ]
+  },
+  "name": "Window space",
+  "ambient": 10,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      8381,
+      8210
+    ],
+    [
+      8398,
+      8217
+    ],
+    [
+      8381,
+      8210
+    ]
+  ]
+}

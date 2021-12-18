@@ -1,0 +1,24 @@
+{
+  "id": 14811,
+  "models": {
+    "10": [
+      63637
+    ]
+  },
+  "name": "Workbench",
+  "ambient": 15,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

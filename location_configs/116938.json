@@ -1,0 +1,29 @@
+{
+  "id": 116938,
+  "models": {
+    "10": [
+      121421,
+      96922
+    ]
+  },
+  "name": "Praetorium war table",
+  "dim_x": 4,
+  "dim_y": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

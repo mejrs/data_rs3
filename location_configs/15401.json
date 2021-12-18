@@ -1,0 +1,17 @@
+{
+  "id": 15401,
+  "models": {
+    "10": [
+      12647
+    ]
+  },
+  "name": "Barrel space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

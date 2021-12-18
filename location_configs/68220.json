@@ -1,0 +1,29 @@
+{
+  "id": 68220,
+  "models": {
+    "10": [
+      63829
+    ]
+  },
+  "name": "Viewing orb",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Gaze into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

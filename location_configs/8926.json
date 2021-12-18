@@ -1,0 +1,16 @@
+{
+  "id": 8926,
+  "models": {
+    "10": [
+      8694,
+      8695
+    ]
+  },
+  "name": "Fremennik Boat",
+  "dim_x": 6,
+  "dim_y": 2,
+  "unknown_24": 2346,
+  "ambient": 20,
+  "occludes_2": false,
+  "unknown_196": 2
+}

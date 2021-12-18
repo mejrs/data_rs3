@@ -1,0 +1,15 @@
+{
+  "id": 65769,
+  "models": {
+    "10": [
+      25840
+    ]
+  },
+  "name": "Training Dummy",
+  "unknown_19": 1,
+  "unknown_24": 2229,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

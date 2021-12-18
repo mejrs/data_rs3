@@ -1,0 +1,35 @@
+{
+  "id": 114377,
+  "models": {
+    "10": [
+      81617,
+      7767
+    ]
+  },
+  "name": "Diseased avocado bush",
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      49849,
+      38309
+    ],
+    [
+      5524,
+      29070
+    ]
+  ],
+  "textures": {
+    "11714": 11717,
+    "11720": 11721
+  },
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

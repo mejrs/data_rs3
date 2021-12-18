@@ -1,0 +1,23 @@
+{
+  "id": 84140,
+  "models": {
+    "10": [
+      85705
+    ]
+  },
+  "name": "Purification bowl (chaos)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Purify corruption",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

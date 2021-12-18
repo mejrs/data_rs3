@@ -1,0 +1,26 @@
+{
+  "id": 19922,
+  "models": {
+    "10": [
+      19417
+    ]
+  },
+  "name": "Giant feathers",
+  "unknown_17": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

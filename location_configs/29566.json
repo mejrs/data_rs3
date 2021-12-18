@@ -1,0 +1,21 @@
+{
+  "id": 29566,
+  "models": {
+    "10": [
+      8232,
+      32365
+    ]
+  },
+  "name": "Barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Take-Egg",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

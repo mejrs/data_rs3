@@ -1,0 +1,12 @@
+{
+  "id": 99283,
+  "models": {
+    "10": [
+      106509
+    ]
+  },
+  "name": "Icyene artefact",
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

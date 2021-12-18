@@ -1,0 +1,30 @@
+{
+  "id": 9699,
+  "models": {
+    "10": [
+      9547
+    ]
+  },
+  "name": "Large Table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      6451,
+      6697
+    ],
+    [
+      6443,
+      6693
+    ],
+    [
+      6439,
+      6817
+    ],
+    [
+      6563,
+      6812
+    ]
+  ],
+  "occludes_2": false
+}

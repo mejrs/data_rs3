@@ -1,0 +1,39 @@
+{
+  "id": 22739,
+  "models": {
+    "10": [
+      3289
+    ]
+  },
+  "name": "Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      7449
+    ],
+    [
+      66,
+      7566
+    ],
+    [
+      57,
+      7570
+    ],
+    [
+      90,
+      7479
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

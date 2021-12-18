@@ -1,0 +1,19 @@
+{
+  "id": 113919,
+  "models": {
+    "22": [
+      113555
+    ]
+  },
+  "name": "Message in a bottle",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_93": 8224,
+  "occludes_2": false
+}

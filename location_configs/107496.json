@@ -1,0 +1,22 @@
+{
+  "id": 107496,
+  "models": {
+    "10": [
+      118271
+    ]
+  },
+  "name": "Deposit box",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Deposit",
+    "Deposit-All",
+    null,
+    "Deposit all fish",
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "mapfunction": 3651
+}

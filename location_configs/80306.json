@@ -1,0 +1,16 @@
+{
+  "id": 80306,
+  "models": {
+    "10": [
+      80757,
+      80749,
+      80633
+    ]
+  },
+  "dim_y": 9,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

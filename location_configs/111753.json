@@ -1,0 +1,16 @@
+{
+  "id": 111753,
+  "models": {
+    "10": [
+      113875
+    ]
+  },
+  "name": "Terrorbird racing checkpoint",
+  "dim_x": 7,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 0,
+  "occludes_2": false,
+  "mapfunction": 1037
+}

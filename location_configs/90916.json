@@ -1,0 +1,17 @@
+{
+  "id": 90916,
+  "models": {
+    "0": [
+      95546
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

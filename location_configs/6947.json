@@ -1,0 +1,17 @@
+{
+  "id": 6947,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Cliff",
+  "actions": [
+    "Jump down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 32326,
+  "models": {
+    "4": [
+      2107
+    ]
+  },
+  "name": "Painting",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      9152,
+      5268
+    ]
+  ],
+  "occludes_2": false
+}

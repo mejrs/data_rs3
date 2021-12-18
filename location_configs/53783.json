@@ -1,0 +1,33 @@
+{
+  "id": 53783,
+  "models": {
+    "10": [
+      59495
+    ]
+  },
+  "name": "Argonite ore",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 563,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

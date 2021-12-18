@@ -1,0 +1,27 @@
+{
+  "id": 7278,
+  "models": {
+    "10": [
+      7696
+    ]
+  },
+  "name": "Fox",
+  "ambient": 40,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3084,
+  "models": {
+    "0": [
+      3286
+    ],
+    "1": [
+      3287
+    ],
+    "9": [
+      3288
+    ]
+  },
+  "is_transparent": true,
+  "occludes_1": false,
+  "ambient": 30,
+  "contrast": 30,
+  "unknown_73": true,
+  "mapscene": 22,
+  "unknown_170": 401
+}

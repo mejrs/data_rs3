@@ -1,0 +1,32 @@
+{
+  "id": 43539,
+  "models": {
+    "0": [
+      47283
+    ],
+    "1": [
+      47276
+    ]
+  },
+  "name": "Barrier",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

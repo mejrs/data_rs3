@@ -1,0 +1,29 @@
+{
+  "id": 4674,
+  "models": {
+    "10": [
+      20513
+    ]
+  },
+  "name": "Maple tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 2,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 18351,
+  "models": {
+    "10": [
+      18180
+    ]
+  },
+  "name": "Barrel",
+  "colours": [
+    [
+      7333,
+      7706
+    ],
+    [
+      8483,
+      7582
+    ]
+  ],
+  "unknown_44": 6,
+  "model": false,
+  "occludes_2": false
+}

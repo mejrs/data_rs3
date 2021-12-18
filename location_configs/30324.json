@@ -1,0 +1,15 @@
+{
+  "id": 30324,
+  "models": {
+    "10": [
+      33641
+    ]
+  },
+  "name": "Equipment table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

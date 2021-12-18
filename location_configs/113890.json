@@ -1,0 +1,37 @@
+{
+  "id": 113890,
+  "models": {
+    "10": [
+      58266,
+      58277
+    ]
+  },
+  "name": "Corrupt herbs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11390": 11391
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 0
+}

@@ -1,0 +1,22 @@
+{
+  "id": 116523,
+  "models": {
+    "10": [
+      108583
+    ]
+  },
+  "name": "Bubbles",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Surface",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

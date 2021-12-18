@@ -1,0 +1,25 @@
+{
+  "id": 97608,
+  "models": {
+    "10": [
+      104782
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_24": 26785,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 118,
+  "scale_y": 118,
+  "scale_z": 118,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": -1,
+    "unknown_2": 7,
+    "unknown_3": 76,
+    "unknown_4": 25
+  }
+}

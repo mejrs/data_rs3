@@ -1,0 +1,15 @@
+{
+  "id": 62431,
+  "models": {
+    "10": [
+      19201
+    ]
+  },
+  "name": "Cosplayer's head",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "translate_z": 65516,
+  "occludes_2": false
+}

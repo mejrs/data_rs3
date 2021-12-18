@@ -1,0 +1,28 @@
+{
+  "id": 110445,
+  "models": {
+    "10": [
+      78124
+    ]
+  },
+  "name": "Barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": -10,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "textures": {
+    "2720": 9705
+  },
+  "translate_z": 20,
+  "occludes_2": false,
+  "params": {
+    "6896": 38
+  }
+}

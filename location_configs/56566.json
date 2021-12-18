@@ -1,0 +1,26 @@
+{
+  "id": 56566,
+  "models": {
+    "10": [
+      62157
+    ]
+  },
+  "name": "Vine bush patch",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

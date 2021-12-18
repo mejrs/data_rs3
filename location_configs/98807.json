@@ -1,0 +1,29 @@
+{
+  "id": 98807,
+  "models": {
+    "10": [
+      106380
+    ]
+  },
+  "name": "Bookcase debris",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65496,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

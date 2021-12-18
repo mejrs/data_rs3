@@ -1,0 +1,27 @@
+{
+  "id": 84055,
+  "models": {
+    "10": [
+      79551
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2242": 2253,
+    "2261": 2239,
+    "2262": 2257
+  },
+  "model": false,
+  "scale_x": 215,
+  "scale_y": 235,
+  "scale_z": 215,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "unknown_189": true
+}

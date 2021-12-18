@@ -1,0 +1,25 @@
+{
+  "id": 113907,
+  "models": {
+    "10": [
+      58326,
+      1877
+    ]
+  },
+  "name": "Bones",
+  "dim_x": 8,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_24": 1199,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

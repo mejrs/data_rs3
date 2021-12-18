@@ -1,0 +1,30 @@
+{
+  "id": 21180,
+  "models": {
+    "10": [
+      21578
+    ]
+  },
+  "name": "Bird hide structure",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

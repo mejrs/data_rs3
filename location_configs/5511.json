@@ -1,0 +1,32 @@
+{
+  "id": 5511,
+  "models": {
+    "10": [
+      3722
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      5276,
+      6930
+    ],
+    [
+      10396,
+      6806
+    ],
+    [
+      5281,
+      6682
+    ],
+    [
+      7335,
+      6558
+    ]
+  ],
+  "mapscene": 25,
+  "occludes_2": false,
+  "unknown_196": 1
+}

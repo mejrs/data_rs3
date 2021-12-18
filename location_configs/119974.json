@@ -1,0 +1,16 @@
+{
+  "id": 119974,
+  "models": {
+    "10": [
+      122191
+    ]
+  },
+  "name": "Dais",
+  "dim_x": 11,
+  "dim_y": 11,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

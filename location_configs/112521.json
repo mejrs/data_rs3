@@ -1,0 +1,30 @@
+{
+  "id": 112521,
+  "models": {
+    "10": [
+      67635
+    ]
+  },
+  "name": "Death's soul rift",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Remove soul",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "scale_x": 32,
+  "scale_y": 32,
+  "scale_z": 32,
+  "unknown_78": {
+    "unknown_1": 26464,
+    "unknown_2": 6
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "unknown_196": 3
+}

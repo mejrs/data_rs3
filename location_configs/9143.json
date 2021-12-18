@@ -1,0 +1,20 @@
+{
+  "id": 9143,
+  "models": {
+    "10": [
+      5936
+    ]
+  },
+  "name": "Sink",
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 8502,
+  "models": {
+    "10": [
+      8031,
+      7768
+    ]
+  },
+  "name": "Yew sapling",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      6682
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

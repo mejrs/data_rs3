@@ -1,0 +1,27 @@
+{
+  "id": 114544,
+  "models": {
+    "10": [
+      82483,
+      7767
+    ]
+  },
+  "name": "Tombshrooms",
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

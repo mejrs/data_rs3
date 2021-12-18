@@ -1,0 +1,33 @@
+{
+  "id": 27816,
+  "models": {
+    "22": [
+      17518
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7170,
+      7316
+    ],
+    [
+      7173,
+      7319
+    ],
+    [
+      7178,
+      7324
+    ],
+    [
+      7182,
+      7328
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 6
+}

@@ -1,0 +1,30 @@
+{
+  "id": 104051,
+  "models": {
+    "10": [
+      113559
+    ]
+  },
+  "name": "Telescope",
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37788
+  }
+}

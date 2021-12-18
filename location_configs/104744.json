@@ -1,0 +1,14 @@
+{
+  "id": 104744,
+  "models": {
+    "10": [
+      114525
+    ]
+  },
+  "name": "Hunter outfit display stand",
+  "model": false,
+  "translate_x": 65506,
+  "translate_y": 65524,
+  "translate_z": 20,
+  "occludes_2": false
+}

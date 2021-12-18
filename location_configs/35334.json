@@ -1,0 +1,17 @@
+{
+  "id": 35334,
+  "models": {
+    "0": [
+      35945
+    ]
+  },
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 25,
+  "textures": {
+    "2382": 2315
+  },
+  "mirror": true,
+  "unknown_170": 960
+}

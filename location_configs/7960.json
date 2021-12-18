@@ -1,0 +1,26 @@
+{
+  "id": 7960,
+  "models": {
+    "10": [
+      110009,
+      7767
+    ]
+  },
+  "name": "Dead apple tree",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7068,
+      10508
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

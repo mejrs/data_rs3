@@ -1,0 +1,27 @@
+{
+  "id": 8873,
+  "models": {
+    "10": [
+      7778,
+      7781,
+      7782
+    ]
+  },
+  "name": "Fermenting Vat",
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Look in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      13518,
+      41156
+    ]
+  ],
+  "occludes_2": false
+}

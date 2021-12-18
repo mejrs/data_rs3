@@ -1,0 +1,21 @@
+{
+  "id": 56608,
+  "models": {
+    "10": [
+      62143
+    ]
+  },
+  "name": "Diseased kalferberry bush",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

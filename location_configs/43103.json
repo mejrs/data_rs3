@@ -1,0 +1,24 @@
+{
+  "id": 43103,
+  "models": {
+    "10": [
+      46822
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 11713,
+  "scale_x": 90,
+  "scale_y": 100,
+  "scale_z": 90,
+  "occludes_2": false,
+  "member_actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ]
+}

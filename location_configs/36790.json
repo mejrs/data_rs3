@@ -1,0 +1,12 @@
+{
+  "id": 36790,
+  "models": {
+    "10": [
+      1550
+    ]
+  },
+  "name": "Cannonballs",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

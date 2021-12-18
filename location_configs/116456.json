@@ -1,0 +1,18 @@
+{
+  "id": 116456,
+  "models": {
+    "10": [
+      88418
+    ]
+  },
+  "name": "Display case",
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

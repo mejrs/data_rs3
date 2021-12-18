@@ -1,0 +1,28 @@
+{
+  "id": 5133,
+  "models": {
+    "10": [
+      5127
+    ]
+  },
+  "name": "Hurdle",
+  "dim_x": 3,
+  "ambient": 10,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 119619,
+  "models": {
+    "10": [
+      121753
+    ]
+  },
+  "name": "Tree of Balance",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 103367,
+  "models": {
+    "10": [
+      60996
+    ]
+  },
+  "name": "Door frame",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2061": 3635,
+    "2078": 3185,
+    "2082": 3631
+  },
+  "occludes_2": false
+}

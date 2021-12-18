@@ -1,0 +1,14 @@
+{
+  "id": 100199,
+  "models": {
+    "10": [
+      49084
+    ]
+  },
+  "name": "Bucket of dry sand",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

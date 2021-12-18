@@ -1,0 +1,24 @@
+{
+  "id": 113918,
+  "models": {
+    "10": [
+      62140
+    ]
+  },
+  "name": "Fertile soil",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

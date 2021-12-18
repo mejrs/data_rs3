@@ -1,0 +1,27 @@
+{
+  "id": 12720,
+  "models": {
+    "10": [
+      13378
+    ]
+  },
+  "name": "Gravestone",
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

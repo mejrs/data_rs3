@@ -1,0 +1,33 @@
+{
+  "id": 2355,
+  "models": {
+    "10": [
+      37358
+    ]
+  },
+  "name": "Sack of charcoal",
+  "ambient": 25,
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 36809,
+  "models": {
+    "4": [
+      36462
+    ]
+  },
+  "name": "Hanging tapestry",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2073": 3171
+  },
+  "translate_z": 65529,
+  "occludes_2": false
+}

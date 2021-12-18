@@ -1,0 +1,19 @@
+{
+  "id": 8765,
+  "models": {
+    "0": [
+      8300
+    ],
+    "1": [
+      8301
+    ],
+    "9": [
+      8302
+    ]
+  },
+  "name": "Frame",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_196": 1
+}

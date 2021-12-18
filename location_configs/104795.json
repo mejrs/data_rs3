@@ -1,0 +1,17 @@
+{
+  "id": 104795,
+  "models": {
+    "10": [
+      114679
+    ]
+  },
+  "name": "Mixing bowl",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "occludes_2": false
+}

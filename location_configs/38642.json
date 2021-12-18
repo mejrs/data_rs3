@@ -1,0 +1,21 @@
+{
+  "id": 38642,
+  "models": {
+    "10": [
+      41922
+    ]
+  },
+  "name": "Shield (level 40 approx.)",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Cast",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

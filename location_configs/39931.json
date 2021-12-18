@@ -1,0 +1,22 @@
+{
+  "id": 39931,
+  "models": {
+    "10": [
+      59062
+    ]
+  },
+  "name": "Bridge",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 14942,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_89": false,
+  "occludes_2": false
+}

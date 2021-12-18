@@ -1,0 +1,32 @@
+{
+  "id": 26287,
+  "models": {
+    "10": [
+      56070
+    ]
+  },
+  "name": "Saradomin Altar",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pray-at",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

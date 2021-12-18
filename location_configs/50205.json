@@ -1,0 +1,19 @@
+{
+  "id": 50205,
+  "models": {
+    "10": [
+      55008
+    ]
+  },
+  "name": "Summoning obelisk",
+  "unknown_21": true,
+  "actions": [
+    "Infuse-pouch",
+    "Renew-points",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 631
+}

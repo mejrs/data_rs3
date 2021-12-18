@@ -1,0 +1,30 @@
+{
+  "id": 28698,
+  "models": {
+    "10": [
+      31307
+    ]
+  },
+  "name": "Altar of Guthix",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 11385,
+  "models": {
+    "10": [
+      3076
+    ]
+  },
+  "name": "Opening",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

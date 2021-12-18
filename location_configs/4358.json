@@ -1,0 +1,39 @@
+{
+  "id": 4358,
+  "models": {
+    "10": [
+      55193
+    ]
+  },
+  "name": "Crimson rectangle door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 13586,
+  "ambient": 50,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      1575,
+      65187
+    ],
+    [
+      1610,
+      65187
+    ],
+    [
+      1658,
+      65252
+    ]
+  ],
+  "model": false,
+  "blocks_ranged": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

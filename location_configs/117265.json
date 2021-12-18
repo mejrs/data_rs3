@@ -1,0 +1,18 @@
+{
+  "id": 117265,
+  "models": {
+    "10": [
+      72605
+    ]
+  },
+  "name": "Imcando forge",
+  "unknown_27": false,
+  "textures": {
+    "1429": 10870
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "params": {
+    "7803": 5
+  }
+}

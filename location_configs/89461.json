@@ -1,0 +1,14 @@
+{
+  "id": 89461,
+  "models": {
+    "0": [
+      45828
+    ]
+  },
+  "name": "Cell door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15
+}

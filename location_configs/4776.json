@@ -1,0 +1,41 @@
+{
+  "id": 4776,
+  "models": {
+    "10": [
+      35619
+    ]
+  },
+  "name": "Bamboo Ladder",
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ],
+  "textures": {
+    "2067": 2075,
+    "2106": 2075
+  },
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

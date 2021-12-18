@@ -1,0 +1,23 @@
+{
+  "id": 82591,
+  "models": {
+    "10": [
+      66752
+    ]
+  },
+  "name": "Rack",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "colours": [
+    [
+      4244,
+      8340
+    ]
+  ],
+  "textures": {
+    "2075": 2653
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 67374,
+  "models": {
+    "10": [
+      47459
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 15945,
+  "ambient": 72,
+  "contrast": 100,
+  "colours": [
+    [
+      29503,
+      11216
+    ]
+  ],
+  "textures": {
+    "1624": 1611
+  },
+  "model": false,
+  "scale_x": 120,
+  "scale_y": 200,
+  "scale_z": 120,
+  "translate_y": 100,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

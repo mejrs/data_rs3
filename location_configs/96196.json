@@ -1,0 +1,13 @@
+{
+  "id": 96196,
+  "models": {
+    "10": [
+      103144
+    ]
+  },
+  "name": "Raptor's armour",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

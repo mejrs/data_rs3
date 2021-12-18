@@ -1,0 +1,28 @@
+{
+  "id": 10543,
+  "models": {
+    "10": [
+      10348
+    ]
+  },
+  "name": "Dwarf flag",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_24": 917,
+  "ambient": 25,
+  "colours": [
+    [
+      6932,
+      6689
+    ],
+    [
+      8662,
+      664
+    ],
+    [
+      7626,
+      908
+    ]
+  ],
+  "occludes_2": false
+}

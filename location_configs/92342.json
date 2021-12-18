@@ -1,0 +1,15 @@
+{
+  "id": 92342,
+  "models": {
+    "0": [
+      98255
+    ]
+  },
+  "name": "Runecrafting banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 478
+  },
+  "mapscene": 22
+}

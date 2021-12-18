@@ -1,0 +1,16 @@
+{
+  "id": 45304,
+  "models": {
+    "22": [
+      36461
+    ]
+  },
+  "name": "Archery range",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_73": true,
+  "occludes_2": false
+}

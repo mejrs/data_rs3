@@ -1,0 +1,22 @@
+{
+  "id": 98676,
+  "models": {
+    "10": [
+      106183,
+      106192
+    ]
+  },
+  "name": "Vitur blood lock",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_188": true
+}

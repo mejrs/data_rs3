@@ -1,0 +1,11 @@
+{
+  "id": 18364,
+  "models": {
+    "10": [
+      18230
+    ]
+  },
+  "name": "Floats",
+  "ambient": 20,
+  "occludes_2": false
+}

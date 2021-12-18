@@ -1,0 +1,30 @@
+{
+  "id": 102758,
+  "models": {
+    "10": [
+      112129
+    ]
+  },
+  "name": "Gangplank",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

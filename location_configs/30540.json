@@ -1,0 +1,32 @@
+{
+  "id": 30540,
+  "models": {
+    "10": [
+      8232
+    ]
+  },
+  "name": "Empty barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "colours": [
+    [
+      5541,
+      7587
+    ],
+    [
+      5665,
+      7582
+    ],
+    [
+      5660,
+      7706
+    ],
+    [
+      5784,
+      7830
+    ]
+  ],
+  "unknown_44": 30,
+  "occludes_2": false
+}

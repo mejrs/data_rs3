@@ -1,0 +1,15 @@
+{
+  "id": 112020,
+  "models": {
+    "10": [
+      89086
+    ]
+  },
+  "name": "Skeleton",
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

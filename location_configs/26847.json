@@ -1,0 +1,30 @@
+{
+  "id": 26847,
+  "models": {
+    "10": [
+      69575
+    ]
+  },
+  "name": "Runecrafting altar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Craft-rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    66,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

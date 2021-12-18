@@ -1,0 +1,49 @@
+{
+  "id": 36770,
+  "models": {
+    "10": [
+      60529
+    ]
+  },
+  "name": "Ladder",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5912,
+      5404
+    ],
+    [
+      5788,
+      5400
+    ],
+    [
+      5673,
+      5408
+    ]
+  ],
+  "textures": {
+    "2081": 3179,
+    "2108": 3171
+  },
+  "unknown_69": 14,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

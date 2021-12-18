@@ -1,0 +1,16 @@
+{
+  "id": 53687,
+  "models": {
+    "0": [
+      58607
+    ]
+  },
+  "name": "Guarded door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_170": 366
+}

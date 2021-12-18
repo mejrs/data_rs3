@@ -1,0 +1,49 @@
+{
+  "id": 27866,
+  "models": {
+    "10": [
+      50315
+    ]
+  },
+  "name": "Staircase",
+  "dim_x": 4,
+  "unknown_22": true,
+  "unknown_24": 12298,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      3470,
+      49422
+    ],
+    [
+      3466,
+      49418
+    ],
+    [
+      410,
+      49427
+    ],
+    [
+      402,
+      49422
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

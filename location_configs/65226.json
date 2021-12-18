@@ -1,0 +1,20 @@
+{
+  "id": 65226,
+  "models": {
+    "10": [
+      20387
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 100,
+  "scale_y": 90,
+  "scale_z": 100,
+  "unknown_81": 40,
+  "mapscene": 11,
+  "occludes_2": false,
+  "unknown_196": 2
+}

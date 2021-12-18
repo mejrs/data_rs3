@@ -1,0 +1,19 @@
+{
+  "id": 85666,
+  "models": {
+    "10": [
+      80392,
+      80389,
+      80381,
+      80394
+    ]
+  },
+  "name": "Bookcase",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 60,
+  "occludes_2": false
+}

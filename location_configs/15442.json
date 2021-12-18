@@ -1,0 +1,17 @@
+{
+  "id": 15442,
+  "models": {
+    "10": [
+      596
+    ]
+  },
+  "name": "Nothing",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 49921,
+  "models": {
+    "10": [
+      56666
+    ]
+  },
+  "name": "Open chest",
+  "is_transparent": true,
+  "unknown_24": 3336,
+  "unknown_27": false,
+  "ambient": 10,
+  "colours": [
+    [
+      10401,
+      28
+    ],
+    [
+      10508,
+      23
+    ]
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "unknown_88": false,
+  "occludes_2": false
+}

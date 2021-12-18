@@ -1,0 +1,12 @@
+{
+  "id": 10085,
+  "models": {
+    "10": [
+      1454
+    ]
+  },
+  "name": "Hay bales",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false
+}

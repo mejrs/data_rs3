@@ -1,0 +1,21 @@
+{
+  "id": 26305,
+  "models": {
+    "10": [
+      27913
+    ]
+  },
+  "name": "Little crack",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

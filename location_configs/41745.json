@@ -1,0 +1,14 @@
+{
+  "id": 41745,
+  "models": {
+    "10": [
+      45221
+    ]
+  },
+  "name": "Sleigh",
+  "dim_x": 2,
+  "dim_y": 5,
+  "ambient": 15,
+  "contrast": 25,
+  "occludes_2": false
+}

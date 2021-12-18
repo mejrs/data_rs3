@@ -1,0 +1,19 @@
+{
+  "id": 38893,
+  "models": {
+    "22": [
+      42521
+    ]
+  },
+  "name": "Bush",
+  "unknown_21": true,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

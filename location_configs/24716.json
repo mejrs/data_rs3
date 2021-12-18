@@ -1,0 +1,14 @@
+{
+  "id": 24716,
+  "models": {
+    "10": [
+      70454
+    ]
+  },
+  "name": "Mysterious statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -1,0 +1,43 @@
+{
+  "id": 41526,
+  "models": {
+    "0": [
+      14928
+    ],
+    "9": [
+      14929
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7064,
+      5404
+    ],
+    [
+      6693,
+      5400
+    ],
+    [
+      6945,
+      5396
+    ],
+    [
+      6940,
+      5394
+    ]
+  ],
+  "unknown_75": 0,
+  "unknown_170": 960
+}

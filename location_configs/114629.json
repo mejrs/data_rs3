@@ -1,0 +1,27 @@
+{
+  "id": 114629,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Small dinosaur pen",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Check animals",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_y": 384,
+  "scale_z": 256,
+  "translate_x": 64,
+  "translate_z": 65472,
+  "occludes_2": false
+}

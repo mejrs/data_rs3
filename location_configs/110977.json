@@ -1,0 +1,14 @@
+{
+  "id": 110977,
+  "models": {
+    "10": [
+      29250
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "translate_y": 65176,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 11536,
+  "models": {
+    "0": [
+      9301
+    ]
+  },
+  "name": "Gate",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "blocks_ranged": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

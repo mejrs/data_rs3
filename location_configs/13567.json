@@ -1,0 +1,27 @@
+{
+  "id": 13567,
+  "models": {
+    "10": [
+      12503
+    ]
+  },
+  "name": "Larder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

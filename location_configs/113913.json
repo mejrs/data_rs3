@@ -1,0 +1,46 @@
+{
+  "id": 113913,
+  "models": {
+    "10": [
+      11797
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      30,
+      5274
+    ],
+    [
+      35,
+      5278
+    ],
+    [
+      39,
+      5282
+    ],
+    [
+      43,
+      5286
+    ],
+    [
+      47,
+      5288
+    ],
+    [
+      51,
+      5290
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": 100678,
+  "models": {
+    "10": [
+      2794
+    ]
+  },
+  "name": "Banker's diary",
+  "unknown_19": 1,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5018,
+      24
+    ]
+  ],
+  "translate_y": 65441,
+  "translate_z": 65466,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

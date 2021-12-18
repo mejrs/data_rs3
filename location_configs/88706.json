@@ -1,0 +1,15 @@
+{
+  "id": 88706,
+  "models": {
+    "10": [
+      88311
+    ]
+  },
+  "name": "Gas cloud",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 53219,
+  "models": {
+    "10": [
+      56690
+    ]
+  },
+  "name": "Farming patch (edicap fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    "Replace"
+  ]
+}

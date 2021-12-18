@@ -1,0 +1,42 @@
+{
+  "id": 101076,
+  "models": {
+    "10": [
+      18375
+    ]
+  },
+  "name": "Arcane doorway",
+  "dim_x": 3,
+  "unknown_21": true,
+  "unknown_24": 12735,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      61
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 29218,
+  "models": {
+    "10": [
+      114658
+    ]
+  },
+  "name": "Barrel of salt",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Fill pot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

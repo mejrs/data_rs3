@@ -1,0 +1,43 @@
+{
+  "id": 70481,
+  "models": {
+    "10": [
+      69464
+    ]
+  },
+  "name": "Small missile platform",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      32767
+    ]
+  ],
+  "textures": {
+    "2869": 2867,
+    "2871": 2860
+  },
+  "model": false,
+  "translate_y": 112,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

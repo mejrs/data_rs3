@@ -1,0 +1,24 @@
+{
+  "id": 110096,
+  "models": {
+    "10": [
+      20290,
+      20291
+    ]
+  },
+  "name": "Bunch of wool",
+  "unknown_24": 5335,
+  "unknown_27": false,
+  "actions": [
+    "Remove",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "occludes_2": false
+}

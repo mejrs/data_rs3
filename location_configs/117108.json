@@ -1,0 +1,38 @@
+{
+  "id": 117108,
+  "models": {
+    "10": [
+      96039,
+      89808,
+      95735
+    ]
+  },
+  "name": "Administratum debris",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "textures": {
+    "11930": 12376,
+    "11931": 12377,
+    "12338": 12335
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3259
+  }
+}

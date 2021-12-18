@@ -1,0 +1,17 @@
+{
+  "id": 117005,
+  "models": {
+    "4": [
+      90989
+    ]
+  },
+  "name": "Shadow dial",
+  "unknown_19": 1,
+  "colours": [
+    [
+      64,
+      49839
+    ]
+  ],
+  "occludes_2": false
+}

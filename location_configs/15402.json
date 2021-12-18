@@ -1,0 +1,18 @@
+{
+  "id": 15402,
+  "models": {
+    "22": [
+      12659
+    ]
+  },
+  "name": "Cat basket space",
+  "unknown_17": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 98252,
+  "models": {
+    "10": [
+      105206
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 0,
+  "model": false,
+  "mapscene": 25,
+  "occludes_2": false
+}

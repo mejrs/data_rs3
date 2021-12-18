@@ -1,0 +1,22 @@
+{
+  "id": 44563,
+  "models": {
+    "10": [
+      48345
+    ]
+  },
+  "name": "Garden habitat",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

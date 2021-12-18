@@ -1,0 +1,13 @@
+{
+  "id": 99786,
+  "models": {
+    "10": [
+      107216
+    ]
+  },
+  "name": "Dwarf statue",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 3
+}

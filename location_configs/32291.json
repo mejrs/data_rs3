@@ -1,0 +1,40 @@
+{
+  "id": 32291,
+  "models": {
+    "10": [
+      37347,
+      28894
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10392,
+      7458
+    ],
+    [
+      10277,
+      7467
+    ],
+    [
+      10281,
+      7457
+    ],
+    [
+      10285,
+      7462
+    ]
+  ],
+  "occludes_2": false
+}

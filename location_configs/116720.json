@@ -1,0 +1,32 @@
+{
+  "id": 116720,
+  "models": {
+    "10": [
+      73978,
+      89171
+    ]
+  },
+  "name": "Box of chalk",
+  "unknown_17": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

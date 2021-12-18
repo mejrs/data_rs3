@@ -1,0 +1,17 @@
+{
+  "id": 94264,
+  "models": {
+    "10": [
+      100033
+    ]
+  },
+  "name": "Herblore study area",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 37,
+  "translate_x": 65526,
+  "translate_y": 65511,
+  "occludes_2": false
+}

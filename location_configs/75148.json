@@ -1,0 +1,20 @@
+{
+  "id": 75148,
+  "models": {
+    "10": [
+      72956
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2023": 2403
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

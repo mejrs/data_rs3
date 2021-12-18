@@ -1,0 +1,13 @@
+{
+  "id": 18462,
+  "models": {
+    "10": [
+      18419
+    ]
+  },
+  "name": "Slug goo",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mirror": true,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15276,
+  "models": {
+    "10": [
+      12661
+    ]
+  },
+  "name": "Musical space",
+  "dim_x": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

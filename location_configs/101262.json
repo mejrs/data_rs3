@@ -1,0 +1,49 @@
+{
+  "id": 101262,
+  "models": {
+    "10": [
+      91539,
+      110310
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 21949,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 40956,
+    "unknown_2": 15
+  },
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "unknown_1": 230,
+  "unknown_2": 270,
+  "unknown_188": true,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

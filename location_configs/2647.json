@@ -1,0 +1,57 @@
+{
+  "id": 2647,
+  "models": {
+    "0": [
+      9476
+    ],
+    "9": [
+      9477
+    ]
+  },
+  "name": "Guild Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 85,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6945,
+      7587
+    ],
+    [
+      6940,
+      7582
+    ],
+    [
+      7064,
+      7706
+    ],
+    [
+      5272,
+      7830
+    ],
+    [
+      6038,
+      7954
+    ],
+    [
+      7566,
+      8078
+    ]
+  ],
+  "unknown_170": 948,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

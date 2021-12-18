@@ -1,0 +1,30 @@
+{
+  "id": 91849,
+  "models": {
+    "10": [
+      97486
+    ]
+  },
+  "name": "Doorway",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

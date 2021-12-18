@@ -1,0 +1,17 @@
+{
+  "id": 94265,
+  "models": {
+    "10": [
+      100030
+    ]
+  },
+  "name": "Cauldron",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 37,
+  "translate_x": 65506,
+  "translate_z": 10,
+  "unknown_98": true,
+  "occludes_2": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": 90901,
+  "models": {
+    "10": [
+      95176
+    ]
+  },
+  "name": "Dead smuggler",
+  "ambient": 64,
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

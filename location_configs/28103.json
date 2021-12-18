@@ -1,0 +1,11 @@
+{
+  "id": 28103,
+  "models": {
+    "10": [
+      29630
+    ]
+  },
+  "name": "Bench",
+  "dim_x": 3,
+  "occludes_2": false
+}

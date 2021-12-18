@@ -1,0 +1,20 @@
+{
+  "id": 13156,
+  "models": {
+    "10": [
+      12958
+    ]
+  },
+  "name": "Oak drawers",
+  "ambient": 25,
+  "actions": [
+    "Change-clothes",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false
+}

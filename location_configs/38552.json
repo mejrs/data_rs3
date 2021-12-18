@@ -1,0 +1,21 @@
+{
+  "id": 38552,
+  "models": {
+    "10": [
+      41859
+    ]
+  },
+  "name": "Agility changing room",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Change",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": 116726,
+  "models": {
+    "3": [
+      88880
+    ]
+  },
+  "name": "Lit red candle",
+  "ambient": -25,
+  "actions": [
+    "Chant over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 4
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "unknown_1": 240,
+  "unknown_2": 270,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

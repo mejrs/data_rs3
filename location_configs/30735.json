@@ -1,0 +1,12 @@
+{
+  "id": 30735,
+  "models": {
+    "10": [
+      33751
+    ]
+  },
+  "name": "Lantern",
+  "is_transparent": true,
+  "ambient": 25,
+  "occludes_2": false
+}

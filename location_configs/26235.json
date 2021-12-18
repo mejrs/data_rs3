@@ -1,0 +1,12 @@
+{
+  "id": 26235,
+  "models": {
+    "10": [
+      27969
+    ]
+  },
+  "name": "Broken mast",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

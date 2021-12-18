@@ -1,0 +1,30 @@
+{
+  "id": 68983,
+  "models": {
+    "10": [
+      67900
+    ]
+  },
+  "name": "Gate",
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

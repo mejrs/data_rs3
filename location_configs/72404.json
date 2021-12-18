@@ -1,0 +1,16 @@
+{
+  "id": 72404,
+  "models": {
+    "10": [
+      69672
+    ]
+  },
+  "name": "Closed door",
+  "unknown_19": 1,
+  "unknown_24": 16774,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

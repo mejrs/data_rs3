@@ -1,0 +1,13 @@
+{
+  "id": 15709,
+  "models": {
+    "10": [
+      23885
+    ]
+  },
+  "name": "Zanik",
+  "dim_y": 3,
+  "unknown_24": 4220,
+  "ambient": 20,
+  "occludes_2": false
+}

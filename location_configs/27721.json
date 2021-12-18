@@ -1,0 +1,12 @@
+{
+  "id": 27721,
+  "models": {
+    "10": [
+      29642
+    ]
+  },
+  "name": "Cabinet",
+  "is_transparent": true,
+  "ambient": 25,
+  "occludes_2": false
+}

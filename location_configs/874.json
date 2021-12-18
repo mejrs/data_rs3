@@ -1,0 +1,14 @@
+{
+  "id": 874,
+  "models": {
+    "10": [
+      1182
+    ]
+  },
+  "name": "Sink",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

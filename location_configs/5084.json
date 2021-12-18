@@ -1,0 +1,32 @@
+{
+  "id": 5084,
+  "models": {
+    "0": [
+      37618
+    ],
+    "9": [
+      37711
+    ]
+  },
+  "name": "Exit",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 24865,
+  "models": {
+    "10": [
+      64048
+    ]
+  },
+  "name": "Cannon base",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Attach",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

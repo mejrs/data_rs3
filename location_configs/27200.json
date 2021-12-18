@@ -1,0 +1,12 @@
+{
+  "id": 27200,
+  "models": {
+    "10": [
+      61029
+    ]
+  },
+  "name": "Tree stump",
+  "is_transparent": true,
+  "mapscene": 6,
+  "occludes_2": false
+}

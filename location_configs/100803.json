@@ -1,0 +1,22 @@
+{
+  "id": 100803,
+  "models": {
+    "10": [
+      96413
+    ]
+  },
+  "name": "Exit",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Exit doors",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

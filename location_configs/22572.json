@@ -1,0 +1,20 @@
+{
+  "id": 22572,
+  "models": {
+    "10": [
+      23870
+    ]
+  },
+  "name": "Cable",
+  "dim_x": 4,
+  "actions": [
+    "Swing",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 7,
+  "occludes_2": false
+}

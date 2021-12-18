@@ -1,0 +1,21 @@
+{
+  "id": 99536,
+  "models": {
+    "10": [
+      107001,
+      107002
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 32,
+  "textures": {
+    "5741": 1444,
+    "6279": 6281
+  },
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

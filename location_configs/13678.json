@@ -1,0 +1,18 @@
+{
+  "id": 13678,
+  "models": {
+    "22": [
+      42886
+    ]
+  },
+  "name": "Trapdoor",
+  "unknown_27": false,
+  "actions": [
+    "Go-down",
+    "Close",
+    null,
+    "Remove-room",
+    "Remove"
+  ],
+  "occludes_2": false
+}

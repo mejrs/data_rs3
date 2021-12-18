@@ -1,0 +1,22 @@
+{
+  "id": 66318,
+  "models": {
+    "10": [
+      29954
+    ]
+  },
+  "name": "Bowl of red powder",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take-powder",
+    "Take-10",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 32,
+  "occludes_2": false
+}

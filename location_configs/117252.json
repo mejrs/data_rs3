@@ -1,0 +1,32 @@
+{
+  "id": 117252,
+  "models": {
+    "10": [
+      92313
+    ]
+  },
+  "name": "Forge doors",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

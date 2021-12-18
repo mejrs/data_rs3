@@ -1,0 +1,30 @@
+{
+  "id": 85093,
+  "models": {
+    "10": [
+      87104
+    ]
+  },
+  "name": "Dairy churn",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Churn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

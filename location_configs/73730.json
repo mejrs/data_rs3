@@ -1,0 +1,36 @@
+{
+  "id": 73730,
+  "models": {
+    "10": [
+      64860
+    ]
+  },
+  "name": "Black tree stump",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      15629,
+      15635
+    ],
+    [
+      4523,
+      19468
+    ],
+    [
+      4510,
+      19480
+    ]
+  ],
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
+  "unknown_81": 80,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_189": true
+}

@@ -1,0 +1,15 @@
+{
+  "id": 26489,
+  "models": {
+    "10": [
+      57789,
+      57788
+    ]
+  },
+  "name": "Ami",
+  "unknown_24": 14193,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

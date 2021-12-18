@@ -1,0 +1,22 @@
+{
+  "id": 36979,
+  "models": {
+    "10": [
+      36757
+    ]
+  },
+  "name": "Organ",
+  "dim_x": 4,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9871,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

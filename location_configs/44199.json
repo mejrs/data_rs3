@@ -1,0 +1,49 @@
+{
+  "id": 44199,
+  "models": {
+    "10": [
+      47956
+    ]
+  },
+  "name": "Rubble",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 11926,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Prospect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      6286
+    ],
+    [
+      21534,
+      6290
+    ],
+    [
+      21539,
+      6294
+    ],
+    [
+      21543,
+      6298
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

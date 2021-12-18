@@ -1,0 +1,33 @@
+{
+  "id": 118785,
+  "models": {
+    "10": [
+      120947,
+      1877
+    ]
+  },
+  "name": "Santa's 'naughty or nice' list",
+  "unknown_24": 1199,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      453
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

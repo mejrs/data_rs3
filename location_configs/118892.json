@@ -1,0 +1,14 @@
+{
+  "id": 118892,
+  "models": {
+    "10": [
+      108424
+    ]
+  },
+  "name": "2004 Dad statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

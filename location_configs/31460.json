@@ -1,0 +1,20 @@
+{
+  "id": 31460,
+  "models": {
+    "10": [
+      34760
+    ]
+  },
+  "name": "Locker",
+  "ambient": 25,
+  "actions": [
+    "Store",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "mapfunction": 3651
+}

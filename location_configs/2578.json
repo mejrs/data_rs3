@@ -1,0 +1,13 @@
+{
+  "id": 2578,
+  "models": {
+    "10": [
+      41170
+    ]
+  },
+  "name": "Palm tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 5,
+  "occludes_2": false
+}

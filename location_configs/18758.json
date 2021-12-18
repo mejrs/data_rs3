@@ -1,0 +1,11 @@
+{
+  "id": 18758,
+  "models": {
+    "10": [
+      18732
+    ]
+  },
+  "name": "Tunnel roof",
+  "dim_x": 5,
+  "occludes_2": false
+}

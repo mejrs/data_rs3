@@ -1,0 +1,30 @@
+{
+  "id": 111436,
+  "models": {
+    "10": [
+      96931
+    ]
+  },
+  "name": "Main Platform",
+  "dim_y": 5,
+  "unknown_17": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 14371,
+  "models": {
+    "10": [
+      14454
+    ]
+  },
+  "name": "Boxes",
+  "is_transparent": true,
+  "ambient": 50,
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 24134,
+  "models": {
+    "10": [
+      24715
+    ]
+  },
+  "name": "Bow cabinet",
+  "dim_x": 2,
+  "ambient": 25,
+  "occludes_2": false
+}

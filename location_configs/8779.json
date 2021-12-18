@@ -1,0 +1,16 @@
+{
+  "id": 8779,
+  "models": {
+    "10": [
+      1142
+    ]
+  },
+  "name": "Clothes model",
+  "colours": [
+    [
+      5912,
+      6569
+    ]
+  ],
+  "occludes_2": false
+}

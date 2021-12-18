@@ -1,0 +1,12 @@
+{
+  "id": 648,
+  "models": {
+    "10": [
+      37377
+    ]
+  },
+  "name": "Stocks",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

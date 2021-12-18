@@ -1,0 +1,19 @@
+{
+  "id": 42962,
+  "models": {
+    "10": [
+      46562
+    ]
+  },
+  "name": "Broken pot",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Replace",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

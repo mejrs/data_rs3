@@ -1,0 +1,17 @@
+{
+  "id": 19974,
+  "models": {
+    "10": [
+      20062
+    ]
+  },
+  "name": "Stone pedestal",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

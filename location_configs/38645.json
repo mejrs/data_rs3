@@ -1,0 +1,14 @@
+{
+  "id": 38645,
+  "models": {
+    "10": [
+      41921
+    ]
+  },
+  "name": "Tree stump (level 20 approx.)",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 110582,
+  "models": {
+    "10": [
+      98781,
+      98779,
+      17506
+    ]
+  },
+  "name": "Potted plant (hidey-hole)",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "model": false,
+  "translate_x": 75,
+  "translate_y": 65456,
+  "translate_z": 15,
+  "unknown_88": false,
+  "occludes_2": false,
+  "params": {
+    "6896": 61
+  }
+}

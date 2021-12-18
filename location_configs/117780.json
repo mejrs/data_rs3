@@ -1,0 +1,23 @@
+{
+  "id": 117780,
+  "models": {
+    "4": [
+      117240
+    ]
+  },
+  "name": "Symbol 8",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Cycle",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,15 @@
+{
+  "id": 63218,
+  "models": {
+    "10": [
+      9475
+    ]
+  },
+  "name": "Mezzo-soprano",
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 15395,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 104420,
+  "models": {
+    "10": [
+      114088
+    ]
+  },
+  "name": "Fish Stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

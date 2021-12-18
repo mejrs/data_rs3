@@ -1,0 +1,12 @@
+{
+  "id": 26259,
+  "models": {
+    "10": [
+      27933
+    ]
+  },
+  "name": "Crossbow",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2337,
+  "models": {
+    "10": [
+      88404,
+      88403
+    ]
+  },
+  "name": "Sacred Metal Rocks",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 10,
+  "colours": [
+    [
+      18332,
+      41
+    ],
+    [
+      18336,
+      45
+    ],
+    [
+      18342,
+      51
+    ],
+    [
+      18347,
+      61
+    ],
+    [
+      18352,
+      66
+    ],
+    [
+      18357,
+      67
+    ]
+  ],
+  "unknown_98": true,
+  "occludes_2": false
+}

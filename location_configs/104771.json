@@ -1,0 +1,25 @@
+{
+  "id": 104771,
+  "models": {
+    "10": [
+      114693
+    ]
+  },
+  "name": "Sun Tower",
+  "dim_x": 12,
+  "dim_y": 12,
+  "unknown_27": false,
+  "ambient": 0,
+  "textures": {
+    "3183": 7394,
+    "3626": 7397,
+    "3629": 7396,
+    "3653": 7395
+  },
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_y": 65236,
+  "occludes_2": false
+}

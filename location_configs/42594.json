@@ -1,0 +1,28 @@
+{
+  "id": 42594,
+  "models": {
+    "22": [
+      45942
+    ]
+  },
+  "name": "Statue",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Jump-to",
+    "Jump-down",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      3014
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 1352,
+  "models": {
+    "10": [
+      1685
+    ]
+  },
+  "name": "Tree stump",
+  "unknown_21": true,
+  "colours": [
+    [
+      7054,
+      21646
+    ],
+    [
+      6028,
+      21646
+    ]
+  ],
+  "mapscene": 6,
+  "occludes_2": false
+}

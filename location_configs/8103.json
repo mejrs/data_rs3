@@ -1,0 +1,20 @@
+{
+  "id": 8103,
+  "models": {
+    "10": [
+      110102,
+      7767
+    ]
+  },
+  "name": "Dead palm tree",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": 8713,
+  "models": {
+    "10": [
+      8247
+    ]
+  },
+  "name": "Hay bale",
+  "ambient": 30,
+  "occludes_2": false
+}

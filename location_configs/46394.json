@@ -1,0 +1,12 @@
+{
+  "id": 46394,
+  "models": {
+    "10": [
+      49788
+    ]
+  },
+  "name": "Coal Truck",
+  "ambient": 20,
+  "contrast": 10,
+  "occludes_2": false
+}

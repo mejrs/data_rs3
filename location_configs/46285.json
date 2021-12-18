@@ -1,0 +1,29 @@
+{
+  "id": 46285,
+  "models": {
+    "10": [
+      8246,
+      45931
+    ]
+  },
+  "name": "Woodcutting notes",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      7587
+    ],
+    [
+      6451,
+      7715
+    ],
+    [
+      6563,
+      7954
+    ]
+  ],
+  "occludes_2": false
+}

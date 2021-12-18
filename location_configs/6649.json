@@ -1,0 +1,22 @@
+{
+  "id": 6649,
+  "models": {
+    "10": [
+      6338
+    ]
+  },
+  "name": "Wall design",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

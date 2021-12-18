@@ -1,0 +1,20 @@
+{
+  "id": 110408,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "textures": {
+    "2720": 9705
+  },
+  "morphs_1": {
+    "varbit": 39791,
+    "ids": [
+      110409,
+      110410,
+      110411
+    ]
+  },
+  "params": {
+    "6896": 25
+  }
+}

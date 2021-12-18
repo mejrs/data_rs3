@@ -1,0 +1,25 @@
+{
+  "id": 18510,
+  "models": {
+    "10": [
+      63790,
+      18582
+    ]
+  },
+  "name": "Water controls",
+  "unknown_19": 1,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21543,
+      7566
+    ]
+  ],
+  "occludes_2": false
+}

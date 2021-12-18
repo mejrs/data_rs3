@@ -1,0 +1,26 @@
+{
+  "id": 110172,
+  "models": {
+    "10": [
+      110242
+    ]
+  },
+  "dim_x": 8,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "6729": 9429,
+    "6731": 9423,
+    "6732": 9424,
+    "6733": 9426,
+    "6735": 9427
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 2
+}

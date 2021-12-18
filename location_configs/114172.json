@@ -1,0 +1,30 @@
+{
+  "id": 114172,
+  "models": {
+    "10": [
+      113562
+    ]
+  },
+  "name": "Boat to Lumbridge",
+  "dim_x": 9,
+  "dim_y": 3,
+  "unknown_24": 29067,
+  "ambient": 0,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

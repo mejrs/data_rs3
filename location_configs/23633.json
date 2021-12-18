@@ -1,0 +1,14 @@
+{
+  "id": 23633,
+  "models": {
+    "10": [
+      25782
+    ]
+  },
+  "name": "Newspapers",
+  "dim_y": 2,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false
+}

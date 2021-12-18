@@ -1,0 +1,51 @@
+{
+  "id": 112929,
+  "models": {
+    "0": [
+      21259
+    ]
+  },
+  "name": "Mithril vein",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      53,
+      43301
+    ],
+    [
+      37,
+      43303
+    ],
+    [
+      49,
+      43297
+    ],
+    [
+      45,
+      43293
+    ]
+  ],
+  "model": false,
+  "scale_y": 153,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

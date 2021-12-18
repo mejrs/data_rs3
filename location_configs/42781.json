@@ -1,0 +1,15 @@
+{
+  "id": 42781,
+  "models": {
+    "10": [
+      46212
+    ]
+  },
+  "name": "Ice",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 20,
+  "unknown_81": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 115426,
+  "models": {
+    "10": [
+      95761,
+      95983
+    ]
+  },
+  "name": "Material cache (Third Age iron)",
+  "unknown_21": true,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 2864
+  }
+}

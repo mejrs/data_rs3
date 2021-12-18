@@ -1,0 +1,31 @@
+{
+  "id": 4816,
+  "models": {
+    "10": [
+      1701
+    ]
+  },
+  "name": "Jungle Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 40,
+  "colours": [
+    [
+      61,
+      16916
+    ],
+    [
+      49,
+      13840
+    ],
+    [
+      41,
+      4626
+    ]
+  ],
+  "scale_x": 164,
+  "scale_y": 164,
+  "scale_z": 164,
+  "mapscene": 5,
+  "occludes_2": false
+}

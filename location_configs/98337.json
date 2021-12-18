@@ -1,0 +1,14 @@
+{
+  "id": 98337,
+  "models": {
+    "10": [
+      96098
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

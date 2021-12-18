@@ -1,0 +1,21 @@
+{
+  "id": 105503,
+  "models": {
+    "10": [
+      115287
+    ]
+  },
+  "name": "Anima flow (lawful)",
+  "dim_x": 4,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "7967": 7969
+  },
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_x": 65466,
+  "occludes_2": false
+}

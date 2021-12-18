@@ -1,0 +1,29 @@
+{
+  "id": 64694,
+  "models": {
+    "10": [
+      790
+    ]
+  },
+  "name": "Fallen rubble",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 35669,
+  "models": {
+    "10": [
+      29716
+    ]
+  },
+  "name": "Stylish stool",
+  "ambient": 25,
+  "contrast": 35,
+  "occludes_2": false
+}

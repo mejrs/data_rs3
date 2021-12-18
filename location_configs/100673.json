@@ -1,0 +1,29 @@
+{
+  "id": 100673,
+  "models": {
+    "10": [
+      108318
+    ]
+  },
+  "name": "Oyster",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 27947,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  }
+}

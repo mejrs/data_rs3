@@ -1,0 +1,13 @@
+{
+  "id": 28533,
+  "models": {
+    "10": [
+      30942
+    ]
+  },
+  "name": "Steam",
+  "dim_y": 4,
+  "unknown_24": 7600,
+  "ambient": 25,
+  "occludes_2": false
+}

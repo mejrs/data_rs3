@@ -1,0 +1,16 @@
+{
+  "id": 80205,
+  "models": {
+    "10": [
+      80804
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 15,
+  "translate_y": 360,
+  "translate_z": 65416,
+  "occludes_2": false
+}

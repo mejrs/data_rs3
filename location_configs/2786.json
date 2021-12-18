@@ -1,0 +1,41 @@
+{
+  "id": 2786,
+  "models": {
+    "0": [
+      20319
+    ]
+  },
+  "name": "City gate",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5400,
+      7442
+    ],
+    [
+      3346,
+      7566
+    ],
+    [
+      3346,
+      7566
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

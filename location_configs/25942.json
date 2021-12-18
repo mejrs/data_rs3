@@ -1,0 +1,20 @@
+{
+  "id": 25942,
+  "models": {
+    "10": [
+      27305
+    ]
+  },
+  "name": "King Arthur",
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Free",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

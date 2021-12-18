@@ -1,0 +1,19 @@
+{
+  "id": 12341,
+  "models": {
+    "10": [
+      35630,
+      13673,
+      13672
+    ]
+  },
+  "name": "Evil Dave",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

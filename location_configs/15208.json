@@ -1,0 +1,54 @@
+{
+  "id": 15208,
+  "models": {
+    "10": [
+      2262,
+      15099
+    ]
+  },
+  "name": "Fire remains",
+  "unknown_24": 475,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5177,
+      10398
+    ],
+    [
+      45,
+      10518
+    ],
+    [
+      41,
+      10407
+    ],
+    [
+      5161,
+      10518
+    ],
+    [
+      28,
+      10398
+    ],
+    [
+      24,
+      10415
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

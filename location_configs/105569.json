@@ -1,0 +1,22 @@
+{
+  "id": 105569,
+  "models": {
+    "10": [
+      115293,
+      115499
+    ]
+  },
+  "name": "Manual Auto-cycle (Empowered)",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Pedal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

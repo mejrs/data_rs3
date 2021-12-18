@@ -1,0 +1,17 @@
+{
+  "id": 63629,
+  "models": {
+    "10": [
+      5549
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "occludes_2": false
+}

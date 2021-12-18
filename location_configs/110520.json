@@ -1,0 +1,34 @@
+{
+  "id": 110520,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
+  "morphs_1": {
+    "varbit": 39792,
+    "ids": [
+      110521,
+      110522,
+      110523
+    ]
+  },
+  "unknown_81": 80,
+  "mapscene": 6,
+  "unknown_189": true,
+  "params": {
+    "6896": 26
+  }
+}

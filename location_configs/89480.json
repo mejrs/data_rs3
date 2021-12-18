@@ -1,0 +1,32 @@
+{
+  "id": 89480,
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 10790,
+    "ids": [
+      89481,
+      89482
+    ]
+  },
+  "unknown_160": {
+    "values": [
+      27
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

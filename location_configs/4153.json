@@ -1,0 +1,18 @@
+{
+  "id": 4153,
+  "models": {
+    "0": [
+      36821
+    ],
+    "9": [
+      36811
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 25,
+  "textures": {
+    "2390": 1447
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 41014,
+  "models": {
+    "22": [
+      44088
+    ]
+  },
+  "name": "Ledge",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Jump-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

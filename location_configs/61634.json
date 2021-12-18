@@ -1,0 +1,14 @@
+{
+  "id": 61634,
+  "models": {
+    "10": [
+      55933
+    ]
+  },
+  "name": "Fallen tree",
+  "dim_x": 3,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 42912,
+  "models": {
+    "10": [
+      46551
+    ]
+  },
+  "name": "Massive stone boat",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

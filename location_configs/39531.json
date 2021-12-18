@@ -1,0 +1,41 @@
+{
+  "id": 39531,
+  "models": {
+    "10": [
+      37358
+    ]
+  },
+  "name": "Sacks",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6809,
+      8483
+    ],
+    [
+      4506,
+      8476
+    ],
+    [
+      3349,
+      8469
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

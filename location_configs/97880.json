@@ -1,0 +1,33 @@
+{
+  "id": 97880,
+  "models": {
+    "10": [
+      2919
+    ]
+  },
+  "name": "Ominious fish",
+  "unknown_17": false,
+  "unknown_24": 1655,
+  "ambient": 0,
+  "actions": [
+    "Harpoon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

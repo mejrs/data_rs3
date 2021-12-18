@@ -1,0 +1,19 @@
+{
+  "id": 111771,
+  "models": {
+    "10": [
+      60784
+    ]
+  },
+  "name": "Dragon Eggs (ice)",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

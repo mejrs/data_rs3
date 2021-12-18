@@ -1,0 +1,28 @@
+{
+  "id": 104445,
+  "models": {
+    "10": [
+      114169
+    ]
+  },
+  "name": "Golden Scythe",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

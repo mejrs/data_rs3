@@ -1,0 +1,21 @@
+{
+  "id": 109768,
+  "models": {
+    "10": [
+      120274
+    ]
+  },
+  "name": "Optimised hide tanner",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 31071,
+  "ambient": 20,
+  "actions": [
+    "Manage",
+    "Withdraw products",
+    null,
+    "Modify",
+    "Remove"
+  ],
+  "occludes_2": false
+}

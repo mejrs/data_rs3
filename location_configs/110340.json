@@ -1,0 +1,23 @@
+{
+  "id": 110340,
+  "models": {
+    "10": [
+      99778
+    ]
+  },
+  "name": "Brazier",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Light Brazier",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

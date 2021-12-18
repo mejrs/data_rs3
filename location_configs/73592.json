@@ -1,0 +1,30 @@
+{
+  "id": 73592,
+  "models": {
+    "0": [
+      71422,
+      71406
+    ]
+  },
+  "name": "Hole hotspot",
+  "unknown_19": 1,
+  "unknown_24": 17035,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Build"
+  ],
+  "contrast": 25,
+  "is_members": true,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

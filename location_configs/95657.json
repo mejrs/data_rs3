@@ -1,0 +1,21 @@
+{
+  "id": 95657,
+  "models": {
+    "0": [
+      102728
+    ]
+  },
+  "name": "Tomb door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Leave tomb",
+    "Quick-leave tomb",
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "model": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25025,
+  "models": {
+    "10": [
+      26348
+    ]
+  },
+  "name": "Magical wheat",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 50,
+  "contrast": 60,
+  "colours": [
+    [
+      12707,
+      8745
+    ],
+    [
+      12702,
+      8615
+    ],
+    [
+      12587,
+      8623
+    ],
+    [
+      10675,
+      9653
+    ],
+    [
+      10683,
+      9661
+    ]
+  ],
+  "mapscene": 31,
+  "occludes_2": false,
+  "unknown_196": 2
+}

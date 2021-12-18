@@ -1,0 +1,42 @@
+{
+  "id": 39232,
+  "models": {
+    "0": [
+      13302
+    ]
+  },
+  "name": "Shuttered window",
+  "occludes_1": false,
+  "ambient": 10,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      8381,
+      8210
+    ],
+    [
+      8398,
+      8217
+    ],
+    [
+      6707,
+      5274
+    ],
+    [
+      7952,
+      6292
+    ],
+    [
+      8406,
+      8217
+    ]
+  ],
+  "unknown_170": 437
+}

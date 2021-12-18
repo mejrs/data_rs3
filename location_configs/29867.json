@@ -1,0 +1,41 @@
+{
+  "id": 29867,
+  "models": {
+    "10": [
+      9547,
+      32618
+    ]
+  },
+  "name": "Large table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Take-Bucket",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6451,
+      8472
+    ],
+    [
+      6443,
+      8596
+    ],
+    [
+      6439,
+      8720
+    ],
+    [
+      6563,
+      8844
+    ]
+  ],
+  "occludes_2": false
+}

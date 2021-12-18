@@ -1,0 +1,30 @@
+{
+  "id": 43826,
+  "models": {
+    "10": [
+      101517,
+      7768
+    ]
+  },
+  "name": "Maple tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_81": 50,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

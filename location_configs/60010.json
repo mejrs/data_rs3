@@ -1,0 +1,19 @@
+{
+  "id": 60010,
+  "models": {
+    "10": [
+      12618,
+      12603
+    ]
+  },
+  "name": "Statue",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 75,
+  "translate_z": 75,
+  "occludes_2": false,
+  "unknown_177": true
+}

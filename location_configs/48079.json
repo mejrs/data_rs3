@@ -1,0 +1,15 @@
+{
+  "id": 48079,
+  "models": {
+    "10": [
+      51437
+    ]
+  },
+  "name": "Bush",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

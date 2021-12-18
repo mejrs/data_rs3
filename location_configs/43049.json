@@ -1,0 +1,22 @@
+{
+  "id": 43049,
+  "models": {
+    "10": [
+      1482
+    ]
+  },
+  "name": "Sacks",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8094,
+      7347
+    ]
+  ],
+  "occludes_2": false
+}

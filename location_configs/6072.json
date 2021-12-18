@@ -1,0 +1,12 @@
+{
+  "id": 6072,
+  "models": {
+    "10": [
+      5927,
+      5928
+    ]
+  },
+  "name": "Cabinet",
+  "dim_y": 2,
+  "occludes_2": false
+}

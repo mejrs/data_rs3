@@ -1,0 +1,23 @@
+{
+  "id": 112311,
+  "models": {
+    "10": [
+      65425
+    ]
+  },
+  "name": "Broken paddock (large)",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Build",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

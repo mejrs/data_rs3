@@ -1,0 +1,23 @@
+{
+  "id": 44246,
+  "models": {
+    "10": [
+      47893
+    ]
+  },
+  "name": "Pipe",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 240,
+  "occludes_2": false
+}

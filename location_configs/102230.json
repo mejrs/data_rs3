@@ -1,0 +1,22 @@
+{
+  "id": 102230,
+  "models": {
+    "10": [
+      111473,
+      111477
+    ]
+  },
+  "name": "Radigad Ponfit",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Add items",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 9702,
+  "models": {
+    "10": [
+      1557
+    ]
+  },
+  "name": "Table",
+  "dim_x": 4,
+  "is_transparent": true,
+  "colours": [
+    [
+      13508,
+      3136
+    ],
+    [
+      3974,
+      5276
+    ]
+  ],
+  "occludes_2": false
+}

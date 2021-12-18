@@ -1,0 +1,40 @@
+{
+  "id": 100638,
+  "models": {
+    "10": [
+      103624,
+      103611
+    ]
+  },
+  "name": "Seaweed",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 26323,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Cut",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "4561": 5645,
+    "4562": 5646,
+    "4563": 5647,
+    "4564": 5644
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  },
+  "params": {
+    "5025": 1,
+    "5026": 25288
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 70962,
+  "models": {
+    "10": [
+      70246,
+      70230
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 16729,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5390,
+      14600
+    ],
+    [
+      5392,
+      14602
+    ],
+    [
+      5396,
+      14606
+    ],
+    [
+      5398,
+      14608
+    ],
+    [
+      5418,
+      14628
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

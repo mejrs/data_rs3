@@ -1,0 +1,21 @@
+{
+  "id": 13715,
+  "models": {
+    "10": [
+      12561
+    ]
+  },
+  "name": "Armour repair stand",
+  "dim_x": 2,
+  "actions": [
+    "Repair-all",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 11,
+  "translate_x": 20,
+  "translate_z": 20,
+  "occludes_2": false
+}

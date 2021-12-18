@@ -1,0 +1,15 @@
+{
+  "id": 25293,
+  "models": {
+    "10": [
+      26696,
+      26697
+    ]
+  },
+  "name": "Pyre boat",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_24": 6734,
+  "model": false,
+  "occludes_2": false
+}

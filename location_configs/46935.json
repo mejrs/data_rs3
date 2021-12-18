@@ -1,0 +1,54 @@
+{
+  "id": 46935,
+  "models": {
+    "10": [
+      11231
+    ]
+  },
+  "name": "Dark portal",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 3174,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      50072,
+      0
+    ],
+    [
+      49948,
+      4
+    ],
+    [
+      49953,
+      8
+    ],
+    [
+      49829,
+      12
+    ],
+    [
+      49705,
+      16
+    ]
+  ],
+  "unknown_44": 62,
+  "occludes_2": false,
+  "unknown_104": 180,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

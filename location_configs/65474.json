@@ -1,0 +1,43 @@
+{
+  "id": 65474,
+  "models": {
+    "10": [
+      22029
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6670,
+      6548
+    ],
+    [
+      6674,
+      6425
+    ],
+    [
+      6550,
+      6430
+    ],
+    [
+      6552,
+      6435
+    ],
+    [
+      6554,
+      6440
+    ],
+    [
+      6556,
+      5289
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

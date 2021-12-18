@@ -1,0 +1,26 @@
+{
+  "id": 4918,
+  "models": {
+    "10": [
+      1398
+    ]
+  },
+  "name": "Mine cart",
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

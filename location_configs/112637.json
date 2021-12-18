@@ -1,0 +1,23 @@
+{
+  "id": 112637,
+  "models": {
+    "10": [
+      20290,
+      20291
+    ]
+  },
+  "name": "Baba",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Examine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

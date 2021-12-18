@@ -1,0 +1,16 @@
+{
+  "id": 20360,
+  "models": {
+    "10": [
+      82170
+    ]
+  },
+  "name": "Work bench",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

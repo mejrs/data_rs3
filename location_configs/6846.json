@@ -1,0 +1,34 @@
+{
+  "id": 6846,
+  "models": {
+    "10": [
+      6795
+    ]
+  },
+  "name": "Broken Lecturn",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      6930
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

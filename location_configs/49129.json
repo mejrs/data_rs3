@@ -1,0 +1,23 @@
+{
+  "id": 49129,
+  "models": {
+    "10": [
+      32846
+    ]
+  },
+  "name": "Dirty Oven",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Remove-Components",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

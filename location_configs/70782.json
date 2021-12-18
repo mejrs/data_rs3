@@ -1,0 +1,17 @@
+{
+  "id": 70782,
+  "models": {
+    "10": [
+      70263
+    ]
+  },
+  "name": "Dragonkin artefact 3",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "is_members": true,
+  "occludes_2": false
+}

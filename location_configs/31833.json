@@ -1,0 +1,27 @@
+{
+  "id": 31833,
+  "models": {
+    "0": [
+      37582
+    ]
+  },
+  "name": "Ancient Gate",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    49,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

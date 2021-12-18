@@ -1,0 +1,40 @@
+{
+  "id": 18056,
+  "models": {
+    "10": [
+      17948
+    ]
+  },
+  "name": "Rocky surface",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10281,
+      43034
+    ],
+    [
+      26780,
+      32910
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

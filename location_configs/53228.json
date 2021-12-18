@@ -1,0 +1,25 @@
+{
+  "id": 53228,
+  "models": {
+    "10": [
+      56700
+    ]
+  },
+  "name": "Farming patch (aloe fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      20632,
+      37414
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    "Replace"
+  ]
+}

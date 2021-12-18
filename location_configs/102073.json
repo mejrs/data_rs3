@@ -1,0 +1,17 @@
+{
+  "id": 102073,
+  "models": {
+    "10": [
+      111522
+    ]
+  },
+  "name": "Jail bed",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 12,
+  "translate_z": 65516,
+  "occludes_2": false
+}

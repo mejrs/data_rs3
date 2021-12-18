@@ -1,0 +1,15 @@
+{
+  "id": 119155,
+  "models": {
+    "10": [
+      68924
+    ]
+  },
+  "name": "Toybox",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 5021,
+  "models": {
+    "10": [
+      48736
+    ]
+  },
+  "name": "Small sack",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_81": 20,
+  "occludes_2": false
+}

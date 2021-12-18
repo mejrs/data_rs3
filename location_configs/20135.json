@@ -1,0 +1,15 @@
+{
+  "id": 20135,
+  "models": {
+    "22": [
+      97829
+    ]
+  },
+  "name": "Runner trap(2)",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 64,
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 88645,
+  "models": {
+    "10": [
+      92935
+    ]
+  },
+  "name": "Bucket o' carrots",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take carrots",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

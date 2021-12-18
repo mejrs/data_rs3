@@ -1,0 +1,25 @@
+{
+  "id": 44244,
+  "models": {
+    "10": [
+      48058
+    ]
+  },
+  "name": "Cage",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 11935,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

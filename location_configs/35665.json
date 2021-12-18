@@ -1,0 +1,12 @@
+{
+  "id": 35665,
+  "models": {
+    "10": [
+      36233
+    ]
+  },
+  "name": "Crescent table",
+  "ambient": 25,
+  "contrast": 35,
+  "occludes_2": false
+}

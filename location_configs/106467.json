@@ -1,0 +1,31 @@
+{
+  "id": 106467,
+  "models": {
+    "10": [
+      25033
+    ]
+  },
+  "name": "Mysterious Hatch",
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1559": 1562
+  },
+  "unknown_69": 13,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

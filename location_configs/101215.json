@@ -1,0 +1,19 @@
+{
+  "id": 101215,
+  "models": {
+    "10": [
+      110286
+    ]
+  },
+  "name": "Battering ram",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  }
+}

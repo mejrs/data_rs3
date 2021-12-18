@@ -1,0 +1,28 @@
+{
+  "id": 27266,
+  "models": {
+    "10": [
+      29132
+    ]
+  },
+  "name": "Spider web",
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

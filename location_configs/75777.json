@@ -1,0 +1,33 @@
+{
+  "id": 75777,
+  "models": {
+    "10": [
+      76758
+    ]
+  },
+  "name": "Opening",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

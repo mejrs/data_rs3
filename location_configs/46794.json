@@ -1,0 +1,16 @@
+{
+  "id": 46794,
+  "models": {
+    "10": [
+      50156,
+      49960
+    ]
+  },
+  "name": "Cabinet",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 65520,
+  "occludes_2": false
+}

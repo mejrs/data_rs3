@@ -1,0 +1,27 @@
+{
+  "id": 19110,
+  "models": {
+    "10": [
+      19216
+    ]
+  },
+  "name": "Roots",
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

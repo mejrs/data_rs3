@@ -1,0 +1,23 @@
+{
+  "id": 87777,
+  "models": {
+    "10": [
+      90774,
+      90763
+    ]
+  },
+  "name": "Answer plinth",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -50,
+  "actions": [
+    "Take object",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

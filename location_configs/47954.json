@@ -1,0 +1,28 @@
+{
+  "id": 47954,
+  "models": {
+    "10": [
+      51355
+    ]
+  },
+  "name": "Elemental fuel",
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 30,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

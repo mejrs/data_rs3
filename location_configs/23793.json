@@ -1,0 +1,20 @@
+{
+  "id": 23793,
+  "models": {
+    "22": [
+      60898
+    ]
+  },
+  "name": "Floor",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_167": 50,
+  "params": {
+    "1158": 23802,
+    "1159": 23823
+  }
+}

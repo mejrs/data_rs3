@@ -1,0 +1,17 @@
+{
+  "id": 118572,
+  "models": {
+    "10": [
+      120911
+    ]
+  },
+  "name": "The Keeper's Gift",
+  "is_transparent": true,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "occludes_2": false,
+  "unknown_196": 4
+}

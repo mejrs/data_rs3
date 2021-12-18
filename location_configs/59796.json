@@ -1,0 +1,30 @@
+{
+  "id": 59796,
+  "models": {
+    "10": [
+      44749
+    ]
+  },
+  "name": "Engraved sarcophagus",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

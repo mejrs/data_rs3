@@ -1,0 +1,29 @@
+{
+  "id": 55457,
+  "models": {
+    "10": [
+      61638
+    ]
+  },
+  "name": "Damaged pillar",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

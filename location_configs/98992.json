@@ -1,0 +1,22 @@
+{
+  "id": 98992,
+  "models": {
+    "10": [
+      106132
+    ]
+  },
+  "name": "Ranis's sarcophagus",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

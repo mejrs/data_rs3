@@ -1,0 +1,21 @@
+{
+  "id": 24823,
+  "models": {
+    "10": [
+      64064
+    ]
+  },
+  "name": "Steel ingot trough",
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Take-ingots",
+    "Return-ingots",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

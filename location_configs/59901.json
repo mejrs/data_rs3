@@ -1,0 +1,25 @@
+{
+  "id": 59901,
+  "models": {
+    "10": [
+      64771
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2242": 2252,
+    "2261": 2255,
+    "2262": 2245
+  },
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
+  "unknown_81": 80,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 114732,
+  "models": {
+    "10": [
+      67892,
+      84496
+    ]
+  },
+  "name": "Another barrel of green liquid",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

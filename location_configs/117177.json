@@ -1,0 +1,33 @@
+{
+  "id": 117177,
+  "models": {
+    "10": [
+      90943
+    ]
+  },
+  "name": "Armadyl",
+  "dim_x": 5,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_24": 22321,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 120,
+  "translate_y": 64426,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

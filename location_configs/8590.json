@@ -1,0 +1,37 @@
+{
+  "id": 8590,
+  "models": {
+    "10": [
+      8209,
+      7766
+    ]
+  },
+  "name": "Diseased onions",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      17701,
+      10652
+    ],
+    [
+      17709,
+      10533
+    ],
+    [
+      13508,
+      16573
+    ],
+    [
+      9552,
+      16565
+    ]
+  ],
+  "occludes_2": false
+}

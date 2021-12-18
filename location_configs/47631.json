@@ -1,0 +1,25 @@
+{
+  "id": 47631,
+  "models": {
+    "10": [
+      50161
+    ]
+  },
+  "name": "Piano",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_79": {
+    "unknown_1": 900,
+    "unknown_2": 1000,
+    "unknown_3": 6,
+    "values": [
+      5025,
+      5024,
+      5027,
+      5026
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 100
+}

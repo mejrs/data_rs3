@@ -1,0 +1,17 @@
+{
+  "id": 45110,
+  "models": {
+    "10": [
+      64780,
+      64781
+    ]
+  },
+  "name": "Cart",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

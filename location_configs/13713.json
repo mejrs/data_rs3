@@ -1,0 +1,21 @@
+{
+  "id": 13713,
+  "models": {
+    "10": [
+      12187
+    ]
+  },
+  "name": "Repair bench",
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 11,
+  "translate_x": 20,
+  "translate_z": 20,
+  "occludes_2": false
+}

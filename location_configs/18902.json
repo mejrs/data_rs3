@@ -1,0 +1,46 @@
+{
+  "id": 18902,
+  "models": {
+    "10": [
+      14827
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6451,
+      6340
+    ],
+    [
+      6443,
+      6331
+    ],
+    [
+      6439,
+      6327
+    ],
+    [
+      6563,
+      6451
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

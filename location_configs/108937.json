@@ -1,0 +1,19 @@
+{
+  "id": 108937,
+  "models": {
+    "10": [
+      118984
+    ]
+  },
+  "name": "Vessel",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

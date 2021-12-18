@@ -1,0 +1,13 @@
+{
+  "id": 101307,
+  "models": {
+    "10": [
+      104341,
+      104342
+    ]
+  },
+  "name": "Ilujanka egg",
+  "ambient": 25,
+  "contrast": 10,
+  "occludes_2": false
+}

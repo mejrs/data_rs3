@@ -1,0 +1,22 @@
+{
+  "id": 82991,
+  "models": {
+    "10": [
+      84055
+    ]
+  },
+  "name": "Naragi corpse",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_93": 7710,
+  "occludes_2": false
+}

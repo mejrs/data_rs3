@@ -1,0 +1,37 @@
+{
+  "id": 80768,
+  "models": {
+    "10": [
+      81202
+    ]
+  },
+  "name": "TzHaar emblem",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "Rotate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      360
+    ]
+  },
+  "cursors": [
+    155,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

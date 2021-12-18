@@ -1,0 +1,54 @@
+{
+  "id": 24370,
+  "models": {
+    "0": [
+      25036
+    ]
+  },
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6550,
+      5526
+    ],
+    [
+      6430,
+      5522
+    ],
+    [
+      9649,
+      31802
+    ],
+    [
+      9628,
+      31782
+    ]
+  ],
+  "textures": {
+    "2081": 2093,
+    "2108": 2073
+  },
+  "mirror": true,
+  "unknown_75": 0,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

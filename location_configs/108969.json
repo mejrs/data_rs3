@@ -1,0 +1,25 @@
+{
+  "id": 108969,
+  "models": {
+    "10": [
+      118910
+    ]
+  },
+  "name": "Treasure chest",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Clear plants",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 11,
+  "translate_y": 20,
+  "unknown_88": false,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

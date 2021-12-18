@@ -1,0 +1,23 @@
+{
+  "id": 4871,
+  "models": {
+    "10": [
+      4731
+    ]
+  },
+  "name": "Reinitialisation Panel",
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      61,
+      7566
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 100619,
+  "models": {
+    "10": [
+      108300
+    ]
+  },
+  "name": "Surface",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Swim to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  }
+}

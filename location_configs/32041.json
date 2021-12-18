@@ -1,0 +1,25 @@
+{
+  "id": 32041,
+  "models": {
+    "10": [
+      61051
+    ]
+  },
+  "name": "Pumpkin",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

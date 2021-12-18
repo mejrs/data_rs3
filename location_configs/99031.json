@@ -1,0 +1,17 @@
+{
+  "id": 99031,
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_x": 65472,
+  "translate_y": 65526,
+  "translate_z": 64,
+  "morphs_1": {
+    "varbit": 29456,
+    "ids": [
+      null,
+      99032,
+      99033
+    ]
+  },
+  "unknown_188": true
+}

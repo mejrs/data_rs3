@@ -1,0 +1,21 @@
+{
+  "id": 7977,
+  "models": {
+    "10": [
+      110160,
+      7767,
+      110153
+    ]
+  },
+  "name": "Pineapple plant",
+  "ambient": 25,
+  "actions": [
+    "Pick-pineapple",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

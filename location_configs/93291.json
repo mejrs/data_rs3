@@ -1,0 +1,20 @@
+{
+  "id": 93291,
+  "models": {
+    "10": [
+      7797,
+      7768
+    ]
+  },
+  "name": "Elder tree patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

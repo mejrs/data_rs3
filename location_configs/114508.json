@@ -1,0 +1,19 @@
+{
+  "id": 114508,
+  "models": {
+    "10": [
+      82528,
+      7767
+    ]
+  },
+  "name": "Ciku tree stump",
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

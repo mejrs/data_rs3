@@ -1,0 +1,29 @@
+{
+  "id": 86572,
+  "models": {
+    "22": [
+      88604,
+      88606
+    ]
+  },
+  "name": "Staff",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

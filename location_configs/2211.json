@@ -1,0 +1,27 @@
+{
+  "id": 2211,
+  "models": {
+    "10": [
+      1370
+    ]
+  },
+  "name": "Grave of Scorpius",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

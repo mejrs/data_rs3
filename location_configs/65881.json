@@ -1,0 +1,23 @@
+{
+  "id": 65881,
+  "models": {
+    "10": [
+      27124,
+      27865
+    ]
+  },
+  "name": "Pot",
+  "unknown_24": 15601,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65401,
+  "translate_z": 10,
+  "occludes_2": false
+}

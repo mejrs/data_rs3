@@ -1,0 +1,36 @@
+{
+  "id": 110090,
+  "models": {
+    "10": [
+      6661
+    ]
+  },
+  "name": "Candle (dark purple)",
+  "unknown_19": 1,
+  "actions": [
+    "Place candle",
+    "Remove candle",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      120,
+      48425
+    ],
+    [
+      7288,
+      48673
+    ],
+    [
+      7289,
+      48673
+    ],
+    [
+      8307,
+      48670
+    ]
+  ],
+  "occludes_2": false
+}

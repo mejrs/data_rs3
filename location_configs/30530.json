@@ -1,0 +1,28 @@
+{
+  "id": 30530,
+  "models": {
+    "10": [
+      33685
+    ]
+  },
+  "name": "Strange bloodied stones",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

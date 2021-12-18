@@ -1,0 +1,33 @@
+{
+  "id": 5083,
+  "models": {
+    "10": [
+      4998,
+      4999
+    ]
+  },
+  "name": "Dungeon entrance",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 95,
+  "scale_y": 110,
+  "scale_z": 95,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

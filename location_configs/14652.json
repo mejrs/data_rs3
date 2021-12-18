@@ -1,0 +1,16 @@
+{
+  "id": 14652,
+  "models": {
+    "0": [
+      63258
+    ]
+  },
+  "name": "Shelf",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  }
+}

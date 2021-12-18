@@ -1,0 +1,32 @@
+{
+  "id": 102309,
+  "models": {
+    "10": [
+      111670,
+      111671
+    ]
+  },
+  "name": "Blisterwood Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 9697,
+  "ambient": 64,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 1,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

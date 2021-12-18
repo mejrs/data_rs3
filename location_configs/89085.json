@@ -1,0 +1,14 @@
+{
+  "id": 89085,
+  "models": {
+    "10": [
+      93067
+    ]
+  },
+  "name": "Arch",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

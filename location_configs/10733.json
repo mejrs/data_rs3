@@ -1,0 +1,13 @@
+{
+  "id": 10733,
+  "models": {
+    "10": [
+      10619,
+      10618
+    ]
+  },
+  "name": "Portal",
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

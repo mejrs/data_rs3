@@ -1,0 +1,12 @@
+{
+  "id": 19099,
+  "models": {
+    "10": [
+      10465,
+      10557
+    ]
+  },
+  "name": "Paint cans",
+  "dim_x": 2,
+  "occludes_2": false
+}

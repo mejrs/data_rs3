@@ -1,0 +1,28 @@
+{
+  "id": 102048,
+  "models": {
+    "10": [
+      111557
+    ]
+  },
+  "name": "Staircase",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

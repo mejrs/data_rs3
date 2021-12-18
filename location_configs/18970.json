@@ -1,0 +1,28 @@
+{
+  "id": 18970,
+  "models": {
+    "10": [
+      8246,
+      45931
+    ]
+  },
+  "name": "Interrogation notes",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 90779,
+  "models": {
+    "10": [
+      91588
+    ]
+  },
+  "dim_x": 7,
+  "dim_y": 6,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "4081": 4539,
+    "4082": 4539,
+    "4266": 4539,
+    "4267": 4539
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 2
+}

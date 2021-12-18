@@ -1,0 +1,22 @@
+{
+  "id": 3634,
+  "models": {
+    "10": [
+      3690
+    ]
+  },
+  "name": "Strange shrine",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 1127,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_189": true
+}

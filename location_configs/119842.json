@@ -1,0 +1,22 @@
+{
+  "id": 119842,
+  "models": {
+    "10": [
+      121938
+    ]
+  },
+  "name": "Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Discuss",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

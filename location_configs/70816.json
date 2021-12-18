@@ -1,0 +1,33 @@
+{
+  "id": 70816,
+  "models": {
+    "10": [
+      69872
+    ]
+  },
+  "name": "Dragonkin coffer",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Deposit",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 45,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

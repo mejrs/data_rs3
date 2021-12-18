@@ -1,0 +1,32 @@
+{
+  "id": 32099,
+  "models": {
+    "10": [
+      96246
+    ]
+  },
+  "name": "Fire",
+  "is_transparent": true,
+  "unknown_24": 9512,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    "Cook-at",
+    null,
+    null,
+    null
+  ],
+  "contrast": 12,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    64,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 0
+}

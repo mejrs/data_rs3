@@ -1,0 +1,27 @@
+{
+  "id": 26932,
+  "models": {
+    "10": [
+      60975
+    ]
+  },
+  "name": "Neverberry bush (dying)",
+  "is_transparent": true,
+  "actions": [
+    "Target",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    42,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

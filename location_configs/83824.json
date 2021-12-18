@@ -1,0 +1,55 @@
+{
+  "id": 83824,
+  "models": {
+    "10": [
+      85023
+    ]
+  },
+  "name": "Zamorak Altar",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      40597,
+      920
+    ],
+    [
+      40609,
+      923
+    ],
+    [
+      40613,
+      926
+    ],
+    [
+      40617,
+      929
+    ],
+    [
+      40621,
+      931
+    ],
+    [
+      40625,
+      934
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

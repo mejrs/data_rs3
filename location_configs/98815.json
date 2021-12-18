@@ -1,0 +1,13 @@
+{
+  "id": 98815,
+  "models": {
+    "10": [
+      106386
+    ]
+  },
+  "name": "Spellbook",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "occludes_2": false
+}

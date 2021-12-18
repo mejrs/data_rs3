@@ -1,0 +1,33 @@
+{
+  "id": 112889,
+  "models": {
+    "0": [
+      85022
+    ]
+  },
+  "name": "Cave wall",
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Collapse",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "is_members": true,
+  "mapscene": 12,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3727,
+  "models": {
+    "0": [
+      48988
+    ]
+  },
+  "name": "Gate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5400,
+      4500
+    ],
+    [
+      5396,
+      4496
+    ],
+    [
+      5392,
+      4492
+    ],
+    [
+      5390,
+      4490
+    ],
+    [
+      5388,
+      4488
+    ]
+  ],
+  "unknown_73": true
+}

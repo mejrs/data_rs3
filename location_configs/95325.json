@@ -1,0 +1,23 @@
+{
+  "id": 95325,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 25939,
+  "colours": [
+    [
+      127,
+      0
+    ]
+  ],
+  "textures": {
+    "1429": 1444
+  },
+  "mirror": true,
+  "morphs_1": {
+    "varbit": 27044,
+    "ids": [
+      null,
+      95326
+    ]
+  }
+}

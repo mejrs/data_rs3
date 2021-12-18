@@ -1,0 +1,17 @@
+{
+  "id": 4479,
+  "models": {
+    "10": [
+      57868,
+      57869
+    ]
+  },
+  "name": "Memory energy",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 14187,
+  "unknown_27": false,
+  "ambient": 40,
+  "contrast": 40,
+  "occludes_2": false
+}

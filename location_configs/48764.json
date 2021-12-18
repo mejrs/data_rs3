@@ -1,0 +1,37 @@
+{
+  "id": 48764,
+  "models": {
+    "22": [
+      52380
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7323,
+      7316
+    ],
+    [
+      7327,
+      7320
+    ],
+    [
+      7331,
+      7324
+    ],
+    [
+      7341,
+      7328
+    ]
+  ],
+  "textures": {
+    "2407": 2360
+  },
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 32
+}

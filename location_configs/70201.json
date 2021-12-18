@@ -1,0 +1,16 @@
+{
+  "id": 70201,
+  "models": {
+    "10": [
+      68994
+    ]
+  },
+  "name": "Drained portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "textures": {
+    "1430": 1493
+  },
+  "occludes_2": false
+}

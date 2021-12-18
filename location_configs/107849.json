@@ -1,0 +1,20 @@
+{
+  "id": 107849,
+  "models": {
+    "4": [
+      76079
+    ]
+  },
+  "name": "Bell",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "IM Rubic",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

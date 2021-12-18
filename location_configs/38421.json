@@ -1,0 +1,32 @@
+{
+  "id": 38421,
+  "models": {
+    "4": [
+      41745
+    ]
+  },
+  "name": "Map",
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5786,
+      7952
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 68948,
+  "models": {
+    "10": [
+      66142
+    ]
+  },
+  "name": "Colourful headdress",
+  "ambient": 25,
+  "actions": [
+    "Take-hat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

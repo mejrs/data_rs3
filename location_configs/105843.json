@@ -1,0 +1,14 @@
+{
+  "id": 105843,
+  "models": {
+    "10": [
+      116002
+    ]
+  },
+  "name": "Standing lamp",
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

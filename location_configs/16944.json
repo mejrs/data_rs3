@@ -1,0 +1,55 @@
+{
+  "id": 16944,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "colours": [
+    [
+      24524,
+      8627
+    ],
+    [
+      24388,
+      6699
+    ],
+    [
+      37817,
+      7514
+    ],
+    [
+      38835,
+      8646
+    ],
+    [
+      957,
+      7353
+    ],
+    [
+      941,
+      10289
+    ]
+  ],
+  "morphs_1": {
+    "varbit": 12078,
+    "ids": [
+      17011,
+      17012
+    ]
+  },
+  "member_actions": [
+    "Use",
+    null,
+    "Select destination",
+    null,
+    null
+  ],
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

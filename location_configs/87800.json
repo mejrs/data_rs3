@@ -1,0 +1,31 @@
+{
+  "id": 87800,
+  "models": {
+    "10": [
+      90762
+    ]
+  },
+  "name": "Statue of Death",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Talk to",
+    "Take shadow mask",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

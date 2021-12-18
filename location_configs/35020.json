@@ -1,0 +1,23 @@
+{
+  "id": 35020,
+  "models": {
+    "10": [
+      35778
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      6689,
+      20
+    ]
+  ],
+  "textures": {
+    "2377": 2396
+  },
+  "translate_y": 65530,
+  "occludes_2": false,
+  "unknown_196": 3
+}

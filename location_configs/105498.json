@@ -1,0 +1,26 @@
+{
+  "id": 105498,
+  "models": {
+    "10": [
+      115285
+    ]
+  },
+  "name": "Divine energy vat (lawful)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_78": {
+    "unknown_1": 17641,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 125,
+  "unknown_1": 250,
+  "unknown_2": 260
+}

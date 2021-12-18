@@ -1,0 +1,33 @@
+{
+  "id": 45820,
+  "models": {
+    "22": [
+      21641
+    ]
+  },
+  "name": "Books",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7566,
+      35
+    ],
+    [
+      8299,
+      100
+    ],
+    [
+      7267,
+      95
+    ],
+    [
+      7326,
+      45
+    ]
+  ],
+  "occludes_2": false
+}

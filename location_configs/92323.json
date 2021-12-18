@@ -1,0 +1,29 @@
+{
+  "id": 92323,
+  "models": {
+    "0": [
+      98233
+    ]
+  },
+  "name": "Fishing banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      38214
+    ],
+    [
+      36300,
+      5819
+    ]
+  ],
+  "mapscene": 22
+}

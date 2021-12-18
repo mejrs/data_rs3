@@ -1,0 +1,32 @@
+{
+  "id": 39332,
+  "models": {
+    "22": [
+      36022
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      7332,
+      7570
+    ],
+    [
+      7334,
+      7565
+    ],
+    [
+      7317,
+      7570
+    ],
+    [
+      7321,
+      7565
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 88246,
+  "models": {
+    "10": [
+      117738,
+      117742
+    ]
+  },
+  "name": "Rise Above The Disorder",
+  "unknown_24": 9642,
+  "textures": {
+    "8603": 12723
+  },
+  "occludes_2": false
+}

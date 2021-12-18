@@ -1,0 +1,34 @@
+{
+  "id": 110052,
+  "models": {
+    "10": [
+      96942
+    ]
+  },
+  "name": "Kegs",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5541,
+      5421
+    ],
+    [
+      5665,
+      5545
+    ],
+    [
+      5660,
+      5541
+    ],
+    [
+      5784,
+      5665
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

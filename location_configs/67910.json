@@ -1,0 +1,29 @@
+{
+  "id": 67910,
+  "models": {
+    "10": [
+      8297
+    ]
+  },
+  "name": "Bank table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "unknown_69": 10,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    5,
+    null,
+    null,
+    null
+  ]
+}

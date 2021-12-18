@@ -1,0 +1,18 @@
+{
+  "id": 36906,
+  "models": {
+    "10": [
+      1185
+    ]
+  },
+  "name": "Hat stand",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10126,
+      5404
+    ]
+  ],
+  "occludes_2": false
+}

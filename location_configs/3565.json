@@ -1,0 +1,30 @@
+{
+  "id": 3565,
+  "models": {
+    "10": [
+      3654
+    ]
+  },
+  "name": "Low wall",
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "39": 66
+  },
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

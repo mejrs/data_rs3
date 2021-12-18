@@ -1,0 +1,20 @@
+{
+  "id": 22649,
+  "models": {
+    "10": [
+      23530
+    ]
+  },
+  "name": "Stairs",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      5786,
+      10266
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

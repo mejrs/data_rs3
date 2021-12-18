@@ -1,0 +1,13 @@
+{
+  "id": 106530,
+  "models": {
+    "0": [
+      58065
+    ]
+  },
+  "name": "Battery pack",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10
+}

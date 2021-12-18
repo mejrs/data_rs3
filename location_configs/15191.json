@@ -1,0 +1,29 @@
+{
+  "id": 15191,
+  "models": {
+    "10": [
+      1487,
+      13908,
+      13909
+    ]
+  },
+  "name": "Exit",
+  "dim_y": 3,
+  "ambient": 50,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

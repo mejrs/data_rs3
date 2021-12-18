@@ -1,0 +1,15 @@
+{
+  "id": 16204,
+  "models": {
+    "10": [
+      57523
+    ]
+  },
+  "name": "Counter",
+  "unknown_21": true,
+  "unknown_24": 14140,
+  "ambient": 15,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

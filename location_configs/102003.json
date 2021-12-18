@@ -1,0 +1,18 @@
+{
+  "id": 102003,
+  "models": {
+    "4": [
+      111539
+    ]
+  },
+  "name": "Friar Twiblick",
+  "unknown_19": 1,
+  "ambient": 80,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_x": 65478,
+  "translate_y": 118,
+  "translate_z": 65456,
+  "occludes_2": false
+}

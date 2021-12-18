@@ -1,0 +1,37 @@
+{
+  "id": 26909,
+  "models": {
+    "0": [
+      28886
+    ]
+  },
+  "name": "Large door",
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6439,
+      6554
+    ],
+    [
+      6430,
+      6435
+    ],
+    [
+      6550,
+      6674
+    ]
+  ],
+  "mirror": true,
+  "scale_y": 156,
+  "unknown_75": 0,
+  "unknown_170": 1170
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10692,
+  "models": {
+    "10": [
+      10477,
+      10468
+    ]
+  },
+  "name": "Puppet arms",
+  "unknown_19": 1,
+  "actions": [
+    "Add",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43943,
+      1686
+    ],
+    [
+      6457,
+      553
+    ],
+    [
+      6573,
+      920
+    ],
+    [
+      5543,
+      912
+    ]
+  ],
+  "scale_x": 110,
+  "scale_y": 90,
+  "scale_z": 110,
+  "occludes_2": false
+}

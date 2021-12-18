@@ -1,0 +1,33 @@
+{
+  "id": 68974,
+  "models": {
+    "10": [
+      68156,
+      68158
+    ]
+  },
+  "name": "Spirit tree",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_24": 16362,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 32,
+  "mapscene": 0,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

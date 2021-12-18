@@ -1,0 +1,30 @@
+{
+  "id": 103587,
+  "models": {
+    "10": [
+      92471
+    ]
+  },
+  "name": "Anvil",
+  "unknown_27": false,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 32,
+  "mapscene": 4,
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

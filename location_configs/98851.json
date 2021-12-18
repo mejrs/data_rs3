@@ -1,0 +1,16 @@
+{
+  "id": 98851,
+  "models": {
+    "10": [
+      106356
+    ]
+  },
+  "name": "Barricade",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "translate_x": 5,
+  "translate_z": 5,
+  "occludes_2": false,
+  "unknown_188": true
+}

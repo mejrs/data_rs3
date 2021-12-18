@@ -1,0 +1,20 @@
+{
+  "id": 7772,
+  "models": {
+    "10": [
+      7793,
+      7767
+    ]
+  },
+  "name": "Calquat patch",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

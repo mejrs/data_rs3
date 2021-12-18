@@ -1,0 +1,35 @@
+{
+  "id": 34046,
+  "models": {
+    "0": [
+      5914
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5404,
+      43043
+    ]
+  ],
+  "textures": {
+    "1562": 1571,
+    "2073": 1564
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": 46656,
+  "models": {
+    "10": [
+      50098
+    ]
+  },
+  "dim_x": 9,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_24": 12464,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      13591,
+      6547
+    ],
+    [
+      13601,
+      6557
+    ],
+    [
+      13587,
+      6543
+    ],
+    [
+      13597,
+      6553
+    ],
+    [
+      9509,
+      5409
+    ]
+  ],
+  "model": false,
+  "translate_x": 0,
+  "translate_y": 30,
+  "translate_z": 0,
+  "unknown_88": false,
+  "occludes_2": false
+}

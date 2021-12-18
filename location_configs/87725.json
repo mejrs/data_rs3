@@ -1,0 +1,50 @@
+{
+  "id": 87725,
+  "models": {
+    "10": [
+      22323
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      1036,
+      5392
+    ],
+    [
+      5135,
+      5395
+    ],
+    [
+      5130,
+      5390
+    ],
+    [
+      5139,
+      5399
+    ],
+    [
+      6154,
+      5399
+    ],
+    [
+      5133,
+      5390
+    ]
+  ],
+  "unknown_81": 42,
+  "occludes_2": false
+}

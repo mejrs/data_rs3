@@ -1,0 +1,37 @@
+{
+  "id": 85951,
+  "models": {
+    "10": [
+      87655
+    ]
+  },
+  "name": "Blood altar",
+  "dim_x": 8,
+  "dim_y": 8,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Craft-rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "768": 2407
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    66,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

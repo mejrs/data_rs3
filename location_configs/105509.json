@@ -1,0 +1,29 @@
+{
+  "id": 105509,
+  "models": {
+    "10": [
+      17405
+    ]
+  },
+  "name": "Pressure release (chaotic)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

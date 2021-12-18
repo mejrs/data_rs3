@@ -1,0 +1,29 @@
+{
+  "id": 102529,
+  "models": {
+    "4": [
+      25169
+    ]
+  },
+  "name": "Standard",
+  "unknown_19": 1,
+  "ambient": 10,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6067,
+      8115
+    ],
+    [
+      24,
+      24
+    ]
+  ],
+  "occludes_2": false
+}

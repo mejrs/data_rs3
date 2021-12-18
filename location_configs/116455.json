@@ -1,0 +1,29 @@
+{
+  "id": 116455,
+  "models": {
+    "22": [
+      80268
+    ]
+  },
+  "name": "Journal",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

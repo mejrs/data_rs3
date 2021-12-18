@@ -1,0 +1,40 @@
+{
+  "id": 4106,
+  "models": {
+    "0": [
+      37465
+    ]
+  },
+  "name": "Solid bronze door",
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      36907,
+      6491
+    ],
+    [
+      30757,
+      6448
+    ],
+    [
+      32804,
+      6469
+    ]
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

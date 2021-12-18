@@ -1,0 +1,27 @@
+{
+  "id": 18033,
+  "models": {
+    "22": [
+      17921
+    ]
+  },
+  "name": "Floor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Kick-down",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

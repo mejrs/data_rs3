@@ -1,0 +1,30 @@
+{
+  "id": 3267,
+  "models": {
+    "0": [
+      37534
+    ],
+    "3": [
+      37724
+    ]
+  },
+  "name": "Cage",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

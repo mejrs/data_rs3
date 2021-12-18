@@ -1,0 +1,28 @@
+{
+  "id": 36892,
+  "models": {
+    "10": [
+      8247
+    ]
+  },
+  "name": "Hay bale",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

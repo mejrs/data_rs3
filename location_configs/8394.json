@@ -1,0 +1,19 @@
+{
+  "id": 8394,
+  "models": {
+    "10": [
+      7799,
+      7768
+    ]
+  },
+  "name": "Tree patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

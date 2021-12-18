@@ -1,0 +1,15 @@
+{
+  "id": 3336,
+  "models": {
+    "10": [
+      96208
+    ]
+  },
+  "name": "Door",
+  "dim_y": 2,
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

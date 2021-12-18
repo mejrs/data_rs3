@@ -1,0 +1,13 @@
+{
+  "id": 18876,
+  "models": {
+    "10": [
+      19287
+    ]
+  },
+  "name": "Sign post",
+  "unknown_27": false,
+  "ambient": 20,
+  "model": false,
+  "occludes_2": false
+}

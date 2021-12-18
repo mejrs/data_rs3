@@ -1,0 +1,39 @@
+{
+  "id": 81906,
+  "models": {
+    "10": [
+      82608,
+      82612,
+      82610,
+      82606
+    ]
+  },
+  "name": "Flea circus",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 19241,
+  "ambient": 15,
+  "actions": [
+    "Go to the",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      790,
+      24219
+    ],
+    [
+      796,
+      24225
+    ],
+    [
+      806,
+      24230
+    ]
+  ],
+  "occludes_2": false
+}

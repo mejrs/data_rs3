@@ -1,0 +1,30 @@
+{
+  "id": 62250,
+  "models": {
+    "10": [
+      65504
+    ]
+  },
+  "name": "Stone shape",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 13483,
+  "unknown_27": false,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

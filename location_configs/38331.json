@@ -1,0 +1,20 @@
+{
+  "id": 38331,
+  "models": {
+    "10": [
+      41749
+    ]
+  },
+  "name": "Glass spheres",
+  "unknown_24": 10129,
+  "ambient": 20,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

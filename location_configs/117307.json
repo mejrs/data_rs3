@@ -1,0 +1,14 @@
+{
+  "id": 117307,
+  "models": {
+    "10": [
+      102831,
+      102854,
+      102858
+    ]
+  },
+  "name": "Collapsing tunnel",
+  "unknown_24": 33209,
+  "unknown_89": false,
+  "occludes_2": false
+}

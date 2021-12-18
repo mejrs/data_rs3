@@ -1,0 +1,23 @@
+{
+  "id": 20188,
+  "models": {
+    "4": [
+      20667
+    ]
+  },
+  "name": "Six",
+  "unknown_19": 1,
+  "ambient": 30,
+  "colours": [
+    [
+      5404,
+      5532
+    ],
+    [
+      5524,
+      5532
+    ]
+  ],
+  "unknown_44": 12,
+  "occludes_2": false
+}

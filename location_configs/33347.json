@@ -1,0 +1,30 @@
+{
+  "id": 33347,
+  "models": {
+    "10": [
+      38017
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6674,
+      7315
+    ],
+    [
+      6550,
+      7320
+    ],
+    [
+      6554,
+      7325
+    ]
+  ],
+  "unknown_81": 32,
+  "occludes_2": false
+}

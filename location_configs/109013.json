@@ -1,0 +1,15 @@
+{
+  "id": 109013,
+  "models": {
+    "10": [
+      119356
+    ]
+  },
+  "name": "VIP area guard",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_24": 87,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

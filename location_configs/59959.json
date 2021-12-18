@@ -1,0 +1,14 @@
+{
+  "id": 59959,
+  "models": {
+    "0": [
+      46062
+    ]
+  },
+  "name": "Arboretum Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_170": 512
+}

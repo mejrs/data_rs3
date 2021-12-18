@@ -1,0 +1,31 @@
+{
+  "id": 78766,
+  "models": {
+    "10": [
+      62665,
+      62660,
+      62675,
+      62677
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "scale_x": 134,
+  "scale_y": 134,
+  "scale_z": 134,
+  "unknown_89": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        18810,
+        100
+      ],
+      [
+        7184,
+        100
+      ]
+    ]
+  }
+}

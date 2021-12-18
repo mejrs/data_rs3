@@ -1,0 +1,19 @@
+{
+  "id": 46088,
+  "models": {
+    "22": [
+      49625
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "mirror": true,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

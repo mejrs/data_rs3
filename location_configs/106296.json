@@ -1,0 +1,12 @@
+{
+  "id": 106296,
+  "models": {
+    "10": [
+      102115
+    ]
+  },
+  "name": "Dead magic Tree",
+  "ambient": 25,
+  "unknown_88": false,
+  "occludes_2": false
+}

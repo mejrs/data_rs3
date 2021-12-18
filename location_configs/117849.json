@@ -1,0 +1,22 @@
+{
+  "id": 117849,
+  "models": {
+    "10": [
+      24503,
+      24510,
+      24515
+    ]
+  },
+  "name": "Shortboat (not a longship)",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "textures": {
+    "9779": 9780
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

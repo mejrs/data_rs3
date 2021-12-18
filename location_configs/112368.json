@@ -1,0 +1,50 @@
+{
+  "id": 112368,
+  "models": {
+    "10": [
+      107743
+    ]
+  },
+  "name": "Deposit box",
+  "unknown_27": false,
+  "ambient": 45,
+  "actions": [
+    "Deposit",
+    "Deposit-All",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6452,
+      8466
+    ],
+    [
+      6448,
+      8461
+    ],
+    [
+      10396,
+      41020
+    ],
+    [
+      10392,
+      41010
+    ],
+    [
+      10388,
+      41000
+    ],
+    [
+      10512,
+      40990
+    ],
+    [
+      10508,
+      40980
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 3651
+}

@@ -1,0 +1,53 @@
+{
+  "id": 116924,
+  "models": {
+    "10": [
+      96724,
+      96742,
+      96729
+    ]
+  },
+  "name": "Fort debris",
+  "dim_x": 3,
+  "dim_y": 4,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      4268,
+      4824
+    ]
+  ],
+  "textures": {
+    "12007": 9001
+  },
+  "translate_y": 600,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    null,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "unknown_1": 64,
+  "unknown_2": 15616,
+  "unknown_3": 64,
+  "unknown_4": 17152,
+  "unknown_5": 17152,
+  "unknown_6": 17152,
+  "params": {
+    "6659": 3255
+  }
+}

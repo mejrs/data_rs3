@@ -1,0 +1,42 @@
+{
+  "id": 28999,
+  "models": {
+    "10": [
+      31860,
+      31859,
+      31858,
+      31861
+    ]
+  },
+  "name": "Bugs",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3844,
+    "unknown_2": 15
+  },
+  "unknown_79": {
+    "unknown_1": 20,
+    "unknown_2": 100,
+    "unknown_3": 15,
+    "values": [
+      3854,
+      3852,
+      3853,
+      3857,
+      3851,
+      3848,
+      3850,
+      3849,
+      3855,
+      3856,
+      3858
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_1": 230,
+  "unknown_2": 260
+}

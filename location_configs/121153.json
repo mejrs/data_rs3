@@ -1,0 +1,27 @@
+{
+  "id": 121153,
+  "models": {
+    "10": [
+      96038,
+      95735,
+      95736
+    ]
+  },
+  "name": "Ancient gravel",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Uncover",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12332": 12336
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

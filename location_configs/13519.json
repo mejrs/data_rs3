@@ -1,0 +1,19 @@
+{
+  "id": 13519,
+  "models": {
+    "4": [
+      103261
+    ]
+  },
+  "name": "Silverlight",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

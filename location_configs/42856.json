@@ -1,0 +1,22 @@
+{
+  "id": 42856,
+  "models": {
+    "10": [
+      33000
+    ]
+  },
+  "name": "Fallen log",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 11567,
+  "ambient": 25,
+  "actions": [
+    "Make-canoe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

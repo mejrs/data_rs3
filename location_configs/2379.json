@@ -1,0 +1,11 @@
+{
+  "id": 2379,
+  "models": {
+    "10": [
+      1277
+    ]
+  },
+  "name": "Campsite bed",
+  "dim_y": 2,
+  "occludes_2": false
+}

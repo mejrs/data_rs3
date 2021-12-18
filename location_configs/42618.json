@@ -1,0 +1,15 @@
+{
+  "id": 42618,
+  "models": {
+    "10": [
+      45983
+    ]
+  },
+  "name": "Goblin statue",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

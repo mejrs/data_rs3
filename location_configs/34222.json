@@ -1,0 +1,14 @@
+{
+  "id": 34222,
+  "models": {
+    "10": [
+      35618
+    ]
+  },
+  "name": "Watchtower Legs",
+  "textures": {
+    "2106": 2075
+  },
+  "occludes_2": false,
+  "unknown_196": 3
+}

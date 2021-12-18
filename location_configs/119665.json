@@ -1,0 +1,26 @@
+{
+  "id": 119665,
+  "models": {
+    "4": [
+      50965
+    ]
+  },
+  "name": "Lever B",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65466,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

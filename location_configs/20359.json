@@ -1,0 +1,22 @@
+{
+  "id": 20359,
+  "models": {
+    "10": [
+      5402
+    ]
+  },
+  "name": "Wheelbarrow",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      7830,
+      6589
+    ],
+    [
+      7954,
+      6705
+    ]
+  ],
+  "occludes_2": false
+}

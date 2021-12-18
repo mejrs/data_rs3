@@ -1,0 +1,28 @@
+{
+  "id": 83336,
+  "models": {
+    "10": [
+      84639
+    ]
+  },
+  "name": "Supply tent (Smithing)",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 20025,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "unknown_81": 40,
+  "occludes_2": false
+}

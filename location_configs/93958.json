@@ -1,0 +1,14 @@
+{
+  "id": 93958,
+  "models": {
+    "10": [
+      99508
+    ]
+  },
+  "name": "4 poster bed",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false
+}

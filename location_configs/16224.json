@@ -1,0 +1,27 @@
+{
+  "id": 16224,
+  "models": {
+    "10": [
+      16121
+    ]
+  },
+  "name": "Healing certificate",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

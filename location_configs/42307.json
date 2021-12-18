@@ -1,0 +1,28 @@
+{
+  "id": 42307,
+  "models": {
+    "10": [
+      45553
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 20,
+  "colours": [
+    [
+      138,
+      9
+    ],
+    [
+      144,
+      6
+    ],
+    [
+      152,
+      3
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

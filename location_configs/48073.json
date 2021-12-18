@@ -1,0 +1,22 @@
+{
+  "id": 48073,
+  "models": {
+    "10": [
+      51522
+    ]
+  },
+  "name": "Nomad's throne",
+  "dim_x": 6,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 12704,
+  "ambient": 10,
+  "contrast": 20,
+  "unknown_78": {
+    "unknown_1": 14286,
+    "unknown_2": 20
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_104": 80
+}

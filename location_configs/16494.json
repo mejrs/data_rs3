@@ -1,0 +1,27 @@
+{
+  "id": 16494,
+  "models": {
+    "10": [
+      118569
+    ]
+  },
+  "name": "An anonymous looking door",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

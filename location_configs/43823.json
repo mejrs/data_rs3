@@ -1,0 +1,29 @@
+{
+  "id": 43823,
+  "models": {
+    "22": [
+      70945
+    ]
+  },
+  "name": "Icy snow",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

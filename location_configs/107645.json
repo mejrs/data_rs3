@@ -1,0 +1,32 @@
+{
+  "id": 107645,
+  "models": {
+    "10": [
+      118565
+    ]
+  },
+  "name": "Door",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    "Enter dungeon",
+    "Enter build mode",
+    "Enter friend's dungeon",
+    "Set entry options"
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

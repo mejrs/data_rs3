@@ -1,0 +1,22 @@
+{
+  "id": 41671,
+  "models": {
+    "0": [
+      45105
+    ]
+  },
+  "name": "Archway",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Exit-room",
+    "Exit-cave",
+    null,
+    null,
+    null
+  ],
+  "model": false
+}

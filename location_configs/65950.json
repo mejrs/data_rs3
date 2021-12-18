@@ -1,0 +1,21 @@
+{
+  "id": 65950,
+  "models": {
+    "10": [
+      26893
+    ]
+  },
+  "name": "Bed",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

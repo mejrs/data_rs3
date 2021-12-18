@@ -1,0 +1,38 @@
+{
+  "id": 90897,
+  "models": {
+    "10": [
+      95174
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 7,
+  "occludes_2": false,
+  "mapfunction": 656,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  },
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

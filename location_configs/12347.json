@@ -1,0 +1,19 @@
+{
+  "id": 12347,
+  "models": {
+    "10": [
+      35630,
+      13683,
+      13682
+    ]
+  },
+  "name": "Awowogei",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

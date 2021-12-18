@@ -1,0 +1,22 @@
+{
+  "id": 26940,
+  "models": {
+    "0": [
+      38416
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "unknown_28": 8,
+  "ambient": 25,
+  "actions": [
+    "Knock-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_170": 945
+}

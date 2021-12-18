@@ -1,0 +1,24 @@
+{
+  "id": 26830,
+  "models": {
+    "10": [
+      20655
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 5415,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "unknown_78": {
+    "unknown_1": 3445,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 64,
+  "unknown_178": 5
+}

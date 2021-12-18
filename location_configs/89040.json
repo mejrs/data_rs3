@@ -1,0 +1,21 @@
+{
+  "id": 89040,
+  "models": {
+    "10": [
+      17830
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2191": 2208,
+    "2192": 2208,
+    "2205": 2208
+  },
+  "model": false,
+  "occludes_2": false
+}

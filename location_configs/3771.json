@@ -1,0 +1,30 @@
+{
+  "id": 3771,
+  "models": {
+    "10": [
+      35642
+    ]
+  },
+  "name": "Stronghold",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

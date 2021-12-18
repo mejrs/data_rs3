@@ -1,0 +1,27 @@
+{
+  "id": 298,
+  "models": {
+    "10": [
+      1459
+    ]
+  },
+  "name": "Hay bales",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

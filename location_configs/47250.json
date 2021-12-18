@@ -1,0 +1,28 @@
+{
+  "id": 47250,
+  "models": {
+    "10": [
+      50889
+    ]
+  },
+  "name": "Drawers",
+  "ambient": 45,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

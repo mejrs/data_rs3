@@ -1,0 +1,27 @@
+{
+  "id": 13700,
+  "models": {
+    "4": [
+      12598
+    ]
+  },
+  "name": "Tools",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    "Upgrade",
+    "Remove"
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

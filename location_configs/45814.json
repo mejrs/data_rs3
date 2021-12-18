@@ -1,0 +1,22 @@
+{
+  "id": 45814,
+  "models": {
+    "4": [
+      2040
+    ]
+  },
+  "name": "Noticeboard",
+  "unknown_19": 1,
+  "ambient": 50,
+  "colours": [
+    [
+      7056,
+      35
+    ],
+    [
+      119,
+      100
+    ]
+  ],
+  "occludes_2": false
+}

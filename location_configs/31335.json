@@ -1,0 +1,26 @@
+{
+  "id": 31335,
+  "models": {
+    "0": [
+      34459
+    ],
+    "10": [
+      34458
+    ]
+  },
+  "name": "Broken door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Destroy",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false
+}

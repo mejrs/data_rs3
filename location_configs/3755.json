@@ -1,0 +1,21 @@
+{
+  "id": 3755,
+  "models": {
+    "10": [
+      823
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      6689,
+      43166
+    ]
+  ],
+  "textures": {
+    "2359": 2396
+  },
+  "occludes_2": false
+}

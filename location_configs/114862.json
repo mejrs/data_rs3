@@ -1,0 +1,23 @@
+{
+  "id": 114862,
+  "models": {
+    "10": [
+      99471
+    ]
+  },
+  "name": "Divination hole",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Divinate",
+    "Dungeoneer",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

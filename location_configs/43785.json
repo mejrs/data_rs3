@@ -1,0 +1,28 @@
+{
+  "id": 43785,
+  "models": {
+    "10": [
+      8019
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "2216": 2189,
+    "2217": 2189,
+    "2218": 2189,
+    "2219": 2189,
+    "2222": 2189
+  },
+  "model": false,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "unknown_81": 42,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

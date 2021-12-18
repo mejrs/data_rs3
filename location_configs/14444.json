@@ -1,0 +1,33 @@
+{
+  "id": 14444,
+  "models": {
+    "0": [
+      63780
+    ]
+  },
+  "name": "Chaos door",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "mirror": true,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 88925,
+  "models": {
+    "10": [
+      92926
+    ]
+  },
+  "name": "Bank boxes",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    5,
+    null,
+    null,
+    null
+  ]
+}

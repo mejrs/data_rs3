@@ -1,0 +1,21 @@
+{
+  "id": 81917,
+  "models": {
+    "10": [
+      82586
+    ]
+  },
+  "name": "Chew toy",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Squeeze",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 109354,
+  "models": {
+    "10": [
+      46548
+    ]
+  },
+  "name": "Massive stone boat",
+  "dim_x": 4,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pick up relic",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

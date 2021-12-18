@@ -1,0 +1,14 @@
+{
+  "id": 80331,
+  "models": {
+    "10": [
+      80396
+    ]
+  },
+  "name": "Beam",
+  "unknown_19": 1,
+  "unknown_24": 18818,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

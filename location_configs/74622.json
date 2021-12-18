@@ -1,0 +1,67 @@
+{
+  "id": 74622,
+  "models": {
+    "10": [
+      73028
+    ]
+  },
+  "name": "Chinchompa cave",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4386,
+      4532
+    ],
+    [
+      4382,
+      4528
+    ],
+    [
+      4378,
+      4524
+    ],
+    [
+      4376,
+      4522
+    ],
+    [
+      4368,
+      4514
+    ],
+    [
+      4364,
+      4510
+    ],
+    [
+      4360,
+      4506
+    ],
+    [
+      4356,
+      4502
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

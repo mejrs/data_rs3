@@ -1,0 +1,30 @@
+{
+  "id": 87178,
+  "models": {
+    "10": [
+      88805
+    ]
+  },
+  "name": "Trophy case",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

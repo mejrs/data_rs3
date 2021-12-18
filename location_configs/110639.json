@@ -1,0 +1,20 @@
+{
+  "id": 110639,
+  "models": {
+    "10": [
+      103700,
+      103701,
+      103702,
+      103703
+    ]
+  },
+  "name": "Monkfish",
+  "dim_x": 8,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_24": 26297,
+  "model": false,
+  "translate_y": 100,
+  "unknown_88": false,
+  "occludes_2": false
+}

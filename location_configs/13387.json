@@ -1,0 +1,25 @@
+{
+  "id": 13387,
+  "models": {
+    "10": [
+      12150
+    ]
+  },
+  "name": "Teak prize chest",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

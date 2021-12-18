@@ -1,0 +1,17 @@
+{
+  "id": 117014,
+  "models": {
+    "10": [
+      90988
+    ]
+  },
+  "name": "Blood dial",
+  "unknown_19": 1,
+  "colours": [
+    [
+      64,
+      928
+    ]
+  ],
+  "occludes_2": false
+}

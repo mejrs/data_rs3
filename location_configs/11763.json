@@ -1,0 +1,32 @@
+{
+  "id": 11763,
+  "models": {
+    "10": [
+      4304
+    ]
+  },
+  "name": "Bar",
+  "is_transparent": true,
+  "ambient": 10,
+  "colours": [
+    [
+      5559,
+      6453
+    ],
+    [
+      5679,
+      7463
+    ],
+    [
+      5677,
+      7587
+    ],
+    [
+      5675,
+      7582
+    ]
+  ],
+  "unknown_44": 57,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 24601,
+  "models": {
+    "10": [
+      25792
+    ]
+  },
+  "name": "Button",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

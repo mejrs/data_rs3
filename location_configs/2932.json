@@ -1,0 +1,33 @@
+{
+  "id": 2932,
+  "models": {
+    "10": [
+      37454
+    ]
+  },
+  "name": "Barrel",
+  "ambient": 25,
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6444,
+      6434
+    ],
+    [
+      6439,
+      6434
+    ],
+    [
+      6434,
+      6429
+    ]
+  ],
+  "occludes_2": false
+}

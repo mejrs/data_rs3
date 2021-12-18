@@ -1,0 +1,15 @@
+{
+  "id": 28361,
+  "models": {
+    "10": [
+      30413
+    ]
+  },
+  "name": "Pillow",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

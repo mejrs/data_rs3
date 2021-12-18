@@ -1,0 +1,30 @@
+{
+  "id": 79911,
+  "models": {
+    "10": [
+      80630,
+      80634
+    ]
+  },
+  "name": "Library door",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

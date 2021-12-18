@@ -1,0 +1,27 @@
+{
+  "id": 9019,
+  "models": {
+    "10": [
+      8899
+    ]
+  },
+  "name": "Medium jungle",
+  "is_transparent": true,
+  "unknown_24": 2380,
+  "colours": [
+    [
+      6825,
+      7841
+    ],
+    [
+      6585,
+      7851
+    ],
+    [
+      15017,
+      16037
+    ]
+  ],
+  "mapscene": 5,
+  "occludes_2": false
+}

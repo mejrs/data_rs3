@@ -1,0 +1,20 @@
+{
+  "id": 13477,
+  "models": {
+    "10": [
+      13186,
+      13187
+    ]
+  },
+  "name": "Gazebo",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

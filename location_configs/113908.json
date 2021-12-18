@@ -1,0 +1,16 @@
+{
+  "id": 113908,
+  "models": {
+    "10": [
+      58319
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 12,
+  "dim_y": 8,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

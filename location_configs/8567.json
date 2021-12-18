@@ -1,0 +1,29 @@
+{
+  "id": 8567,
+  "models": {
+    "10": [
+      8213,
+      7766
+    ]
+  },
+  "name": "Diseased potatoes",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      10768,
+      16536
+    ],
+    [
+      15774,
+      9630
+    ]
+  ],
+  "occludes_2": false
+}

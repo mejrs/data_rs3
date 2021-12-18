@@ -1,0 +1,23 @@
+{
+  "id": 9431,
+  "models": {
+    "10": [
+      24542,
+      9412,
+      9409
+    ]
+  },
+  "name": "Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

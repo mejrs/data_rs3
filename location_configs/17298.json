@@ -1,0 +1,25 @@
+{
+  "id": 17298,
+  "models": {
+    "10": [
+      11191,
+      8195
+    ]
+  },
+  "name": "Cabbage stand",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      21456
+    ]
+  ],
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 128,
+  "unknown_88": false,
+  "occludes_2": false
+}

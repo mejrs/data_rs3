@@ -1,0 +1,21 @@
+{
+  "id": 13561,
+  "models": {
+    "10": [
+      13221,
+      13215
+    ]
+  },
+  "name": "Pump and tub",
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

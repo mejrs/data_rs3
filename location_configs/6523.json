@@ -1,0 +1,16 @@
+{
+  "id": 6523,
+  "models": {
+    "10": [
+      85966
+    ]
+  },
+  "name": "Rushes",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 125,
+  "scale_z": 125,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

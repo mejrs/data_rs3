@@ -1,0 +1,15 @@
+{
+  "id": 12551,
+  "models": {
+    "10": [
+      13718
+    ]
+  },
+  "name": "Old tree",
+  "dim_x": 4,
+  "unknown_21": true,
+  "unknown_24": 3459,
+  "model": false,
+  "mapscene": 0,
+  "occludes_2": false
+}

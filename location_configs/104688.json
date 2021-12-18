@@ -1,0 +1,15 @@
+{
+  "id": 104688,
+  "models": {
+    "10": [
+      114765
+    ]
+  },
+  "name": "Squiffberry bush",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

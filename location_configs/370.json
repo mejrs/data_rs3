@@ -1,0 +1,27 @@
+{
+  "id": 370,
+  "models": {
+    "10": [
+      2244
+    ]
+  },
+  "name": "Open Cupboard",
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

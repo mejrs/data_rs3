@@ -1,0 +1,13 @@
+{
+  "id": 3972,
+  "models": {
+    "10": [
+      55024
+    ]
+  },
+  "name": "Farming patch (potato fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "is_members": true,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 106508,
+  "models": {
+    "10": [
+      69575,
+      117020
+    ]
+  },
+  "name": "Mysterious Ice block",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 42893,
+  "models": {
+    "10": [
+      76565
+    ]
+  },
+  "name": "Dead tree covered in snow",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 42,
+  "mapscene": 6,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

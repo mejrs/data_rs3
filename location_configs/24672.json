@@ -1,0 +1,39 @@
+{
+  "id": 24672,
+  "models": {
+    "10": [
+      120145
+    ]
+  },
+  "name": "Staircase",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Walk up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8844,
+      6554
+    ],
+    [
+      4510,
+      6674
+    ],
+    [
+      4882,
+      6550
+    ]
+  ],
+  "unknown_69": 11,
+  "translate_y": 65523,
+  "translate_z": 65493,
+  "mapscene": 7,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 97068,
+  "models": {
+    "10": [
+      104038
+    ]
+  },
+  "name": "Rockface",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5102": 1
+  }
+}

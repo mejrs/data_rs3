@@ -1,0 +1,57 @@
+{
+  "id": 44229,
+  "models": {
+    "10": [
+      12150
+    ]
+  },
+  "name": "Closed chest",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    "Pick-lock",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6682,
+      6420
+    ],
+    [
+      6443,
+      6430
+    ],
+    [
+      82,
+      10400
+    ],
+    [
+      66,
+      10392
+    ],
+    [
+      49,
+      10405
+    ],
+    [
+      24,
+      10384
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 1525,
+  "models": {
+    "0": [
+      60565
+    ],
+    "3": [
+      60566
+    ]
+  },
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "unknown_28": 16,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      38119,
+      7378
+    ],
+    [
+      41067,
+      5421
+    ]
+  ],
+  "textures": {
+    "2382": 2315
+  },
+  "scale_y": 104,
+  "unknown_170": 954,
+  "unknown_196": 3
+}

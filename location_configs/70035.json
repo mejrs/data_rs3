@@ -1,0 +1,20 @@
+{
+  "id": 70035,
+  "models": {
+    "10": [
+      68841
+    ]
+  },
+  "name": "Hopper",
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "translate_x": 64,
+  "translate_z": 65472,
+  "occludes_2": false
+}

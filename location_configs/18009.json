@@ -1,0 +1,12 @@
+{
+  "id": 18009,
+  "models": {
+    "10": [
+      17740
+    ]
+  },
+  "name": "Broken fish display",
+  "dim_x": 2,
+  "ambient": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 15898,
+  "models": {
+    "10": [
+      15756
+    ]
+  },
+  "name": "Copper Ladder",
+  "unknown_27": false,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_69": 7,
+  "translate_x": 65516,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

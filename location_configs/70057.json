@@ -1,0 +1,52 @@
+{
+  "id": 70057,
+  "models": {
+    "10": [
+      21831
+    ]
+  },
+  "name": "Arctic Pine",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      15629,
+      33018
+    ]
+  ],
+  "textures": {
+    "2216": 2189,
+    "2217": 2189,
+    "2218": 2189,
+    "2219": 2189,
+    "2222": 2189
+  },
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 95,
+  "scale_z": 110,
+  "unknown_81": 32,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

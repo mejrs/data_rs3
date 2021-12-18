@@ -1,0 +1,36 @@
+{
+  "id": 2020,
+  "models": {
+    "10": [
+      1716
+    ]
+  },
+  "name": "Dead tree",
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7054,
+      5388
+    ],
+    [
+      6028,
+      5388
+    ]
+  ],
+  "mapscene": 6,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

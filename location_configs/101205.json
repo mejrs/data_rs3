@@ -1,0 +1,34 @@
+{
+  "id": 101205,
+  "models": {
+    "10": [
+      110366
+    ]
+  },
+  "name": "Underworld root",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 13613,
+  "models": {
+    "10": [
+      40832
+    ]
+  },
+  "name": "Marble fireplace",
+  "dim_y": 2,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

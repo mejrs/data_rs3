@@ -1,0 +1,32 @@
+{
+  "id": 70510,
+  "models": {
+    "10": [
+      69482,
+      69481
+    ]
+  },
+  "name": "Bone ladder",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb Up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 7,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

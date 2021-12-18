@@ -1,0 +1,31 @@
+{
+  "id": 6775,
+  "models": {
+    "10": [
+      27886
+    ]
+  },
+  "name": "Chest",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    "Quick loot",
+    "Close",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

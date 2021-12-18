@@ -1,0 +1,18 @@
+{
+  "id": 49287,
+  "models": {
+    "0": [
+      52925
+    ]
+  },
+  "name": "Tunnel",
+  "ambient": 15,
+  "actions": [
+    "Block",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10
+}

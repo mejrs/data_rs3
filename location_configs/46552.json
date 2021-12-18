@@ -1,0 +1,28 @@
+{
+  "id": 46552,
+  "models": {
+    "10": [
+      50313
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 12298,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

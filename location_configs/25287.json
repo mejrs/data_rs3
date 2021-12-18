@@ -1,0 +1,13 @@
+{
+  "id": 25287,
+  "models": {
+    "10": [
+      2214
+    ]
+  },
+  "name": "Boat station",
+  "dim_x": 3,
+  "dim_y": 2,
+  "model": false,
+  "occludes_2": false
+}

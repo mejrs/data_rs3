@@ -1,0 +1,30 @@
+{
+  "id": 107360,
+  "models": {
+    "10": [
+      117659
+    ]
+  },
+  "name": "Altar of Boosted Anima",
+  "ambient": 20,
+  "actions": [
+    "Sacrifice",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      424,
+      40366
+    ],
+    [
+      430,
+      40372
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 594
+}

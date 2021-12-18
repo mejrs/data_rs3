@@ -1,0 +1,28 @@
+{
+  "id": 46811,
+  "models": {
+    "10": [
+      50157
+    ]
+  },
+  "name": "Chair",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Web",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    150,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

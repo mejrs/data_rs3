@@ -1,0 +1,27 @@
+{
+  "id": 13523,
+  "models": {
+    "4": [
+      12153
+    ]
+  },
+  "name": "Amulet of Glory",
+  "ambient": 25,
+  "actions": [
+    "Rub",
+    "Teleport: Edgeville",
+    "Teleport: Karamja",
+    "Teleport: Draynor",
+    "Teleport: Al Kharid"
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

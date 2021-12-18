@@ -1,0 +1,30 @@
+{
+  "id": 16043,
+  "models": {
+    "0": [
+      15608
+    ],
+    "10": [
+      15607
+    ]
+  },
+  "name": "Portal of Death",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 4284,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

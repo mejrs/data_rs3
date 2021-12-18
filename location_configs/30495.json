@@ -1,0 +1,28 @@
+{
+  "id": 30495,
+  "models": {
+    "10": [
+      33552
+    ]
+  },
+  "name": "Wooden beam",
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 160,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

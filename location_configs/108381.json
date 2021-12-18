@@ -1,0 +1,24 @@
+{
+  "id": 108381,
+  "models": {
+    "10": [
+      118861
+    ]
+  },
+  "name": "Mural",
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 32,
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 115,
+  "translate_y": 65481,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43872,
+  "models": {
+    "10": [
+      70762
+    ]
+  },
+  "name": "Open space",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

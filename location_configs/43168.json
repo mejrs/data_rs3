@@ -1,0 +1,21 @@
+{
+  "id": 43168,
+  "models": {
+    "10": [
+      46825
+    ]
+  },
+  "name": "Engine panel",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

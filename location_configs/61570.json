@@ -1,0 +1,28 @@
+{
+  "id": 61570,
+  "models": {
+    "10": [
+      57482
+    ]
+  },
+  "name": "Shadow pedestal",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "occludes_2": false
+}

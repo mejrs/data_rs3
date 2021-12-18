@@ -1,0 +1,12 @@
+{
+  "id": 15128,
+  "models": {
+    "10": [
+      15056
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2651,
+  "models": {
+    "10": [
+      36487
+    ]
+  },
+  "name": "Drawers",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Search",
+    "Close",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8487,
+      8460
+    ],
+    [
+      8478,
+      8457
+    ],
+    [
+      8598,
+      8454
+    ],
+    [
+      3974,
+      8450
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 94967,
+  "models": {
+    "10": [
+      101058
+    ]
+  },
+  "name": "Circuit transceiver (unpowered)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": 15296,
+  "models": {
+    "10": [
+      12894
+    ]
+  },
+  "name": "Storage space",
+  "dim_x": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

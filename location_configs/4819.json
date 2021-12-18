@@ -1,0 +1,12 @@
+{
+  "id": 4819,
+  "models": {
+    "10": [
+      4837
+    ]
+  },
+  "name": "Jungle Tree Stump",
+  "ambient": 40,
+  "mapscene": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": 67970,
+  "models": {
+    "10": [
+      61958,
+      61960
+    ]
+  },
+  "name": "Red sandstone",
+  "dim_x": 4,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8529,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "unknown_81": 32,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_189": true,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

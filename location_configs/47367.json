@@ -1,0 +1,21 @@
+{
+  "id": 47367,
+  "models": {
+    "4": [
+      50965
+    ]
+  },
+  "name": "Lever B",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pull",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65466,
+  "occludes_2": false
+}

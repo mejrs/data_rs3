@@ -1,0 +1,18 @@
+{
+  "id": 65900,
+  "models": {
+    "22": [
+      44369
+    ]
+  },
+  "ambient": -35,
+  "contrast": 15,
+  "colours": [
+    [
+      916,
+      6317
+    ]
+  ],
+  "translate_y": 65535,
+  "occludes_2": false
+}

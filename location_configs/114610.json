@@ -1,0 +1,22 @@
+{
+  "id": 114610,
+  "models": {
+    "10": [
+      82927
+    ]
+  },
+  "name": "Remote farm device",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

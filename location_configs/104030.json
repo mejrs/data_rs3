@@ -1,0 +1,13 @@
+{
+  "id": 104030,
+  "models": {
+    "10": [
+      113550
+    ]
+  },
+  "name": "Dead fish",
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 563
+}

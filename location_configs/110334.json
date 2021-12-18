@@ -1,0 +1,28 @@
+{
+  "id": 110334,
+  "models": {
+    "10": [
+      113426
+    ]
+  },
+  "name": "Fish in a barrel",
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 6948,
+  "models": {
+    "10": [
+      3951
+    ]
+  },
+  "name": "Abyss",
+  "actions": [
+    "Dive",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

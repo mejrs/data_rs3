@@ -1,0 +1,16 @@
+{
+  "id": 19037,
+  "models": {
+    "10": [
+      20496,
+      20495
+    ]
+  },
+  "name": "Cage with gublinch",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5073,
+  "ambient": 20,
+  "unknown_69": 11,
+  "occludes_2": false
+}

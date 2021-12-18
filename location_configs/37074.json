@@ -1,0 +1,15 @@
+{
+  "id": 37074,
+  "models": {
+    "22": [
+      40578
+    ]
+  },
+  "name": "Ectoplasm",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 90,
+  "contrast": 50,
+  "unknown_88": false,
+  "occludes_2": false
+}

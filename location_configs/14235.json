@@ -1,0 +1,29 @@
+{
+  "id": 14235,
+  "models": {
+    "0": [
+      14467
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "model": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

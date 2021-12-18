@@ -1,0 +1,48 @@
+{
+  "id": 31819,
+  "models": {
+    "10": [
+      50166
+    ]
+  },
+  "name": "Towels",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7706,
+      3214
+    ],
+    [
+      7582,
+      3218
+    ],
+    [
+      7587,
+      3230
+    ]
+  ],
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

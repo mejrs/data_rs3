@@ -1,0 +1,19 @@
+{
+  "id": 9004,
+  "models": {
+    "10": [
+      8798
+    ]
+  },
+  "name": "Appendage",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 42869,
+  "models": {
+    "10": [
+      45687
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      37,
+      7335
+    ],
+    [
+      32,
+      10254
+    ],
+    [
+      26,
+      10249
+    ]
+  ],
+  "mapscene": 12,
+  "occludes_2": false
+}

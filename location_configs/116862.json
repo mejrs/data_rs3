@@ -1,0 +1,17 @@
+{
+  "id": 116862,
+  "models": {
+    "10": [
+      90734,
+      90777,
+      102821
+    ]
+  },
+  "name": "Cancer sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 33177,
+  "unknown_27": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

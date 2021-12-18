@@ -1,0 +1,13 @@
+{
+  "id": 106361,
+  "models": {
+    "10": [
+      103661
+    ]
+  },
+  "name": "Fishing net",
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

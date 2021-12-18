@@ -1,0 +1,24 @@
+{
+  "id": 42602,
+  "models": {
+    "10": [
+      45999
+    ]
+  },
+  "name": "Statue with bowl",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_24": 11483,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

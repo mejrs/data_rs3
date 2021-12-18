@@ -1,0 +1,15 @@
+{
+  "id": 103190,
+  "models": {
+    "10": [
+      87131
+    ]
+  },
+  "name": "Storm cellar",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

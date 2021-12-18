@@ -1,0 +1,13 @@
+{
+  "id": 103178,
+  "models": {
+    "10": [
+      102256
+    ]
+  },
+  "name": "Vault Door",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

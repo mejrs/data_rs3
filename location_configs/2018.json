@@ -1,0 +1,18 @@
+{
+  "id": 2018,
+  "models": {
+    "10": [
+      2329
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 522,
+  "ambient": 80,
+  "contrast": 80,
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "unknown_88": false,
+  "occludes_2": false
+}

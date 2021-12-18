@@ -1,0 +1,44 @@
+{
+  "id": 6876,
+  "models": {
+    "10": [
+      2247
+    ]
+  },
+  "name": "Cupboard",
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7104,
+      45
+    ],
+    [
+      6046,
+      7954
+    ],
+    [
+      5002,
+      5786
+    ]
+  ],
+  "textures": {
+    "2094": 2649
+  },
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

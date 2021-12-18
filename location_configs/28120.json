@@ -1,0 +1,13 @@
+{
+  "id": 28120,
+  "models": {
+    "10": [
+      47260
+    ]
+  },
+  "name": "Rug",
+  "dim_x": 3,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

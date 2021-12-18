@@ -1,0 +1,13 @@
+{
+  "id": 8918,
+  "models": {
+    "10": [
+      8655
+    ]
+  },
+  "name": "Banner",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "occludes_2": false
+}

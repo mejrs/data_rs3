@@ -1,0 +1,33 @@
+{
+  "id": 4964,
+  "models": {
+    "0": [
+      639
+    ]
+  },
+  "name": "Large door",
+  "occludes_1": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2108": 2073,
+    "2318": 2073
+  },
+  "mirror": true,
+  "scale_y": 153,
+  "unknown_75": 0,
+  "unknown_170": 1148,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

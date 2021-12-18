@@ -1,0 +1,16 @@
+{
+  "id": 2327,
+  "models": {
+    "10": [
+      2276
+    ]
+  },
+  "name": "Long branched tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_81": 64,
+  "occludes_2": false,
+  "unknown_196": 2
+}

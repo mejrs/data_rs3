@@ -1,0 +1,16 @@
+{
+  "id": 121913,
+  "models": {
+    "10": [
+      84377
+    ]
+  },
+  "name": "Rock",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "11802": 12160
+  },
+  "occludes_2": false
+}

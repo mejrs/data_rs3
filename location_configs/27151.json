@@ -1,0 +1,32 @@
+{
+  "id": 27151,
+  "models": {
+    "10": [
+      29096
+    ]
+  },
+  "name": "Vine",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 7,
+  "translate_y": 65476,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 83072,
+  "models": {
+    "10": [
+      84183
+    ]
+  },
+  "name": "Strange map",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 19936,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

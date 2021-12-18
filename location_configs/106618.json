@@ -1,0 +1,25 @@
+{
+  "id": 106618,
+  "models": {
+    "10": [
+      117116
+    ]
+  },
+  "name": "Crater",
+  "dim_x": 13,
+  "dim_y": 13,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Help",
+    "Grow magical tree with magic",
+    "Grow magical tree with farming",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

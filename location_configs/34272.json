@@ -1,0 +1,12 @@
+{
+  "id": 34272,
+  "models": {
+    "10": [
+      35687
+    ]
+  },
+  "name": "Keg",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "occludes_2": false
+}

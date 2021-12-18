@@ -1,0 +1,23 @@
+{
+  "id": 63059,
+  "models": {
+    "10": [
+      3999
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 18,
+  "contrast": 15,
+  "textures": {
+    "2980": 9001
+  },
+  "model": false,
+  "unknown_88": false,
+  "mapscene": 25,
+  "occludes_2": false
+}

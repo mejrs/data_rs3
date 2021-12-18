@@ -1,0 +1,54 @@
+{
+  "id": 17811,
+  "models": {
+    "10": [
+      52894
+    ]
+  },
+  "name": "Diseased morchella mushrooms",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      3640,
+      14648
+    ],
+    [
+      3645,
+      14653
+    ],
+    [
+      3646,
+      14654
+    ],
+    [
+      3651,
+      14659
+    ],
+    [
+      3654,
+      14662
+    ],
+    [
+      4664,
+      15672
+    ],
+    [
+      4670,
+      15678
+    ],
+    [
+      4674,
+      15682
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

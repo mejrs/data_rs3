@@ -1,0 +1,31 @@
+{
+  "id": 113235,
+  "models": {
+    "10": [
+      72205,
+      74285
+    ]
+  },
+  "name": "Burst pipe",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Mend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

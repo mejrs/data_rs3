@@ -1,0 +1,24 @@
+{
+  "id": 41866,
+  "models": {
+    "10": [
+      64968,
+      64969
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_24": 4239,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 3473,
+    "unknown_2": 12
+  },
+  "unknown_81": 42,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_104": 200
+}

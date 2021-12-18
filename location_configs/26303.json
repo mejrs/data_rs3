@@ -1,0 +1,22 @@
+{
+  "id": 26303,
+  "models": {
+    "10": [
+      23314
+    ]
+  },
+  "name": "Pillar",
+  "dim_y": 9,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Grapple",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

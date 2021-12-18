@@ -1,0 +1,26 @@
+{
+  "id": 118280,
+  "models": {
+    "10": [
+      120778
+    ]
+  },
+  "name": "Bookcase space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

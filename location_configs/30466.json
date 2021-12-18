@@ -1,0 +1,16 @@
+{
+  "id": 30466,
+  "models": {
+    "10": [
+      105512,
+      3604
+    ]
+  },
+  "name": "Kael Forshaw",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9085,
+  "unknown_89": false,
+  "occludes_2": false
+}

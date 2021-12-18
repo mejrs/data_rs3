@@ -1,0 +1,14 @@
+{
+  "id": 105025,
+  "models": {
+    "10": [
+      114802
+    ]
+  },
+  "name": "Study",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

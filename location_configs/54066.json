@@ -1,0 +1,37 @@
+{
+  "id": 54066,
+  "models": {
+    "22": [
+      54839
+    ]
+  },
+  "name": "Yellow tile",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 13783,
+  "ambient": 20,
+  "actions": [
+    "Imbue",
+    "Force",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    66,
+    66,
+    null,
+    null,
+    null,
+    null
+  ]
+}

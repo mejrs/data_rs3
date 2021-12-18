@@ -1,0 +1,25 @@
+{
+  "id": 18740,
+  "models": {
+    "10": [
+      18820
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 20,
+  "colours": [
+    [
+      6682,
+      7566
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 4928,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 64,
+  "unknown_1": 230,
+  "unknown_2": 270
+}

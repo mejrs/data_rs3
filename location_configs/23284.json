@@ -1,0 +1,30 @@
+{
+  "id": 23284,
+  "models": {
+    "10": [
+      24405
+    ]
+  },
+  "name": "Zanik",
+  "dim_y": 3,
+  "unknown_24": 6211,
+  "ambient": 20,
+  "actions": [
+    "Untie",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    156,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

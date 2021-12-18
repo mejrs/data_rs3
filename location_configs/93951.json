@@ -1,0 +1,15 @@
+{
+  "id": 93951,
+  "models": {
+    "10": [
+      99575
+    ]
+  },
+  "name": "Trophy head",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_x": 128,
+  "translate_y": 64,
+  "occludes_2": false
+}

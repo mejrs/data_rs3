@@ -1,0 +1,15 @@
+{
+  "id": 53055,
+  "models": {
+    "10": [
+      14147,
+      19972
+    ]
+  },
+  "name": "Swamp tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "model": false,
+  "occludes_2": false
+}

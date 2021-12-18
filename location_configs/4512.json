@@ -1,0 +1,51 @@
+{
+  "id": 4512,
+  "models": {
+    "10": [
+      83796
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 35,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37945,
+      10287
+    ],
+    [
+      37937,
+      10279
+    ],
+    [
+      37933,
+      10275
+    ],
+    [
+      37929,
+      10270
+    ],
+    [
+      37925,
+      10266
+    ]
+  ],
+  "unknown_44": 61,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

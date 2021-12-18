@@ -1,0 +1,45 @@
+{
+  "id": 110518,
+  "models": {
+    "10": [
+      5494,
+      17398
+    ]
+  },
+  "name": "Sack of items (hidey-hole)",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6430,
+      7347
+    ],
+    [
+      6674,
+      7339
+    ],
+    [
+      6554,
+      7333
+    ],
+    [
+      6550,
+      7327
+    ]
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "occludes_2": false,
+  "params": {
+    "6896": 10
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": 86693,
+  "models": {
+    "10": [
+      88980
+    ]
+  },
+  "name": "Sir Owen",
+  "unknown_19": 1,
+  "unknown_24": 18019,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      363
+    ]
+  },
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

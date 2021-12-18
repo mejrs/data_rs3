@@ -1,0 +1,26 @@
+{
+  "id": 16152,
+  "models": {
+    "10": [
+      15592
+    ]
+  },
+  "name": "Dead Explorer",
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

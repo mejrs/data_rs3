@@ -1,0 +1,48 @@
+{
+  "id": 30539,
+  "models": {
+    "10": [
+      8232,
+      24821
+    ]
+  },
+  "name": "Coal barrel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      7587
+    ],
+    [
+      5665,
+      7582
+    ],
+    [
+      5660,
+      7706
+    ],
+    [
+      5784,
+      7830
+    ]
+  ],
+  "unknown_44": 30,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

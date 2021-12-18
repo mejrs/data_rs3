@@ -1,0 +1,14 @@
+{
+  "id": 21902,
+  "models": {
+    "10": [
+      22656,
+      22660
+    ]
+  },
+  "name": "Magic well",
+  "unknown_22": true,
+  "ambient": 10,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15409,
+  "models": {
+    "10": [
+      12876
+    ]
+  },
+  "name": "Centrepiece space",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

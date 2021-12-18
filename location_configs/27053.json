@@ -1,0 +1,30 @@
+{
+  "id": 27053,
+  "models": {
+    "10": [
+      29117,
+      29118
+    ]
+  },
+  "name": "A parcel",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 0,
+  "colours": [
+    [
+      6554,
+      7440
+    ],
+    [
+      6435,
+      7444
+    ],
+    [
+      6315,
+      7448
+    ]
+  ],
+  "occludes_2": false
+}

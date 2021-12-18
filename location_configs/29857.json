@@ -1,0 +1,24 @@
+{
+  "id": 29857,
+  "models": {
+    "10": [
+      32639
+    ]
+  },
+  "name": "Incubator",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8892,
+  "ambient": 5,
+  "actions": [
+    "Add-Egg",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

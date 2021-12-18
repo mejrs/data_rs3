@@ -1,0 +1,27 @@
+{
+  "id": 11242,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 10817,
+    "ids": [
+      null,
+      11316
+    ]
+  },
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

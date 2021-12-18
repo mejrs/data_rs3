@@ -1,0 +1,20 @@
+{
+  "id": 12332,
+  "models": {
+    "10": [
+      78509
+    ]
+  },
+  "name": "General Bentnoze",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 148,
+  "scale_y": 148,
+  "scale_z": 148,
+  "occludes_2": false
+}

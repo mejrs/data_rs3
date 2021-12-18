@@ -1,0 +1,32 @@
+{
+  "id": 24644,
+  "models": {
+    "10": [
+      25618
+    ]
+  },
+  "name": "Display case",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "515": 308,
+    "874": 881,
+    "891": 881
+  },
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

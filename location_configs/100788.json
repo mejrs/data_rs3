@@ -1,0 +1,15 @@
+{
+  "id": 100788,
+  "models": {
+    "10": [
+      108423,
+      108417
+    ]
+  },
+  "name": "2008 Summoning altar statue",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 16,
+  "occludes_2": false
+}

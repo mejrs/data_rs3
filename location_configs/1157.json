@@ -1,0 +1,17 @@
+{
+  "id": 1157,
+  "models": {
+    "10": [
+      1680
+    ]
+  },
+  "name": "Potted flower",
+  "is_transparent": true,
+  "colours": [
+    [
+      43968,
+      939
+    ]
+  ],
+  "occludes_2": false
+}

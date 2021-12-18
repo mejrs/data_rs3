@@ -1,0 +1,22 @@
+{
+  "id": 82987,
+  "models": {
+    "10": [
+      84322
+    ]
+  },
+  "name": "Stone tablet",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

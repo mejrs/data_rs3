@@ -1,0 +1,27 @@
+{
+  "id": 49023,
+  "models": {
+    "4": [
+      17736
+    ]
+  },
+  "name": "Net on hooks",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7322,
+      6439
+    ],
+    [
+      10382,
+      6439
+    ],
+    [
+      21522,
+      6419
+    ]
+  ],
+  "occludes_2": false
+}

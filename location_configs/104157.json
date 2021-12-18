@@ -1,0 +1,13 @@
+{
+  "id": 104157,
+  "models": {
+    "10": [
+      113440
+    ]
+  },
+  "name": "Cage",
+  "unknown_27": false,
+  "ambient": 50,
+  "model": false,
+  "occludes_2": false
+}

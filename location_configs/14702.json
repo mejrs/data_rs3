@@ -1,0 +1,31 @@
+{
+  "id": 14702,
+  "models": {
+    "0": [
+      63262
+    ]
+  },
+  "name": "Hidden compartment",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

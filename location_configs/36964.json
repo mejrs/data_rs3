@@ -1,0 +1,29 @@
+{
+  "id": 36964,
+  "models": {
+    "10": [
+      36780
+    ]
+  },
+  "name": "Stairs",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

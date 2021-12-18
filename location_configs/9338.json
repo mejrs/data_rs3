@@ -1,0 +1,30 @@
+{
+  "id": 9338,
+  "models": {
+    "10": [
+      7798,
+      7812,
+      7767
+    ]
+  },
+  "name": "Scarecrow",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      14866
+    ],
+    [
+      14230,
+      14990
+    ]
+  ],
+  "occludes_2": false
+}

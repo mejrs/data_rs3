@@ -1,0 +1,32 @@
+{
+  "id": 43828,
+  "models": {
+    "10": [
+      101517,
+      7768
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "unknown_81": 50,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

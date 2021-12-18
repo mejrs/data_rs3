@@ -1,0 +1,19 @@
+{
+  "id": 119223,
+  "models": {
+    "22": [
+      75463
+    ]
+  },
+  "name": "Book",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      19472,
+      7168
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_167": 40
+}

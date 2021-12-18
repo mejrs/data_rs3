@@ -1,0 +1,15 @@
+{
+  "id": 98446,
+  "models": {
+    "10": [
+      105672
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "mapscene": 11,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 93997,
+  "models": {
+    "10": [
+      99437,
+      99438
+    ]
+  },
+  "name": "Reception desk",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

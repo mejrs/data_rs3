@@ -1,0 +1,28 @@
+{
+  "id": 32250,
+  "models": {
+    "22": [
+      1089
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      6684,
+      6558
+    ],
+    [
+      6932,
+      6679
+    ],
+    [
+      5772,
+      5525
+    ]
+  ],
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false,
+  "unknown_196": 3
+}

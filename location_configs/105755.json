@@ -1,0 +1,30 @@
+{
+  "id": 105755,
+  "models": {
+    "10": [
+      115982
+    ]
+  },
+  "name": "Stone shard",
+  "dim_x": 7,
+  "unknown_19": 1,
+  "unknown_24": 29792,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": 81977,
+  "models": {
+    "10": [
+      82831,
+      82815
+    ]
+  },
+  "name": "Statue of Graardor",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 5,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 24824,
+  "models": {
+    "10": [
+      1398
+    ]
+  },
+  "name": "Mine cart",
+  "actions": [
+    "Deposit-components",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 4881,
+  "models": {
+    "10": [
+      3640
+    ]
+  },
+  "name": "Climbing rope",
+  "unknown_19": 1,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

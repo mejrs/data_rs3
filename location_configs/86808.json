@@ -1,0 +1,18 @@
+{
+  "id": 86808,
+  "models": {
+    "10": [
+      88682
+    ]
+  },
+  "name": "Heap of bones",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

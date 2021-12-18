@@ -1,0 +1,22 @@
+{
+  "id": 5154,
+  "models": {
+    "10": [
+      1468
+    ]
+  },
+  "name": "Log pile",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4766,
+      5400
+    ],
+    [
+      6961,
+      6563
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 93495,
+  "models": {
+    "10": [
+      94313
+    ]
+  },
+  "name": "Energy rift",
+  "dim_x": 6,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Convert memories",
+    "Configure",
+    "Empower",
+    "Check power",
+    "Enter cache"
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    200,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

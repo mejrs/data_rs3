@@ -1,0 +1,22 @@
+{
+  "id": 4949,
+  "models": {
+    "10": [
+      21246
+    ]
+  },
+  "name": "Points settings",
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "scale_y": 153,
+  "occludes_2": false
+}

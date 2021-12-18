@@ -1,0 +1,22 @@
+{
+  "id": 89900,
+  "models": {
+    "10": [
+      94470
+    ]
+  },
+  "name": "Door",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_24": 23192,
+  "ambient": 64,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_186": 0
+}

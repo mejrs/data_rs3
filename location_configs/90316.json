@@ -1,0 +1,26 @@
+{
+  "id": 90316,
+  "models": {
+    "10": [
+      95566
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 23380,
+  "unknown_27": false,
+  "ambient": 64,
+  "colours": [
+    [
+      36300,
+      966
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

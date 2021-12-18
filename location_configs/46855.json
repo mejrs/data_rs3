@@ -1,0 +1,14 @@
+{
+  "id": 46855,
+  "models": {
+    "10": [
+      50139
+    ]
+  },
+  "name": "Wardrobe",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 16,
+  "occludes_2": false
+}

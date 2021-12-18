@@ -1,0 +1,27 @@
+{
+  "id": 66446,
+  "models": {
+    "13": [
+      32318
+    ],
+    "18": [
+      60576
+    ]
+  },
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      8076,
+      7587
+    ],
+    [
+      6024,
+      7830
+    ]
+  ],
+  "mirror": true,
+  "translate_y": 10,
+  "occludes_2": false
+}

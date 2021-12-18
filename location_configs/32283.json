@@ -1,0 +1,22 @@
+{
+  "id": 32283,
+  "models": {
+    "10": [
+      1271
+    ]
+  },
+  "name": "Cooking shelves",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      6554
+    ],
+    [
+      8076,
+      6552
+    ]
+  ],
+  "occludes_2": false
+}

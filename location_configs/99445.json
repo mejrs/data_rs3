@@ -1,0 +1,34 @@
+{
+  "id": 99445,
+  "models": {
+    "22": [
+      106964
+    ]
+  },
+  "name": "Chasm",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      380
+    ]
+  },
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

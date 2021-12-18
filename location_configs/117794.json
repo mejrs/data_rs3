@@ -1,0 +1,23 @@
+{
+  "id": 117794,
+  "models": {
+    "4": [
+      117220
+    ]
+  },
+  "name": "Symbol 6",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Cycle",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_196": 4
+}

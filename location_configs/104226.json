@@ -1,0 +1,25 @@
+{
+  "id": 104226,
+  "models": {
+    "10": [
+      91748,
+      113676
+    ]
+  },
+  "name": "Cherry blossom",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "ambient": 64,
+  "textures": {
+    "4116": 7379
+  },
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

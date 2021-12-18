@@ -1,0 +1,58 @@
+{
+  "id": 112937,
+  "models": {
+    "10": [
+      74154,
+      73986
+    ]
+  },
+  "name": "Sandstone rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32536,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      8647
+    ],
+    [
+      3135,
+      8509
+    ],
+    [
+      3127,
+      8499
+    ],
+    [
+      2109,
+      8489
+    ],
+    [
+      3143,
+      8479
+    ]
+  ],
+  "textures": {
+    "322": 10890
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 100597,
+  "models": {
+    "10": [
+      108067
+    ]
+  },
+  "name": "Presents",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 105468,
+  "models": {
+    "10": [
+      115253,
+      115226
+    ]
+  },
+  "name": "Arm bin",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 16626,
+  "unknown_27": false,
+  "ambient": 42,
+  "actions": [
+    "Toss",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

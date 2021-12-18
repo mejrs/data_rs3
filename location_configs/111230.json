@@ -1,0 +1,28 @@
+{
+  "id": 111230,
+  "models": {
+    "0": [
+      24852
+    ]
+  },
+  "name": "Treasury door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pick-lock",
+    "Open",
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "scale_y": 158,
+  "cursors": [
+    null,
+    49,
+    null,
+    null,
+    null,
+    null
+  ]
+}

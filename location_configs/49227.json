@@ -1,0 +1,40 @@
+{
+  "id": 49227,
+  "models": {
+    "10": [
+      19924
+    ]
+  },
+  "name": "Spirit tree",
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2637": 2661,
+    "2653": 2639
+  },
+  "model": false,
+  "unknown_81": 32,
+  "mapscene": 0,
+  "occludes_2": false,
+  "member_actions": [
+    "Talk-to",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "unknown_189": true,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

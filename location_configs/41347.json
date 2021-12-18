@@ -1,0 +1,29 @@
+{
+  "id": 41347,
+  "models": {
+    "10": [
+      78900
+    ]
+  },
+  "name": "Altar",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

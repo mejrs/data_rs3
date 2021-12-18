@@ -1,0 +1,18 @@
+{
+  "id": 24260,
+  "models": {
+    "10": [
+      25045
+    ]
+  },
+  "name": "Banner",
+  "unknown_19": 1,
+  "unknown_24": 9642,
+  "ambient": 25,
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 70
+}

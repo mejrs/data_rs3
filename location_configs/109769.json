@@ -1,0 +1,21 @@
+{
+  "id": 109769,
+  "models": {
+    "10": [
+      120268
+    ]
+  },
+  "name": "Partial potion producer",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 31070,
+  "ambient": 20,
+  "actions": [
+    "Manage",
+    "Withdraw products",
+    null,
+    "Modify",
+    "Remove"
+  ],
+  "occludes_2": false
+}

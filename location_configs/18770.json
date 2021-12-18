@@ -1,0 +1,30 @@
+{
+  "id": 18770,
+  "models": {
+    "10": [
+      19007
+    ]
+  },
+  "name": "Marble cape rack",
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "textures": {
+    "2310": 2415,
+    "2376": 2413
+  },
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

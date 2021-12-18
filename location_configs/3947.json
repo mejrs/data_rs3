@@ -1,0 +1,12 @@
+{
+  "id": 3947,
+  "models": {
+    "10": [
+      3998
+    ]
+  },
+  "name": "Huge Gate",
+  "dim_y": 2,
+  "ambient": 25,
+  "occludes_2": false
+}

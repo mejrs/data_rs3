@@ -1,0 +1,39 @@
+{
+  "id": 36141,
+  "models": {
+    "10": [
+      29718
+    ]
+  },
+  "name": "Operation lights",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      78,
+      6200
+    ],
+    [
+      49,
+      6176
+    ],
+    [
+      41,
+      6171
+    ],
+    [
+      103,
+      6224
+    ],
+    [
+      86,
+      6244
+    ]
+  ],
+  "textures": {
+    "1437": 1424
+  },
+  "occludes_2": false
+}

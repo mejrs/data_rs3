@@ -1,0 +1,12 @@
+{
+  "id": 9522,
+  "models": {
+    "10": [
+      9529
+    ]
+  },
+  "name": "Anchor",
+  "is_transparent": true,
+  "ambient": 25,
+  "occludes_2": false
+}

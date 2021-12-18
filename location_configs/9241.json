@@ -1,0 +1,11 @@
+{
+  "id": 9241,
+  "models": {
+    "10": [
+      107311
+    ]
+  },
+  "name": "Plinth",
+  "ambient": 10,
+  "occludes_2": false
+}

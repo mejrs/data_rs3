@@ -1,0 +1,17 @@
+{
+  "id": 4875,
+  "models": {
+    "10": [
+      4759
+    ]
+  },
+  "name": "Food Stall",
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 43654,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Add paper",
+    "Check rewards",
+    null,
+    null,
+    null
+  ],
+  "morphs_2": {
+    "varp": 8277,
+    "ids": [
+      94993,
+      94993,
+      94994,
+      94995,
+      94996,
+      94997,
+      94998,
+      94999
+    ],
+    "default": 94993
+  },
+  "mapfunction": 627
+}

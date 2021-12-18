@@ -1,0 +1,16 @@
+{
+  "id": 104212,
+  "models": {
+    "10": [
+      91665
+    ]
+  },
+  "name": "Fishing boat",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 50,
+  "model": false,
+  "occludes_2": false
+}

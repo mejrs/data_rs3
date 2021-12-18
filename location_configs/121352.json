@@ -1,0 +1,33 @@
+{
+  "id": 121352,
+  "models": {
+    "10": [
+      118905
+    ]
+  },
+  "name": "Reinforcements brazier (unlit)",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_x": 65496,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

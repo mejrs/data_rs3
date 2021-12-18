@@ -1,0 +1,30 @@
+{
+  "id": 110505,
+  "models": {
+    "10": [
+      85107
+    ]
+  },
+  "name": "Dead tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "occludes_2": false,
+  "params": {
+    "6896": 9
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 12025,
+  "models": {
+    "10": [
+      57556
+    ]
+  },
+  "name": "Slider",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

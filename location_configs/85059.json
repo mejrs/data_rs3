@@ -1,0 +1,15 @@
+{
+  "id": 85059,
+  "models": {
+    "10": [
+      86930
+    ]
+  },
+  "name": "Large Table",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 20,
+  "translate_z": 65521,
+  "occludes_2": false
+}

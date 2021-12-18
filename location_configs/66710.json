@@ -1,0 +1,16 @@
+{
+  "id": 66710,
+  "models": {
+    "10": [
+      43037
+    ]
+  },
+  "name": "Dead troll",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

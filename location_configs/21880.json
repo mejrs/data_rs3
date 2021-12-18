@@ -1,0 +1,21 @@
+{
+  "id": 21880,
+  "models": {
+    "10": [
+      22667,
+      22668
+    ]
+  },
+  "name": "Pipe machine",
+  "dim_x": 2,
+  "ambient": 10,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

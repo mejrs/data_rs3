@@ -1,0 +1,17 @@
+{
+  "id": 10312,
+  "models": {
+    "10": [
+      35728
+    ]
+  },
+  "name": "Rat barn",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 2901,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 2
+}

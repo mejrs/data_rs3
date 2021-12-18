@@ -1,0 +1,13 @@
+{
+  "id": 19098,
+  "models": {
+    "10": [
+      10459,
+      10462
+    ]
+  },
+  "name": "Decorations box",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

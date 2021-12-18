@@ -1,0 +1,22 @@
+{
+  "id": 34025,
+  "models": {
+    "0": [
+      15872
+    ],
+    "1": [
+      15873
+    ],
+    "9": [
+      15874
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "textures": {
+    "1489": 1516
+  },
+  "unknown_170": 917
+}

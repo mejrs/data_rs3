@@ -1,0 +1,28 @@
+{
+  "id": 19909,
+  "models": {
+    "0": [
+      20034
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_170": 960,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

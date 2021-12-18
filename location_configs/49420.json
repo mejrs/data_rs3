@@ -1,0 +1,18 @@
+{
+  "id": 49420,
+  "models": {
+    "10": [
+      96034
+    ]
+  },
+  "name": "General Bentnoze",
+  "unknown_19": 1,
+  "unknown_24": 6181,
+  "ambient": 64,
+  "scale_x": 148,
+  "scale_y": 148,
+  "scale_z": 148,
+  "translate_x": 40,
+  "translate_y": 64819,
+  "occludes_2": false
+}

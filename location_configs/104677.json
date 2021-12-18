@@ -1,0 +1,35 @@
+{
+  "id": 104677,
+  "models": {
+    "10": [
+      114768,
+      114769
+    ]
+  },
+  "name": "Stoneberry bush",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Forage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    171,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6039": 38632,
+    "6038": 11753,
+    "6040": 38648
+  }
+}

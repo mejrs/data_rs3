@@ -1,0 +1,18 @@
+{
+  "id": 100249,
+  "models": {
+    "10": [
+      107759
+    ]
+  },
+  "name": "Dead bodies",
+  "dim_x": 4,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": -16,
+  "is_members": true,
+  "occludes_2": false
+}

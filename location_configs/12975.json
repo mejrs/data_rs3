@@ -1,0 +1,17 @@
+{
+  "id": 12975,
+  "models": {
+    "10": [
+      103266
+    ]
+  },
+  "name": "Card table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 33004,
+  "unknown_27": false,
+  "ambient": 40,
+  "unknown_69": 13,
+  "occludes_2": false
+}

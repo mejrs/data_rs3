@@ -1,0 +1,30 @@
+{
+  "id": 7854,
+  "models": {
+    "10": [
+      7850,
+      7767
+    ]
+  },
+  "name": "Limpwurt plant",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      12833,
+      8862
+    ],
+    [
+      2526,
+      3784
+    ]
+  ],
+  "unknown_44": 9,
+  "occludes_2": false
+}

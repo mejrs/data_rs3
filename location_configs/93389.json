@@ -1,0 +1,16 @@
+{
+  "id": 93389,
+  "models": {
+    "10": [
+      99265
+    ]
+  },
+  "name": "Moonlight",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65526,
+  "occludes_2": false
+}

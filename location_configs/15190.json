@@ -1,0 +1,12 @@
+{
+  "id": 15190,
+  "models": {
+    "10": [
+      13908
+    ]
+  },
+  "name": "Light",
+  "dim_y": 3,
+  "ambient": 50,
+  "occludes_2": false
+}

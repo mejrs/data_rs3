@@ -1,0 +1,33 @@
+{
+  "id": 102095,
+  "models": {
+    "10": [
+      111559
+    ]
+  },
+  "name": "Mausoleum entrance",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 70,
+  "translate_y": 700,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_188": true,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

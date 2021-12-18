@@ -1,0 +1,27 @@
+{
+  "id": 102269,
+  "models": {
+    "10": [
+      18244
+    ]
+  },
+  "name": "Pebbles",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      10266,
+      11
+    ],
+    [
+      10270,
+      16
+    ],
+    [
+      10275,
+      26
+    ]
+  ],
+  "occludes_2": false
+}

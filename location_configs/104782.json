@@ -1,0 +1,14 @@
+{
+  "id": 104782,
+  "models": {
+    "10": [
+      114673
+    ]
+  },
+  "name": "Hanging swords",
+  "dim_x": 5,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 16895,
+  "models": {
+    "10": [
+      9532
+    ]
+  },
+  "name": "Extra chain",
+  "colours": [
+    [
+      5285,
+      33
+    ]
+  ],
+  "occludes_2": false
+}

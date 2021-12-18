@@ -1,0 +1,15 @@
+{
+  "id": 63212,
+  "models": {
+    "10": [
+      9482
+    ]
+  },
+  "name": "Soprano",
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 15396,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": 16038,
+  "models": {
+    "10": [
+      47127
+    ]
+  },
+  "name": "Music appreciator",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 11807,
+  "unknown_27": false,
+  "colours": [
+    [
+      6684,
+      7587
+    ],
+    [
+      6932,
+      7830
+    ],
+    [
+      8741,
+      20766
+    ],
+    [
+      6798,
+      6787
+    ],
+    [
+      25238,
+      10422
+    ]
+  ],
+  "occludes_2": false
+}

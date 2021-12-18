@@ -1,0 +1,17 @@
+{
+  "id": 117011,
+  "models": {
+    "22": [
+      90990
+    ]
+  },
+  "name": "Smoke dial",
+  "unknown_19": 1,
+  "colours": [
+    [
+      64,
+      22437
+    ]
+  ],
+  "occludes_2": false
+}

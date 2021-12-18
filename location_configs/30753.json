@@ -1,0 +1,12 @@
+{
+  "id": 30753,
+  "models": {
+    "10": [
+      33752
+    ]
+  },
+  "name": "Candles",
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 106607,
+  "models": {
+    "10": [
+      117112
+    ]
+  },
+  "name": "Sanguine bead",
+  "unknown_17": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      940
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

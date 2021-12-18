@@ -1,0 +1,33 @@
+{
+  "id": 75911,
+  "models": {
+    "10": [
+      31006,
+      2214
+    ]
+  },
+  "name": "Awning",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Bounce on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 700,
+  "scale_z": 280,
+  "unknown_69": 14,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

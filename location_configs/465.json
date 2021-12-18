@@ -1,0 +1,19 @@
+{
+  "id": 465,
+  "models": {
+    "10": [
+      728
+    ]
+  },
+  "name": "Column",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      5916,
+      7952
+    ]
+  ],
+  "unknown_81": 32,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 94079,
+  "models": {
+    "10": [
+      77234
+    ]
+  },
+  "name": "Dragonkin altar",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_z": 65472,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

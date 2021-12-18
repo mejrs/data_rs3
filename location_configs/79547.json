@@ -1,0 +1,19 @@
+{
+  "id": 79547,
+  "models": {
+    "22": [
+      80416
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "unknown_97": true,
+  "occludes_2": false
+}

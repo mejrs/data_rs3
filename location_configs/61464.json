@@ -1,0 +1,17 @@
+{
+  "id": 61464,
+  "models": {
+    "10": [
+      56846
+    ]
+  },
+  "name": "Burnt tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

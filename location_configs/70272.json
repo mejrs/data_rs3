@@ -1,0 +1,24 @@
+{
+  "id": 70272,
+  "models": {
+    "10": [
+      69114
+    ]
+  },
+  "name": "Padlocked door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 13575,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

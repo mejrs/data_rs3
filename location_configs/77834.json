@@ -1,0 +1,23 @@
+{
+  "id": 77834,
+  "models": {
+    "10": [
+      77875
+    ]
+  },
+  "name": "Artefact",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Activate",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

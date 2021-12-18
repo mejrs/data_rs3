@@ -1,0 +1,30 @@
+{
+  "id": 73764,
+  "models": {
+    "10": [
+      72018
+    ]
+  },
+  "name": "Marathon gate",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Reset",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 15728,
+    "unknown_2": 12
+  },
+  "unknown_81": 64,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 70,
+  "unknown_1": 220,
+  "unknown_2": 250
+}

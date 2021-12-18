@@ -1,0 +1,48 @@
+{
+  "id": 110538,
+  "models": {
+    "10": [
+      50186,
+      17387
+    ]
+  },
+  "name": "Dead tree (hidey-hole)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6028,
+      5388
+    ],
+    [
+      6026,
+      5386
+    ],
+    [
+      6024,
+      5384
+    ],
+    [
+      6022,
+      5382
+    ]
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "unknown_81": 42,
+  "occludes_2": false,
+  "params": {
+    "6896": 33
+  }
+}

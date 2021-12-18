@@ -1,0 +1,13 @@
+{
+  "id": 3681,
+  "models": {
+    "10": [
+      1402
+    ]
+  },
+  "name": "Signpost",
+  "is_transparent": true,
+  "ambient": 40,
+  "contrast": 40,
+  "occludes_2": false
+}

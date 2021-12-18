@@ -1,0 +1,30 @@
+{
+  "id": 9294,
+  "models": {
+    "10": [
+      7603
+    ]
+  },
+  "name": "Strange floor",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 1112,
+  "unknown_27": false,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 18799,
+  "models": {
+    "10": [
+      19035
+    ]
+  },
+  "name": "Toy box",
+  "dim_x": 2,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

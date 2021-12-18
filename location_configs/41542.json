@@ -1,0 +1,29 @@
+{
+  "id": 41542,
+  "models": {
+    "10": [
+      44870,
+      7767
+    ]
+  },
+  "name": "Lily",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

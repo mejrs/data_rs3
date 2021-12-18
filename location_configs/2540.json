@@ -1,0 +1,25 @@
+{
+  "id": 2540,
+  "models": {
+    "10": [
+      1287
+    ]
+  },
+  "name": "Stairs",
+  "actions": [
+    "Walk-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

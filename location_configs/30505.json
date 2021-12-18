@@ -1,0 +1,32 @@
+{
+  "id": 30505,
+  "models": {
+    "10": [
+      33704
+    ]
+  },
+  "name": "Mass of debris",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Dig"
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

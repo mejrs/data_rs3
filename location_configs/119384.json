@@ -1,0 +1,20 @@
+{
+  "id": 119384,
+  "models": {
+    "10": [
+      96039,
+      89808,
+      95735
+    ]
+  },
+  "name": "Administratum debris",
+  "unknown_21": true,
+  "ambient": 32,
+  "textures": {
+    "11930": 12376,
+    "11931": 12377,
+    "12338": 12335
+  },
+  "unknown_98": true,
+  "occludes_2": false
+}

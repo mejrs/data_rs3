@@ -1,0 +1,12 @@
+{
+  "id": 16813,
+  "models": {
+    "10": [
+      16707
+    ]
+  },
+  "name": "Rack",
+  "dim_y": 2,
+  "unknown_24": 4395,
+  "occludes_2": false
+}

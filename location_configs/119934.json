@@ -1,0 +1,27 @@
+{
+  "id": 119934,
+  "models": {
+    "10": [
+      121882
+    ]
+  },
+  "name": "Davendale village sign",
+  "unknown_19": 1,
+  "actions": [
+    "Climb over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

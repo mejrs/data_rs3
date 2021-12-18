@@ -1,0 +1,33 @@
+{
+  "id": 10541,
+  "models": {
+    "10": [
+      10348
+    ]
+  },
+  "name": "Human flag",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_24": 917,
+  "ambient": 25,
+  "colours": [
+    [
+      6932,
+      6689
+    ],
+    [
+      8662,
+      44948
+    ],
+    [
+      7626,
+      43916
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 70
+}

@@ -1,0 +1,17 @@
+{
+  "id": 56889,
+  "models": {
+    "10": [
+      44349
+    ]
+  },
+  "name": "Crate",
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

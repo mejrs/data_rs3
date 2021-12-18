@@ -1,0 +1,35 @@
+{
+  "id": 118740,
+  "models": {
+    "10": [
+      120980
+    ]
+  },
+  "name": "Stack of letters",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    "Take",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      453
+    ]
+  },
+  "unknown_186": 0,
+  "cursors": [
+    50,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

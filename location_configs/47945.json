@@ -1,0 +1,37 @@
+{
+  "id": 47945,
+  "unknown_21": true,
+  "unknown_24": 12709,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      2983
+    ]
+  ],
+  "morphs_1": {
+    "varbit": 10097,
+    "ids": [
+      47943,
+      47944
+    ]
+  },
+  "unknown_89": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

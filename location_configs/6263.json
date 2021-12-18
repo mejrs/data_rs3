@@ -1,0 +1,11 @@
+{
+  "id": 6263,
+  "models": {
+    "10": [
+      6079
+    ]
+  },
+  "name": "Hutch",
+  "dim_x": 2,
+  "occludes_2": false
+}

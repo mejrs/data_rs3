@@ -1,0 +1,33 @@
+{
+  "id": 91557,
+  "models": {
+    "10": [
+      4498,
+      96983,
+      4557
+    ]
+  },
+  "name": "Cave",
+  "dim_x": 5,
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    "Enter-Graveyard",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

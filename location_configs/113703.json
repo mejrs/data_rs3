@@ -1,0 +1,43 @@
+{
+  "id": 113703,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Root",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 300,
+  "scale_y": 400,
+  "scale_z": 350,
+  "unknown_69": 10,
+  "translate_y": 50,
+  "translate_z": 150,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7902": 204,
+    "7901": 2
+  }
+}

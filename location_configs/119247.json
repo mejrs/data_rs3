@@ -1,0 +1,20 @@
+{
+  "id": 119247,
+  "models": {
+    "10": [
+      82170
+    ]
+  },
+  "name": "Workbench",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Bash with hammer",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

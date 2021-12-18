@@ -1,0 +1,21 @@
+{
+  "id": 56590,
+  "models": {
+    "10": [
+      62150
+    ]
+  },
+  "name": "Dead lergberry bush",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

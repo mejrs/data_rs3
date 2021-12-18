@@ -1,0 +1,12 @@
+{
+  "id": 22659,
+  "models": {
+    "10": [
+      23281
+    ]
+  },
+  "name": "Blocked tunnel",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_2": false
+}

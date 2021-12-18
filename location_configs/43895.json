@@ -1,0 +1,40 @@
+{
+  "id": 43895,
+  "models": {
+    "10": [
+      27500,
+      27501
+    ]
+  },
+  "name": "Desk with book",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5537,
+      5400
+    ],
+    [
+      5656,
+      5394
+    ],
+    [
+      5532,
+      5396
+    ],
+    [
+      5652,
+      5390
+    ],
+    [
+      5904,
+      5386
+    ]
+  ],
+  "occludes_2": false
+}

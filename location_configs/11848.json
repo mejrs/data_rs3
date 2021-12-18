@@ -1,0 +1,22 @@
+{
+  "id": 11848,
+  "models": {
+    "10": [
+      1243
+    ]
+  },
+  "name": "Bow cabinet",
+  "dim_y": 2,
+  "colours": [
+    [
+      5772,
+      70
+    ],
+    [
+      8860,
+      43105
+    ]
+  ],
+  "translate_x": 65504,
+  "occludes_2": false
+}

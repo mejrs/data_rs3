@@ -1,0 +1,13 @@
+{
+  "id": 104192,
+  "models": {
+    "10": [
+      113427
+    ]
+  },
+  "name": "Barrel",
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

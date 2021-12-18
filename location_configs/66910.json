@@ -1,0 +1,27 @@
+{
+  "id": 66910,
+  "models": {
+    "10": [
+      32621
+    ]
+  },
+  "name": "Ledge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Jump-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

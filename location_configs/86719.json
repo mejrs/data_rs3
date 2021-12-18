@@ -1,0 +1,27 @@
+{
+  "id": 86719,
+  "models": {
+    "10": [
+      88917
+    ]
+  },
+  "name": "Shelf",
+  "ambient": -25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

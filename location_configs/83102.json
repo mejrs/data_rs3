@@ -1,0 +1,25 @@
+{
+  "id": 83102,
+  "models": {
+    "10": [
+      30469
+    ]
+  },
+  "name": "Steel titan",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        8183,
+        100
+      ],
+      [
+        8185,
+        100
+      ]
+    ]
+  }
+}

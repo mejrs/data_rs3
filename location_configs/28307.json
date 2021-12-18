@@ -1,0 +1,24 @@
+{
+  "id": 28307,
+  "models": {
+    "10": [
+      30363
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 7546,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8117,
+      7393
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

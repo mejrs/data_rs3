@@ -1,0 +1,38 @@
+{
+  "id": 112699,
+  "models": {
+    "10": [
+      61957,
+      61960
+    ]
+  },
+  "name": "Crystal-flecked sandstone",
+  "dim_x": 4,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 8529,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 32,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_189": true,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

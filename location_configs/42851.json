@@ -1,0 +1,25 @@
+{
+  "id": 42851,
+  "models": {
+    "10": [
+      33009,
+      33008
+    ]
+  },
+  "name": "Sand pile",
+  "dim_x": 6,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Dig-sand",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false
+}

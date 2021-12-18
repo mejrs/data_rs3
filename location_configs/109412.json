@@ -1,0 +1,24 @@
+{
+  "id": 109412,
+  "models": {
+    "10": [
+      119448,
+      119489
+    ]
+  },
+  "name": "Rockodile",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 30858,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "mapscene": 71,
+  "occludes_2": false,
+  "unknown_196": 1
+}

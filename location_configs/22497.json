@@ -1,0 +1,32 @@
+{
+  "id": 22497,
+  "models": {
+    "10": [
+      23197,
+      23196
+    ]
+  },
+  "name": "Marv (sick)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5975,
+  "unknown_27": false,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 98366,
+  "models": {
+    "10": [
+      105741
+    ]
+  },
+  "name": "Crystal canopy",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

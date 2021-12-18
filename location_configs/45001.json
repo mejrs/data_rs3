@@ -1,0 +1,15 @@
+{
+  "id": 45001,
+  "models": {
+    "10": [
+      48540
+    ]
+  },
+  "name": "Bridge",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

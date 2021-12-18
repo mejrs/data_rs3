@@ -1,0 +1,15 @@
+{
+  "id": 28955,
+  "models": {
+    "10": [
+      31905
+    ]
+  },
+  "name": "Eucalyptus stump",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 20,
+  "contrast": 20,
+  "unknown_81": 32,
+  "occludes_2": false
+}

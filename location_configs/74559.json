@@ -1,0 +1,48 @@
+{
+  "id": 74559,
+  "models": {
+    "10": [
+      73006,
+      73005,
+      73009
+    ]
+  },
+  "name": "Shaking branch",
+  "unknown_19": 1,
+  "unknown_24": 17343,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Catch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4404,
+      5396
+    ],
+    [
+      4408,
+      5400
+    ],
+    [
+      4668,
+      5404
+    ],
+    [
+      4676,
+      5412
+    ],
+    [
+      4684,
+      5428
+    ]
+  ],
+  "unknown_69": 14,
+  "unknown_81": 32,
+  "occludes_2": false
+}

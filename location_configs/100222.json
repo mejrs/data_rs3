@@ -1,0 +1,19 @@
+{
+  "id": 100222,
+  "models": {
+    "10": [
+      104629
+    ]
+  },
+  "name": "Boat",
+  "ambient": 25,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

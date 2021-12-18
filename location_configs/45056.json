@@ -1,0 +1,23 @@
+{
+  "id": 45056,
+  "models": {
+    "10": [
+      48582
+    ]
+  },
+  "name": "Fire pit",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12165,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

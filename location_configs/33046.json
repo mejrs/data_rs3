@@ -1,0 +1,29 @@
+{
+  "id": 33046,
+  "models": {
+    "10": [
+      32110
+    ]
+  },
+  "name": "Closed chest",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 40945,
+  "models": {
+    "10": [
+      44039
+    ]
+  },
+  "name": "Bookcase",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5904,
+      5535
+    ],
+    [
+      4750,
+      5527
+    ],
+    [
+      3974,
+      5520
+    ],
+    [
+      5908,
+      5532
+    ],
+    [
+      5660,
+      5524
+    ],
+    [
+      6930,
+      5540
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

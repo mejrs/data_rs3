@@ -1,0 +1,12 @@
+{
+  "id": 28642,
+  "models": {
+    "10": [
+      31293
+    ]
+  },
+  "name": "Ruined bookshelves",
+  "is_transparent": true,
+  "ambient": 25,
+  "occludes_2": false
+}

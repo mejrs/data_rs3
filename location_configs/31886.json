@@ -1,0 +1,28 @@
+{
+  "id": 31886,
+  "models": {
+    "4": [
+      61068
+    ],
+    "10": [
+      61096
+    ]
+  },
+  "name": "Web",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

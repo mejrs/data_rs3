@@ -1,0 +1,41 @@
+{
+  "id": 32219,
+  "models": {
+    "10": [
+      37188
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      30,
+      6930
+    ],
+    [
+      35,
+      7054
+    ],
+    [
+      39,
+      6930
+    ],
+    [
+      43,
+      6806
+    ],
+    [
+      47,
+      6682
+    ],
+    [
+      51,
+      6558
+    ]
+  ],
+  "occludes_2": false
+}

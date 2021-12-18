@@ -1,0 +1,19 @@
+{
+  "id": 8196,
+  "models": {
+    "10": [
+      8190,
+      7766
+    ]
+  },
+  "name": "Barley",
+  "ambient": 25,
+  "actions": [
+    "Harvest",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

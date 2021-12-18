@@ -1,0 +1,23 @@
+{
+  "id": 111080,
+  "models": {
+    "10": [
+      113187
+    ]
+  },
+  "name": "Ship",
+  "dim_x": 5,
+  "dim_y": 12,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Damage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 42,
+  "occludes_2": false,
+  "unknown_196": 4
+}

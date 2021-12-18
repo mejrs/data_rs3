@@ -1,0 +1,28 @@
+{
+  "id": 38025,
+  "models": {
+    "10": [
+      14206
+    ]
+  },
+  "name": "Food trough",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7587,
+      6554
+    ],
+    [
+      7830,
+      6551
+    ],
+    [
+      7954,
+      6548
+    ]
+  ],
+  "occludes_2": false
+}

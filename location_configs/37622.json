@@ -1,0 +1,12 @@
+{
+  "id": 37622,
+  "models": {
+    "10": [
+      40775
+    ]
+  },
+  "name": "Anvil",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

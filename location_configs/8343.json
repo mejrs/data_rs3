@@ -1,0 +1,26 @@
+{
+  "id": 8343,
+  "models": {
+    "10": [
+      7977,
+      7768
+    ]
+  },
+  "name": "Spirit Tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      8602,
+      5656
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 94035,
+  "models": {
+    "10": [
+      99496
+    ]
+  },
+  "name": "Bath",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

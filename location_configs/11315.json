@@ -1,0 +1,43 @@
+{
+  "id": 11315,
+  "models": {
+    "10": [
+      14194
+    ]
+  },
+  "name": "Barrel",
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5541,
+      5904
+    ],
+    [
+      5665,
+      6806
+    ],
+    [
+      5660,
+      6930
+    ],
+    [
+      5784,
+      6806
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

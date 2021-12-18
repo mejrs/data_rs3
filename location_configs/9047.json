@@ -1,0 +1,33 @@
+{
+  "id": 9047,
+  "models": {
+    "10": [
+      7874,
+      7766
+    ]
+  },
+  "name": "Goutweed",
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      19992,
+      8493
+    ],
+    [
+      19988,
+      8487
+    ],
+    [
+      20364,
+      8493
+    ]
+  ],
+  "occludes_2": false
+}

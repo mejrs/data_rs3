@@ -1,0 +1,17 @@
+{
+  "id": 80759,
+  "models": {
+    "10": [
+      65869
+    ]
+  },
+  "name": "Statue of TzHaar-Mej",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

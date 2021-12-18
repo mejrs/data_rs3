@@ -1,0 +1,15 @@
+{
+  "id": 90311,
+  "models": {
+    "10": [
+      94833
+    ]
+  },
+  "name": "Cabbage cauldron",
+  "unknown_24": 479,
+  "unknown_78": {
+    "unknown_1": 4968,
+    "unknown_2": 6
+  },
+  "occludes_2": false
+}

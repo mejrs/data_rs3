@@ -1,0 +1,27 @@
+{
+  "id": 43856,
+  "models": {
+    "10": [
+      113612,
+      70896
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 0,
+  "textures": {
+    "7386": 10698
+  },
+  "scale_x": 60,
+  "scale_y": 60,
+  "scale_z": 60,
+  "translate_y": 60,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 36,
+    "unknown_2": 1,
+    "unknown_3": 48,
+    "unknown_4": 61
+  },
+  "unknown_196": 4
+}

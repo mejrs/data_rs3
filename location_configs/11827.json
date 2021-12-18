@@ -1,0 +1,30 @@
+{
+  "id": 11827,
+  "models": {
+    "0": [
+      60862
+    ]
+  },
+  "name": "Security wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Place-key",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      990,
+      552
+    ]
+  ],
+  "unknown_170": 961,
+  "unknown_171": 160
+}

@@ -1,0 +1,30 @@
+{
+  "id": 30076,
+  "models": {
+    "0": [
+      24019
+    ]
+  },
+  "name": "Rabbit hole",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 49610,
+  "models": {
+    "0": [
+      53668
+    ]
+  },
+  "name": "Collapsing strut",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

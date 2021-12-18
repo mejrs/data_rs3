@@ -1,0 +1,15 @@
+{
+  "id": 103242,
+  "models": {
+    "10": [
+      112893
+    ]
+  },
+  "name": "Portal with no power",
+  "dim_y": 4,
+  "unknown_17": false,
+  "ambient": 15,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

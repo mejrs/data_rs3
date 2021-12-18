@@ -1,0 +1,44 @@
+{
+  "id": 5170,
+  "models": {
+    "0": [
+      27252
+    ]
+  },
+  "name": "Entrance",
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10392,
+      34878
+    ],
+    [
+      10388,
+      34856
+    ],
+    [
+      10512,
+      34850
+    ],
+    [
+      10508,
+      34842
+    ]
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

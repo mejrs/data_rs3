@@ -1,0 +1,30 @@
+{
+  "id": 53826,
+  "models": {
+    "10": [
+      59371
+    ]
+  },
+  "name": "Cooking range (with logs)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

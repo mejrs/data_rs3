@@ -1,0 +1,13 @@
+{
+  "id": 29309,
+  "models": {
+    "10": [
+      64030
+    ]
+  },
+  "name": "Target",
+  "unknown_24": 402,
+  "ambient": 10,
+  "contrast": 25,
+  "occludes_2": false
+}

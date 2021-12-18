@@ -1,0 +1,27 @@
+{
+  "id": 16708,
+  "models": {
+    "10": [
+      12512
+    ]
+  },
+  "name": "Tall mirror",
+  "actions": [
+    "Admire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6707,
+      6563
+    ],
+    [
+      7952,
+      6930
+    ]
+  ],
+  "occludes_2": false
+}

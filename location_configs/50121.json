@@ -1,0 +1,20 @@
+{
+  "id": 50121,
+  "models": {
+    "10": [
+      56630
+    ]
+  },
+  "name": "Farming patch (gissel fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "occludes_2": false,
+  "mapfunction": 611,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    null
+  ]
+}

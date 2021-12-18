@@ -1,0 +1,34 @@
+{
+  "id": 72622,
+  "models": {
+    "10": [
+      70614,
+      70742
+    ]
+  },
+  "name": "Exotic Foods Stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Trade"
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      42044,
+      42556
+    ],
+    [
+      60,
+      828
+    ]
+  ],
+  "occludes_2": false
+}

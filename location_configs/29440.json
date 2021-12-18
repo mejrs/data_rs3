@@ -1,0 +1,13 @@
+{
+  "id": 29440,
+  "models": {
+    "10": [
+      32217
+    ]
+  },
+  "name": "Catapult-winch",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_75": 0,
+  "occludes_2": false
+}

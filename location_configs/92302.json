@@ -1,0 +1,29 @@
+{
+  "id": 92302,
+  "models": {
+    "0": [
+      98231
+    ]
+  },
+  "name": "Construction banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      6332
+    ],
+    [
+      36300,
+      6055
+    ]
+  ],
+  "mapscene": 22
+}

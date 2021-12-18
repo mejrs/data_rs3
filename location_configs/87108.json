@@ -1,0 +1,19 @@
+{
+  "id": 87108,
+  "models": {
+    "22": [
+      88691
+    ]
+  },
+  "name": "Puddle",
+  "unknown_19": 1,
+  "ambient": -25,
+  "contrast": 15,
+  "colours": [
+    [
+      908,
+      8083
+    ]
+  ],
+  "occludes_2": false
+}

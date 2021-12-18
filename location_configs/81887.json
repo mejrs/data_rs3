@@ -1,0 +1,18 @@
+{
+  "id": 81887,
+  "models": {
+    "10": [
+      64783
+    ]
+  },
+  "name": "Rock",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 17035,
+  "ambient": 15,
+  "contrast": 25,
+  "model": false,
+  "scale_x": 113,
+  "unknown_88": false,
+  "occludes_2": false
+}

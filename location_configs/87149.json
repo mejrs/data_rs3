@@ -1,0 +1,15 @@
+{
+  "id": 87149,
+  "models": {
+    "10": [
+      88827
+    ]
+  },
+  "name": "Shelves",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 4
+}

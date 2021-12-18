@@ -1,0 +1,33 @@
+{
+  "id": 8145,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Diseased herbs",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      11148
+    ],
+    [
+      19988,
+      11026
+    ],
+    [
+      19992,
+      10902
+    ]
+  ],
+  "occludes_2": false
+}

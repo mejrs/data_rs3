@@ -1,0 +1,26 @@
+{
+  "id": 97114,
+  "models": {
+    "10": [
+      104043
+    ]
+  },
+  "name": "Energy plant",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Collect seed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false
+}

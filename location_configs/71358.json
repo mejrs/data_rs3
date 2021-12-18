@@ -1,0 +1,18 @@
+{
+  "id": 71358,
+  "models": {
+    "0": [
+      70090
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1512": 1492,
+    "1529": 1470
+  },
+  "mirror": true,
+  "unknown_88": false
+}

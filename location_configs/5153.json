@@ -1,0 +1,33 @@
+{
+  "id": 5153,
+  "models": {
+    "10": [
+      5494
+    ]
+  },
+  "name": "Sack of animal feed",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6430,
+      7347
+    ],
+    [
+      6674,
+      7339
+    ],
+    [
+      6554,
+      7333
+    ],
+    [
+      6550,
+      7327
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

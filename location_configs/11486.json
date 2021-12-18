@@ -1,0 +1,51 @@
+{
+  "id": 11486,
+  "models": {
+    "10": [
+      7700
+    ]
+  },
+  "name": "Crates",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      7452
+    ],
+    [
+      6439,
+      8472
+    ],
+    [
+      6563,
+      8596
+    ],
+    [
+      6558,
+      8720
+    ],
+    [
+      6682,
+      8844
+    ],
+    [
+      6806,
+      9096
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

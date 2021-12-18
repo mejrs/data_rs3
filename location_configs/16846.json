@@ -1,0 +1,19 @@
+{
+  "id": 16846,
+  "models": {
+    "10": [
+      16794
+    ]
+  },
+  "name": "Dice",
+  "ambient": 30,
+  "actions": [
+    "Roll",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "occludes_2": false
+}

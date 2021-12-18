@@ -1,0 +1,24 @@
+{
+  "id": 105774,
+  "models": {
+    "10": [
+      116072
+    ]
+  },
+  "name": "Mah",
+  "dim_x": 15,
+  "dim_y": 15,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

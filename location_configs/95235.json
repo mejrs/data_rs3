@@ -1,0 +1,15 @@
+{
+  "id": 95235,
+  "models": {
+    "10": [
+      101745
+    ]
+  },
+  "name": "Sea creature corpse",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": -20,
+  "model": false,
+  "occludes_2": false
+}

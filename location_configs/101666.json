@@ -1,0 +1,16 @@
+{
+  "id": 101666,
+  "models": {
+    "10": [
+      110741
+    ]
+  },
+  "name": "Chocolate statue",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 47234,
+  "models": {
+    "10": [
+      50827
+    ]
+  },
+  "name": "Low wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 125,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

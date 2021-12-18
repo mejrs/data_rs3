@@ -1,0 +1,21 @@
+{
+  "id": 37657,
+  "models": {
+    "10": [
+      40807
+    ]
+  },
+  "name": "Rock column",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 9973,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1493": 2321,
+    "1527": 2348
+  },
+  "unknown_81": 64,
+  "occludes_2": false
+}

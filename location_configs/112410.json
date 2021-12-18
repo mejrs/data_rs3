@@ -1,0 +1,20 @@
+{
+  "id": 112410,
+  "models": {
+    "10": [
+      67185
+    ]
+  },
+  "name": "Armour of Trials",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 135,
+  "scale_y": 135,
+  "scale_z": 135,
+  "translate_x": 65481,
+  "translate_y": 65531,
+  "translate_z": 25,
+  "occludes_2": false
+}

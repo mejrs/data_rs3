@@ -1,0 +1,20 @@
+{
+  "id": 28430,
+  "models": {
+    "10": [
+      30917
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

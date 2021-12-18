@@ -1,0 +1,19 @@
+{
+  "id": 119566,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Bed of flowers",
+  "dim_x": 2,
+  "dim_y": 2,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 270,
+  "scale_y": 90,
+  "scale_z": 200,
+  "translate_z": 20,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 70460,
+  "models": {
+    "10": [
+      69137,
+      69143
+    ]
+  },
+  "name": "Vine",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 16692,
+  "ambient": 25,
+  "actions": [
+    "Siphon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2871": 2863
+  },
+  "model": false,
+  "translate_y": 65532,
+  "unknown_81": 88,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 85043,
+  "models": {
+    "10": [
+      86946
+    ]
+  },
+  "name": "Milk urns",
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 89311,
+  "models": {
+    "10": [
+      76680
+    ]
+  },
+  "name": "Cart",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 17726,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Hide in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

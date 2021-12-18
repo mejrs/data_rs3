@@ -1,0 +1,17 @@
+{
+  "id": 12287,
+  "models": {
+    "10": [
+      10334
+    ]
+  },
+  "name": "Jadinko Queen",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_21": true,
+  "unknown_24": 3496,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

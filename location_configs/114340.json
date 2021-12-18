@@ -1,0 +1,19 @@
+{
+  "id": 114340,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Bloodwood tree patch",
+  "dim_x": 2,
+  "dim_y": 2,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 256,
+  "scale_y": 64,
+  "scale_z": 256,
+  "translate_x": 65408,
+  "occludes_2": false
+}

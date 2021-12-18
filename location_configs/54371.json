@@ -1,0 +1,15 @@
+{
+  "id": 54371,
+  "models": {
+    "22": [
+      59073
+    ]
+  },
+  "name": "Red pressure plate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 14516,
+  "unknown_27": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

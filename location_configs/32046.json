@@ -1,0 +1,27 @@
+{
+  "id": 32046,
+  "models": {
+    "10": [
+      61078
+    ]
+  },
+  "name": "Four-poster bed",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

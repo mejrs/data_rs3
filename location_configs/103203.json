@@ -1,0 +1,29 @@
+{
+  "id": 103203,
+  "models": {
+    "10": [
+      50039
+    ]
+  },
+  "name": "Scary wispy thing",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

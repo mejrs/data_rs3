@@ -1,0 +1,34 @@
+{
+  "id": 78119,
+  "models": {
+    "10": [
+      64864
+    ]
+  },
+  "name": "Tree stump",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "unknown_81": 80,
+  "occludes_2": false
+}

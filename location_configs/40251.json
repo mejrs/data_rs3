@@ -1,0 +1,15 @@
+{
+  "id": 40251,
+  "models": {
+    "10": [
+      43787
+    ]
+  },
+  "name": "Etching",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "contrast": 25,
+  "occludes_2": false
+}

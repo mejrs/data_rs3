@@ -1,0 +1,16 @@
+{
+  "id": 67552,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "unknown_69": 11,
+  "morphs_1": {
+    "varbit": 13242,
+    "ids": [
+      67550,
+      67551
+    ]
+  }
+}

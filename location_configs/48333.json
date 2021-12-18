@@ -1,0 +1,30 @@
+{
+  "id": 48333,
+  "models": {
+    "0": [
+      30260
+    ]
+  },
+  "name": "Meeting room door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

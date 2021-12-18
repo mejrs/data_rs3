@@ -1,0 +1,26 @@
+{
+  "id": 117153,
+  "models": {
+    "10": [
+      91869
+    ]
+  },
+  "name": "Keshik coat of arms",
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 90948,
+  "models": {
+    "10": [
+      91840
+    ]
+  },
+  "name": "Gangplank",
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

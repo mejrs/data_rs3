@@ -1,0 +1,28 @@
+{
+  "id": 11061,
+  "models": {
+    "10": [
+      10897,
+      10895
+    ]
+  },
+  "name": "Pedestal",
+  "actions": [
+    "Take-sigil",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7481,
+      7618
+    ],
+    [
+      8617,
+      7595
+    ]
+  ],
+  "occludes_2": false
+}

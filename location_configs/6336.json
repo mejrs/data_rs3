@@ -1,0 +1,14 @@
+{
+  "id": 6336,
+  "models": {
+    "10": [
+      6175,
+      6177
+    ]
+  },
+  "name": "Plinth",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mirror": true,
+  "occludes_2": false
+}

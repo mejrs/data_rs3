@@ -1,0 +1,21 @@
+{
+  "id": 71861,
+  "models": {
+    "10": [
+      70308
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Fill",
+    "Drop coin in",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

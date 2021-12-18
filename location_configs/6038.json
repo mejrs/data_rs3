@@ -1,0 +1,24 @@
+{
+  "id": 6038,
+  "models": {
+    "10": [
+      1890
+    ]
+  },
+  "name": "Ship's wheel",
+  "colours": [
+    [
+      5673,
+      6684
+    ],
+    [
+      5795,
+      5165
+    ]
+  ],
+  "scale_x": 99,
+  "scale_y": 99,
+  "scale_z": 99,
+  "occludes_2": false,
+  "unknown_196": 2
+}

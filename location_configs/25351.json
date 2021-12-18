@@ -1,0 +1,20 @@
+{
+  "id": 25351,
+  "models": {
+    "10": [
+      50825
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 30,
+  "colours": [
+    [
+      8,
+      0
+    ]
+  ],
+  "scale_y": 125,
+  "occludes_2": false,
+  "unknown_196": 3
+}

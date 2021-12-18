@@ -1,0 +1,27 @@
+{
+  "id": 113854,
+  "models": {
+    "10": [
+      34678,
+      34683
+    ]
+  },
+  "name": "Bagrada rex",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 32700,
+  "actions": [
+    "Skin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11198": 11200
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

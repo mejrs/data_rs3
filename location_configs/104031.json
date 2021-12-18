@@ -1,0 +1,12 @@
+{
+  "id": 104031,
+  "models": {
+    "10": [
+      113553
+    ]
+  },
+  "name": "Potions",
+  "ambient": 64,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

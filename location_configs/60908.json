@@ -1,0 +1,33 @@
+{
+  "id": 60908,
+  "models": {
+    "22": [
+      52075
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      42022,
+      42002
+    ],
+    [
+      42026,
+      42006
+    ],
+    [
+      42036,
+      42016
+    ]
+  ],
+  "textures": {
+    "2003": 1989
+  },
+  "translate_y": 110,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

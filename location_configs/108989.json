@@ -1,0 +1,33 @@
+{
+  "id": 108989,
+  "models": {
+    "10": [
+      118905
+    ]
+  },
+  "name": "Scabaras brazier",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    "Light",
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_z": 65496,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    65,
+    null,
+    null,
+    null
+  ]
+}

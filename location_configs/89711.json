@@ -1,0 +1,21 @@
+{
+  "id": 89711,
+  "models": {
+    "10": [
+      93938
+    ]
+  },
+  "name": "Operating table",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      908,
+      904
+    ]
+  ],
+  "occludes_2": false
+}

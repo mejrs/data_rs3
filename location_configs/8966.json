@@ -1,0 +1,51 @@
+{
+  "id": 8966,
+  "models": {
+    "10": [
+      8687
+    ]
+  },
+  "name": "Steps",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7326,
+      27144
+    ],
+    [
+      7331,
+      26892
+    ],
+    [
+      7335,
+      26896
+    ],
+    [
+      7339,
+      10266
+    ]
+  ],
+  "textures": {
+    "1891": 2359,
+    "2557": 2319
+  },
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

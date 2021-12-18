@@ -1,0 +1,13 @@
+{
+  "id": 72040,
+  "models": {
+    "10": [
+      70379
+    ]
+  },
+  "name": "Carpet roll",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 20,
+  "occludes_2": false
+}

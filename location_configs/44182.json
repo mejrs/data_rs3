@@ -1,0 +1,21 @@
+{
+  "id": 44182,
+  "models": {
+    "10": [
+      105561
+    ]
+  },
+  "name": "Frozen Anima",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 7463,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "textures": {
+    "6043": 1429
+  },
+  "is_members": true,
+  "occludes_2": false
+}

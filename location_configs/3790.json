@@ -1,0 +1,17 @@
+{
+  "id": 3790,
+  "models": {
+    "10": [
+      64571
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "scale_x": 128,
+  "scale_y": 117,
+  "scale_z": 128,
+  "occludes_2": false,
+  "unknown_196": 3
+}

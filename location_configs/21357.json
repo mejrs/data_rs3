@@ -1,0 +1,40 @@
+{
+  "id": 21357,
+  "models": {
+    "10": [
+      64148
+    ]
+  },
+  "name": "Swamp tree",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      20625,
+      5260
+    ],
+    [
+      20622,
+      139
+    ],
+    [
+      16526,
+      10382
+    ],
+    [
+      16531,
+      10380
+    ]
+  ],
+  "textures": {
+    "1848": 1888
+  },
+  "occludes_2": false,
+  "unknown_196": 1
+}

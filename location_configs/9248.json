@@ -1,0 +1,19 @@
+{
+  "id": 9248,
+  "models": {
+    "10": [
+      36448
+    ]
+  },
+  "name": "Statue plinth",
+  "ambient": 10,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

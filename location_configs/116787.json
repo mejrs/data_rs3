@@ -1,0 +1,30 @@
+{
+  "id": 116787,
+  "models": {
+    "10": [
+      91062
+    ]
+  },
+  "name": "Portal chamber",
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Study",
+    "Leave",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    57,
+    null,
+    null,
+    null,
+    null
+  ]
+}

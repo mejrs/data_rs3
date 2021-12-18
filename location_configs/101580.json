@@ -1,0 +1,30 @@
+{
+  "id": 101580,
+  "models": {
+    "4": [
+      90810
+    ]
+  },
+  "name": "Lever",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      553,
+      127
+    ],
+    [
+      7618,
+      127
+    ]
+  ],
+  "occludes_2": false
+}

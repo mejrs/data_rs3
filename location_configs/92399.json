@@ -1,0 +1,14 @@
+{
+  "id": 92399,
+  "models": {
+    "10": [
+      98237
+    ]
+  },
+  "name": "Attack banner",
+  "unknown_19": 1,
+  "unknown_24": 24563,
+  "ambient": 37,
+  "unknown_89": false,
+  "occludes_2": false
+}

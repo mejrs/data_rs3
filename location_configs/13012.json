@@ -1,0 +1,32 @@
+{
+  "id": 13012,
+  "models": {
+    "10": [
+      11247
+    ]
+  },
+  "name": "Barrier (Strength)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Hit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      21456
+    ],
+    [
+      31676,
+      21436
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

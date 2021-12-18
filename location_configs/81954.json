@@ -1,0 +1,33 @@
+{
+  "id": 81954,
+  "models": {
+    "10": [
+      82814,
+      82820
+    ]
+  },
+  "name": "Rough stone block",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10762,
+      10764
+    ],
+    [
+      10764,
+      10766
+    ],
+    [
+      10768,
+      10770
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 1,
+  "occludes_2": false
+}

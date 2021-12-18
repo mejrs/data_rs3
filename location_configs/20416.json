@@ -1,0 +1,32 @@
+{
+  "id": 20416,
+  "models": {
+    "10": [
+      99471
+    ]
+  },
+  "name": "Mysterious exit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 256,
+  "scale_y": 400,
+  "scale_z": 64,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

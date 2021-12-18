@@ -1,0 +1,29 @@
+{
+  "id": 77967,
+  "models": {
+    "10": [
+      78001
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 8,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1814,
+  "models": {
+    "4": [
+      57028
+    ]
+  },
+  "name": "Lever",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_x": 65532,
+  "occludes_2": false
+}

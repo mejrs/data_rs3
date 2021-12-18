@@ -1,0 +1,15 @@
+{
+  "id": 118914,
+  "models": {
+    "4": [
+      117444,
+      120791
+    ]
+  },
+  "name": "Dragonkin sign",
+  "unknown_19": 1,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "occludes_2": false
+}

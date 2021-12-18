@@ -1,0 +1,23 @@
+{
+  "id": 75682,
+  "models": {
+    "10": [
+      76789
+    ]
+  },
+  "name": "Sundial (Scabaras)",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 20
+}

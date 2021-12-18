@@ -1,0 +1,28 @@
+{
+  "id": 71846,
+  "models": {
+    "10": [
+      69715
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      14606,
+      14610
+    ]
+  ],
+  "textures": {
+    "1512": 1492,
+    "1529": 1470
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

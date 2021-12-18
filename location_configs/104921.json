@@ -1,0 +1,14 @@
+{
+  "id": 104921,
+  "models": {
+    "10": [
+      114707
+    ]
+  },
+  "name": "Harpoon",
+  "unknown_19": 1,
+  "ambient": 20,
+  "model": false,
+  "translate_y": 350,
+  "occludes_2": false
+}

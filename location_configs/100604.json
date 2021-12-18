@@ -1,0 +1,17 @@
+{
+  "id": 100604,
+  "models": {
+    "10": [
+      30324
+    ]
+  },
+  "name": "Big snowball",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 20,
+  "scale_x": 168,
+  "scale_y": 168,
+  "scale_z": 168,
+  "occludes_2": false
+}

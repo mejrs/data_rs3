@@ -1,0 +1,30 @@
+{
+  "id": 81742,
+  "models": {
+    "10": [
+      82157
+    ]
+  },
+  "name": "Cooking Station",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Cook",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

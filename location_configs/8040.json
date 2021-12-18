@@ -1,0 +1,20 @@
+{
+  "id": 8040,
+  "models": {
+    "10": [
+      110040,
+      7767
+    ]
+  },
+  "name": "Dead curry tree",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

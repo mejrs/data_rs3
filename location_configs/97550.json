@@ -1,0 +1,37 @@
+{
+  "id": 97550,
+  "models": {
+    "0": [
+      104676
+    ]
+  },
+  "name": "Cave Exit",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 30,
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1486": 5010,
+    "2377": 1444,
+    "2396": 1444
+  },
+  "scale_y": 137,
+  "translate_y": 1,
+  "unknown_170": 1024,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

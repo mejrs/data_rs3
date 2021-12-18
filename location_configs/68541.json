@@ -1,0 +1,18 @@
+{
+  "id": 68541,
+  "models": {
+    "10": [
+      65862
+    ]
+  },
+  "name": "Ancient gate",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 16248,
+  "unknown_27": false,
+  "ambient": 12,
+  "contrast": 8,
+  "occludes_2": false
+}

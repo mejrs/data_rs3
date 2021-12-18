@@ -1,0 +1,19 @@
+{
+  "id": 89305,
+  "models": {
+    "0": [
+      58033
+    ]
+  },
+  "name": "Window",
+  "unknown_19": 1,
+  "actions": [
+    "Go through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

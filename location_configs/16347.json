@@ -1,0 +1,20 @@
+{
+  "id": 16347,
+  "models": {
+    "10": [
+      57581
+    ]
+  },
+  "name": "Slot",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  }
+}

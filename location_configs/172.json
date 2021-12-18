@@ -1,0 +1,29 @@
+{
+  "id": 172,
+  "models": {
+    "10": [
+      74772
+    ]
+  },
+  "name": "Crystal chest",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 14,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

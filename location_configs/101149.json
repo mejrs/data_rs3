@@ -1,0 +1,38 @@
+{
+  "id": 101149,
+  "models": {
+    "10": [
+      110429
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Leave",
+    "Quick Leave",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 128,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

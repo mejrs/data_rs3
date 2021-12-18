@@ -1,0 +1,17 @@
+{
+  "id": 38376,
+  "models": {
+    "10": [
+      75513
+    ]
+  },
+  "name": "Portal device",
+  "dim_x": 6,
+  "dim_y": 4,
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 40,
+  "occludes_2": false,
+  "unknown_186": 0
+}

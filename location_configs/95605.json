@@ -1,0 +1,20 @@
+{
+  "id": 95605,
+  "models": {
+    "10": [
+      102440
+    ]
+  },
+  "name": "Water barrel",
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

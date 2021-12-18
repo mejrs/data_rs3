@@ -1,0 +1,14 @@
+{
+  "id": 99817,
+  "models": {
+    "4": [
+      88772
+    ]
+  },
+  "name": "Cooking shelf",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 60,
+  "occludes_2": false
+}

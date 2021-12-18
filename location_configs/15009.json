@@ -1,0 +1,26 @@
+{
+  "id": 15009,
+  "models": {
+    "10": [
+      14969,
+      14975
+    ]
+  },
+  "name": "Pinball Post",
+  "unknown_24": 4006,
+  "ambient": 45,
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6936,
+      61
+    ]
+  ],
+  "occludes_2": false
+}

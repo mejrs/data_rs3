@@ -1,0 +1,14 @@
+{
+  "id": 64656,
+  "models": {
+    "10": [
+      17588
+    ]
+  },
+  "name": "Charge machine",
+  "unknown_19": 1,
+  "unknown_24": 15551,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

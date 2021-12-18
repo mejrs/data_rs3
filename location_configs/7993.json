@@ -1,0 +1,20 @@
+{
+  "id": 7993,
+  "models": {
+    "10": [
+      110037,
+      7767
+    ]
+  },
+  "name": "Banana tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

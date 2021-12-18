@@ -1,0 +1,19 @@
+{
+  "id": 118977,
+  "models": {
+    "10": [
+      120546,
+      120547
+    ]
+  },
+  "name": "Display case",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "11730": 11727
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

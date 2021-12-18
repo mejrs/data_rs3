@@ -1,0 +1,25 @@
+{
+  "id": 56887,
+  "models": {
+    "10": [
+      62357
+    ]
+  },
+  "name": "Signpost",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

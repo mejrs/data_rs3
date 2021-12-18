@@ -1,0 +1,12 @@
+{
+  "id": 22410,
+  "models": {
+    "10": [
+      22823
+    ]
+  },
+  "name": "Granary roof",
+  "unknown_22": true,
+  "ambient": 35,
+  "occludes_2": false
+}

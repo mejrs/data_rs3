@@ -1,0 +1,41 @@
+{
+  "id": 31331,
+  "models": {
+    "0": [
+      34448
+    ]
+  },
+  "name": "A holey wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      4771,
+      4411
+    ],
+    [
+      4651,
+      4421
+    ]
+  ],
+  "model": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

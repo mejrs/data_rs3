@@ -1,0 +1,52 @@
+{
+  "id": 52412,
+  "models": {
+    "10": [
+      19037
+    ]
+  },
+  "name": "Bureau",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      5408
+    ],
+    [
+      6682,
+      4504
+    ],
+    [
+      6930,
+      4496
+    ],
+    [
+      24,
+      4488
+    ]
+  ],
+  "textures": {
+    "2076": 2106,
+    "2094": 2075
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

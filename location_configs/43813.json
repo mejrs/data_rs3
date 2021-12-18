@@ -1,0 +1,28 @@
+{
+  "id": 43813,
+  "models": {
+    "10": [
+      69523
+    ]
+  },
+  "name": "Bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Look under",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_x": 65526,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

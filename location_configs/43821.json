@@ -1,0 +1,30 @@
+{
+  "id": 43821,
+  "models": {
+    "22": [
+      70947
+    ]
+  },
+  "name": "Yellow snow",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    47,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

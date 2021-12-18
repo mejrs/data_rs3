@@ -1,0 +1,21 @@
+{
+  "id": 39202,
+  "models": {
+    "10": [
+      42413
+    ]
+  },
+  "name": "Churned-up snow",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Dig",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

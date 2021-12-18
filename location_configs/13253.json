@@ -1,0 +1,17 @@
+{
+  "id": 13253,
+  "models": {
+    "0": [
+      13271
+    ]
+  },
+  "name": "Shuttered window",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

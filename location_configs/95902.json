@@ -1,0 +1,25 @@
+{
+  "id": 95902,
+  "models": {
+    "10": [
+      102995
+    ]
+  },
+  "name": "Ambassador Ferrnook",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

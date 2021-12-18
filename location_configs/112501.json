@@ -1,0 +1,17 @@
+{
+  "id": 112501,
+  "models": {
+    "10": [
+      67618
+    ]
+  },
+  "name": "Invention Pillar",
+  "actions": [
+    "Stabilise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

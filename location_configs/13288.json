@@ -1,0 +1,25 @@
+{
+  "id": 13288,
+  "models": {
+    "10": [
+      12151
+    ]
+  },
+  "name": "Teak chest",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

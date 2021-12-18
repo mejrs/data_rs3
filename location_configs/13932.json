@@ -1,0 +1,33 @@
+{
+  "id": 13932,
+  "models": {
+    "10": [
+      14238
+    ]
+  },
+  "name": "Exit",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2377": 1486,
+    "2401": 1486
+  },
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

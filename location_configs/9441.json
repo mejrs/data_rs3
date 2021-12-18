@@ -1,0 +1,28 @@
+{
+  "id": 9441,
+  "models": {
+    "10": [
+      51304
+    ]
+  },
+  "name": "Fireplace",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

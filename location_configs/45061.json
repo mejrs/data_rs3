@@ -1,0 +1,40 @@
+{
+  "id": 45061,
+  "models": {
+    "10": [
+      99906
+    ]
+  },
+  "name": "Commander Veldaban",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12134,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_79": {
+    "unknown_1": 150,
+    "unknown_2": 150,
+    "unknown_3": 5,
+    "values": [
+      34519
+    ]
+  },
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

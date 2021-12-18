@@ -1,0 +1,20 @@
+{
+  "id": 10802,
+  "models": {
+    "10": [
+      10605
+    ]
+  },
+  "name": "Pentamid Pile",
+  "unknown_19": 1,
+  "ambient": 18,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

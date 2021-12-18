@@ -1,0 +1,16 @@
+{
+  "id": 91259,
+  "models": {
+    "10": [
+      14206,
+      5506
+    ]
+  },
+  "name": "Food trough",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "textures": {
+    "51": 1431
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 9350,
+  "models": {
+    "0": [
+      9284
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 15,
+  "contrast": 10,
+  "mirror": true,
+  "model": false,
+  "unknown_170": 960
+}

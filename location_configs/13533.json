@@ -1,0 +1,26 @@
+{
+  "id": 13533,
+  "models": {
+    "10": [
+      14100
+    ]
+  },
+  "name": "Small oven",
+  "dim_y": 2,
+  "unknown_24": 3105,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "unknown_78": {
+    "unknown_1": 4985,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 80
+}

@@ -1,0 +1,30 @@
+{
+  "id": 70508,
+  "models": {
+    "10": [
+      69558
+    ]
+  },
+  "name": "Vine ladder",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

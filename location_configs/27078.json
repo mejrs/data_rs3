@@ -1,0 +1,22 @@
+{
+  "id": 27078,
+  "models": {
+    "10": [
+      28970
+    ]
+  },
+  "name": "Wild jade vine",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 7245,
+  "ambient": 20,
+  "actions": [
+    "Cut",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

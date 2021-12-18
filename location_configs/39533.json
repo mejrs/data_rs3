@@ -1,0 +1,23 @@
+{
+  "id": 39533,
+  "models": {
+    "10": [
+      43017
+    ]
+  },
+  "name": "Deposit table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Deposit-all",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

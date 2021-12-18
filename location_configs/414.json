@@ -1,0 +1,25 @@
+{
+  "id": 414,
+  "models": {
+    "10": [
+      911
+    ]
+  },
+  "name": "Coffin",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 12992,
+  "models": {
+    "10": [
+      11250
+    ]
+  },
+  "name": "Blue barrier (Mining)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      37840
+    ],
+    [
+      31676,
+      37820
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

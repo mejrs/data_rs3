@@ -1,0 +1,36 @@
+{
+  "id": 73657,
+  "models": {
+    "10": [
+      7766
+    ]
+  },
+  "name": "Lava moat",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 160,
+  "scale_z": 256,
+  "unknown_69": 3,
+  "translate_x": 65472,
+  "translate_z": 32,
+  "unknown_73": true,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

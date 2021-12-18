@@ -1,0 +1,12 @@
+{
+  "id": 97526,
+  "models": {
+    "10": [
+      104626
+    ]
+  },
+  "name": "Meat cube",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

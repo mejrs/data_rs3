@@ -1,0 +1,14 @@
+{
+  "id": 105839,
+  "models": {
+    "10": [
+      116003
+    ]
+  },
+  "name": "Throne",
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

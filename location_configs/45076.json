@@ -1,0 +1,19 @@
+{
+  "id": 45076,
+  "models": {
+    "10": [
+      27458
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2094": 10492,
+    "2108": 10492
+  },
+  "occludes_2": false
+}

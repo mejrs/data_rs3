@@ -1,0 +1,29 @@
+{
+  "id": 16473,
+  "models": {
+    "10": [
+      16387
+    ]
+  },
+  "name": "Grand Gold Chest",
+  "dim_x": 3,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "translate_y": 12,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

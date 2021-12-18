@@ -1,0 +1,23 @@
+{
+  "id": 20189,
+  "models": {
+    "4": [
+      20668
+    ]
+  },
+  "name": "Seven",
+  "unknown_19": 1,
+  "ambient": 30,
+  "colours": [
+    [
+      5404,
+      5532
+    ],
+    [
+      5524,
+      5532
+    ]
+  ],
+  "unknown_44": 12,
+  "occludes_2": false
+}

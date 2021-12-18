@@ -1,0 +1,30 @@
+{
+  "id": 102531,
+  "models": {
+    "10": [
+      25055,
+      25068
+    ]
+  },
+  "name": "Table",
+  "dim_x": 4,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6067,
+      8115
+    ],
+    [
+      5037,
+      8111
+    ]
+  ],
+  "occludes_2": false
+}

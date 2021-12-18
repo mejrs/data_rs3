@@ -1,0 +1,55 @@
+{
+  "id": 3035,
+  "models": {
+    "10": [
+      7700
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      8464
+    ],
+    [
+      6443,
+      8462
+    ],
+    [
+      6806,
+      8450
+    ],
+    [
+      6682,
+      8460
+    ],
+    [
+      6439,
+      8458
+    ],
+    [
+      6558,
+      8455
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

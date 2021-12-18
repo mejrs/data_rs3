@@ -1,0 +1,14 @@
+{
+  "id": 44252,
+  "models": {
+    "10": [
+      47974
+    ]
+  },
+  "name": "Weapon rack",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

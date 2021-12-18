@@ -1,0 +1,19 @@
+{
+  "id": 29563,
+  "models": {
+    "10": [
+      2135,
+      32368
+    ]
+  },
+  "name": "Shelves",
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    "Take-Egg",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

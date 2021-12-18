@@ -1,0 +1,27 @@
+{
+  "id": 99450,
+  "models": {
+    "10": [
+      107039,
+      107040
+    ]
+  },
+  "name": "Glyphs",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      380
+    ]
+  }
+}

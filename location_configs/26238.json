@@ -1,0 +1,12 @@
+{
+  "id": 26238,
+  "models": {
+    "10": [
+      27942
+    ]
+  },
+  "name": "Hammer",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

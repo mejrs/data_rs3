@@ -1,0 +1,15 @@
+{
+  "id": 5045,
+  "models": {
+    "10": [
+      21843
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "occludes_2": false
+}

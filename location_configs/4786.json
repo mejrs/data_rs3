@@ -1,0 +1,22 @@
+{
+  "id": 4786,
+  "models": {
+    "10": [
+      1632
+    ]
+  },
+  "name": "Potted plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      6585,
+      6703
+    ],
+    [
+      5673,
+      5673
+    ]
+  ],
+  "occludes_2": false
+}

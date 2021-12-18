@@ -1,0 +1,18 @@
+{
+  "id": 2655,
+  "models": {
+    "10": [
+      2036
+    ]
+  },
+  "name": "Sinclair family crest",
+  "actions": [
+    null,
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "translate_z": 65520,
+  "occludes_2": false
+}

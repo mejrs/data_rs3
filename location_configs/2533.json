@@ -1,0 +1,46 @@
+{
+  "id": 2533,
+  "models": {
+    "10": [
+      37321
+    ]
+  },
+  "name": "Mud pile",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      30,
+      6674
+    ],
+    [
+      35,
+      6550
+    ],
+    [
+      39,
+      6554
+    ],
+    [
+      43,
+      6430
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

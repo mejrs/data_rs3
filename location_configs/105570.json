@@ -1,0 +1,24 @@
+{
+  "id": 105570,
+  "models": {
+    "10": [
+      115503
+    ]
+  },
+  "name": "Crystal storage bin",
+  "dim_x": 2,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Withdraw",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 37399,
+  "models": {
+    "10": [
+      4476
+    ]
+  },
+  "name": "Stone Pile",
+  "unknown_17": false,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      21526,
+      7208
+    ]
+  ],
+  "occludes_2": false
+}

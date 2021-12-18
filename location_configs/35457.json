@@ -1,0 +1,13 @@
+{
+  "id": 35457,
+  "models": {
+    "10": [
+      36116
+    ]
+  },
+  "name": "Large urns",
+  "ambient": 25,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false
+}

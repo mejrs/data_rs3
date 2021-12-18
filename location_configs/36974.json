@@ -1,0 +1,33 @@
+{
+  "id": 36974,
+  "models": {
+    "10": [
+      5495
+    ]
+  },
+  "name": "Logs",
+  "ambient": 25,
+  "actions": [
+    "Take-hatchet",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4766,
+      5404
+    ],
+    [
+      6961,
+      5412
+    ],
+    [
+      61,
+      5652
+    ]
+  ],
+  "occludes_2": false
+}

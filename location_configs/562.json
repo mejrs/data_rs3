@@ -1,0 +1,11 @@
+{
+  "id": 562,
+  "models": {
+    "10": [
+      1429
+    ]
+  },
+  "name": "Statue of a warrior",
+  "ambient": 25,
+  "occludes_2": false
+}

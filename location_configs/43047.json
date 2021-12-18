@@ -1,0 +1,12 @@
+{
+  "id": 43047,
+  "models": {
+    "10": [
+      28576
+    ]
+  },
+  "name": "Whetstone",
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

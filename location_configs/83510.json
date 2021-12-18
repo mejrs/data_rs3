@@ -1,0 +1,50 @@
+{
+  "id": 83510,
+  "models": {
+    "10": [
+      85083
+    ]
+  },
+  "name": "Exit portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 32,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 0,
+  "colours": [
+    [
+      7120,
+      40617
+    ],
+    [
+      7133,
+      40610
+    ],
+    [
+      39918,
+      39039
+    ]
+  ],
+  "unknown_44": 11,
+  "unknown_78": {
+    "unknown_1": 19372,
+    "unknown_2": 4
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

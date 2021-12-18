@@ -1,0 +1,14 @@
+{
+  "id": 1287,
+  "models": {
+    "10": [
+      1621
+    ]
+  },
+  "name": "Dead tree",
+  "unknown_22": true,
+  "unknown_81": 42,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_189": true
+}

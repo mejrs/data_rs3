@@ -1,0 +1,16 @@
+{
+  "id": 6037,
+  "models": {
+    "10": [
+      14211
+    ]
+  },
+  "name": "Ship's ladder",
+  "colours": [
+    [
+      4886,
+      6684
+    ]
+  ],
+  "occludes_2": false
+}

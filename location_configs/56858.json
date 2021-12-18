@@ -1,0 +1,28 @@
+{
+  "id": 56858,
+  "models": {
+    "10": [
+      62285
+    ]
+  },
+  "name": "Stall plot",
+  "dim_x": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Build-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

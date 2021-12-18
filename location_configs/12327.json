@@ -1,0 +1,33 @@
+{
+  "id": 12327,
+  "models": {
+    "10": [
+      10392
+    ]
+  },
+  "name": "Cave exit",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_z": 128,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

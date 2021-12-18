@@ -1,0 +1,28 @@
+{
+  "id": 85648,
+  "models": {
+    "10": [
+      80317,
+      87346
+    ]
+  },
+  "name": "Cauldron",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      548,
+      4640
+    ],
+    [
+      558,
+      4650
+    ],
+    [
+      568,
+      4660
+    ]
+  ],
+  "unknown_98": true,
+  "occludes_2": false
+}

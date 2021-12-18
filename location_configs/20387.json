@@ -1,0 +1,17 @@
+{
+  "id": 20387,
+  "models": {
+    "10": [
+      63636
+    ]
+  },
+  "name": "Shelf (earth cube)",
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

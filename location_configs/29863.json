@@ -1,0 +1,17 @@
+{
+  "id": 29863,
+  "models": {
+    "10": [
+      32633
+    ]
+  },
+  "name": "Incubator",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8892,
+  "ambient": 5,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

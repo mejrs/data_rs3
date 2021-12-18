@@ -1,0 +1,16 @@
+{
+  "id": 113838,
+  "models": {
+    "10": [
+      58141,
+      58163
+    ]
+  },
+  "name": "Ancient stone",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

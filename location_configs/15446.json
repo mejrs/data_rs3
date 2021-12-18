@@ -1,0 +1,17 @@
+{
+  "id": 15446,
+  "models": {
+    "4": [
+      12881
+    ]
+  },
+  "name": "Tool space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

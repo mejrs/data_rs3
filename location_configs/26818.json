@@ -1,0 +1,14 @@
+{
+  "id": 26818,
+  "models": {
+    "10": [
+      28583,
+      36223
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

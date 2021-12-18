@@ -1,0 +1,24 @@
+{
+  "id": 26754,
+  "models": {
+    "0": [
+      28542
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Crawl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1516": 2396
+  },
+  "occludes_2": false
+}

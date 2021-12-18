@@ -1,0 +1,18 @@
+{
+  "id": 80257,
+  "models": {
+    "10": [
+      80621,
+      80625
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "scale_y": 100,
+  "unknown_88": false,
+  "occludes_2": false
+}

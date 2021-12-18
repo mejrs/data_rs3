@@ -1,0 +1,44 @@
+{
+  "id": 54100,
+  "models": {
+    "10": [
+      59148
+    ]
+  },
+  "name": "Censer",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      15635,
+      15655
+    ],
+    [
+      20735,
+      20773
+    ],
+    [
+      20771,
+      20811
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

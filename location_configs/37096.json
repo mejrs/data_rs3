@@ -1,0 +1,13 @@
+{
+  "id": 37096,
+  "models": {
+    "10": [
+      40626
+    ]
+  },
+  "name": "Archery target",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

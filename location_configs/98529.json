@@ -1,0 +1,36 @@
+{
+  "id": 98529,
+  "models": {
+    "10": [
+      105560
+    ]
+  },
+  "name": "Crystal",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7463,
+  "unknown_27": false,
+  "ambient": 75,
+  "actions": [
+    "Rotate",
+    "Rotate clockwise",
+    "Rotate anti-clockwise",
+    null,
+    null
+  ],
+  "textures": {
+    "6043": 1429
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    189,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

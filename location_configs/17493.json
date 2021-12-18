@@ -1,0 +1,19 @@
+{
+  "id": 17493,
+  "models": {
+    "10": [
+      4837
+    ]
+  },
+  "name": "Tree stump",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "scale_x": 164,
+  "scale_y": 164,
+  "scale_z": 164,
+  "mapscene": 5,
+  "occludes_2": false
+}

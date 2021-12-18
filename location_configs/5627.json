@@ -1,0 +1,32 @@
+{
+  "id": 5627,
+  "models": {
+    "10": [
+      9868
+    ]
+  },
+  "name": "Outdoor tap",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7095,
+      6190
+    ],
+    [
+      7079,
+      6174
+    ]
+  ],
+  "scale_y": 115,
+  "occludes_2": false
+}

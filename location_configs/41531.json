@@ -1,0 +1,37 @@
+{
+  "id": 41531,
+  "models": {
+    "22": [
+      44892
+    ]
+  },
+  "name": "Broken pier",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Step",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6932,
+      5404
+    ],
+    [
+      6684,
+      6697
+    ]
+  ],
+  "textures": {
+    "2073": 2075
+  },
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -1,0 +1,23 @@
+{
+  "id": 106667,
+  "models": {
+    "10": [
+      117225
+    ]
+  },
+  "name": "Obstacle pipe",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Slide-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 100,
+  "translate_y": 65436,
+  "occludes_2": false
+}

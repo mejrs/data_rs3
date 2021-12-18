@@ -1,0 +1,27 @@
+{
+  "id": 66018,
+  "models": {
+    "10": [
+      28170
+    ]
+  },
+  "name": "Sarcophagus",
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

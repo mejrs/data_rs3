@@ -1,0 +1,24 @@
+{
+  "id": 96649,
+  "models": {
+    "10": [
+      103592
+    ]
+  },
+  "name": "Jawbone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 86548,
+  "models": {
+    "10": [
+      88394
+    ]
+  },
+  "name": "Divine Tear Rocks",
+  "is_transparent": true,
+  "ambient": 100,
+  "contrast": 10,
+  "unknown_98": true,
+  "occludes_2": false
+}

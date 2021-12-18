@@ -1,0 +1,23 @@
+{
+  "id": 83078,
+  "models": {
+    "10": [
+      84163
+    ]
+  },
+  "name": "Barrier",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Jump over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

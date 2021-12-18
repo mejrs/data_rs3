@@ -1,0 +1,37 @@
+{
+  "id": 88961,
+  "models": {
+    "10": [
+      92829
+    ]
+  },
+  "dim_x": 14,
+  "dim_y": 11,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 65,
+  "contrast": 35,
+  "colours": [
+    [
+      7321,
+      0
+    ],
+    [
+      16972,
+      7310
+    ],
+    [
+      16962,
+      7306
+    ]
+  ],
+  "textures": {
+    "1313": 3527,
+    "1514": 3527,
+    "3531": 3522
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

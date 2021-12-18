@@ -1,0 +1,28 @@
+{
+  "id": 16352,
+  "models": {
+    "10": [
+      57575
+    ]
+  },
+  "name": "Big red button",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  }
+}

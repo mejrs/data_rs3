@@ -1,0 +1,15 @@
+{
+  "id": 9500,
+  "models": {
+    "10": [
+      9542
+    ]
+  },
+  "name": "Plant",
+  "ambient": 20,
+  "contrast": 15,
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70,
+  "occludes_2": false
+}

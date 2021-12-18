@@ -1,0 +1,31 @@
+{
+  "id": 91826,
+  "models": {
+    "10": [
+      97426
+    ]
+  },
+  "name": "Seal of Meilyr",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Activate",
+    "Reset puzzle",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

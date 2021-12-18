@@ -1,0 +1,23 @@
+{
+  "id": 30288,
+  "models": {
+    "10": [
+      18299,
+      18328
+    ]
+  },
+  "name": "Crate",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3743,
+  "ambient": 20,
+  "contrast": 10,
+  "colours": [
+    [
+      38117,
+      23700
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

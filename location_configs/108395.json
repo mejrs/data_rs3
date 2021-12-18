@@ -1,0 +1,22 @@
+{
+  "id": 108395,
+  "models": {
+    "10": [
+      71303
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 32,
+  "colours": [
+    [
+      21530,
+      0
+    ]
+  ],
+  "model": false,
+  "translate_y": 65406,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

@@ -1,0 +1,21 @@
+{
+  "id": 95966,
+  "models": {
+    "10": [
+      102935
+    ]
+  },
+  "name": "Undead dairy cow",
+  "dim_y": 2,
+  "unknown_24": 22122,
+  "actions": [
+    "Milk",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "occludes_2": false,
+  "unknown_196": 1
+}

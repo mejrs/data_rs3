@@ -1,0 +1,23 @@
+{
+  "id": 99928,
+  "models": {
+    "10": [
+      87758,
+      87703
+    ]
+  },
+  "name": "Injured soldier",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 20712,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Heal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

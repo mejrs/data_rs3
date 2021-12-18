@@ -1,0 +1,49 @@
+{
+  "id": 41123,
+  "models": {
+    "0": [
+      9476
+    ],
+    "9": [
+      9477
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7064,
+      5404
+    ],
+    [
+      6945,
+      5400
+    ],
+    [
+      6940,
+      5396
+    ],
+    [
+      6038,
+      5392
+    ]
+  ],
+  "mirror": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

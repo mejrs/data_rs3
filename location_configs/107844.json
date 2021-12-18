@@ -1,0 +1,13 @@
+{
+  "id": 107844,
+  "models": {
+    "10": [
+      117892
+    ]
+  },
+  "name": "Water flow",
+  "ambient": 32,
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

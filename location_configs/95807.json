@@ -1,0 +1,46 @@
+{
+  "id": 95807,
+  "models": {
+    "10": [
+      38143,
+      13215
+    ]
+  },
+  "name": "Sink",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37,
+      7582
+    ],
+    [
+      28,
+      7706
+    ],
+    [
+      53,
+      103
+    ],
+    [
+      45,
+      7954
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

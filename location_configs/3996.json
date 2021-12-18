@@ -1,0 +1,26 @@
+{
+  "id": 3996,
+  "models": {
+    "0": [
+      3974
+    ]
+  },
+  "name": "Tent flap",
+  "ambient": 50,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

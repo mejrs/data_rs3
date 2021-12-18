@@ -1,0 +1,33 @@
+{
+  "id": 14633,
+  "models": {
+    "10": [
+      63288
+    ]
+  },
+  "name": "Elven lamp",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 1212,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 120908,
+  "models": {
+    "10": [
+      7812,
+      7767
+    ]
+  },
+  "name": "Spooky Scarecrow",
+  "unknown_19": 1,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      475
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

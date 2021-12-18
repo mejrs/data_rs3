@@ -1,0 +1,26 @@
+{
+  "id": 92252,
+  "models": {
+    "0": [
+      98274
+    ]
+  },
+  "name": "Zanaris fairy ring portal",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Enter",
+    "Other Destination",
+    "Retune",
+    null,
+    null
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 24688,
+  "models": {
+    "10": [
+      17877
+    ]
+  },
+  "name": "Broken experiment tube",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 5,
+  "colours": [
+    [
+      7452,
+      6554
+    ],
+    [
+      8483,
+      6430
+    ],
+    [
+      8596,
+      6674
+    ],
+    [
+      8472,
+      6550
+    ]
+  ],
+  "occludes_2": false
+}

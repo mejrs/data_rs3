@@ -1,0 +1,34 @@
+{
+  "id": 2109,
+  "models": {
+    "10": [
+      77240
+    ]
+  },
+  "name": "Dragon head",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    "Talk to",
+    "Pray",
+    "Rub",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_x": 65280,
+  "translate_z": 65408,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    44,
+    61,
+    46,
+    null,
+    null
+  ]
+}

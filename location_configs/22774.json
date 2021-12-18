@@ -1,0 +1,17 @@
+{
+  "id": 22774,
+  "models": {
+    "10": [
+      23468,
+      23464
+    ]
+  },
+  "name": "Armour stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "occludes_2": false
+}

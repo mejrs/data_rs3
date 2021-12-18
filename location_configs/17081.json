@@ -1,0 +1,36 @@
+{
+  "id": 17081,
+  "models": {
+    "10": [
+      63725
+    ]
+  },
+  "name": "Machine",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      10980,
+      740
+    ],
+    [
+      10990,
+      750
+    ],
+    [
+      11000,
+      760
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 49345,
+  "models": {
+    "10": [
+      56665
+    ]
+  },
+  "name": "Locked chest",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10401,
+      28
+    ],
+    [
+      10508,
+      23
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

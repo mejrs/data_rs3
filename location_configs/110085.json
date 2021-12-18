@@ -1,0 +1,36 @@
+{
+  "id": 110085,
+  "models": {
+    "10": [
+      6661
+    ]
+  },
+  "name": "Candle (pink)",
+  "unknown_19": 1,
+  "actions": [
+    "Place candle",
+    "Remove candle",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      120,
+      60377
+    ],
+    [
+      7288,
+      60242
+    ],
+    [
+      7289,
+      60238
+    ],
+    [
+      8307,
+      60111
+    ]
+  ],
+  "occludes_2": false
+}

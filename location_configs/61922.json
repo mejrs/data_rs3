@@ -1,0 +1,18 @@
+{
+  "id": 61922,
+  "models": {
+    "10": [
+      61392
+    ]
+  },
+  "name": "Flower stall",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "params": {
+    "1970": 1
+  }
+}

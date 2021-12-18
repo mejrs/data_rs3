@@ -1,0 +1,16 @@
+{
+  "id": 98722,
+  "models": {
+    "10": [
+      106258
+    ]
+  },
+  "name": "Window",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "translate_x": 65486,
+  "translate_y": 160,
+  "occludes_2": false,
+  "unknown_188": true
+}

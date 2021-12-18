@@ -1,0 +1,17 @@
+{
+  "id": 26109,
+  "models": {
+    "10": [
+      27296
+    ]
+  },
+  "name": "Spiders' nest",
+  "actions": [
+    null,
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

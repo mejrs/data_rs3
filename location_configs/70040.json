@@ -1,0 +1,25 @@
+{
+  "id": 70040,
+  "models": {
+    "22": [
+      68858
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      12568,
+      11692
+    ],
+    [
+      13598,
+      12722
+    ]
+  ],
+  "scale_y": 178,
+  "unknown_88": false,
+  "occludes_2": false
+}

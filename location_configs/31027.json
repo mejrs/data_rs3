@@ -1,0 +1,14 @@
+{
+  "id": 31027,
+  "models": {
+    "10": [
+      64785
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

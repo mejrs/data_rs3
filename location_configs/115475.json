@@ -1,0 +1,19 @@
+{
+  "id": 115475,
+  "models": {
+    "10": [
+      91301
+    ]
+  },
+  "name": "Hydra head",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "textures": {
+    "10276": 12225
+  },
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "occludes_2": false
+}

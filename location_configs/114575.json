@@ -1,0 +1,19 @@
+{
+  "id": 114575,
+  "models": {
+    "10": [
+      10335
+    ]
+  },
+  "name": "Jadinko egg",
+  "unknown_24": 3565,
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "translate_y": 30,
+  "occludes_2": false
+}

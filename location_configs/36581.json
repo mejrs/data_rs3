@@ -1,0 +1,48 @@
+{
+  "id": 36581,
+  "models": {
+    "10": [
+      7906,
+      38318
+    ]
+  },
+  "name": "Rock table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Take 1",
+    "Take 5",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6451,
+      5404
+    ],
+    [
+      6443,
+      5400
+    ],
+    [
+      6439,
+      5396
+    ],
+    [
+      6563,
+      5392
+    ],
+    [
+      6558,
+      5388
+    ],
+    [
+      6682,
+      5384
+    ]
+  ],
+  "occludes_2": false
+}

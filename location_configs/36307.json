@@ -1,0 +1,16 @@
+{
+  "id": 36307,
+  "models": {
+    "10": [
+      38429
+    ]
+  },
+  "name": "Rope ladder",
+  "ambient": 25,
+  "contrast": 20,
+  "textures": {
+    "39": 55
+  },
+  "mapscene": 21,
+  "occludes_2": false
+}

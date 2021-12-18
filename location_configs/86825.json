@@ -1,0 +1,29 @@
+{
+  "id": 86825,
+  "models": {
+    "22": [
+      89050
+    ]
+  },
+  "name": "Tile",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Touch",
+    "Reset",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    155,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

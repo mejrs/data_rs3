@@ -1,0 +1,25 @@
+{
+  "id": 4079,
+  "models": {
+    "10": [
+      4137
+    ]
+  },
+  "name": "Broken Wall",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

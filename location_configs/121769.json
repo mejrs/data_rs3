@@ -1,0 +1,32 @@
+{
+  "id": 121769,
+  "models": {
+    "10": [
+      123858,
+      123877,
+      123878
+    ]
+  },
+  "name": "Moulding Lumbridge guard",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

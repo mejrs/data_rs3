@@ -1,0 +1,37 @@
+{
+  "id": 70455,
+  "models": {
+    "10": [
+      69377,
+      69369
+    ]
+  },
+  "name": "Cyclone",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Siphon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2868": 2864
+  },
+  "model": false,
+  "translate_y": 65532,
+  "unknown_78": {
+    "unknown_1": 14482,
+    "unknown_2": 2
+  },
+  "unknown_81": 88,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_1": 250,
+  "unknown_2": 350
+}

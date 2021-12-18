@@ -1,0 +1,38 @@
+{
+  "id": 12615,
+  "models": {
+    "10": [
+      7826,
+      7815,
+      13581
+    ]
+  },
+  "name": "Bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6364,
+      4550
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 10624,
+  "models": {
+    "10": [
+      37375
+    ]
+  },
+  "name": "Silver Chest (black)",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      36907,
+      36971
+    ],
+    [
+      30757,
+      36953
+    ],
+    [
+      32804,
+      36936
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 85685,
+  "models": {
+    "10": [
+      87341
+    ]
+  },
+  "name": "Book",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 111,
+  "translate_z": 65408,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 110087,
+  "models": {
+    "10": [
+      6661
+    ]
+  },
+  "name": "Candle (navy blue)",
+  "unknown_19": 1,
+  "actions": [
+    "Place candle",
+    "Remove candle",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      120,
+      39587
+    ],
+    [
+      7288,
+      39458
+    ],
+    [
+      7289,
+      40481
+    ],
+    [
+      8307,
+      40475
+    ]
+  ],
+  "occludes_2": false
+}

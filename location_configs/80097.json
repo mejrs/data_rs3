@@ -1,0 +1,32 @@
+{
+  "id": 80097,
+  "models": {
+    "10": [
+      80864,
+      80847
+    ]
+  },
+  "name": "Table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9343,
+      18158
+    ]
+  ],
+  "textures": {
+    "2864": 2861
+  },
+  "occludes_2": false
+}

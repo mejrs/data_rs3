@@ -1,0 +1,29 @@
+{
+  "id": 37336,
+  "models": {
+    "10": [
+      1835
+    ]
+  },
+  "name": "Winch",
+  "ambient": 25,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4886,
+      5404
+    ],
+    [
+      24,
+      33
+    ]
+  ],
+  "occludes_2": false
+}

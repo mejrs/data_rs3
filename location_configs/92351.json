@@ -1,0 +1,15 @@
+{
+  "id": 92351,
+  "models": {
+    "0": [
+      98259
+    ]
+  },
+  "name": "Summoning banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 479
+  },
+  "mapscene": 22
+}

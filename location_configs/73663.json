@@ -1,0 +1,32 @@
+{
+  "id": 73663,
+  "models": {
+    "10": [
+      71739,
+      71736
+    ]
+  },
+  "name": "Gielinor Games kitchen",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Prep food",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_69": 11,
+  "unknown_78": {
+    "unknown_1": 4985,
+    "unknown_2": 3
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 150
+}

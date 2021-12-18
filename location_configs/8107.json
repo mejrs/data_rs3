@@ -1,0 +1,20 @@
+{
+  "id": 8107,
+  "models": {
+    "10": [
+      110115,
+      7767
+    ]
+  },
+  "name": "Papaya tree",
+  "ambient": 30,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": 12957,
+  "models": {
+    "10": [
+      11246
+    ]
+  },
+  "name": "Red barrier (key)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      976
+    ],
+    [
+      31676,
+      956
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

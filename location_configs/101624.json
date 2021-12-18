@@ -1,0 +1,21 @@
+{
+  "id": 101624,
+  "models": {
+    "22": [
+      90792
+    ]
+  },
+  "name": "Drop",
+  "unknown_19": 1,
+  "actions": [
+    "Jump off",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

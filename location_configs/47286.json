@@ -1,0 +1,20 @@
+{
+  "id": 47286,
+  "models": {
+    "10": [
+      50869
+    ]
+  },
+  "name": "Pillar",
+  "ambient": 20,
+  "actions": [
+    "Collapse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "unknown_69": 10,
+  "occludes_2": false
+}

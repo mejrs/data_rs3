@@ -1,0 +1,17 @@
+{
+  "id": 4942,
+  "models": {
+    "10": [
+      4897
+    ]
+  },
+  "name": "Lift",
+  "actions": [
+    "Go-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

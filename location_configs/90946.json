@@ -1,0 +1,47 @@
+{
+  "id": 90946,
+  "models": {
+    "10": [
+      87345
+    ]
+  },
+  "name": "Chest",
+  "is_transparent": true,
+  "ambient": 64,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6715,
+      5656
+    ],
+    [
+      10586,
+      7331
+    ],
+    [
+      10471,
+      10279
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

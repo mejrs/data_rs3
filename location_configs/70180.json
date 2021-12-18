@@ -1,0 +1,20 @@
+{
+  "id": 70180,
+  "models": {
+    "10": [
+      55161
+    ]
+  },
+  "name": "Spinny stuff-maker",
+  "dim_y": 2,
+  "unknown_21": true,
+  "actions": [
+    "Make stuff",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "occludes_2": false
+}

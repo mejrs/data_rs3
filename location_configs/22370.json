@@ -1,0 +1,28 @@
+{
+  "id": 22370,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Climb",
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 8995,
+    "ids": [
+      22368,
+      22369
+    ]
+  },
+  "mapscene": 7,
+  "cursors": [
+    null,
+    181,
+    null,
+    null,
+    null,
+    null
+  ]
+}

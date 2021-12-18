@@ -1,0 +1,29 @@
+{
+  "id": 75776,
+  "models": {
+    "10": [
+      76732
+    ]
+  },
+  "name": "Fissure",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65532,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_199": true
+}

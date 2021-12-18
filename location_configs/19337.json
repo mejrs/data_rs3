@@ -1,0 +1,41 @@
+{
+  "id": 19337,
+  "models": {
+    "10": [
+      19356
+    ]
+  },
+  "name": "Rabbit hole",
+  "unknown_21": true,
+  "actions": [
+    "Flush",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8656,
+      7595
+    ],
+    [
+      8644,
+      6569
+    ],
+    [
+      8631,
+      6439
+    ],
+    [
+      8747,
+      6558
+    ],
+    [
+      8862,
+      7954
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

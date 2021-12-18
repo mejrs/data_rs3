@@ -1,0 +1,27 @@
+{
+  "id": 18008,
+  "models": {
+    "10": [
+      17739
+    ]
+  },
+  "name": "Cutting Table",
+  "dim_x": 2,
+  "ambient": 15,
+  "colours": [
+    [
+      5272,
+      10266
+    ],
+    [
+      7331,
+      10258
+    ],
+    [
+      5281,
+      24
+    ]
+  ],
+  "unknown_44": 21,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 118257,
+  "models": {
+    "10": [
+      12646
+    ]
+  },
+  "name": "Altar space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

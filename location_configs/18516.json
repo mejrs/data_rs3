@@ -1,0 +1,31 @@
+{
+  "id": 18516,
+  "models": {
+    "10": [
+      18865,
+      18864
+    ]
+  },
+  "name": "Bellows",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5429,
+      6682
+    ],
+    [
+      61,
+      7566
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,83 @@
+{
+  "id": 112887,
+  "models": {
+    "10": [
+      85018
+    ]
+  },
+  "name": "Rocks",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_24": 9657,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4403,
+      5396
+    ],
+    [
+      4404,
+      5396
+    ],
+    [
+      4406,
+      5398
+    ],
+    [
+      4407,
+      5398
+    ],
+    [
+      4408,
+      5400
+    ],
+    [
+      4410,
+      5400
+    ],
+    [
+      4668,
+      5404
+    ],
+    [
+      4670,
+      5406
+    ],
+    [
+      4672,
+      5408
+    ],
+    [
+      4676,
+      5412
+    ],
+    [
+      4684,
+      5428
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

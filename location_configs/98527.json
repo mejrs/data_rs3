@@ -1,0 +1,21 @@
+{
+  "id": 98527,
+  "models": {
+    "10": [
+      105562
+    ]
+  },
+  "name": "Fractured Shard",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 7463,
+  "unknown_27": false,
+  "ambient": 75,
+  "textures": {
+    "6043": 1429
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

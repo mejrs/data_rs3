@@ -1,0 +1,31 @@
+{
+  "id": 80466,
+  "models": {
+    "10": [
+      80831,
+      80832
+    ]
+  },
+  "name": "Chair",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9343,
+      40814
+    ]
+  ],
+  "textures": {
+    "2864": 2869
+  },
+  "occludes_2": false
+}

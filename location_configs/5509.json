@@ -1,0 +1,34 @@
+{
+  "id": 5509,
+  "models": {
+    "22": [
+      4322
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 20,
+  "colours": [
+    [
+      5524,
+      6554
+    ],
+    [
+      5669,
+      6430
+    ],
+    [
+      5788,
+      6435
+    ],
+    [
+      6705,
+      6439
+    ]
+  ],
+  "translate_x": 0,
+  "translate_y": 10,
+  "translate_z": 0,
+  "unknown_73": true,
+  "occludes_2": false
+}

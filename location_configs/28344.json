@@ -1,0 +1,15 @@
+{
+  "id": 28344,
+  "models": {
+    "10": [
+      30406
+    ]
+  },
+  "name": "Scale",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 112739,
+  "models": {
+    "10": [
+      72638
+    ]
+  },
+  "name": "Kethsian anvil",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Smith",
+    "Deposit-All (Into Metal Bank)",
+    "Withdraw-All (From Metal Bank)",
+    "Open Smithing Interface",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7803": 3
+  }
+}

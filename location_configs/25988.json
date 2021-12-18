@@ -1,0 +1,24 @@
+{
+  "id": 25988,
+  "models": {
+    "10": [
+      27272
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      5025,
+      10283
+    ],
+    [
+      3994,
+      10266
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

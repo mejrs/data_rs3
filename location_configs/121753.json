@@ -1,0 +1,37 @@
+{
+  "id": 121753,
+  "models": {
+    "10": [
+      123882,
+      123896
+    ]
+  },
+  "name": "Dead Varrock guard",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Gather",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13463": 13470,
+    "13478": 13485,
+    "13479": 13484,
+    "13480": 13487,
+    "13482": 13490
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -1,0 +1,29 @@
+{
+  "id": 104956,
+  "models": {
+    "22": [
+      114729
+    ]
+  },
+  "name": "Damaged hull",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65531,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

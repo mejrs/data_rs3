@@ -1,0 +1,14 @@
+{
+  "id": 13114,
+  "models": {
+    "10": [
+      67972,
+      17237
+    ]
+  },
+  "name": "Ornament",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

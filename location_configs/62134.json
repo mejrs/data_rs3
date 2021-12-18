@@ -1,0 +1,22 @@
+{
+  "id": 62134,
+  "models": {
+    "10": [
+      1372
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      0,
+      30860
+    ]
+  ],
+  "textures": {
+    "1444": 1493
+  },
+  "occludes_2": false
+}

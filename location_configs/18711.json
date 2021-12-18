@@ -1,0 +1,39 @@
+{
+  "id": 18711,
+  "models": {
+    "10": [
+      18661
+    ]
+  },
+  "name": "Schematic crate",
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      6563
+    ],
+    [
+      6439,
+      6558
+    ],
+    [
+      6563,
+      6682
+    ],
+    [
+      6558,
+      6806
+    ],
+    [
+      6682,
+      6930
+    ]
+  ],
+  "occludes_2": false
+}

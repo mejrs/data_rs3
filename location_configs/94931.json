@@ -1,0 +1,23 @@
+{
+  "id": 94931,
+  "models": {
+    "10": [
+      91539
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 21949,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      224
+    ]
+  }
+}

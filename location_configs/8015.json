@@ -1,0 +1,20 @@
+{
+  "id": 8015,
+  "models": {
+    "10": [
+      110026,
+      7767
+    ]
+  },
+  "name": "Dead banana tree",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

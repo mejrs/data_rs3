@@ -1,0 +1,21 @@
+{
+  "id": 12552,
+  "models": {
+    "10": [
+      13719
+    ]
+  },
+  "name": "Old tree",
+  "dim_x": 4,
+  "unknown_21": true,
+  "actions": [
+    "Cut roots",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 0,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 42219,
+  "models": {
+    "10": [
+      65237
+    ]
+  },
+  "name": "Soul Wars portal",
+  "dim_x": 2,
+  "unknown_24": 14278,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 40,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

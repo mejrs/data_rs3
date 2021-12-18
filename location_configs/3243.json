@@ -1,0 +1,14 @@
+{
+  "id": 3243,
+  "models": {
+    "10": [
+      715
+    ]
+  },
+  "name": "Platform",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_22": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

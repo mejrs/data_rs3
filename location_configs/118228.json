@@ -1,0 +1,18 @@
+{
+  "id": 118228,
+  "models": {
+    "10": [
+      73972
+    ]
+  },
+  "name": "Empty Crate",
+  "unknown_19": 1,
+  "actions": [
+    "Prepare",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

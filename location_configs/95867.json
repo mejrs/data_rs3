@@ -1,0 +1,19 @@
+{
+  "id": 95867,
+  "models": {
+    "10": [
+      103131
+    ]
+  },
+  "name": "Treasure room safe",
+  "ambient": 25,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

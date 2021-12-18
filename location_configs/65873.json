@@ -1,0 +1,35 @@
+{
+  "id": 65873,
+  "models": {
+    "10": [
+      27142,
+      27867
+    ]
+  },
+  "name": "Barrel",
+  "unknown_24": 15601,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8632,
+      3489
+    ],
+    [
+      8640,
+      3497
+    ],
+    [
+      8648,
+      3505
+    ]
+  ],
+  "occludes_2": false
+}

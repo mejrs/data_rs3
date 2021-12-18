@@ -1,0 +1,40 @@
+{
+  "id": 59344,
+  "models": {
+    "0": [
+      34120
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "unknown_28": 25,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      37910,
+      9238
+    ],
+    [
+      37920,
+      9248
+    ],
+    [
+      37906,
+      9234
+    ],
+    [
+      37902,
+      9230
+    ]
+  ],
+  "textures": {
+    "1943": 1948,
+    "1989": 2023,
+    "1996": 2021
+  },
+  "mirror": true,
+  "mapscene": 22,
+  "occludes_2": false
+}

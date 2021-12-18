@@ -1,0 +1,29 @@
+{
+  "id": 70249,
+  "models": {
+    "10": [
+      53727
+    ]
+  },
+  "name": "Silver crescent door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      1575,
+      9784
+    ]
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false
+}

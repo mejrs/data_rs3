@@ -1,0 +1,20 @@
+{
+  "id": 24808,
+  "models": {
+    "10": [
+      25950
+    ]
+  },
+  "name": "Drain",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 5,
+  "colours": [
+    [
+      4750,
+      4626
+    ]
+  ],
+  "occludes_2": false
+}

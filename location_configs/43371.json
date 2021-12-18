@@ -1,0 +1,27 @@
+{
+  "id": 43371,
+  "models": {
+    "10": [
+      46808
+    ]
+  },
+  "name": "Ruined boat",
+  "dim_x": 4,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3441,
+  "models": {
+    "10": [
+      3488
+    ]
+  },
+  "name": "Stairs",
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

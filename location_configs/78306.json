@@ -1,0 +1,34 @@
+{
+  "id": 78306,
+  "models": {
+    "10": [
+      78220
+    ]
+  },
+  "name": "Cannon (broken)",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 2232,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

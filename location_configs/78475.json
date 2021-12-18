@@ -1,0 +1,55 @@
+{
+  "id": 78475,
+  "models": {
+    "10": [
+      78887
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "actions": [
+    null,
+    "Climb down",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4404,
+      12335
+    ],
+    [
+      4408,
+      16412
+    ],
+    [
+      4668,
+      21528
+    ],
+    [
+      4670,
+      21524
+    ],
+    [
+      4676,
+      24594
+    ],
+    [
+      4684,
+      28686
+    ]
+  ],
+  "textures": {
+    "1470": 1474
+  },
+  "occludes_2": false,
+  "cursors": [
+    null,
+    53,
+    null,
+    null,
+    null,
+    null
+  ]
+}

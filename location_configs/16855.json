@@ -1,0 +1,13 @@
+{
+  "id": 16855,
+  "models": {
+    "10": [
+      16790
+    ]
+  },
+  "name": "Dice",
+  "unknown_24": 4360,
+  "ambient": 30,
+  "contrast": 30,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 69620,
+  "models": {
+    "10": [
+      68756
+    ]
+  },
+  "name": "Rellekka",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "North-east:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2775": 3536
+  },
+  "translate_x": 65498,
+  "translate_z": 65498,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 112910,
+  "models": {
+    "10": [
+      14033
+    ]
+  },
+  "name": "Rubble",
+  "is_transparent": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

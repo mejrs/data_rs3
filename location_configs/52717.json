@@ -1,0 +1,19 @@
+{
+  "id": 52717,
+  "models": {
+    "10": [
+      45311,
+      49821
+    ]
+  },
+  "name": "Burning tree",
+  "unknown_24": 4239,
+  "ambient": 10,
+  "contrast": 5,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 127
+}

@@ -1,0 +1,12 @@
+{
+  "id": 28643,
+  "models": {
+    "10": [
+      31294
+    ]
+  },
+  "name": "Broken stool",
+  "is_transparent": true,
+  "ambient": 25,
+  "occludes_2": false
+}

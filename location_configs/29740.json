@@ -1,0 +1,28 @@
+{
+  "id": 29740,
+  "models": {
+    "10": [
+      1398
+    ]
+  },
+  "name": "Minecart",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Crouch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

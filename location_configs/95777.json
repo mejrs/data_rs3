@@ -1,0 +1,29 @@
+{
+  "id": 95777,
+  "models": {
+    "10": [
+      2164
+    ]
+  },
+  "name": "Altar slab",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

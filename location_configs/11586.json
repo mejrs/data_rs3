@@ -1,0 +1,18 @@
+{
+  "id": 11586,
+  "models": {
+    "10": [
+      26078
+    ]
+  },
+  "unknown_17": false,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 1,
+  "scale_z": 1,
+  "blocks_ranged": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

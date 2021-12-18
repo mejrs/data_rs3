@@ -1,0 +1,28 @@
+{
+  "id": 2237,
+  "models": {
+    "10": [
+      1593
+    ]
+  },
+  "name": "Palm tree",
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

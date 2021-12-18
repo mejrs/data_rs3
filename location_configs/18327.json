@@ -1,0 +1,28 @@
+{
+  "id": 18327,
+  "models": {
+    "10": [
+      18447
+    ]
+  },
+  "name": "Crane",
+  "dim_x": 4,
+  "dim_y": 4,
+  "actions": [
+    "Rotate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    189,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 105727,
+  "models": {
+    "10": [
+      115928
+    ]
+  },
+  "name": "Wall",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

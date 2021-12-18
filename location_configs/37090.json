@@ -1,0 +1,28 @@
+{
+  "id": 37090,
+  "models": {
+    "10": [
+      26720
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 10,
+  "colours": [
+    [
+      8,
+      33288
+    ],
+    [
+      8,
+      33288
+    ]
+  ],
+  "textures": {
+    "2396": 2377
+  },
+  "unknown_44": 5,
+  "scale_y": 125,
+  "occludes_2": false,
+  "unknown_196": 3
+}

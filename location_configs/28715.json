@@ -1,0 +1,27 @@
+{
+  "id": 28715,
+  "models": {
+    "10": [
+      31647
+    ]
+  },
+  "name": "Wishing well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 8526,
+  "ambient": 15,
+  "actions": [
+    "Make-wish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 20252,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 100
+}

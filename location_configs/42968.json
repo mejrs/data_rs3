@@ -1,0 +1,13 @@
+{
+  "id": 42968,
+  "models": {
+    "10": [
+      46557
+    ]
+  },
+  "name": "Regal table",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

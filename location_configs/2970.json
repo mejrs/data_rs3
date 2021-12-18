@@ -1,0 +1,26 @@
+{
+  "id": 2970,
+  "models": {
+    "9": [
+      801
+    ]
+  },
+  "name": "Filled Recess",
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

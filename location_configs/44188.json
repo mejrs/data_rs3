@@ -1,0 +1,25 @@
+{
+  "id": 44188,
+  "models": {
+    "10": [
+      111288
+    ]
+  },
+  "name": "Temporal rift",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_89": false,
+  "is_members": true,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 24736,
+  "models": {
+    "10": [
+      25954,
+      25953
+    ]
+  },
+  "name": "Beanstalk",
+  "unknown_24": 6500,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  }
+}

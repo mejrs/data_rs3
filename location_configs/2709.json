@@ -1,0 +1,38 @@
+{
+  "id": 2709,
+  "models": {
+    "10": [
+      12150
+    ]
+  },
+  "name": "Chest",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6682,
+      7448
+    ],
+    [
+      6443,
+      7456
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

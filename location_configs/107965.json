@@ -1,0 +1,16 @@
+{
+  "id": 107965,
+  "models": {
+    "10": [
+      75976
+    ]
+  },
+  "name": "Plant",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "occludes_2": false
+}

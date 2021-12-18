@@ -1,0 +1,20 @@
+{
+  "id": 8039,
+  "models": {
+    "10": [
+      110056,
+      7767
+    ]
+  },
+  "name": "Diseased curry tree",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

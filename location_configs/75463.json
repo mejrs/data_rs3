@@ -1,0 +1,34 @@
+{
+  "id": 75463,
+  "models": {
+    "10": [
+      50039
+    ]
+  },
+  "name": "Deep chasm",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "scale_x": 512,
+  "scale_y": 384,
+  "scale_z": 512,
+  "unknown_75": 0,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

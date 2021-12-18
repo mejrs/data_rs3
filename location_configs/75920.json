@@ -1,0 +1,29 @@
+{
+  "id": 75920,
+  "models": {
+    "10": [
+      76681
+    ]
+  },
+  "name": "Skylight",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Break in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

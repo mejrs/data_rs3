@@ -1,0 +1,71 @@
+{
+  "id": 70811,
+  "models": {
+    "10": [
+      70118
+    ]
+  },
+  "name": "Corpse",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4403,
+      5396
+    ],
+    [
+      4404,
+      5396
+    ],
+    [
+      4406,
+      5398
+    ],
+    [
+      4407,
+      5398
+    ],
+    [
+      4408,
+      5400
+    ],
+    [
+      4410,
+      5400
+    ],
+    [
+      4668,
+      5404
+    ],
+    [
+      4670,
+      5406
+    ],
+    [
+      4672,
+      5408
+    ],
+    [
+      4676,
+      5412
+    ],
+    [
+      4684,
+      5428
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

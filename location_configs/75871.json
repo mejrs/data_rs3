@@ -1,0 +1,23 @@
+{
+  "id": 75871,
+  "models": {
+    "10": [
+      76741
+    ]
+  },
+  "name": "Het scales",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    "Reset",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false
+}

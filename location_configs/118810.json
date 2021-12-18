@@ -1,0 +1,30 @@
+{
+  "id": 118810,
+  "models": {
+    "10": [
+      121003
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      15629,
+      33018
+    ]
+  ],
+  "textures": {
+    "2216": 2221,
+    "2217": 2221,
+    "2218": 2221,
+    "2219": 2221,
+    "2222": 2221
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

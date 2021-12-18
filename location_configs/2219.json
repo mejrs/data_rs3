@@ -1,0 +1,32 @@
+{
+  "id": 2219,
+  "models": {
+    "10": [
+      40901
+    ]
+  },
+  "name": "Fissure",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 192,
+  "scale_z": 192,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

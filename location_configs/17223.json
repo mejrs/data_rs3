@@ -1,0 +1,28 @@
+{
+  "id": 17223,
+  "models": {
+    "0": [
+      17059
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

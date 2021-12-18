@@ -1,0 +1,23 @@
+{
+  "id": 63333,
+  "models": {
+    "10": [
+      9325
+    ]
+  },
+  "name": "Body",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 25194,
+  "models": {
+    "10": [
+      26477
+    ]
+  },
+  "name": "Dragon statue",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "colours": [
+    [
+      10388,
+      33
+    ],
+    [
+      10512,
+      24
+    ],
+    [
+      10392,
+      20
+    ],
+    [
+      10396,
+      41
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 2
+}

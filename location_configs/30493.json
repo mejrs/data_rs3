@@ -1,0 +1,21 @@
+{
+  "id": 30493,
+  "models": {
+    "10": [
+      33554
+    ]
+  },
+  "name": "Wooden post",
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Make-Ladder",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 160,
+  "unknown_69": 13,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 46814,
+  "models": {
+    "10": [
+      50321
+    ]
+  },
+  "name": "Table",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Web",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_x": 16,
+  "occludes_2": false,
+  "cursors": [
+    150,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

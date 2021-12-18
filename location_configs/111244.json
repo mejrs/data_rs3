@@ -1,0 +1,16 @@
+{
+  "id": 111244,
+  "models": {
+    "10": [
+      34233
+    ]
+  },
+  "name": "Parcels",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

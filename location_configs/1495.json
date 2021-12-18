@@ -1,0 +1,14 @@
+{
+  "id": 1495,
+  "models": {
+    "10": [
+      60400
+    ]
+  },
+  "name": "Chompybird Rack",
+  "dim_x": 2,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 15426,
+  "models": {
+    "10": [
+      12879
+    ]
+  },
+  "name": "Throne space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

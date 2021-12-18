@@ -1,0 +1,59 @@
+{
+  "id": 8356,
+  "models": {
+    "10": [
+      19924,
+      19923
+    ]
+  },
+  "name": "Spirit Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Check-health",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      2857,
+      5525
+    ],
+    [
+      2861,
+      5529
+    ],
+    [
+      2865,
+      5533
+    ],
+    [
+      2869,
+      5537
+    ],
+    [
+      228,
+      5529
+    ],
+    [
+      2849,
+      5525
+    ]
+  ],
+  "textures": {
+    "2191": 2202,
+    "2192": 2206,
+    "2205": 2209
+  },
+  "model": false,
+  "scale_x": 120,
+  "scale_z": 120,
+  "unknown_81": 32,
+  "unknown_88": false,
+  "mapscene": 0,
+  "occludes_2": false
+}

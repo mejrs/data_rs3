@@ -1,0 +1,42 @@
+{
+  "id": 29807,
+  "models": {
+    "10": [
+      32572
+    ]
+  },
+  "name": "Rocks",
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21539,
+      6569
+    ],
+    [
+      21534,
+      6565
+    ],
+    [
+      21530,
+      6689
+    ]
+  ],
+  "unknown_44": 28,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 2542,
+  "models": {
+    "10": [
+      37356
+    ]
+  },
+  "name": "Pipe",
+  "dim_x": 2,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

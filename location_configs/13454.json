@@ -1,0 +1,20 @@
+{
+  "id": 13454,
+  "models": {
+    "0": [
+      13161
+    ],
+    "2": [
+      13162
+    ]
+  },
+  "name": "Garden fence",
+  "is_transparent": true,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ]
+}

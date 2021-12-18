@@ -1,0 +1,54 @@
+{
+  "id": 15468,
+  "models": {
+    "10": [
+      64709
+    ]
+  },
+  "name": "Crate of hammers",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take-hammer",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      6563,
+      5400
+    ],
+    [
+      6443,
+      5397
+    ],
+    [
+      6806,
+      5386
+    ],
+    [
+      6682,
+      5390
+    ],
+    [
+      6439,
+      5395
+    ],
+    [
+      6558,
+      5394
+    ]
+  ],
+  "textures": {
+    "339": 3179,
+    "2062": 3172,
+    "2073": 3171,
+    "2093": 3179
+  },
+  "occludes_2": false
+}

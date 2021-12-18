@@ -1,0 +1,28 @@
+{
+  "id": 94062,
+  "models": {
+    "10": [
+      99997
+    ]
+  },
+  "name": "Potter's wheel",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 37,
+  "actions": [
+    "Form",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

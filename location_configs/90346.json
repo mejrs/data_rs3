@@ -1,0 +1,18 @@
+{
+  "id": 90346,
+  "models": {
+    "10": [
+      95379
+    ]
+  },
+  "name": "Galleon",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 23420,
+  "ambient": 64,
+  "translate_x": 64896,
+  "translate_y": 872,
+  "translate_z": 64704,
+  "occludes_2": false
+}

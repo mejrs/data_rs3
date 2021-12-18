@@ -1,0 +1,12 @@
+{
+  "id": 28901,
+  "models": {
+    "10": [
+      31724
+    ]
+  },
+  "name": "Slimy skulls",
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

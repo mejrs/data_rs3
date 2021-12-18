@@ -1,0 +1,13 @@
+{
+  "id": 117333,
+  "models": {
+    "10": [
+      93051
+    ]
+  },
+  "name": "Animal cages",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

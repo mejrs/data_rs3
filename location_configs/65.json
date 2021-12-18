@@ -1,0 +1,24 @@
+{
+  "id": 65,
+  "models": {
+    "0": [
+      37663
+    ],
+    "3": [
+      37622
+    ]
+  },
+  "name": "Crate wall",
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Climb-out",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_170": 497
+}

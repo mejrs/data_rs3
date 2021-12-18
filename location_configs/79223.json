@@ -1,0 +1,23 @@
+{
+  "id": 79223,
+  "models": {
+    "10": [
+      75679
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2453": 1472,
+    "2470": 1511,
+    "2477": 1503
+  },
+  "scale_x": 220,
+  "scale_z": 220,
+  "occludes_2": false,
+  "unknown_186": 0
+}

@@ -1,0 +1,36 @@
+{
+  "id": 110257,
+  "models": {
+    "10": [
+      7059
+    ]
+  },
+  "name": "Rope",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_x": 10,
+  "translate_y": 65531,
+  "translate_z": 65521,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  },
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

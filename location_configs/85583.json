@@ -1,0 +1,33 @@
+{
+  "id": 85583,
+  "models": {
+    "0": [
+      83018
+    ]
+  },
+  "name": "Crack",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1478": 1472
+  },
+  "model": false,
+  "unknown_88": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 11316,
+  "models": {
+    "10": [
+      11171
+    ]
+  },
+  "name": "Fuse",
+  "unknown_17": false,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

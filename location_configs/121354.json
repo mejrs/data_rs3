@@ -1,0 +1,18 @@
+{
+  "id": 121354,
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 30,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_x": 40,
+  "morphs_1": {
+    "varbit": 50132,
+    "ids": [
+      121355,
+      121356
+    ]
+  },
+  "is_members": true
+}

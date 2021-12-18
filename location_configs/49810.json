@@ -1,0 +1,61 @@
+{
+  "id": 49810,
+  "models": {
+    "10": [
+      56745
+    ]
+  },
+  "name": "Marmaros ore",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      4123,
+      38044
+    ],
+    [
+      4118,
+      38039
+    ],
+    [
+      4136,
+      38057
+    ],
+    [
+      4108,
+      38029
+    ],
+    [
+      4115,
+      38036
+    ],
+    [
+      4106,
+      38027
+    ]
+  ],
+  "textures": {
+    "1902": 1899
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 563,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

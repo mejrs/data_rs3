@@ -1,0 +1,30 @@
+{
+  "id": 17249,
+  "models": {
+    "10": [
+      17091
+    ]
+  },
+  "name": "Oaknock's exchanger",
+  "unknown_19": 1,
+  "unknown_24": 4562,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65506,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

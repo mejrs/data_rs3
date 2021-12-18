@@ -1,0 +1,26 @@
+{
+  "id": 4318,
+  "models": {
+    "10": [
+      1892,
+      1877
+    ]
+  },
+  "name": "Bear pelt",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 1197,
+  "ambient": 25,
+  "actions": [
+    "Recover-memory",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 920
+}

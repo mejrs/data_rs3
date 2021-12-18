@@ -1,0 +1,23 @@
+{
+  "id": 62687,
+  "models": {
+    "0": [
+      3058
+    ]
+  },
+  "name": "Exit door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "unknown_186": 0
+}

@@ -1,0 +1,17 @@
+{
+  "id": 13492,
+  "models": {
+    "10": [
+      12382
+    ]
+  },
+  "name": "Adamant armour",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

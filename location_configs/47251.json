@@ -1,0 +1,25 @@
+{
+  "id": 47251,
+  "models": {
+    "10": [
+      50846
+    ]
+  },
+  "name": "Silas",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 1506,
+  "unknown_27": false,
+  "ambient": 45,
+  "actions": [
+    "Listen",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

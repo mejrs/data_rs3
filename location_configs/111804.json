@@ -1,0 +1,27 @@
+{
+  "id": 111804,
+  "models": {
+    "10": [
+      60219
+    ]
+  },
+  "dim_x": 11,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "textures": {
+    "5679": 10236,
+    "9212": 10286
+  },
+  "mirror": true,
+  "translate_y": 64586,
+  "unknown_78": {
+    "unknown_1": 32089,
+    "unknown_2": 8
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 200,
+  "unknown_1": 240,
+  "unknown_2": 270,
+  "unknown_188": true
+}

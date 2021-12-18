@@ -1,0 +1,21 @@
+{
+  "id": 83556,
+  "models": {
+    "10": [
+      85005
+    ]
+  },
+  "name": "Zamorak flag",
+  "unknown_24": 10883,
+  "ambient": 25,
+  "actions": [
+    "Capture",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 28,
+  "occludes_2": false
+}

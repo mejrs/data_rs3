@@ -1,0 +1,17 @@
+{
+  "id": 116857,
+  "models": {
+    "10": [
+      90734,
+      90816,
+      102821
+    ]
+  },
+  "name": "Gemini sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 33176,
+  "unknown_27": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

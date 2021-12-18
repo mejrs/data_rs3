@@ -1,0 +1,28 @@
+{
+  "id": 5168,
+  "models": {
+    "10": [
+      20629
+    ]
+  },
+  "name": "Grave",
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    "Dig",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "mapscene": 34,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

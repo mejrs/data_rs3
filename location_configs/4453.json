@@ -1,0 +1,32 @@
+{
+  "id": 4453,
+  "models": {
+    "10": [
+      57874
+    ]
+  },
+  "name": "Toll booth",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14204,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

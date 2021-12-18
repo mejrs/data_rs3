@@ -1,0 +1,29 @@
+{
+  "id": 92347,
+  "models": {
+    "0": [
+      98229
+    ]
+  },
+  "name": "Smithing banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      8492
+    ],
+    [
+      36300,
+      5935
+    ]
+  ],
+  "mapscene": 22
+}

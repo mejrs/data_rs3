@@ -1,0 +1,31 @@
+{
+  "id": 105718,
+  "models": {
+    "10": [
+      81644
+    ]
+  },
+  "name": "Stashed weapons",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      386
+    ]
+  },
+  "unknown_186": 0
+}

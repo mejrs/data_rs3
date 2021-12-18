@@ -1,0 +1,19 @@
+{
+  "id": 97113,
+  "models": {
+    "22": [
+      104057
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 85,
+  "unknown_188": true,
+  "params": {
+    "5102": 1
+  }
+}

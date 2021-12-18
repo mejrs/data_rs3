@@ -1,0 +1,35 @@
+{
+  "id": 73662,
+  "models": {
+    "10": [
+      71737,
+      71734,
+      71735,
+      71780
+    ]
+  },
+  "name": "Gielinor Games scrap pile",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 8529,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

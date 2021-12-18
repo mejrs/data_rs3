@@ -1,0 +1,20 @@
+{
+  "id": 100086,
+  "models": {
+    "10": [
+      107397
+    ]
+  },
+  "name": "Bone grinder",
+  "dim_x": 2,
+  "unknown_22": true,
+  "actions": [
+    "Wind",
+    "Status",
+    "Settings",
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

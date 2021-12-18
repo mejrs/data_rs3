@@ -1,0 +1,25 @@
+{
+  "id": 4974,
+  "models": {
+    "10": [
+      1398
+    ]
+  },
+  "name": "Mine cart",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

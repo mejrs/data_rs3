@@ -1,0 +1,29 @@
+{
+  "id": 52617,
+  "models": {
+    "10": [
+      11969
+    ]
+  },
+  "name": "Fairy tree",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Look-through",
+    "Squeeze-past",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    57,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": 52400,
+  "models": {
+    "10": [
+      48640
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8466,
+      4512
+    ],
+    [
+      8465,
+      4508
+    ],
+    [
+      8463,
+      4504
+    ],
+    [
+      8461,
+      4500
+    ],
+    [
+      8458,
+      4496
+    ]
+  ],
+  "textures": {
+    "2075": 2073,
+    "2106": 2093
+  },
+  "occludes_2": false
+}

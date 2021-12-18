@@ -1,0 +1,41 @@
+{
+  "id": 96770,
+  "models": {
+    "10": [
+      103794
+    ]
+  },
+  "name": "Crashed rock",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 320,
+  "scale_y": 320,
+  "scale_z": 320,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": -1,
+    "unknown_2": 7,
+    "unknown_3": 76,
+    "unknown_4": 25
+  },
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

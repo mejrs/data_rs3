@@ -1,0 +1,19 @@
+{
+  "id": 108622,
+  "models": {
+    "10": [
+      118579
+    ]
+  },
+  "name": "Loyalty Stall",
+  "unknown_27": false,
+  "ambient": 0,
+  "textures": {
+    "8834": 8860
+  },
+  "model": false,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "occludes_2": false
+}

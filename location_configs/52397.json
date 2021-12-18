@@ -1,0 +1,62 @@
+{
+  "id": 52397,
+  "models": {
+    "10": [
+      11208
+    ]
+  },
+  "name": "Bank booth",
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6684,
+      4494
+    ],
+    [
+      5665,
+      4496
+    ],
+    [
+      5545,
+      4500
+    ],
+    [
+      5547,
+      4504
+    ],
+    [
+      20,
+      5416
+    ],
+    [
+      5549,
+      4496
+    ]
+  ],
+  "textures": {
+    "2076": 2093,
+    "2094": 2073,
+    "2096": 2090
+  },
+  "unknown_69": 10,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    5,
+    null,
+    null,
+    null
+  ]
+}

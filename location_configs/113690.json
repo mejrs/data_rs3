@@ -1,0 +1,40 @@
+{
+  "id": 113690,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Vines",
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 900,
+  "scale_y": 250,
+  "scale_z": 250,
+  "unknown_69": 10,
+  "translate_y": 160,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7902": 202,
+    "7901": 0
+  }
+}

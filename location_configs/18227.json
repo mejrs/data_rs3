@@ -1,0 +1,11 @@
+{
+  "id": 18227,
+  "models": {
+    "10": [
+      18262
+    ]
+  },
+  "name": "Large vase",
+  "ambient": 25,
+  "occludes_2": false
+}

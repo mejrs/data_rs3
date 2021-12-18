@@ -1,0 +1,41 @@
+{
+  "id": 19430,
+  "models": {
+    "22": [
+      5656
+    ]
+  },
+  "name": "Disturbed sand",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    "Attack",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6798,
+      8640
+    ]
+  ],
+  "textures": {
+    "2367": 9001
+  },
+  "scale_x": 96,
+  "scale_y": 16,
+  "scale_z": 96,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    42,
+    null,
+    null,
+    null,
+    null
+  ]
+}

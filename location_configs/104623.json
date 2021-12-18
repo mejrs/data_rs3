@@ -1,0 +1,59 @@
+{
+  "id": 104623,
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_z": 110,
+  "unknown_69": 11,
+  "morphs_1": {
+    "varbit": 33784,
+    "ids": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      104624,
+      104624,
+      104624,
+      104624,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      104624,
+      104624,
+      104624,
+      104624
+    ]
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

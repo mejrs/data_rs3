@@ -1,0 +1,20 @@
+{
+  "id": 36676,
+  "models": {
+    "10": [
+      17416
+    ]
+  },
+  "name": "Pit guardian",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

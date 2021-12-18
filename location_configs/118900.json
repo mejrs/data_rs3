@@ -1,0 +1,14 @@
+{
+  "id": 118900,
+  "models": {
+    "10": [
+      108422
+    ]
+  },
+  "name": "2012 Queen Black Dragon statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

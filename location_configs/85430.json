@@ -1,0 +1,19 @@
+{
+  "id": 85430,
+  "models": {
+    "10": [
+      88190,
+      88174
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2075": 2097
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 87355,
+  "models": {
+    "10": [
+      5946
+    ]
+  },
+  "name": "Weapon rack",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

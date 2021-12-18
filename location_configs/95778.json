@@ -1,0 +1,43 @@
+{
+  "id": 95778,
+  "models": {
+    "10": [
+      103180
+    ]
+  },
+  "name": "Barrier",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "3571": 5574
+  },
+  "model": false,
+  "unknown_69": 10,
+  "unknown_78": {
+    "unknown_1": 22758,
+    "unknown_2": 5
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 200,
+  "unknown_1": 240,
+  "unknown_2": 270,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

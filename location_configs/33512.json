@@ -1,0 +1,30 @@
+{
+  "id": 33512,
+  "models": {
+    "10": [
+      46794
+    ]
+  },
+  "dim_x": 2,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        11707,
+        80
+      ],
+      [
+        11708,
+        15
+      ],
+      [
+        11709,
+        5
+      ]
+    ]
+  }
+}

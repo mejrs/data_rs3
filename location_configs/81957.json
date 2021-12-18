@@ -1,0 +1,39 @@
+{
+  "id": 81957,
+  "models": {
+    "10": [
+      82820
+    ]
+  },
+  "name": "Rough stone block",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Talk to sculptor",
+    null,
+    "Build scaffold",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10762,
+      15882
+    ],
+    [
+      10764,
+      15884
+    ],
+    [
+      10768,
+      15888
+    ]
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 1,
+  "occludes_2": false
+}

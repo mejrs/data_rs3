@@ -1,0 +1,30 @@
+{
+  "id": 56866,
+  "models": {
+    "10": [
+      62298
+    ]
+  },
+  "name": "Hole",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Climb-Up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

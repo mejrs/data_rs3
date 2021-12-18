@@ -1,0 +1,40 @@
+{
+  "id": 85927,
+  "models": {
+    "4": [
+      34351
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "model": false,
+  "unknown_79": {
+    "unknown_1": 800,
+    "unknown_2": 1000,
+    "unknown_3": 40,
+    "values": [
+      37125,
+      37110,
+      37180,
+      37057,
+      37149,
+      37126,
+      37027,
+      37107,
+      37052,
+      2901,
+      2901,
+      2901,
+      2901,
+      2901,
+      2901,
+      2901
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 200,
+  "unknown_1": 240,
+  "unknown_2": 270,
+  "unknown_178": 15,
+  "unknown_198": true
+}

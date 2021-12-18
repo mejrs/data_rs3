@@ -1,0 +1,35 @@
+{
+  "id": 90268,
+  "models": {
+    "10": [
+      94856
+    ]
+  },
+  "name": "Brassica Prime",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Talk to",
+    null,
+    "Join faction",
+    null,
+    null
+  ],
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

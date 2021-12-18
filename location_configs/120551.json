@@ -1,0 +1,13 @@
+{
+  "id": 120551,
+  "models": {
+    "10": [
+      122250,
+      122465
+    ]
+  },
+  "name": "Light pedestal (lit)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

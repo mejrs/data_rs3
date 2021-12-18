@@ -1,0 +1,14 @@
+{
+  "id": 78072,
+  "models": {
+    "10": [
+      78438
+    ]
+  },
+  "name": "Doric's whetstone",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

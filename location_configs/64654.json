@@ -1,0 +1,22 @@
+{
+  "id": 64654,
+  "models": {
+    "10": [
+      17587
+    ]
+  },
+  "name": "Charge machine",
+  "unknown_19": 1,
+  "unknown_24": 15550,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Charge-funnel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

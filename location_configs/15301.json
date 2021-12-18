@@ -1,0 +1,18 @@
+{
+  "id": 15301,
+  "models": {
+    "10": [
+      12700
+    ]
+  },
+  "name": "Fireplace space",
+  "dim_y": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

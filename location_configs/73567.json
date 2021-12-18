@@ -1,0 +1,39 @@
+{
+  "id": 73567,
+  "models": {
+    "10": [
+      71437
+    ]
+  },
+  "name": "Dragon's head",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "426": 308,
+    "798": 305
+  },
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      353
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

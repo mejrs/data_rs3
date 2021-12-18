@@ -1,0 +1,12 @@
+{
+  "id": 15229,
+  "models": {
+    "10": [
+      15074,
+      15076
+    ]
+  },
+  "name": "Lift Engine",
+  "unknown_24": 4022,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 45265,
+  "models": {
+    "4": [
+      18255
+    ]
+  },
+  "name": "Shark head",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      8070,
+      5392
+    ],
+    [
+      8082,
+      5396
+    ]
+  ],
+  "occludes_2": false
+}

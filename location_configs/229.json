@@ -1,0 +1,30 @@
+{
+  "id": 229,
+  "models": {
+    "22": [
+      1105
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_79": {
+    "unknown_1": 100,
+    "unknown_2": 200,
+    "unknown_3": 15,
+    "values": [
+      5208,
+      5214,
+      5219,
+      5201,
+      5217,
+      5216,
+      5218,
+      5215,
+      5206,
+      5200
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 70,
+  "unknown_178": 10,
+  "unknown_198": true
+}

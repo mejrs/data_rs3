@@ -1,0 +1,15 @@
+{
+  "id": 30464,
+  "models": {
+    "10": [
+      45347
+    ]
+  },
+  "name": "Safalaan",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 9085,
+  "unknown_89": false,
+  "occludes_2": false
+}

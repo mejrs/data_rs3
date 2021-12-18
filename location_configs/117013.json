@@ -1,0 +1,24 @@
+{
+  "id": 117013,
+  "models": {
+    "22": [
+      90990
+    ]
+  },
+  "name": "Broken dial",
+  "unknown_19": 1,
+  "actions": [
+    "Fix",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64,
+      0
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 95655,
+  "models": {
+    "10": [
+      102705,
+      102696
+    ]
+  },
+  "name": "Urn",
+  "unknown_19": 1,
+  "unknown_24": 26031,
+  "actions": [
+    "Search",
+    null,
+    "Charm Snake",
+    null,
+    null
+  ],
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

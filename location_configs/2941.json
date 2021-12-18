@@ -1,0 +1,21 @@
+{
+  "id": 2941,
+  "models": {
+    "10": [
+      31899
+    ]
+  },
+  "name": "Sacred water",
+  "unknown_21": true,
+  "actions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

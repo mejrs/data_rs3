@@ -1,0 +1,27 @@
+{
+  "id": 98796,
+  "models": {
+    "10": [
+      106409,
+      106410
+    ]
+  },
+  "name": "Table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Smash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5321": 9548
+  }
+}

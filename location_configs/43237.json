@@ -1,0 +1,15 @@
+{
+  "id": 43237,
+  "models": {
+    "10": [
+      46773
+    ]
+  },
+  "name": "Periscope",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "occludes_2": false
+}

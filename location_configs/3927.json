@@ -1,0 +1,25 @@
+{
+  "id": 3927,
+  "models": {
+    "4": [
+      96176
+    ]
+  },
+  "name": "Protruding rocks",
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

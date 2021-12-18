@@ -1,0 +1,25 @@
+{
+  "id": 118262,
+  "models": {
+    "10": [
+      120795
+    ]
+  },
+  "name": "Stool space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

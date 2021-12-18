@@ -1,0 +1,26 @@
+{
+  "id": 9766,
+  "models": {
+    "10": [
+      9674
+    ]
+  },
+  "name": "Slave",
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

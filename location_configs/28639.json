@@ -1,0 +1,13 @@
+{
+  "id": 28639,
+  "models": {
+    "10": [
+      31296
+    ]
+  },
+  "name": "Stone table",
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 25,
+  "occludes_2": false
+}

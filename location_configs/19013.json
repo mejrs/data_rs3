@@ -1,0 +1,24 @@
+{
+  "id": 19013,
+  "models": {
+    "10": [
+      57989
+    ]
+  },
+  "name": "Fountain",
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

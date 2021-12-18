@@ -1,0 +1,16 @@
+{
+  "id": 98690,
+  "models": {
+    "10": [
+      106222
+    ]
+  },
+  "name": "Bloodwood tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "occludes_2": false,
+  "unknown_189": true
+}

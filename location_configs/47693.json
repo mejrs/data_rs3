@@ -1,0 +1,15 @@
+{
+  "id": 47693,
+  "models": {
+    "10": [
+      50140
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 65521,
+  "occludes_2": false
+}

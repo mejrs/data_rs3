@@ -1,0 +1,31 @@
+{
+  "id": 90304,
+  "models": {
+    "10": [
+      85855
+    ]
+  },
+  "name": "Wishing-cabbage bush",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 80,
+  "actions": [
+    "Gather",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      5000
+    ]
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

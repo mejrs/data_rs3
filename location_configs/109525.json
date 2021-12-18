@@ -1,0 +1,24 @@
+{
+  "id": 109525,
+  "models": {
+    "10": [
+      81687
+    ]
+  },
+  "name": "Planks",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Construct",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "occludes_2": false
+}

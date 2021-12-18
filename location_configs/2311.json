@@ -1,0 +1,19 @@
+{
+  "id": 2311,
+  "models": {
+    "4": [
+      104327,
+      104331
+    ]
+  },
+  "name": "Adamant smelter",
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

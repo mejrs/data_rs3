@@ -1,0 +1,13 @@
+{
+  "id": 3967,
+  "models": {
+    "10": [
+      97146
+    ]
+  },
+  "name": "Tree",
+  "scale_x": 156,
+  "scale_y": 156,
+  "scale_z": 156,
+  "occludes_2": false
+}

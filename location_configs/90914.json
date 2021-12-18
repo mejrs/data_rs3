@@ -1,0 +1,15 @@
+{
+  "id": 90914,
+  "models": {
+    "22": [
+      95351
+    ]
+  },
+  "name": "Crassian eggs",
+  "unknown_19": 1,
+  "unknown_24": 23468,
+  "ambient": 64,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 48228,
+  "models": {
+    "10": [
+      1645
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      61,
+      18602
+    ],
+    [
+      49,
+      18593
+    ],
+    [
+      41,
+      6216
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false
+}

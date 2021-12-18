@@ -1,0 +1,19 @@
+{
+  "id": 39539,
+  "models": {
+    "10": [
+      43023
+    ]
+  },
+  "name": "Bow table",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Take-bow",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

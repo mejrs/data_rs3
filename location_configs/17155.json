@@ -1,0 +1,33 @@
+{
+  "id": 17155,
+  "models": {
+    "10": [
+      53738,
+      89555
+    ]
+  },
+  "name": "Divine door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 21239,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Drain",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "blocks_ranged": true,
+  "unknown_78": {
+    "unknown_1": 39226,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 60,
+  "unknown_1": 32,
+  "unknown_2": 32
+}

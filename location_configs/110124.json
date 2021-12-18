@@ -1,0 +1,19 @@
+{
+  "id": 110124,
+  "models": {
+    "10": [
+      6682
+    ]
+  },
+  "name": "Poll booth",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Vote",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": 17297,
+  "models": {
+    "10": [
+      17427,
+      17580
+    ]
+  },
+  "name": "Barrel",
+  "unknown_27": false,
+  "colours": [
+    [
+      19392,
+      4917
+    ]
+  ],
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

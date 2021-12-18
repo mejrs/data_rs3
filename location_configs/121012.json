@@ -1,0 +1,26 @@
+{
+  "id": 121012,
+  "models": {
+    "10": [
+      93884
+    ]
+  },
+  "name": "Petruccio's feather",
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

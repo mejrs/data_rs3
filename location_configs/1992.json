@@ -1,0 +1,28 @@
+{
+  "id": 1992,
+  "models": {
+    "10": [
+      36803
+    ]
+  },
+  "name": "Glarial's tombstone",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

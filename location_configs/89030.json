@@ -1,0 +1,18 @@
+{
+  "id": 89030,
+  "models": {
+    "10": [
+      92929
+    ]
+  },
+  "name": "A Visit from San'tar Klaws",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

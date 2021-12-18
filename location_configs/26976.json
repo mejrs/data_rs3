@@ -1,0 +1,15 @@
+{
+  "id": 26976,
+  "models": {
+    "10": [
+      60974
+    ]
+  },
+  "name": "Cracked dolmen",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "occludes_2": false,
+  "unknown_196": 2
+}

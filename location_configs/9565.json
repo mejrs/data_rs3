@@ -1,0 +1,24 @@
+{
+  "id": 9565,
+  "models": {
+    "0": [
+      9480
+    ]
+  },
+  "name": "Door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Pick-lock"
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

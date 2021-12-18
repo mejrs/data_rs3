@@ -1,0 +1,23 @@
+{
+  "id": 43964,
+  "models": {
+    "10": [
+      29767
+    ]
+  },
+  "name": "Extravagant plant",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5557,
+      3484
+    ]
+  ],
+  "textures": {
+    "2363": 2401
+  },
+  "occludes_2": false
+}

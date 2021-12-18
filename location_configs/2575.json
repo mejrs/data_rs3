@@ -1,0 +1,37 @@
+{
+  "id": 2575,
+  "models": {
+    "10": [
+      1654
+    ]
+  },
+  "name": "Marshy jungle vine",
+  "unknown_21": true,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      22441,
+      22435
+    ],
+    [
+      13243,
+      10173
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

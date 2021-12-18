@@ -1,0 +1,33 @@
+{
+  "id": 8635,
+  "models": {
+    "10": [
+      8175,
+      7766
+    ]
+  },
+  "name": "Diseased sweetcorn plant",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14786,
+      9884
+    ],
+    [
+      21978,
+      9765
+    ],
+    [
+      14897,
+      9645
+    ]
+  ],
+  "occludes_2": false
+}

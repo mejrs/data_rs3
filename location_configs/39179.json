@@ -1,0 +1,22 @@
+{
+  "id": 39179,
+  "models": {
+    "4": [
+      42489
+    ]
+  },
+  "name": "Standard",
+  "unknown_19": 1,
+  "ambient": 10,
+  "colours": [
+    [
+      6067,
+      8115
+    ],
+    [
+      24,
+      24
+    ]
+  ],
+  "occludes_2": false
+}

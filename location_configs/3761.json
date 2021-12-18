@@ -1,0 +1,30 @@
+{
+  "id": 3761,
+  "models": {
+    "10": [
+      37440
+    ]
+  },
+  "name": "Exit",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

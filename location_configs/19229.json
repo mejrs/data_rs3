@@ -1,0 +1,14 @@
+{
+  "id": 19229,
+  "models": {
+    "10": [
+      10772
+    ]
+  },
+  "name": "Collapsed trap",
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 0,
+  "model": false,
+  "occludes_2": false
+}

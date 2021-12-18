@@ -1,0 +1,19 @@
+{
+  "id": 104712,
+  "models": {
+    "10": [
+      3951,
+      85909
+    ]
+  },
+  "name": "Berry planter",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

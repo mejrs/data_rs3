@@ -1,0 +1,16 @@
+{
+  "id": 61465,
+  "models": {
+    "10": [
+      1702
+    ]
+  },
+  "name": "Leafy tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_81": 45,
+  "mapscene": 5,
+  "occludes_2": false
+}

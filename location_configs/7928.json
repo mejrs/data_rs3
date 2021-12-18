@@ -1,0 +1,30 @@
+{
+  "id": 7928,
+  "models": {
+    "10": [
+      7867,
+      7767
+    ]
+  },
+  "name": "Diseased woad plant",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      22433,
+      10132
+    ],
+    [
+      22428,
+      10132
+    ]
+  ],
+  "unknown_44": 6,
+  "occludes_2": false
+}

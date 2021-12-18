@@ -1,0 +1,13 @@
+{
+  "id": 34207,
+  "models": {
+    "10": [
+      24570
+    ]
+  },
+  "name": "Closed bank booth",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 27199,
+  "models": {
+    "10": [
+      61028
+    ]
+  },
+  "name": "Hollow log",
+  "is_transparent": true,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_196": 1
+}

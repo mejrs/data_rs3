@@ -1,0 +1,21 @@
+{
+  "id": 87371,
+  "models": {
+    "10": [
+      90492,
+      90536
+    ]
+  },
+  "name": "Pillar",
+  "dim_y": 7,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 2655,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_z": 65280,
+  "unknown_89": false,
+  "occludes_2": false
+}

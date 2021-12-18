@@ -1,0 +1,27 @@
+{
+  "id": 45253,
+  "models": {
+    "4": [
+      87463
+    ]
+  },
+  "name": "Cooking shelf",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6028,
+      5400
+    ],
+    [
+      5002,
+      5394
+    ],
+    [
+      37,
+      78
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 29443,
+  "models": {
+    "10": [
+      32215
+    ]
+  },
+  "name": "Catapult-lever",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_75": 0,
+  "occludes_2": false
+}

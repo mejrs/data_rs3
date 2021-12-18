@@ -1,0 +1,33 @@
+{
+  "id": 119026,
+  "models": {
+    "10": [
+      120639
+    ]
+  },
+  "name": "Xolo temple pyramid",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

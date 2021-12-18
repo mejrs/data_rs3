@@ -1,0 +1,23 @@
+{
+  "id": 72380,
+  "models": {
+    "10": [
+      69693,
+      69688,
+      69685
+    ]
+  },
+  "name": "Plant pot",
+  "ambient": 25,
+  "actions": [
+    "Plant in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

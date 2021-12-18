@@ -1,0 +1,13 @@
+{
+  "id": 27265,
+  "models": {
+    "10": [
+      29129
+    ]
+  },
+  "name": "Wretched tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 1,
+  "occludes_2": false
+}

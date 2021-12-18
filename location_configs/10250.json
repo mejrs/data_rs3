@@ -1,0 +1,19 @@
+{
+  "id": 10250,
+  "models": {
+    "10": [
+      9993
+    ]
+  },
+  "name": "Eric",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "colours": [
+    [
+      10334,
+      10436
+    ]
+  ],
+  "occludes_2": false
+}

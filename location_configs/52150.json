@@ -1,0 +1,17 @@
+{
+  "id": 52150,
+  "models": {
+    "10": [
+      55170
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 10,
+  "scale_x": 110,
+  "scale_z": 100,
+  "translate_z": 18,
+  "occludes_2": false
+}

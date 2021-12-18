@@ -1,0 +1,14 @@
+{
+  "id": 91292,
+  "models": {
+    "4": [
+      96545
+    ]
+  },
+  "name": "Hanging banner",
+  "unknown_19": 1,
+  "unknown_24": 10883,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

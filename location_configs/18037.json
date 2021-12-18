@@ -1,0 +1,29 @@
+{
+  "id": 18037,
+  "models": {
+    "10": [
+      17911
+    ]
+  },
+  "name": "Wall rubble",
+  "unknown_21": true,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

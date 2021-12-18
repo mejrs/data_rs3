@@ -1,0 +1,33 @@
+{
+  "id": 110025,
+  "models": {
+    "10": [
+      1471,
+      1728,
+      2292
+    ]
+  },
+  "name": "Guthixian Cache portal",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

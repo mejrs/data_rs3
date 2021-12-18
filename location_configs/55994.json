@@ -1,0 +1,30 @@
+{
+  "id": 55994,
+  "models": {
+    "10": [
+      61578
+    ]
+  },
+  "name": "Runecrafting altar",
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_24": 13664,
+  "ambient": 25,
+  "actions": [
+    "Imbue",
+    "Imbue-Runes",
+    "Imbue-Staff",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    66,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

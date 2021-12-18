@@ -1,0 +1,28 @@
+{
+  "id": 28876,
+  "models": {
+    "10": [
+      1642
+    ]
+  },
+  "name": "Plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "colours": [
+    [
+      49,
+      28695
+    ],
+    [
+      61,
+      28707
+    ],
+    [
+      41,
+      28821
+    ]
+  ],
+  "occludes_2": false
+}

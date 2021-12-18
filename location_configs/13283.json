@@ -1,0 +1,25 @@
+{
+  "id": 13283,
+  "models": {
+    "10": [
+      12152
+    ]
+  },
+  "name": "Wooden crate",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

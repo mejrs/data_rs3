@@ -1,0 +1,17 @@
+{
+  "id": 12531,
+  "models": {
+    "10": [
+      13745
+    ],
+    "22": [
+      13746
+    ]
+  },
+  "name": "Bubbles",
+  "unknown_24": 3440,
+  "unknown_27": false,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

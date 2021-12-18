@@ -1,0 +1,13 @@
+{
+  "id": 46020,
+  "models": {
+    "10": [
+      49095
+    ]
+  },
+  "name": "Weather vane",
+  "unknown_24": 12304,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

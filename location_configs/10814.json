@@ -1,0 +1,22 @@
+{
+  "id": 10814,
+  "models": {
+    "10": [
+      10722,
+      10720
+    ]
+  },
+  "name": "Sandpit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3038,
+  "ambient": 20,
+  "actions": [
+    "Get sand from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

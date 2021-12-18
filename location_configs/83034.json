@@ -1,0 +1,29 @@
+{
+  "id": 83034,
+  "models": {
+    "10": [
+      84284
+    ]
+  },
+  "name": "Dusty parchment",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65506,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

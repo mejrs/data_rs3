@@ -1,0 +1,36 @@
+{
+  "id": 107850,
+  "models": {
+    "10": [
+      119164,
+      119165
+    ]
+  },
+  "name": "Crondis",
+  "unknown_19": 1,
+  "unknown_24": 30701,
+  "ambient": 0,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 250,
+  "translate_z": 100,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      391
+    ]
+  },
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

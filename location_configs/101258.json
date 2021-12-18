@@ -1,0 +1,59 @@
+{
+  "id": 101258,
+  "models": {
+    "10": [
+      12150
+    ]
+  },
+  "name": "Chest",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6682,
+      5392
+    ],
+    [
+      6443,
+      5404
+    ],
+    [
+      82,
+      24
+    ],
+    [
+      66,
+      45
+    ],
+    [
+      49,
+      24
+    ]
+  ],
+  "textures": {
+    "2075": 3171
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      382
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

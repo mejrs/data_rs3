@@ -1,0 +1,52 @@
+{
+  "id": 5330,
+  "models": {
+    "10": [
+      5283
+    ]
+  },
+  "name": "Boxes",
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5417,
+      12942
+    ],
+    [
+      5532,
+      12698
+    ],
+    [
+      5656,
+      12694
+    ],
+    [
+      5652,
+      12818
+    ],
+    [
+      5413,
+      13194
+    ],
+    [
+      5537,
+      13194
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 62700,
+  "models": {
+    "10": [
+      3162
+    ]
+  },
+  "name": "Spiral stairs",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

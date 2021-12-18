@@ -1,0 +1,14 @@
+{
+  "id": 119188,
+  "models": {
+    "10": [
+      47552
+    ]
+  },
+  "name": "Reading table",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "occludes_2": false
+}

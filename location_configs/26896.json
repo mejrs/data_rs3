@@ -1,0 +1,16 @@
+{
+  "id": 26896,
+  "models": {
+    "10": [
+      60773
+    ]
+  },
+  "name": "Inactive Portal",
+  "dim_x": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

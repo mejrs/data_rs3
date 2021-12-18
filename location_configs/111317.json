@@ -1,0 +1,25 @@
+{
+  "id": 111317,
+  "models": {
+    "10": [
+      38751
+    ]
+  },
+  "name": "Blessing of Nature",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 31781,
+  "ambient": 25,
+  "actions": [
+    "Commune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 230,
+  "scale_z": 230,
+  "unknown_88": false,
+  "occludes_2": false
+}

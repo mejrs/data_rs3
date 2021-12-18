@@ -1,0 +1,17 @@
+{
+  "id": 102310,
+  "models": {
+    "10": [
+      111672,
+      111673
+    ]
+  },
+  "name": "Blisterwood Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 9697,
+  "ambient": 64,
+  "mapscene": 1,
+  "occludes_2": false
+}

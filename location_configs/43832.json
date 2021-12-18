@@ -1,0 +1,29 @@
+{
+  "id": 43832,
+  "models": {
+    "10": [
+      60977,
+      1877
+    ]
+  },
+  "name": "Bush",
+  "is_transparent": true,
+  "unknown_24": 1199,
+  "actions": [
+    "Shake",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "mapscene": 5,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

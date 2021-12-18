@@ -1,0 +1,15 @@
+{
+  "id": 97861,
+  "models": {
+    "10": [
+      105193
+    ]
+  },
+  "name": "Mysterious statue",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

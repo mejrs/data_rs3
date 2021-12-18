@@ -1,0 +1,21 @@
+{
+  "id": 84410,
+  "models": {
+    "10": [
+      85942,
+      7766
+    ]
+  },
+  "name": "Diseased reeds",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

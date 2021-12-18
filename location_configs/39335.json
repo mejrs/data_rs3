@@ -1,0 +1,49 @@
+{
+  "id": 39335,
+  "models": {
+    "10": [
+      42754
+    ]
+  },
+  "name": "Wrongly labelled crate (newts)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "actions": [
+    "Extract-creature",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      5408
+    ],
+    [
+      6443,
+      5404
+    ],
+    [
+      6806,
+      5392
+    ],
+    [
+      6682,
+      5392
+    ],
+    [
+      6439,
+      5404
+    ],
+    [
+      6558,
+      5400
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

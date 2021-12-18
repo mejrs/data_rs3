@@ -1,0 +1,15 @@
+{
+  "id": 31162,
+  "models": {
+    "10": [
+      25842
+    ]
+  },
+  "name": "Some logs",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

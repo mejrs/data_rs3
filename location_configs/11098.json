@@ -1,0 +1,25 @@
+{
+  "id": 11098,
+  "models": {
+    "10": [
+      10974
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      10398,
+      8105
+    ],
+    [
+      10518,
+      8101
+    ]
+  ],
+  "textures": {
+    "2367": 1486
+  },
+  "occludes_2": false
+}

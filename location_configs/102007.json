@@ -1,0 +1,18 @@
+{
+  "id": 102007,
+  "models": {
+    "4": [
+      111541
+    ]
+  },
+  "name": "Derygull Templeton",
+  "unknown_19": 1,
+  "ambient": 80,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "translate_x": 48,
+  "translate_y": 118,
+  "translate_z": 80,
+  "occludes_2": false
+}

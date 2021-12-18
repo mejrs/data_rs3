@@ -1,0 +1,15 @@
+{
+  "id": 86754,
+  "models": {
+    "10": [
+      89122
+    ]
+  },
+  "name": "Cooking pot",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_98": true,
+  "occludes_2": false
+}

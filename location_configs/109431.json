@@ -1,0 +1,41 @@
+{
+  "id": 109431,
+  "models": {
+    "10": [
+      119473,
+      119475
+    ]
+  },
+  "name": "Camel cart",
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_24": 30859,
+  "unknown_27": false,
+  "ambient": 30,
+  "colours": [
+    [
+      49824,
+      673
+    ],
+    [
+      49829,
+      678
+    ],
+    [
+      49835,
+      684
+    ],
+    [
+      49841,
+      690
+    ],
+    [
+      49849,
+      698
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,32 @@
+{
+  "id": 30472,
+  "models": {
+    "10": [
+      33405
+    ]
+  },
+  "name": "Funeral pyre",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 1304,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Add corpse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7050,
+      6819
+    ],
+    [
+      7582,
+      6705
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2523,
+  "models": {
+    "10": [
+      37175
+    ]
+  },
+  "name": "Spooky stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Walk-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "colours": [
+    [
+      5545,
+      7448
+    ],
+    [
+      6457,
+      7452
+    ],
+    [
+      6466,
+      7456
+    ],
+    [
+      65054,
+      7440
+    ],
+    [
+      65061,
+      7444
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

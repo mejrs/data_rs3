@@ -1,0 +1,21 @@
+{
+  "id": 109763,
+  "models": {
+    "10": [
+      120275
+    ]
+  },
+  "name": "Incomplete generator",
+  "dim_x": 3,
+  "dim_y": 4,
+  "ambient": 20,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

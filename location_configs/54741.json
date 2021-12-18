@@ -1,0 +1,23 @@
+{
+  "id": 54741,
+  "models": {
+    "10": [
+      64786
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      15627,
+      17962
+    ]
+  ],
+  "mapscene": 12,
+  "occludes_2": false,
+  "unknown_196": 1
+}

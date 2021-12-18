@@ -1,0 +1,24 @@
+{
+  "id": 62404,
+  "models": {
+    "10": [
+      12413,
+      1830
+    ]
+  },
+  "name": "Death's dragon statue",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "translate_x": 60,
+  "translate_z": 65466,
+  "occludes_2": false
+}

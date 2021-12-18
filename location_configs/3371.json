@@ -1,0 +1,13 @@
+{
+  "id": 3371,
+  "models": {
+    "10": [
+      3451
+    ]
+  },
+  "name": "Achey Tree stump",
+  "dim_x": 2,
+  "dim_y": 2,
+  "mapscene": 0,
+  "occludes_2": false
+}

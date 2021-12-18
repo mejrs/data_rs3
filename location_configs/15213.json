@@ -1,0 +1,21 @@
+{
+  "id": 15213,
+  "models": {
+    "10": [
+      7766
+    ]
+  },
+  "name": "Rocks",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 1,
+  "unknown_199": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": 95048,
+  "models": {
+    "10": [
+      9875
+    ]
+  },
+  "name": "Chimney Pipe",
+  "unknown_21": true,
+  "unknown_22": true,
+  "translate_y": 65516,
+  "occludes_2": false
+}

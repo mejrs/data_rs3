@@ -1,0 +1,15 @@
+{
+  "id": 80797,
+  "models": {
+    "10": [
+      65966
+    ]
+  },
+  "name": "TzHaar-Ket",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 16107,
+  "ambient": 10,
+  "contrast": 0,
+  "occludes_2": false
+}

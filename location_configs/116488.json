@@ -1,0 +1,27 @@
+{
+  "id": 116488,
+  "models": {
+    "10": [
+      100308
+    ]
+  },
+  "name": "Hand of glory",
+  "unknown_19": 1,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65396,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

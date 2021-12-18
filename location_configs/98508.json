@@ -1,0 +1,30 @@
+{
+  "id": 98508,
+  "models": {
+    "10": [
+      105610
+    ]
+  },
+  "name": "Seren shard",
+  "unknown_19": 1,
+  "unknown_24": 27141,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_89": false,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

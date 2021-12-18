@@ -1,0 +1,27 @@
+{
+  "id": 70774,
+  "models": {
+    "10": [
+      96175
+    ]
+  },
+  "name": "Scorched tomb",
+  "dim_x": 4,
+  "dim_y": 4,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

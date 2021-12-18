@@ -1,0 +1,18 @@
+{
+  "id": 72383,
+  "models": {
+    "10": [
+      69693,
+      69684,
+      69688,
+      69694
+    ]
+  },
+  "name": "Plant pot",
+  "unknown_24": 16844,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

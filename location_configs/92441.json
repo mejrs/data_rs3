@@ -1,0 +1,18 @@
+{
+  "id": 92441,
+  "models": {
+    "10": [
+      98346
+    ]
+  },
+  "name": "Magic tree stump",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 3,
+  "occludes_2": false,
+  "unknown_189": true
+}

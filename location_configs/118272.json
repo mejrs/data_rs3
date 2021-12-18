@@ -1,0 +1,27 @@
+{
+  "id": 118272,
+  "models": {
+    "10": [
+      120773
+    ]
+  },
+  "name": "Bed space",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

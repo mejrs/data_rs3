@@ -1,0 +1,32 @@
+{
+  "id": 111636,
+  "models": {
+    "10": [
+      46692
+    ]
+  },
+  "name": "Altar",
+  "dim_x": 3,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "10243": 10242
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 121234,
+  "models": {
+    "22": [
+      123568
+    ]
+  },
+  "name": "Elven helmet",
+  "unknown_19": 1,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

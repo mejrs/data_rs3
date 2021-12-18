@@ -1,0 +1,22 @@
+{
+  "id": 14206,
+  "models": {
+    "10": [
+      11122
+    ]
+  },
+  "name": "Mage",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      21456
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

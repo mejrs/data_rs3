@@ -1,0 +1,25 @@
+{
+  "id": 3268,
+  "models": {
+    "0": [
+      96153
+    ]
+  },
+  "name": "Cage",
+  "actions": [
+    "Pick-lock",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

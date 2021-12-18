@@ -1,0 +1,21 @@
+{
+  "id": 46994,
+  "models": {
+    "10": [
+      50593
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      21530,
+      6286
+    ]
+  ],
+  "occludes_2": false
+}

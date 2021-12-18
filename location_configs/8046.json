@@ -1,0 +1,20 @@
+{
+  "id": 8046,
+  "models": {
+    "10": [
+      110058,
+      7767
+    ]
+  },
+  "name": "Curry tree stump",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

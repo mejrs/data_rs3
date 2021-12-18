@@ -1,0 +1,11 @@
+{
+  "id": 92640,
+  "models": {
+    "10": [
+      98766
+    ]
+  },
+  "name": "Lectern",
+  "ambient": 37,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 83319,
+  "models": {
+    "10": [
+      84636
+    ]
+  },
+  "name": "Supply tent (Farming)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 20025,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 40,
+  "occludes_2": false
+}

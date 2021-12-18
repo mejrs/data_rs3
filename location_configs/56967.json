@@ -1,0 +1,56 @@
+{
+  "id": 56967,
+  "models": {
+    "10": [
+      49403
+    ]
+  },
+  "name": "Rubble",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      6670,
+      4250
+    ],
+    [
+      6674,
+      4254
+    ],
+    [
+      6550,
+      4258
+    ],
+    [
+      6552,
+      4262
+    ],
+    [
+      6554,
+      4266
+    ],
+    [
+      6556,
+      4270
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

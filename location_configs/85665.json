@@ -1,0 +1,22 @@
+{
+  "id": 85665,
+  "models": {
+    "22": [
+      87339
+    ]
+  },
+  "name": "Cover",
+  "unknown_19": 1,
+  "actions": [
+    "Hide-behind",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_y": 170,
+  "unknown_88": false,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

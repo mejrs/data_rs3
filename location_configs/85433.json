@@ -1,0 +1,41 @@
+{
+  "id": 85433,
+  "models": {
+    "10": [
+      42586
+    ]
+  },
+  "name": "Planks",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Reclaim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5398,
+      3352
+    ],
+    [
+      6415,
+      3364
+    ],
+    [
+      5388,
+      3344
+    ]
+  ],
+  "textures": {
+    "2075": 3189
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 113852,
+  "models": {
+    "10": [
+      34857,
+      34861,
+      34860
+    ]
+  },
+  "name": "Arcane apoterrasaur",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 32722,
+  "actions": [
+    "Skin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

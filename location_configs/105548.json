@@ -1,0 +1,14 @@
+{
+  "id": 105548,
+  "models": {
+    "10": [
+      115300
+    ]
+  },
+  "name": "Jars",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

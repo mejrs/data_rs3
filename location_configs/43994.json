@@ -1,0 +1,13 @@
+{
+  "id": 43994,
+  "models": {
+    "10": [
+      1265
+    ]
+  },
+  "name": "Bar pumps",
+  "is_transparent": true,
+  "scale_z": 115,
+  "translate_z": 65530,
+  "occludes_2": false
+}

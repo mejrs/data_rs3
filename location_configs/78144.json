@@ -1,0 +1,13 @@
+{
+  "id": 78144,
+  "models": {
+    "10": [
+      78434,
+      78426,
+      78432
+    ]
+  },
+  "name": "Steel mannequin",
+  "translate_z": 65472,
+  "occludes_2": false
+}

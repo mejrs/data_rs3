@@ -1,0 +1,54 @@
+{
+  "id": 24670,
+  "models": {
+    "10": [
+      120150
+    ]
+  },
+  "name": "Wardrobe",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9104,
+      6554
+    ],
+    [
+      8856,
+      6430
+    ],
+    [
+      8765,
+      6554
+    ],
+    [
+      3594,
+      6550
+    ],
+    [
+      3346,
+      6674
+    ],
+    [
+      3470,
+      6798
+    ]
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1928,
+  "models": {
+    "12": [
+      629
+    ],
+    "13": [
+      631
+    ]
+  },
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 25,
+  "textures": {
+    "42": 72
+  },
+  "occludes_2": false
+}

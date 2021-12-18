@@ -1,0 +1,13 @@
+{
+  "id": 83041,
+  "models": {
+    "10": [
+      84283
+    ]
+  },
+  "name": "Empty pedestal",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

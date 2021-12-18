@@ -1,0 +1,24 @@
+{
+  "id": 100839,
+  "models": {
+    "10": [
+      108392
+    ]
+  },
+  "name": "15th Anniversary party table",
+  "dim_x": 2,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Celebrate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

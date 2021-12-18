@@ -1,0 +1,32 @@
+{
+  "id": 16237,
+  "models": {
+    "10": [
+      57465
+    ]
+  },
+  "name": "Hurt fairy",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 20,
+  "colours": [
+    [
+      7580,
+      32943
+    ],
+    [
+      7700,
+      32819
+    ],
+    [
+      7952,
+      32924
+    ],
+    [
+      8076,
+      32920
+    ]
+  ],
+  "occludes_2": false
+}

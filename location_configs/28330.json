@@ -1,0 +1,18 @@
+{
+  "id": 28330,
+  "models": {
+    "10": [
+      30390
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "textures": {
+    "2603": 2579
+  },
+  "occludes_2": false
+}

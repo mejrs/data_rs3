@@ -1,0 +1,38 @@
+{
+  "id": 116527,
+  "models": {
+    "4": [
+      106271
+    ],
+    "10": [
+      94348
+    ],
+    "22": [
+      106266
+    ]
+  },
+  "name": "Cog",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

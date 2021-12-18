@@ -1,0 +1,36 @@
+{
+  "id": 111547,
+  "models": {
+    "10": [
+      48485
+    ]
+  },
+  "name": "Hidden staircase",
+  "dim_x": 13,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "10241": 10254
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

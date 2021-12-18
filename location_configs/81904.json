@@ -1,0 +1,25 @@
+{
+  "id": 81904,
+  "models": {
+    "10": [
+      82595,
+      82602
+    ]
+  },
+  "name": "Dog bowl",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 25,
+  "colours": [
+    [
+      37913,
+      47653
+    ],
+    [
+      37907,
+      47643
+    ]
+  ],
+  "occludes_2": false
+}

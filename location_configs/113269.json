@@ -1,0 +1,31 @@
+{
+  "id": 113269,
+  "models": {
+    "10": [
+      72638
+    ]
+  },
+  "name": "Barbarian anvil",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Smith",
+    "Deposit-all (into metal bank)",
+    "Withdraw-all (from metal bank)",
+    "Open smithing interface",
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 565,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7803": 2
+  }
+}

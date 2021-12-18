@@ -1,0 +1,16 @@
+{
+  "id": 26870,
+  "models": {
+    "10": [
+      60793
+    ]
+  },
+  "name": "<col=ffff00>Jessika",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 14759,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

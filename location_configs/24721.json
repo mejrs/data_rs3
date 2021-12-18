@@ -1,0 +1,25 @@
+{
+  "id": 24721,
+  "models": {
+    "10": [
+      120096
+    ]
+  },
+  "name": "Piano",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      319
+    ]
+  }
+}

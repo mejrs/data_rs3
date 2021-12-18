@@ -1,0 +1,20 @@
+{
+  "id": 3223,
+  "models": {
+    "0": [
+      96151
+    ]
+  },
+  "name": "Cave Stairs",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Ascend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15
+}

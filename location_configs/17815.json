@@ -1,0 +1,54 @@
+{
+  "id": 17815,
+  "models": {
+    "10": [
+      52934
+    ]
+  },
+  "name": "Dead morchella mushrooms",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      3640,
+      3240
+    ],
+    [
+      3645,
+      3245
+    ],
+    [
+      3646,
+      3246
+    ],
+    [
+      3651,
+      3251
+    ],
+    [
+      3654,
+      3254
+    ],
+    [
+      4664,
+      4264
+    ],
+    [
+      4670,
+      4270
+    ],
+    [
+      4674,
+      4274
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

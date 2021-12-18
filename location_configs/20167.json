@@ -1,0 +1,24 @@
+{
+  "id": 20167,
+  "models": {
+    "10": [
+      97825,
+      97822
+    ]
+  },
+  "name": "Penance ranger statue",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

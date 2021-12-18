@@ -1,0 +1,35 @@
+{
+  "id": 113724,
+  "models": {
+    "10": [
+      48020
+    ]
+  },
+  "name": "Cliff face",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 10,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 4,
+    "7902": 1671
+  }
+}

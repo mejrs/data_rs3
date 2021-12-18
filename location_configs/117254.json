@@ -1,0 +1,33 @@
+{
+  "id": 117254,
+  "models": {
+    "10": [
+      92316
+    ]
+  },
+  "name": "Forge doors",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Pass through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16256,
+  "unknown_2": 14884,
+  "unknown_3": 16034,
+  "unknown_4": 16512,
+  "unknown_5": 64,
+  "unknown_6": 16734
+}

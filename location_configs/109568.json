@@ -1,0 +1,56 @@
+{
+  "id": 109568,
+  "models": {
+    "10": [
+      35508
+    ]
+  },
+  "name": "Drawers",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8487,
+      5408
+    ],
+    [
+      8478,
+      5404
+    ],
+    [
+      8483,
+      5404
+    ],
+    [
+      8598,
+      5400
+    ]
+  ],
+  "textures": {
+    "2066": 3172,
+    "2081": 3179,
+    "2091": 3172,
+    "2094": 3171
+  },
+  "scale_x": 125,
+  "scale_z": 125,
+  "unknown_69": 13,
+  "translate_x": 30,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

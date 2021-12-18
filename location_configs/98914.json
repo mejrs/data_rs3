@@ -1,0 +1,13 @@
+{
+  "id": 98914,
+  "models": {
+    "10": [
+      106433
+    ]
+  },
+  "name": "Blood tank",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "occludes_2": false
+}

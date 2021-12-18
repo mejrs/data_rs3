@@ -1,0 +1,18 @@
+{
+  "id": 35081,
+  "models": {
+    "10": [
+      37174
+    ]
+  },
+  "name": "Ogre Coffin",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "mapscene": 34,
+  "occludes_2": false
+}

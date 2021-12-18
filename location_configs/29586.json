@@ -1,0 +1,20 @@
+{
+  "id": 29586,
+  "models": {
+    "4": [
+      32422
+    ]
+  },
+  "name": "Poster",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Pull-back",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

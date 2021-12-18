@@ -1,0 +1,13 @@
+{
+  "id": 21393,
+  "models": {
+    "10": [
+      21986
+    ]
+  },
+  "name": "Throne",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

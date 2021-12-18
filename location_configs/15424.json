@@ -1,0 +1,17 @@
+{
+  "id": 15424,
+  "models": {
+    "10": [
+      12878
+    ]
+  },
+  "name": "Telescope space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

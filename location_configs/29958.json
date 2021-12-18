@@ -1,0 +1,47 @@
+{
+  "id": 29958,
+  "models": {
+    "10": [
+      32694
+    ]
+  },
+  "name": "Small obelisk",
+  "unknown_24": 8510,
+  "ambient": 10,
+  "actions": [
+    "Renew-points",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 84,
+  "colours": [
+    [
+      11934,
+      16536
+    ],
+    [
+      11939,
+      16540
+    ],
+    [
+      8984,
+      16544
+    ],
+    [
+      7475,
+      16548
+    ],
+    [
+      27171,
+      25891
+    ],
+    [
+      27881,
+      25916
+    ]
+  ],
+  "unknown_81": 20,
+  "occludes_2": false
+}

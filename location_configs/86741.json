@@ -1,0 +1,29 @@
+{
+  "id": 86741,
+  "models": {
+    "10": [
+      88877
+    ]
+  },
+  "name": "Bank chest",
+  "unknown_19": 1,
+  "ambient": -25,
+  "actions": [
+    "Use",
+    null,
+    "Collect",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    46,
+    null,
+    5,
+    null,
+    null,
+    null
+  ]
+}

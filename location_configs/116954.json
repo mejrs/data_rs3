@@ -1,0 +1,24 @@
+{
+  "id": 116954,
+  "models": {
+    "10": [
+      96934
+    ]
+  },
+  "name": "Ancient mechanism",
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "unknown_196": 3
+}

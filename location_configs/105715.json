@@ -1,0 +1,28 @@
+{
+  "id": 105715,
+  "models": {
+    "10": [
+      116000
+    ]
+  },
+  "name": "Broken mouthpiece",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 64536,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      386
+    ]
+  },
+  "unknown_186": 0
+}

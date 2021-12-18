@@ -1,0 +1,34 @@
+{
+  "id": 43836,
+  "models": {
+    "10": [
+      70946
+    ]
+  },
+  "name": "Pile of snow",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Collect snow",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 220,
+  "scale_y": 220,
+  "scale_z": 220,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

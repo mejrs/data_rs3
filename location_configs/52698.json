@@ -1,0 +1,21 @@
+{
+  "id": 52698,
+  "models": {
+    "22": [
+      7773
+    ]
+  },
+  "name": "Magical farming patch",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "colours": [
+    [
+      8724,
+      31016
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

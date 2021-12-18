@@ -1,0 +1,18 @@
+{
+  "id": 2022,
+  "models": {
+    "10": [
+      1460
+    ]
+  },
+  "name": "Barrel",
+  "actions": [
+    "Get in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 119165,
+  "models": {
+    "10": [
+      121256,
+      121257
+    ]
+  },
+  "name": "Bookcase of biographies",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

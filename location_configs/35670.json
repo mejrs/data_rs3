@@ -1,0 +1,12 @@
+{
+  "id": 35670,
+  "models": {
+    "10": [
+      36218
+    ]
+  },
+  "name": "Ornate vase",
+  "ambient": 25,
+  "contrast": 35,
+  "occludes_2": false
+}

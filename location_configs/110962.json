@@ -1,0 +1,28 @@
+{
+  "id": 110962,
+  "models": {
+    "10": [
+      1677
+    ]
+  },
+  "name": "Jungle plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 72608,
+  "models": {
+    "10": [
+      70749
+    ]
+  },
+  "name": "Carriage",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65532,
+  "occludes_2": false
+}

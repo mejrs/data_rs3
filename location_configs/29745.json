@@ -1,0 +1,20 @@
+{
+  "id": 29745,
+  "models": {
+    "10": [
+      32586
+    ]
+  },
+  "name": "Rocks",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Break",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

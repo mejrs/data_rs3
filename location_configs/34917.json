@@ -1,0 +1,29 @@
+{
+  "id": 34917,
+  "models": {
+    "0": [
+      37926
+    ]
+  },
+  "name": "Jagged wall",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Look",
+    "Jump-over",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "cursors": [
+    null,
+    181,
+    null,
+    null,
+    null,
+    null
+  ]
+}

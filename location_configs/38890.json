@@ -1,0 +1,20 @@
+{
+  "id": 38890,
+  "models": {
+    "22": [
+      42520
+    ]
+  },
+  "name": "Rock",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

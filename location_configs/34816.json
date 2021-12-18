@@ -1,0 +1,51 @@
+{
+  "id": 34816,
+  "models": {
+    "0": [
+      9476
+    ],
+    "9": [
+      9477
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7064,
+      7452
+    ],
+    [
+      6945,
+      7448
+    ],
+    [
+      6940,
+      7444
+    ],
+    [
+      6038,
+      7440
+    ]
+  ],
+  "mirror": true,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

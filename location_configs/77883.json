@@ -1,0 +1,17 @@
+{
+  "id": 77883,
+  "models": {
+    "10": [
+      2324
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "mapscene": 51,
+  "occludes_2": false,
+  "unknown_196": 2
+}

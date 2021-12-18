@@ -1,0 +1,27 @@
+{
+  "id": 117966,
+  "models": {
+    "10": [
+      118397
+    ]
+  },
+  "name": "Empty spot",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 1,
+  "contrast": 1,
+  "colours": [
+    [
+      34906,
+      34828
+    ],
+    [
+      34918,
+      27654
+    ]
+  ],
+  "textures": {
+    "12918": 9937
+  },
+  "occludes_2": false
+}

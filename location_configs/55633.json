@@ -1,0 +1,29 @@
+{
+  "id": 55633,
+  "models": {
+    "10": [
+      61883
+    ]
+  },
+  "name": "Farming patch (magebane fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      9653,
+      49318
+    ],
+    [
+      9672,
+      49470
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    "Replace"
+  ]
+}

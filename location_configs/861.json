@@ -1,0 +1,49 @@
+{
+  "id": 861,
+  "models": {
+    "10": [
+      20
+    ]
+  },
+  "name": "Chair",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Sit on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      3230,
+      5781
+    ],
+    [
+      3226,
+      5777
+    ],
+    [
+      3222,
+      5773
+    ],
+    [
+      3218,
+      5769
+    ],
+    [
+      3214,
+      5765
+    ]
+  ],
+  "textures": {
+    "598": 2075
+  },
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "occludes_2": false
+}

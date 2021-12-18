@@ -1,0 +1,27 @@
+{
+  "id": 43722,
+  "models": {
+    "10": [
+      69570
+    ]
+  },
+  "name": "Clock",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 145,
+  "scale_z": 145,
+  "translate_x": 40,
+  "translate_y": 40,
+  "translate_z": 40,
+  "unknown_78": {
+    "unknown_1": 7856,
+    "unknown_2": 15
+  },
+  "occludes_2": false,
+  "unknown_104": 90,
+  "unknown_1": 260,
+  "unknown_2": 260
+}

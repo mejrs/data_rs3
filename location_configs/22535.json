@@ -1,0 +1,25 @@
+{
+  "id": 22535,
+  "models": {
+    "22": [
+      23190
+    ]
+  },
+  "name": "Fixed bridge",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      6932,
+      12698
+    ],
+    [
+      6684,
+      12818
+    ]
+  ],
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false
+}

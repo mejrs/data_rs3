@@ -1,0 +1,20 @@
+{
+  "id": 115159,
+  "models": {
+    "10": [
+      89337
+    ]
+  },
+  "unknown_19": 0,
+  "colours": [
+    [
+      64,
+      0
+    ]
+  ],
+  "textures": {
+    "8868": 11985
+  },
+  "unknown_95": 0,
+  "occludes_2": false
+}

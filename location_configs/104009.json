@@ -1,0 +1,26 @@
+{
+  "id": 104009,
+  "models": {
+    "10": [
+      113582
+    ]
+  },
+  "name": "Golden Bamboo",
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 590,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

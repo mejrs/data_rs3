@@ -1,0 +1,33 @@
+{
+  "id": 66969,
+  "models": {
+    "10": [
+      46198
+    ]
+  },
+  "name": "Stone Staircase",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

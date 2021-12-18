@@ -1,0 +1,29 @@
+{
+  "id": 37442,
+  "models": {
+    "22": [
+      40706
+    ]
+  },
+  "name": "Ancient Door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    "Enter",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    57,
+    null,
+    null
+  ]
+}

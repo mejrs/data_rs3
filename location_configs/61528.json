@@ -1,0 +1,28 @@
+{
+  "id": 61528,
+  "models": {
+    "10": [
+      57504
+    ]
+  },
+  "name": "Tree",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Remove beacon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      10242
+    ]
+  ],
+  "occludes_2": false
+}

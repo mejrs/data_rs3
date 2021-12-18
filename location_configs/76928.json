@@ -1,0 +1,25 @@
+{
+  "id": 76928,
+  "models": {
+    "10": [
+      77907
+    ]
+  },
+  "name": "Cave entrance",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 12298,
+  "ambient": 25,
+  "actions": [
+    "climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65516,
+  "occludes_2": false
+}

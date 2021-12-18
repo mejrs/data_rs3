@@ -1,0 +1,18 @@
+{
+  "id": 4138,
+  "models": {
+    "10": [
+      1148
+    ]
+  },
+  "name": "Counter",
+  "dim_x": 2,
+  "is_transparent": true,
+  "scale_x": 128,
+  "scale_y": 100,
+  "scale_z": 84,
+  "translate_x": 0,
+  "translate_y": 0,
+  "translate_z": 20,
+  "occludes_2": false
+}

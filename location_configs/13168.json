@@ -1,0 +1,22 @@
+{
+  "id": 13168,
+  "models": {
+    "10": [
+      12466
+    ]
+  },
+  "name": "Dresser",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Preen",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false
+}

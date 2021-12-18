@@ -1,0 +1,14 @@
+{
+  "id": 34905,
+  "models": {
+    "10": [
+      37229
+    ]
+  },
+  "name": "Chalice of Eternity",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

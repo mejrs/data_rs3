@@ -1,0 +1,41 @@
+{
+  "id": 110523,
+  "models": {
+    "10": [
+      64791,
+      17394
+    ]
+  },
+  "name": "Tree stump (hidey-hole)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Take items",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
+  "unknown_81": 80,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_189": true,
+  "params": {
+    "6896": 26
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": 14002,
+  "models": {
+    "10": [
+      14276
+    ]
+  },
+  "name": "Warning sign",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

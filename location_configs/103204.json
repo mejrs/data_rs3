@@ -1,0 +1,30 @@
+{
+  "id": 103204,
+  "models": {
+    "10": [
+      50039
+    ]
+  },
+  "name": "Unusual shape",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

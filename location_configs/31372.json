@@ -1,0 +1,16 @@
+{
+  "id": 31372,
+  "models": {
+    "10": [
+      34492
+    ]
+  },
+  "name": "Damaged sarcophagus",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

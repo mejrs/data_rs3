@@ -1,0 +1,16 @@
+{
+  "id": 97848,
+  "models": {
+    "10": [
+      105202
+    ]
+  },
+  "name": "Bound logs",
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

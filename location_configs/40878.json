@@ -1,0 +1,15 @@
+{
+  "id": 40878,
+  "models": {
+    "10": [
+      44147
+    ]
+  },
+  "name": "Dolmen",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 10892,
+  "unknown_27": false,
+  "contrast": 25,
+  "occludes_2": false
+}

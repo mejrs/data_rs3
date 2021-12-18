@@ -1,0 +1,24 @@
+{
+  "id": 20757,
+  "models": {
+    "22": [
+      49524
+    ]
+  },
+  "name": "Shore",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      6674,
+      6670
+    ],
+    [
+      6556,
+      6674
+    ]
+  ],
+  "occludes_2": false
+}

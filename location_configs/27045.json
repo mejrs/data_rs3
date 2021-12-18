@@ -1,0 +1,22 @@
+{
+  "id": 27045,
+  "models": {
+    "10": [
+      28942,
+      28969
+    ]
+  },
+  "name": "Dead jade vine",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

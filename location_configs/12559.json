@@ -1,0 +1,15 @@
+{
+  "id": 12559,
+  "models": {
+    "10": [
+      13714,
+      13713
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "mapscene": 5,
+  "occludes_2": false
+}

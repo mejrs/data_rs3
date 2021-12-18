@@ -1,0 +1,25 @@
+{
+  "id": 98568,
+  "models": {
+    "10": [
+      78922
+    ]
+  },
+  "name": "Combat dummy base",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Spawn",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 15,
+  "model": false,
+  "scale_x": 64,
+  "scale_z": 64,
+  "occludes_2": false
+}

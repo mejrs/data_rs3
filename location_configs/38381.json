@@ -1,0 +1,16 @@
+{
+  "id": 38381,
+  "models": {
+    "10": [
+      8037,
+      8040
+    ]
+  },
+  "name": "Oak",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "unknown_81": 32,
+  "occludes_2": false,
+  "unknown_189": true
+}

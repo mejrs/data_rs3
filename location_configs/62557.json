@@ -1,0 +1,17 @@
+{
+  "id": 62557,
+  "models": {
+    "4": [
+      13430,
+      1748
+    ]
+  },
+  "name": "Tapestry",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 65476,
+  "translate_z": 64,
+  "occludes_2": false
+}

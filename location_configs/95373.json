@@ -1,0 +1,30 @@
+{
+  "id": 95373,
+  "models": {
+    "10": [
+      102200
+    ]
+  },
+  "name": "Cave opening",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

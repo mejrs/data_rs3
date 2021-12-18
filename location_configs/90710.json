@@ -1,0 +1,15 @@
+{
+  "id": 90710,
+  "models": {
+    "10": [
+      95388
+    ]
+  },
+  "name": "Prison",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "occludes_2": false
+}

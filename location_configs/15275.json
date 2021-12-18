@@ -1,0 +1,17 @@
+{
+  "id": 15275,
+  "models": {
+    "10": [
+      12662
+    ]
+  },
+  "name": "Statue space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

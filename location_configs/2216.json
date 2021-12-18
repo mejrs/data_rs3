@@ -1,0 +1,27 @@
+{
+  "id": 2216,
+  "models": {
+    "10": [
+      1500
+    ]
+  },
+  "name": "Broken cart",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

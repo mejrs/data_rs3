@@ -1,0 +1,21 @@
+{
+  "id": 38833,
+  "models": {
+    "10": [
+      41063
+    ]
+  },
+  "name": "Grave marker",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Bless",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

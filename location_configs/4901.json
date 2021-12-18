@@ -1,0 +1,40 @@
+{
+  "id": 4901,
+  "models": {
+    "10": [
+      4446
+    ]
+  },
+  "name": "Zamorak flag",
+  "unknown_24": 1430,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5404,
+      5400
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 3
+  },
+  "mapscene": 29,
+  "occludes_2": false,
+  "unknown_104": 70,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

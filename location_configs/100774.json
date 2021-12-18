@@ -1,0 +1,17 @@
+{
+  "id": 100774,
+  "models": {
+    "10": [
+      108409,
+      108419
+    ]
+  },
+  "name": "2001 Elvarg statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 16,
+  "occludes_2": false
+}

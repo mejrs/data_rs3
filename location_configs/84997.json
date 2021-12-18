@@ -1,0 +1,38 @@
+{
+  "id": 84997,
+  "models": {
+    "10": [
+      87095,
+      87096
+    ]
+  },
+  "name": "Pack pig machine",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_24": 20422,
+  "ambient": 15,
+  "actions": [
+    "Craft pouch",
+    null,
+    "Change type",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5535,
+      9139
+    ],
+    [
+      5545,
+      9149
+    ],
+    [
+      5555,
+      9159
+    ]
+  ],
+  "occludes_2": false
+}

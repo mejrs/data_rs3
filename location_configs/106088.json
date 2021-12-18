@@ -1,0 +1,25 @@
+{
+  "id": 106088,
+  "models": {
+    "10": [
+      116324,
+      116325
+    ]
+  },
+  "name": "Broken projection",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      388
+    ]
+  },
+  "unknown_188": true,
+  "unknown_199": true
+}

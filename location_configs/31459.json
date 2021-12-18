@@ -1,0 +1,31 @@
+{
+  "id": 31459,
+  "models": {
+    "10": [
+      34657
+    ]
+  },
+  "name": "Customs Sergeant",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 9534,
+  "ambient": 25,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "translate_y": 96,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

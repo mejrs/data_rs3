@@ -1,0 +1,23 @@
+{
+  "id": 65745,
+  "models": {
+    "10": [
+      36445
+    ]
+  },
+  "name": "Barrels",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1561": 1942,
+    "1562": 1942,
+    "2062": 2082,
+    "2073": 2078,
+    "2093": 2082
+  },
+  "unknown_81": 20,
+  "occludes_2": false
+}

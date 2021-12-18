@@ -1,0 +1,17 @@
+{
+  "id": 119866,
+  "models": {
+    "10": [
+      81514
+    ]
+  },
+  "name": "Shrub",
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1848": 13419,
+    "2097": 13435
+  },
+  "model": false,
+  "occludes_2": false
+}

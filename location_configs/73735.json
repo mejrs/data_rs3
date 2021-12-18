@@ -1,0 +1,40 @@
+{
+  "id": 73735,
+  "models": {
+    "10": [
+      64770
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      14622,
+      784
+    ],
+    [
+      14624,
+      790
+    ],
+    [
+      14626,
+      546
+    ]
+  ],
+  "textures": {
+    "2242": 2251,
+    "2261": 2251,
+    "2262": 2251
+  },
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "unknown_189": true
+}

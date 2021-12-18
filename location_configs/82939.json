@@ -1,0 +1,29 @@
+{
+  "id": 82939,
+  "models": {
+    "10": [
+      84192
+    ]
+  },
+  "name": "Torch",
+  "unknown_19": 1,
+  "unknown_24": 7438,
+  "ambient": 25,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

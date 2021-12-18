@@ -1,0 +1,30 @@
+{
+  "id": 82918,
+  "models": {
+    "10": [
+      84169
+    ]
+  },
+  "name": "Demolished barrier",
+  "dim_x": 6,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 1384,
+  "models": {
+    "10": [
+      1700
+    ]
+  },
+  "name": "Dead tree",
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 92817,
+  "models": {
+    "10": [
+      98756
+    ]
+  },
+  "name": "Chest",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65490,
+  "translate_z": 65526,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

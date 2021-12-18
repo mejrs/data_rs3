@@ -1,0 +1,35 @@
+{
+  "id": 74533,
+  "models": {
+    "10": [
+      72995
+    ]
+  },
+  "name": "Protea flowers",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

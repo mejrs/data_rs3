@@ -1,0 +1,45 @@
+{
+  "id": 6162,
+  "models": {
+    "10": [
+      48198
+    ]
+  },
+  "name": "Gem Stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 9659,
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      16,
+      10388
+    ],
+    [
+      6563,
+      7326
+    ],
+    [
+      28,
+      10266
+    ],
+    [
+      37,
+      10275
+    ],
+    [
+      57,
+      10295
+    ]
+  ],
+  "scale_x": 88,
+  "scale_y": 88,
+  "scale_z": 88,
+  "occludes_2": false
+}

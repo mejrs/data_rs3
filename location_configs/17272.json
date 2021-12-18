@@ -1,0 +1,17 @@
+{
+  "id": 17272,
+  "models": {
+    "10": [
+      17080
+    ]
+  },
+  "name": "Machine panel",
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

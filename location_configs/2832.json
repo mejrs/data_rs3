@@ -1,0 +1,27 @@
+{
+  "id": 2832,
+  "models": {
+    "10": [
+      3345
+    ]
+  },
+  "name": "Battlement",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

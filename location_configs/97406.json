@@ -1,0 +1,30 @@
+{
+  "id": 97406,
+  "models": {
+    "10": [
+      104415,
+      104419
+    ]
+  },
+  "name": "Evil tree portal (inactive)",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

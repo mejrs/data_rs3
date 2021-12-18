@@ -1,0 +1,19 @@
+{
+  "id": 105749,
+  "models": {
+    "10": [
+      115979
+    ]
+  },
+  "name": "Light shard",
+  "unknown_17": false,
+  "ambient": 100,
+  "actions": [
+    "Insert orb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

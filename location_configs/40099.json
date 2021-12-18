@@ -1,0 +1,17 @@
+{
+  "id": 40099,
+  "models": {
+    "22": [
+      35511
+    ]
+  },
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2075": 1433,
+    "2090": 1433
+  },
+  "unknown_73": true,
+  "occludes_2": false,
+  "mapfunction": 596
+}

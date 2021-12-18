@@ -1,0 +1,21 @@
+{
+  "id": 117553,
+  "models": {
+    "10": [
+      116295
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "mirror": true,
+  "unknown_78": {
+    "unknown_1": 48538,
+    "unknown_2": 6
+  },
+  "occludes_2": false,
+  "unknown_1": 245,
+  "unknown_2": 265,
+  "unknown_178": 2
+}

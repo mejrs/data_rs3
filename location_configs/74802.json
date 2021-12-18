@@ -1,0 +1,16 @@
+{
+  "id": 74802,
+  "models": {
+    "10": [
+      66742
+    ]
+  },
+  "name": "Map Table",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

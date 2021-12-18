@@ -1,0 +1,20 @@
+{
+  "id": 8376,
+  "models": {
+    "10": [
+      8123,
+      7768
+    ]
+  },
+  "name": "Dead Spirit Tree",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

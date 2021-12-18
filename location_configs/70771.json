@@ -1,0 +1,88 @@
+{
+  "id": 70771,
+  "models": {
+    "10": [
+      69602,
+      69601
+    ]
+  },
+  "name": "Fire",
+  "unknown_17": false,
+  "unknown_24": 16704,
+  "ambient": 75,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Use"
+  ],
+  "contrast": 75,
+  "colours": [
+    [
+      5559,
+      82
+    ],
+    [
+      8084,
+      82
+    ],
+    [
+      3999,
+      82
+    ],
+    [
+      5033,
+      82
+    ],
+    [
+      7096,
+      127
+    ],
+    [
+      5043,
+      91
+    ],
+    [
+      7105,
+      98
+    ],
+    [
+      8137,
+      111
+    ],
+    [
+      7130,
+      127
+    ],
+    [
+      8070,
+      8070
+    ],
+    [
+      3985,
+      3985
+    ],
+    [
+      6812,
+      6812
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 3
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_1": 230,
+  "unknown_2": 270,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    46,
+    null
+  ]
+}

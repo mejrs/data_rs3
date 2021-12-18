@@ -1,0 +1,48 @@
+{
+  "id": 25593,
+  "models": {
+    "10": [
+      5273
+    ]
+  },
+  "name": "Open chest",
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      12818,
+      5648
+    ],
+    [
+      12698,
+      5404
+    ],
+    [
+      14499,
+      5409
+    ],
+    [
+      16536,
+      5648
+    ],
+    [
+      13194,
+      5772
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

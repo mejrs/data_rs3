@@ -1,0 +1,25 @@
+{
+  "id": 84019,
+  "models": {
+    "10": [
+      17140
+    ]
+  },
+  "name": "Gnome crates",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

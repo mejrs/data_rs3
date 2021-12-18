@@ -1,0 +1,24 @@
+{
+  "id": 20372,
+  "models": {
+    "10": [
+      1594
+    ]
+  },
+  "name": "Hollow log",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 15,
+  "colours": [
+    [
+      4537,
+      6589
+    ],
+    [
+      4531,
+      6705
+    ]
+  ],
+  "mapscene": 6,
+  "occludes_2": false
+}

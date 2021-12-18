@@ -1,0 +1,24 @@
+{
+  "id": 29548,
+  "models": {
+    "10": [
+      1405,
+      32366
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    null,
+    null,
+    "Take-Egg",
+    null,
+    null
+  ],
+  "mapscene": 11,
+  "occludes_2": false
+}

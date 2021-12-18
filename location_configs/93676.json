@@ -1,0 +1,32 @@
+{
+  "id": 93676,
+  "models": {
+    "10": [
+      99458
+    ]
+  },
+  "name": "Dead servant",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 64,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": 117204,
+  "models": {
+    "10": [
+      96039,
+      90150,
+      95735
+    ]
+  },
+  "name": "Keshik ger",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      123
+    ]
+  ],
+  "textures": {
+    "11109": 12073,
+    "12338": 12337
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3311
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 118224,
+  "models": {
+    "10": [
+      8215,
+      7766
+    ]
+  },
+  "name": "Rotten Potato Plant",
+  "unknown_19": 1,
+  "ambient": -20,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10768,
+      16536
+    ],
+    [
+      15774,
+      9630
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 111131,
+  "models": {
+    "10": [
+      29943,
+      30183
+    ]
+  },
+  "name": "'Rum' barrel",
+  "unknown_19": 1,
+  "unknown_24": 31580,
+  "actions": [
+    "Drink 'rum'",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

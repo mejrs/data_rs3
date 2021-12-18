@@ -1,0 +1,29 @@
+{
+  "id": 7845,
+  "models": {
+    "10": [
+      7800,
+      7766
+    ]
+  },
+  "name": "Flower Patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      14866
+    ],
+    [
+      14230,
+      14990
+    ]
+  ],
+  "occludes_2": false
+}

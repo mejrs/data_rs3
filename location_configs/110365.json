@@ -1,0 +1,26 @@
+{
+  "id": 110365,
+  "models": {
+    "10": [
+      1632
+    ]
+  },
+  "name": "Potted plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2720": 9705
+  },
+  "occludes_2": false,
+  "params": {
+    "6896": 37
+  }
+}

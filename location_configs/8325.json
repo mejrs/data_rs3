@@ -1,0 +1,28 @@
+{
+  "id": 8325,
+  "models": {
+    "10": [
+      7900,
+      7767
+    ]
+  },
+  "name": "Bittercap mushrooms",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

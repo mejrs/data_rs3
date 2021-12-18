@@ -1,0 +1,27 @@
+{
+  "id": 103226,
+  "models": {
+    "10": [
+      112915,
+      112916
+    ]
+  },
+  "name": "Grand Exchange pipes",
+  "unknown_19": 1,
+  "actions": [
+    "Repair",
+    "Reset puzzle",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

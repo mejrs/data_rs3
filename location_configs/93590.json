@@ -1,0 +1,27 @@
+{
+  "id": 93590,
+  "models": {
+    "10": [
+      99540,
+      99543
+    ]
+  },
+  "name": "Table",
+  "unknown_19": 1,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

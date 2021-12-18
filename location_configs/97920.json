@@ -1,0 +1,29 @@
+{
+  "id": 97920,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 32,
+  "model": false,
+  "unknown_88": false,
+  "morphs_2": {
+    "varbit": 28786,
+    "ids": [
+      97922,
+      97922,
+      97922,
+      97922,
+      97922,
+      97922,
+      97922,
+      97922,
+      97922,
+      97922,
+      97921
+    ],
+    "default": 97922
+  },
+  "params": {
+    "5185": 832
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 111763,
+  "models": {
+    "10": [
+      98511
+    ]
+  },
+  "name": "Dragonkin Laboratory portal",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 9652,
+  "ambient": 100,
+  "actions": [
+    "Enter",
+    "Retune",
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "colours": [
+    [
+      127,
+      39905
+    ],
+    [
+      61,
+      39888
+    ]
+  ],
+  "textures": {
+    "5071": 5072
+  },
+  "unknown_75": 0,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

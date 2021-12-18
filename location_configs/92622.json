@@ -1,0 +1,13 @@
+{
+  "id": 92622,
+  "models": {
+    "10": [
+      98783,
+      98786,
+      98787
+    ]
+  },
+  "name": "Cupboard",
+  "ambient": 37,
+  "occludes_2": false
+}

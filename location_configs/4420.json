@@ -1,0 +1,29 @@
+{
+  "id": 4420,
+  "models": {
+    "10": [
+      27389
+    ]
+  },
+  "name": "Judge",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 6898,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

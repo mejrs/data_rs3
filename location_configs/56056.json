@@ -1,0 +1,15 @@
+{
+  "id": 56056,
+  "models": {
+    "10": [
+      61511
+    ]
+  },
+  "name": "Primal 2h sword",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

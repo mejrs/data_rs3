@@ -1,0 +1,26 @@
+{
+  "id": 97517,
+  "models": {
+    "10": [
+      104665
+    ]
+  },
+  "name": "Gnarled tree",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65336,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": 113109,
+  "models": {
+    "10": [
+      74154,
+      74165,
+      73986
+    ]
+  },
+  "name": "Uncommon gem rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32536,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      1056
+    ],
+    [
+      3135,
+      2075
+    ],
+    [
+      3127,
+      3098
+    ],
+    [
+      2109,
+      4115
+    ],
+    [
+      3143,
+      3100
+    ],
+    [
+      54994,
+      41899
+    ],
+    [
+      54858,
+      41889
+    ],
+    [
+      54991,
+      41879
+    ],
+    [
+      54856,
+      41869
+    ]
+  ],
+  "textures": {
+    "322": 10867,
+    "1304": 10837
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

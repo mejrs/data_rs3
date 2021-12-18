@@ -1,0 +1,13 @@
+{
+  "id": 9101,
+  "models": {
+    "10": [
+      9063
+    ]
+  },
+  "name": "Conveyor belt",
+  "unknown_19": 1,
+  "unknown_24": 2437,
+  "unknown_27": false,
+  "occludes_2": false
+}

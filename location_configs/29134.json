@@ -1,0 +1,13 @@
+{
+  "id": 29134,
+  "models": {
+    "10": [
+      31954
+    ]
+  },
+  "name": "Cooking utensils",
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

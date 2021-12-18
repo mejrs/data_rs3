@@ -1,0 +1,34 @@
+{
+  "id": 7880,
+  "models": {
+    "10": [
+      7853,
+      7767
+    ]
+  },
+  "name": "Dead marigold",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      21679,
+      10289
+    ],
+    [
+      2873,
+      53561
+    ],
+    [
+      2873,
+      10289
+    ]
+  ],
+  "unknown_44": 50,
+  "occludes_2": false
+}

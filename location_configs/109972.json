@@ -1,0 +1,17 @@
+{
+  "id": 109972,
+  "models": {
+    "10": [
+      19392
+    ]
+  },
+  "name": "Fenced-off tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 64,
+  "model": false,
+  "translate_z": 45,
+  "unknown_88": false,
+  "occludes_2": false
+}

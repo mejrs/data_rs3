@@ -1,0 +1,13 @@
+{
+  "id": 78148,
+  "models": {
+    "10": [
+      78420,
+      78426,
+      78432
+    ]
+  },
+  "name": "Mithril mannequin",
+  "translate_z": 65472,
+  "occludes_2": false
+}

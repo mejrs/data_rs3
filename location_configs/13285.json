@@ -1,0 +1,25 @@
+{
+  "id": 13285,
+  "models": {
+    "10": [
+      12146
+    ]
+  },
+  "name": "Oak chest",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

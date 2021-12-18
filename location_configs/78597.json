@@ -1,0 +1,45 @@
+{
+  "id": 78597,
+  "models": {
+    "22": [
+      78750
+    ]
+  },
+  "name": "Stepping stone",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump-across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4407,
+      33042
+    ],
+    [
+      4668,
+      21658
+    ],
+    [
+      4670,
+      16540
+    ],
+    [
+      4676,
+      17571
+    ],
+    [
+      4684,
+      17579
+    ]
+  ],
+  "textures": {
+    "1470": 1522
+  },
+  "unknown_73": true,
+  "occludes_2": false
+}

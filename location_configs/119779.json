@@ -1,0 +1,30 @@
+{
+  "id": 119779,
+  "models": {
+    "10": [
+      121942
+    ]
+  },
+  "name": "Broken bench",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -1,0 +1,29 @@
+{
+  "id": 34863,
+  "models": {
+    "10": [
+      61588
+    ]
+  },
+  "name": "Inactive lodestone",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Power-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7336,
+      8750
+    ],
+    [
+      7314,
+      8730
+    ]
+  ],
+  "occludes_2": false
+}

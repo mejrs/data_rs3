@@ -1,0 +1,31 @@
+{
+  "id": 96900,
+  "models": {
+    "10": [
+      103968
+    ]
+  },
+  "name": "Quill",
+  "unknown_24": 26407,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 89643,
+  "models": {
+    "10": [
+      93986
+    ]
+  },
+  "name": "Mural fragment",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 29840,
+  "models": {
+    "10": [
+      32655
+    ]
+  },
+  "name": "Chocolate mixer",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 8894,
+  "ambient": 5,
+  "actions": [
+    "Add-Chocolate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

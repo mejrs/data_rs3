@@ -1,0 +1,27 @@
+{
+  "id": 14006,
+  "models": {
+    "10": [
+      14095
+    ]
+  },
+  "name": "Pot boiler",
+  "unknown_19": 1,
+  "unknown_24": 9983,
+  "actions": [
+    "Add-logs",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

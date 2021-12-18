@@ -1,0 +1,21 @@
+{
+  "id": 84255,
+  "models": {
+    "10": [
+      85803,
+      7766
+    ]
+  },
+  "name": "Fly traps",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

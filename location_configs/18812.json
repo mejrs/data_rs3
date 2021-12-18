@@ -1,0 +1,18 @@
+{
+  "id": 18812,
+  "models": {
+    "10": [
+      19031
+    ]
+  },
+  "name": "Toy box space",
+  "dim_x": 2,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

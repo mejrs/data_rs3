@@ -1,0 +1,15 @@
+{
+  "id": 114926,
+  "models": {
+    "10": [
+      103265
+    ]
+  },
+  "name": "Card table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_24": 33004,
+  "ambient": 40,
+  "unknown_69": 13,
+  "occludes_2": false
+}

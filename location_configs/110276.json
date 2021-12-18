@@ -1,0 +1,30 @@
+{
+  "id": 110276,
+  "models": {
+    "10": [
+      92928
+    ]
+  },
+  "name": "Bonfire",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Cook on",
+    "Add logs to",
+    "Configure",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 50,
+  "occludes_2": false,
+  "unknown_104": 127,
+  "cursors": [
+    64,
+    65,
+    155,
+    null,
+    null,
+    null
+  ]
+}

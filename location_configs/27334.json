@@ -1,0 +1,14 @@
+{
+  "id": 27334,
+  "models": {
+    "10": [
+      29327
+    ]
+  },
+  "name": "Altar",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "occludes_2": false
+}

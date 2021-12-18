@@ -1,0 +1,25 @@
+{
+  "id": 28232,
+  "models": {
+    "10": [
+      113670
+    ]
+  },
+  "name": "Flag",
+  "unknown_24": 29125,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "translate_x": 40,
+  "translate_z": 30,
+  "occludes_2": false
+}

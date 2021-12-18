@@ -1,0 +1,29 @@
+{
+  "id": 30963,
+  "models": {
+    "10": [
+      16280
+    ]
+  },
+  "name": "Chest",
+  "ambient": 20,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

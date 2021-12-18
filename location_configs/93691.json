@@ -1,0 +1,17 @@
+{
+  "id": 93691,
+  "models": {
+    "10": [
+      99457
+    ]
+  },
+  "name": "Servant",
+  "unknown_19": 1,
+  "translate_z": 65504,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

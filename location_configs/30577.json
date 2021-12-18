@@ -1,0 +1,13 @@
+{
+  "id": 30577,
+  "models": {
+    "10": [
+      33482
+    ]
+  },
+  "name": "Column",
+  "ambient": 10,
+  "contrast": 5,
+  "unknown_75": 0,
+  "occludes_2": false
+}

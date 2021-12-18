@@ -1,0 +1,17 @@
+{
+  "id": 89715,
+  "models": {
+    "10": [
+      93936
+    ]
+  },
+  "name": "Magic circle",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 80,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

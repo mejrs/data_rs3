@@ -1,0 +1,27 @@
+{
+  "id": 10619,
+  "models": {
+    "10": [
+      37375
+    ]
+  },
+  "name": "Black Chest (black)",
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      36907,
+      36901
+    ],
+    [
+      30757,
+      36893
+    ],
+    [
+      32804,
+      36881
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

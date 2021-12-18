@@ -1,0 +1,16 @@
+{
+  "id": 25156,
+  "models": {
+    "10": [
+      26584
+    ]
+  },
+  "name": "Fire",
+  "unknown_17": false,
+  "unknown_24": 6646,
+  "ambient": 70,
+  "contrast": 70,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

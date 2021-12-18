@@ -1,0 +1,27 @@
+{
+  "id": 9328,
+  "models": {
+    "10": [
+      63162,
+      38339
+    ]
+  },
+  "name": "Gnome on a rack",
+  "dim_x": 3,
+  "actions": [
+    "Talk-to",
+    "Release",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

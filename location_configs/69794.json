@@ -1,0 +1,23 @@
+{
+  "id": 69794,
+  "models": {
+    "10": [
+      68751
+    ]
+  },
+  "name": "Al Kharid, Shantay Pass",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "South:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2775": 2780
+  },
+  "occludes_2": false
+}

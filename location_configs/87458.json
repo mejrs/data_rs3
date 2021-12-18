@@ -1,0 +1,19 @@
+{
+  "id": 87458,
+  "models": {
+    "10": [
+      62524
+    ]
+  },
+  "name": "Sparkly crystals",
+  "unknown_19": 1,
+  "unknown_24": 12899,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1154": 1428
+  },
+  "unknown_81": 10,
+  "unknown_88": false,
+  "occludes_2": false
+}

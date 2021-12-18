@@ -1,0 +1,36 @@
+{
+  "id": 47944,
+  "models": {
+    "0": [
+      51423
+    ]
+  },
+  "name": "Doorway",
+  "unknown_21": true,
+  "unknown_24": 12708,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      2983
+    ]
+  ],
+  "unknown_89": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

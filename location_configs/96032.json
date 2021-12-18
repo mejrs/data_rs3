@@ -1,0 +1,16 @@
+{
+  "id": 96032,
+  "models": {
+    "10": [
+      103007
+    ]
+  },
+  "name": "Wyson's weeds",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_186": 0
+}

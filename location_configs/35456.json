@@ -1,0 +1,16 @@
+{
+  "id": 35456,
+  "models": {
+    "10": [
+      36108,
+      36119
+    ]
+  },
+  "name": "A display case",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false
+}

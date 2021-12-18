@@ -1,0 +1,32 @@
+{
+  "id": 29208,
+  "models": {
+    "10": [
+      35167,
+      35129
+    ]
+  },
+  "name": "Stewing Pot",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Stew",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 13,
+  "translate_y": 65530,
+  "occludes_2": false,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

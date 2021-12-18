@@ -1,0 +1,17 @@
+{
+  "id": 2160,
+  "models": {
+    "10": [
+      1885
+    ]
+  },
+  "name": "Barrel",
+  "actions": [
+    "Climb-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 97921,
+  "models": {
+    "10": [
+      105341
+    ]
+  },
+  "name": "Pahtli plant",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 32,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5185": 832
+  }
+}

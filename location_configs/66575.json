@@ -1,0 +1,19 @@
+{
+  "id": 66575,
+  "models": {
+    "10": [
+      8225,
+      7766
+    ]
+  },
+  "name": "Potato patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

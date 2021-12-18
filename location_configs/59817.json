@@ -1,0 +1,48 @@
+{
+  "id": 59817,
+  "models": {
+    "10": [
+      14637
+    ]
+  },
+  "dim_x": 8,
+  "dim_y": 9,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      37912,
+      7448
+    ],
+    [
+      37916,
+      7452
+    ],
+    [
+      37920,
+      7456
+    ],
+    [
+      37924,
+      7460
+    ],
+    [
+      37928,
+      7464
+    ],
+    [
+      37948,
+      7484
+    ]
+  ],
+  "textures": {
+    "1943": 1954
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 20,
+  "unknown_186": 0
+}

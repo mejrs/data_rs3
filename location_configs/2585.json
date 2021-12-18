@@ -1,0 +1,58 @@
+{
+  "id": 2585,
+  "models": {
+    "10": [
+      37348
+    ]
+  },
+  "name": "Hand holds",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6554,
+      6682
+    ],
+    [
+      6550,
+      6806
+    ],
+    [
+      6674,
+      6930
+    ],
+    [
+      6670,
+      6026
+    ],
+    [
+      6666,
+      5000
+    ],
+    [
+      6662,
+      3845
+    ]
+  ],
+  "unknown_81": 32,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

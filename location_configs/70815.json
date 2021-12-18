@@ -1,0 +1,35 @@
+{
+  "id": 70815,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Deposit",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 45,
+  "unknown_88": false,
+  "morphs_2": {
+    "varbit": 16239,
+    "ids": [
+      70816,
+      70816,
+      70817
+    ],
+    "default": 70816
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

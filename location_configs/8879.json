@@ -1,0 +1,26 @@
+{
+  "id": 8879,
+  "models": {
+    "10": [
+      8660
+    ]
+  },
+  "name": "Box",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

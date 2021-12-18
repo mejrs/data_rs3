@@ -1,0 +1,30 @@
+{
+  "id": 95748,
+  "models": {
+    "10": [
+      102650
+    ]
+  },
+  "name": "Sarcophagus",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

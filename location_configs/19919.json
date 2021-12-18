@@ -1,0 +1,17 @@
+{
+  "id": 19919,
+  "models": {
+    "10": [
+      20052
+    ]
+  },
+  "name": "Birdseed holder",
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

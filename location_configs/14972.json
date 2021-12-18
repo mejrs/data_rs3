@@ -1,0 +1,13 @@
+{
+  "id": 14972,
+  "models": {
+    "10": [
+      14898
+    ]
+  },
+  "name": "Net",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

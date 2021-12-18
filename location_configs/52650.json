@@ -1,0 +1,16 @@
+{
+  "id": 52650,
+  "models": {
+    "10": [
+      57379
+    ]
+  },
+  "name": "Projector screen",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14012,
+  "ambient": 20,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 95544,
+  "models": {
+    "4": [
+      102301
+    ]
+  },
+  "name": "Mask",
+  "unknown_19": 1,
+  "ambient": 64,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

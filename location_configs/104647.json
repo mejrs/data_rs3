@@ -1,0 +1,26 @@
+{
+  "id": 104647,
+  "models": {
+    "10": [
+      113581
+    ]
+  },
+  "name": "Inferior bamboo",
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 3,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

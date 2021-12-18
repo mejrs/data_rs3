@@ -1,0 +1,13 @@
+{
+  "id": 42644,
+  "models": {
+    "10": [
+      32870
+    ]
+  },
+  "name": "Egg crate",
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

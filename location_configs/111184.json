@@ -1,0 +1,28 @@
+{
+  "id": 111184,
+  "models": {
+    "10": [
+      117239
+    ]
+  },
+  "name": "Deep Sea Fishing portal",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

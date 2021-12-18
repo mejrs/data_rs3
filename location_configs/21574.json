@@ -1,0 +1,16 @@
+{
+  "id": 21574,
+  "models": {
+    "10": [
+      15624
+    ]
+  },
+  "name": "Boulders",
+  "colours": [
+    [
+      30,
+      10266
+    ]
+  ],
+  "occludes_2": false
+}

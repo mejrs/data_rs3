@@ -1,0 +1,19 @@
+{
+  "id": 108363,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 135,
+  "scale_y": 155,
+  "translate_z": 65496,
+  "morphs_1": {
+    "varbit": 36286,
+    "ids": [
+      108364,
+      108364,
+      108364,
+      108365
+    ]
+  }
+}

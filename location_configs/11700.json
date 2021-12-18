@@ -1,0 +1,11 @@
+{
+  "id": 11700,
+  "models": {
+    "10": [
+      107284
+    ]
+  },
+  "name": "Statue of Saradomin",
+  "ambient": 10,
+  "occludes_2": false
+}

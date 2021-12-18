@@ -1,0 +1,25 @@
+{
+  "id": 91812,
+  "models": {
+    "10": [
+      97438
+    ]
+  },
+  "name": "Locked mirror",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      31480,
+      46840
+    ],
+    [
+      31475,
+      46835
+    ]
+  ],
+  "occludes_2": false
+}

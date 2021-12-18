@@ -1,0 +1,14 @@
+{
+  "id": 44000,
+  "models": {
+    "10": [
+      47825
+    ]
+  },
+  "name": "Faruq's stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false
+}

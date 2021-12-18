@@ -1,0 +1,30 @@
+{
+  "id": 26428,
+  "models": {
+    "0": [
+      56415
+    ]
+  },
+  "name": "Big door",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

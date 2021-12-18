@@ -1,0 +1,24 @@
+{
+  "id": 100380,
+  "models": {
+    "10": [
+      108007,
+      108038
+    ]
+  },
+  "name": "Yule log",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Taste",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

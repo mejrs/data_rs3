@@ -1,0 +1,19 @@
+{
+  "id": 64729,
+  "models": {
+    "0": [
+      24977
+    ]
+  },
+  "name": "Web",
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Slash",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0
+}

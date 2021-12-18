@@ -1,0 +1,40 @@
+{
+  "id": 102527,
+  "models": {
+    "10": [
+      12594
+    ]
+  },
+  "name": "Throne",
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      926,
+      8115
+    ],
+    [
+      6443,
+      24
+    ],
+    [
+      4510,
+      7587
+    ],
+    [
+      6682,
+      7582
+    ],
+    [
+      4502,
+      7706
+    ]
+  ],
+  "occludes_2": false
+}

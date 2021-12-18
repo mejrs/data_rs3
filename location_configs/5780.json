@@ -1,0 +1,32 @@
+{
+  "id": 5780,
+  "models": {
+    "22": [
+      17671
+    ]
+  },
+  "name": "Cora's log",
+  "unknown_17": false,
+  "ambient": 0,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

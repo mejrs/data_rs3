@@ -1,0 +1,17 @@
+{
+  "id": 34280,
+  "models": {
+    "10": [
+      38279
+    ]
+  },
+  "name": "Intricate Castle Wars armour",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 94053,
+  "models": {
+    "10": [
+      99967
+    ]
+  },
+  "name": "Window",
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Leap through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

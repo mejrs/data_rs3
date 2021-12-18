@@ -1,0 +1,15 @@
+{
+  "id": 33958,
+  "models": {
+    "10": [
+      35034
+    ]
+  },
+  "name": "Lander boat",
+  "is_transparent": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "unknown_94": true,
+  "mapscene": 22,
+  "occludes_2": false
+}

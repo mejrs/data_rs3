@@ -1,0 +1,30 @@
+{
+  "id": 89695,
+  "models": {
+    "0": [
+      93933
+    ]
+  },
+  "name": "Dragonkin writing",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_88": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

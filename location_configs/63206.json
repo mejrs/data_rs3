@@ -1,0 +1,23 @@
+{
+  "id": 63206,
+  "models": {
+    "10": [
+      7381
+    ]
+  },
+  "name": "Robe cabinet",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Hide-in",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "translate_z": 65516,
+  "occludes_2": false
+}

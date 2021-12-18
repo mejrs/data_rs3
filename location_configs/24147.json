@@ -1,0 +1,15 @@
+{
+  "id": 24147,
+  "models": {
+    "10": [
+      24718
+    ]
+  },
+  "name": "Mannequin",
+  "unknown_27": false,
+  "ambient": 30,
+  "textures": {
+    "508": 2591
+  },
+  "occludes_2": false
+}

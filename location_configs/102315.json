@@ -1,0 +1,20 @@
+{
+  "id": 102315,
+  "models": {
+    "10": [
+      111813
+    ]
+  },
+  "name": "Mine cart",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 100221,
+  "models": {
+    "10": [
+      107730
+    ]
+  },
+  "name": "Raptor's chest of slaying",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": -16,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_69": 7,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

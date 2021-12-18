@@ -1,0 +1,44 @@
+{
+  "id": 27663,
+  "models": {
+    "10": [
+      29636
+    ]
+  },
+  "name": "Bank chest",
+  "actions": [
+    null,
+    "Bank",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5421,
+      6466
+    ],
+    [
+      5545,
+      6461
+    ],
+    [
+      5541,
+      6453
+    ],
+    [
+      5665,
+      6449
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    null,
+    null,
+    null,
+    null
+  ]
+}

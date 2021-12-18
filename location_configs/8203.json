@@ -1,0 +1,41 @@
+{
+  "id": 8203,
+  "models": {
+    "10": [
+      8189,
+      7766
+    ]
+  },
+  "name": "Diseased Barley",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      7605,
+      9769
+    ],
+    [
+      7626,
+      9533
+    ],
+    [
+      7490,
+      9653
+    ],
+    [
+      7481,
+      9645
+    ],
+    [
+      7601,
+      9765
+    ]
+  ],
+  "occludes_2": false
+}

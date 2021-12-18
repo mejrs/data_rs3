@@ -1,0 +1,24 @@
+{
+  "id": 95086,
+  "models": {
+    "10": [
+      101615
+    ]
+  },
+  "name": "Clan Boss Cup - Nex",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_186": 0
+}

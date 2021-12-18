@@ -1,0 +1,17 @@
+{
+  "id": 52795,
+  "models": {
+    "10": [
+      12940
+    ]
+  },
+  "name": "Fern",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

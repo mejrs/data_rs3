@@ -1,0 +1,31 @@
+{
+  "id": 92378,
+  "models": {
+    "4": [
+      98235
+    ]
+  },
+  "name": "Strength banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      27544
+    ],
+    [
+      36300,
+      927
+    ]
+  ],
+  "mirror": true,
+  "mapscene": 22,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2428,
+  "models": {
+    "10": [
+      18943
+    ]
+  },
+  "name": "Portable bank deposit box",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "Deposit",
+    "Deposit-All",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "mapfunction": 3651
+}

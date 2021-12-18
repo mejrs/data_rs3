@@ -1,0 +1,28 @@
+{
+  "id": 42875,
+  "models": {
+    "4": [
+      46211
+    ]
+  },
+  "name": "Sapphire",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      931,
+      43951
+    ],
+    [
+      918,
+      43932
+    ],
+    [
+      478,
+      43237
+    ]
+  ],
+  "unknown_44": 14,
+  "occludes_2": false
+}

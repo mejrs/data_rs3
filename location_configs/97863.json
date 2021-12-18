@@ -1,0 +1,38 @@
+{
+  "id": 97863,
+  "models": {
+    "10": [
+      73029
+    ]
+  },
+  "name": "Disturbance",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 17328,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4386,
+      6434
+    ],
+    [
+      4382,
+      8478
+    ],
+    [
+      4378,
+      10522
+    ],
+    [
+      4376,
+      12568
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

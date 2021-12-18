@@ -1,0 +1,25 @@
+{
+  "id": 66011,
+  "models": {
+    "10": [
+      75214
+    ]
+  },
+  "name": "Prison Barrier",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_24": 17354,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Banish ward",
+    "Uninstanced encounter",
+    "Instanced encounter",
+    "Join instance",
+    "Rejoin last instance"
+  ],
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

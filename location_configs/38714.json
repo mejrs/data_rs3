@@ -1,0 +1,33 @@
+{
+  "id": 38714,
+  "models": {
+    "10": [
+      42208
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 5,
+  "contrast": 25,
+  "colours": [
+    [
+      7050,
+      6150
+    ],
+    [
+      6550,
+      6300
+    ],
+    [
+      6554,
+      6290
+    ],
+    [
+      6674,
+      6548
+    ]
+  ],
+  "mapscene": 22,
+  "occludes_2": false
+}

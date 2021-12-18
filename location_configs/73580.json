@@ -1,0 +1,14 @@
+{
+  "id": 73580,
+  "models": {
+    "10": [
+      71414
+    ]
+  },
+  "name": "Cupboard",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "translate_z": 29,
+  "is_members": true,
+  "occludes_2": false
+}

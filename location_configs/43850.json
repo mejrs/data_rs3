@@ -1,0 +1,23 @@
+{
+  "id": 43850,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Reach into",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 42959,
+    "ids": [
+      43851
+    ]
+  },
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  }
+}

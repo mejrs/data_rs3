@@ -1,0 +1,48 @@
+{
+  "id": 107351,
+  "models": {
+    "10": [
+      88404,
+      88403
+    ]
+  },
+  "name": "Charged shard",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      18332,
+      6044
+    ],
+    [
+      18336,
+      6048
+    ],
+    [
+      18342,
+      6054
+    ],
+    [
+      18347,
+      6064
+    ],
+    [
+      18352,
+      6069
+    ],
+    [
+      18357,
+      6070
+    ]
+  ],
+  "unknown_98": true,
+  "occludes_2": false
+}

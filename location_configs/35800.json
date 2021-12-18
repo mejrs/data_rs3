@@ -1,0 +1,16 @@
+{
+  "id": 35800,
+  "models": {
+    "10": [
+      59620
+    ]
+  },
+  "name": "Strange blue plant",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14935,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_89": false,
+  "occludes_2": false
+}

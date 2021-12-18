@@ -1,0 +1,32 @@
+{
+  "id": 62368,
+  "models": {
+    "10": [
+      12413,
+      1828
+    ]
+  },
+  "name": "War's demon statue",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Swap-statue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "translate_x": 65471,
+  "translate_z": 65526,
+  "occludes_2": false
+}

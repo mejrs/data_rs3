@@ -1,0 +1,28 @@
+{
+  "id": 110385,
+  "models": {
+    "10": [
+      48736
+    ]
+  },
+  "name": "Sack",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2720": 9705
+  },
+  "occludes_2": false,
+  "params": {
+    "6896": 27
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 24264,
+  "models": {
+    "10": [
+      25023
+    ]
+  },
+  "name": "Hole",
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

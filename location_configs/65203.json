@@ -1,0 +1,33 @@
+{
+  "id": 65203,
+  "models": {
+    "10": [
+      24170
+    ]
+  },
+  "name": "Rift",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": -20,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

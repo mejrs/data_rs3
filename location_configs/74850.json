@@ -1,0 +1,12 @@
+{
+  "id": 74850,
+  "models": {
+    "10": [
+      66765
+    ]
+  },
+  "name": "Suit of armour",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

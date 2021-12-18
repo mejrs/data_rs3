@@ -1,0 +1,32 @@
+{
+  "id": 47281,
+  "models": {
+    "10": [
+      50858
+    ]
+  },
+  "name": "Tunnel",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 40,
+  "colours": [
+    [
+      4892,
+      16536
+    ],
+    [
+      4899,
+      16536
+    ],
+    [
+      5921,
+      16536
+    ]
+  ],
+  "textures": {
+    "2359": 2396
+  },
+  "occludes_2": false
+}

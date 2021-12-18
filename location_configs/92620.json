@@ -1,0 +1,14 @@
+{
+  "id": 92620,
+  "models": {
+    "10": [
+      98782,
+      98785
+    ]
+  },
+  "name": "Wardrobe",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 37,
+  "occludes_2": false
+}

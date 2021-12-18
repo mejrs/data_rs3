@@ -1,0 +1,28 @@
+{
+  "id": 22557,
+  "models": {
+    "10": [
+      23294
+    ]
+  },
+  "name": "Tunnel",
+  "dim_x": 3,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

@@ -1,0 +1,19 @@
+{
+  "id": 9233,
+  "models": {
+    "10": [
+      8223,
+      7766
+    ]
+  },
+  "name": "Vine patch",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

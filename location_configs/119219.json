@@ -1,0 +1,46 @@
+{
+  "id": 119219,
+  "models": {
+    "10": [
+      37727
+    ]
+  },
+  "name": "Pipe",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5392,
+      10512
+    ],
+    [
+      5276,
+      10396
+    ],
+    [
+      5281,
+      10401
+    ]
+  ],
+  "unknown_69": 13,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

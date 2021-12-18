@@ -1,0 +1,17 @@
+{
+  "id": 15928,
+  "models": {
+    "10": [
+      15832
+    ]
+  },
+  "name": "Steam Pump",
+  "actions": [
+    "Pump",
+    "Vent",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

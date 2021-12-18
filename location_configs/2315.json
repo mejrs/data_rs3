@@ -1,0 +1,26 @@
+{
+  "id": 2315,
+  "models": {
+    "10": [
+      2000
+    ]
+  },
+  "name": "Tree branch",
+  "unknown_19": 1,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

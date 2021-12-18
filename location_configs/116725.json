@@ -1,0 +1,33 @@
+{
+  "id": 116725,
+  "models": {
+    "3": [
+      88924
+    ]
+  },
+  "name": "Red candle",
+  "ambient": -25,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

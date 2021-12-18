@@ -1,0 +1,27 @@
+{
+  "id": 8244,
+  "models": {
+    "10": [
+      8222,
+      7876,
+      7766
+    ]
+  },
+  "name": "Jute",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      21821,
+      6689
+    ]
+  ],
+  "unknown_44": 2,
+  "occludes_2": false
+}

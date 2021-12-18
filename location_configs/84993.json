@@ -1,0 +1,37 @@
+{
+  "id": 84993,
+  "models": {
+    "10": [
+      87095,
+      87097
+    ]
+  },
+  "name": "Prayer pig machine",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_24": 20422,
+  "ambient": 15,
+  "actions": [
+    "Craft pouch",
+    "Upgrade",
+    "Change type",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5535,
+      37939
+    ],
+    [
+      5545,
+      37949
+    ],
+    [
+      5555,
+      37959
+    ]
+  ],
+  "occludes_2": false
+}

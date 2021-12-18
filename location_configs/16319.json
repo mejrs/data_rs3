@@ -1,0 +1,27 @@
+{
+  "id": 16319,
+  "models": {
+    "10": [
+      834
+    ],
+    "22": [
+      46800
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      6689,
+      7626
+    ]
+  ],
+  "textures": {
+    "2377": 1890
+  },
+  "model": false,
+  "occludes_2": false
+}

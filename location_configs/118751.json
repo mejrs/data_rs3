@@ -1,0 +1,51 @@
+{
+  "id": 118751,
+  "models": {
+    "10": [
+      87345
+    ]
+  },
+  "name": "Chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6715,
+      5656
+    ],
+    [
+      10586,
+      7331
+    ],
+    [
+      10471,
+      10279
+    ]
+  ],
+  "model": false,
+  "translate_x": 25,
+  "translate_y": 40,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      453
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

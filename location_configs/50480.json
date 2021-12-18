@@ -1,0 +1,37 @@
+{
+  "id": 50480,
+  "models": {
+    "10": [
+      53094
+    ]
+  },
+  "name": "Gold shield door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      1575,
+      6696
+    ]
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

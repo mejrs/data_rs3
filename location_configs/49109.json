@@ -1,0 +1,14 @@
+{
+  "id": 49109,
+  "models": {
+    "0": [
+      32938
+    ]
+  },
+  "name": "Water tank",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 15
+}

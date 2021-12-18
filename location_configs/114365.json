@@ -1,0 +1,23 @@
+{
+  "id": 114365,
+  "models": {
+    "10": [
+      81525,
+      7767
+    ]
+  },
+  "name": "Avocado bush",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

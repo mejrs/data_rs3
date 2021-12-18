@@ -1,0 +1,32 @@
+{
+  "id": 117142,
+  "models": {
+    "10": [
+      88377,
+      92301
+    ]
+  },
+  "name": "Drafting bench",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

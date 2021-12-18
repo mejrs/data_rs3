@@ -1,0 +1,25 @@
+{
+  "id": 121745,
+  "models": {
+    "10": [
+      68840
+    ]
+  },
+  "name": "Croesus Reward Chest",
+  "actions": [
+    "Open",
+    "Deposit",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

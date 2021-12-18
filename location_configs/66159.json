@@ -1,0 +1,32 @@
+{
+  "id": 66159,
+  "models": {
+    "10": [
+      30072
+    ]
+  },
+  "name": "Tunnel",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    "Escape-caves"
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

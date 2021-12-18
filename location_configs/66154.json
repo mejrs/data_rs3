@@ -1,0 +1,21 @@
+{
+  "id": 66154,
+  "models": {
+    "10": [
+      29921
+    ]
+  },
+  "name": "Column",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Tie-up firemaker",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

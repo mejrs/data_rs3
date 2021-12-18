@@ -1,0 +1,41 @@
+{
+  "id": 104671,
+  "models": {
+    "10": [
+      114786,
+      114783
+    ]
+  },
+  "name": "Blisterberry bush",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Forage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43972,
+      1865
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    171,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "6039": 38630,
+    "6040": 38646,
+    "6038": 11751
+  }
+}

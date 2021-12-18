@@ -1,0 +1,29 @@
+{
+  "id": 8313,
+  "models": {
+    "10": [
+      7800,
+      7767
+    ]
+  },
+  "name": "Mushroom patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13982,
+      14866
+    ],
+    [
+      14230,
+      14990
+    ]
+  ],
+  "occludes_2": false
+}

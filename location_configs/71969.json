@@ -1,0 +1,29 @@
+{
+  "id": 71969,
+  "models": {
+    "10": [
+      70427
+    ]
+  },
+  "name": "Locker",
+  "ambient": 25,
+  "actions": [
+    "Store",
+    "Deposit-All",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "translate_x": 50,
+  "occludes_2": false,
+  "mapfunction": 3651,
+  "cursors": [
+    183,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

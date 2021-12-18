@@ -1,0 +1,23 @@
+{
+  "id": 119329,
+  "models": {
+    "10": [
+      121418,
+      121417
+    ]
+  },
+  "name": "Bik's egg",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 33897,
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

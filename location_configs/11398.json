@@ -1,0 +1,34 @@
+{
+  "id": 11398,
+  "models": {
+    "10": [
+      16788
+    ]
+  },
+  "name": "Our lives",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 4354,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Read",
+    "Leave",
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false,
+  "mapscene": 66,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    57,
+    null,
+    null,
+    null,
+    null
+  ]
+}

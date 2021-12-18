@@ -1,0 +1,19 @@
+{
+  "id": 39537,
+  "models": {
+    "10": [
+      43023
+    ]
+  },
+  "name": "Melee weapon table",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Take-weapon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

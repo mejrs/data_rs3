@@ -1,0 +1,25 @@
+{
+  "id": 7883,
+  "models": {
+    "10": [
+      7856,
+      7767
+    ]
+  },
+  "name": "Nasturtium",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      19361,
+      20005
+    ]
+  ],
+  "occludes_2": false
+}

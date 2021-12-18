@@ -1,0 +1,23 @@
+{
+  "id": 42807,
+  "models": {
+    "10": [
+      46224
+    ]
+  },
+  "name": "Ice block",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 11560,
+  "ambient": 25,
+  "actions": [
+    "Enchant-sapphires",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "unknown_81": 8,
+  "occludes_2": false
+}

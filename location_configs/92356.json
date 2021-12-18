@@ -1,0 +1,29 @@
+{
+  "id": 92356,
+  "models": {
+    "0": [
+      98229
+    ]
+  },
+  "name": "Woodcutting banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      8636
+    ],
+    [
+      36300,
+      28307
+    ]
+  ],
+  "mapscene": 22
+}

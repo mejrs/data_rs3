@@ -1,0 +1,24 @@
+{
+  "id": 19021,
+  "models": {
+    "10": [
+      119624
+    ]
+  },
+  "name": "Event noticeboard",
+  "unknown_24": 29617,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "9069": 10986
+  },
+  "occludes_2": false
+}

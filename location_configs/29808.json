@@ -1,0 +1,27 @@
+{
+  "id": 29808,
+  "models": {
+    "10": [
+      32563
+    ]
+  },
+  "name": "Toy train",
+  "ambient": 25,
+  "actions": [
+    "Pick-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 19162,
+  "models": {
+    "10": [
+      19515,
+      19516
+    ]
+  },
+  "name": "Frame",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 10,
+  "occludes_2": false
+}

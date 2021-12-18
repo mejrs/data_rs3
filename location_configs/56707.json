@@ -1,0 +1,26 @@
+{
+  "id": 56707,
+  "models": {
+    "10": [
+      62191
+    ]
+  },
+  "name": "Dead vine herbs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

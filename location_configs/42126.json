@@ -1,0 +1,24 @@
+{
+  "id": 42126,
+  "models": {
+    "10": [
+      8037,
+      8040
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5665,
+      5398
+    ]
+  ],
+  "unknown_81": 30,
+  "mapscene": 0,
+  "occludes_2": false
+}

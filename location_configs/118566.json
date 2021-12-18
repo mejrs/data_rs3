@@ -1,0 +1,15 @@
+{
+  "id": 118566,
+  "models": {
+    "10": [
+      120847
+    ]
+  },
+  "name": "Hydraulic post",
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "occludes_2": false
+}

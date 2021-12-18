@@ -1,0 +1,30 @@
+{
+  "id": 56135,
+  "models": {
+    "22": [
+      21314
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      16656,
+      64786
+    ],
+    [
+      16536,
+      64666
+    ],
+    [
+      10398,
+      64672
+    ]
+  ],
+  "scale_y": 135,
+  "unknown_73": true,
+  "occludes_2": false
+}

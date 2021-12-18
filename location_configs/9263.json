@@ -1,0 +1,25 @@
+{
+  "id": 9263,
+  "models": {
+    "10": [
+      9210
+    ]
+  },
+  "name": "White tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "unknown_81": 64,
+  "occludes_2": false
+}

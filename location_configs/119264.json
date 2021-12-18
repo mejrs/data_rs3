@@ -1,0 +1,38 @@
+{
+  "id": 119264,
+  "models": {
+    "0": [
+      25086
+    ]
+  },
+  "name": "Door",
+  "occludes_1": false,
+  "actions": [
+    "Exit Gala",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6682,
+      7587
+    ],
+    [
+      8844,
+      7706
+    ],
+    [
+      7089,
+      10304
+    ],
+    [
+      6969,
+      10316
+    ]
+  ],
+  "scale_y": 161,
+  "unknown_75": 0,
+  "unknown_170": 1193
+}

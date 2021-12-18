@@ -1,0 +1,38 @@
+{
+  "id": 118762,
+  "models": {
+    "10": [
+      121002
+    ]
+  },
+  "name": "Burning Christmas tree",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2216": 13200,
+    "2217": 13202,
+    "2218": 13204,
+    "2219": 13201,
+    "2222": 13203,
+    "3919": 13196
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      453
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 81971,
+  "models": {
+    "10": [
+      82825,
+      82828
+    ]
+  },
+  "name": "Statue of K'ril Tsutsaroth",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 5,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

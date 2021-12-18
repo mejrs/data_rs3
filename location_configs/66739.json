@@ -1,0 +1,17 @@
+{
+  "id": 66739,
+  "models": {
+    "10": [
+      43034
+    ]
+  },
+  "name": "Makeshift Bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 30451,
+  "models": {
+    "10": [
+      35788,
+      35561
+    ]
+  },
+  "name": "Large Chopping Board",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 13,
+  "translate_y": 65530,
+  "occludes_2": false,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 24138,
+  "models": {
+    "10": [
+      24722
+    ]
+  },
+  "name": "Bow case",
+  "dim_x": 2,
+  "occludes_2": false
+}

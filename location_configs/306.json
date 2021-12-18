@@ -1,0 +1,13 @@
+{
+  "id": 306,
+  "models": {
+    "10": [
+      1500
+    ]
+  },
+  "name": "Broken cart",
+  "dim_x": 3,
+  "dim_y": 3,
+  "occludes_2": false,
+  "unknown_196": 2
+}

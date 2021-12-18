@@ -1,0 +1,27 @@
+{
+  "id": 40355,
+  "models": {
+    "10": [
+      64791
+    ]
+  },
+  "name": "Tree stump",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "model": false,
+  "scale_x": 215,
+  "scale_y": 235,
+  "scale_z": 215,
+  "unknown_81": 80,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_189": true
+}

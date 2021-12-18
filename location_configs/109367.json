@@ -1,0 +1,30 @@
+{
+  "id": 109367,
+  "models": {
+    "0": [
+      53092
+    ]
+  },
+  "name": "Inconspicuous door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "unknown_170": 1271,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

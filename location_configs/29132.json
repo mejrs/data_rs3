@@ -1,0 +1,15 @@
+{
+  "id": 29132,
+  "models": {
+    "10": [
+      31755
+    ]
+  },
+  "name": "Oil lamp",
+  "is_transparent": true,
+  "unknown_24": 5598,
+  "ambient": 64,
+  "contrast": 12,
+  "occludes_2": false,
+  "unknown_196": 0
+}

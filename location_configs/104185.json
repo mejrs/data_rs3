@@ -1,0 +1,13 @@
+{
+  "id": 104185,
+  "models": {
+    "10": [
+      113429
+    ]
+  },
+  "name": "Hanging shark",
+  "unknown_27": false,
+  "ambient": 40,
+  "model": false,
+  "occludes_2": false
+}

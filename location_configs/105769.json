@@ -1,0 +1,40 @@
+{
+  "id": 105769,
+  "models": {
+    "10": [
+      105755
+    ]
+  },
+  "name": "Seren",
+  "unknown_24": 27185,
+  "ambient": 10,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      1,
+      1
+    ]
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      386
+    ]
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

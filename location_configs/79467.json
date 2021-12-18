@@ -1,0 +1,16 @@
+{
+  "id": 79467,
+  "models": {
+    "10": [
+      80277
+    ]
+  },
+  "name": "Chair",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2869": 2868
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 13106,
+  "models": {
+    "10": [
+      17100
+    ]
+  },
+  "name": "Glouphrie statue",
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

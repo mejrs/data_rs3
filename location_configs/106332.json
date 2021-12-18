@@ -1,0 +1,22 @@
+{
+  "id": 106332,
+  "models": {
+    "10": [
+      116511
+    ]
+  },
+  "name": "Balance Elemental engram",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": -32,
+  "textures": {
+    "8239": 8232
+  },
+  "model": false,
+  "translate_x": 50,
+  "translate_y": 65336,
+  "translate_z": 65456,
+  "is_members": true,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

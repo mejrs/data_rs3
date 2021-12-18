@@ -1,0 +1,16 @@
+{
+  "id": 103207,
+  "models": {
+    "10": [
+      112928
+    ]
+  },
+  "name": "Thordur's desk (not Dulcin's)",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": -25,
+  "contrast": 15,
+  "translate_z": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 55126,
+  "models": {
+    "10": [
+      58997
+    ]
+  },
+  "name": "Altar",
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Recharge",
+    "Quick-Recharge",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "mapfunction": 575
+}

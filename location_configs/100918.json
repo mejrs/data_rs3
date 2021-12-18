@@ -1,0 +1,28 @@
+{
+  "id": 100918,
+  "models": {
+    "10": [
+      50020
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 4,
+  "dim_y": 2,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

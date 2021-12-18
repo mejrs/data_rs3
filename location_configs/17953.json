@@ -1,0 +1,29 @@
+{
+  "id": 17953,
+  "models": {
+    "10": [
+      14065
+    ]
+  },
+  "name": "Boat",
+  "dim_x": 2,
+  "dim_y": 3,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

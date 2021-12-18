@@ -1,0 +1,26 @@
+{
+  "id": 7860,
+  "models": {
+    "10": [
+      7848,
+      7767
+    ]
+  },
+  "name": "Diseased limpwurt plant",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      12833,
+      29982
+    ]
+  ],
+  "unknown_44": 2,
+  "occludes_2": false
+}

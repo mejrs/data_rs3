@@ -1,0 +1,18 @@
+{
+  "id": 14415,
+  "models": {
+    "10": [
+      1291
+    ]
+  },
+  "name": "Study desk",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      5656,
+      4502
+    ]
+  ],
+  "occludes_2": false
+}

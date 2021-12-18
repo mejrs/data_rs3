@@ -1,0 +1,13 @@
+{
+  "id": 68957,
+  "models": {
+    "10": [
+      67979
+    ]
+  },
+  "name": "A golden gnome",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

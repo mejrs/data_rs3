@@ -1,0 +1,31 @@
+{
+  "id": 116493,
+  "models": {
+    "10": [
+      47639
+    ]
+  },
+  "name": "Door (blocked)",
+  "unknown_17": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11308": 12310,
+    "11311": 12323,
+    "11312": 12325
+  },
+  "model": false,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  },
+  "unknown_196": 4
+}

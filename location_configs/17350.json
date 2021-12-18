@@ -1,0 +1,13 @@
+{
+  "id": 17350,
+  "models": {
+    "10": [
+      17319
+    ]
+  },
+  "name": "Rock",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "occludes_2": false
+}

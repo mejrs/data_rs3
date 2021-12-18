@@ -1,0 +1,28 @@
+{
+  "id": 121338,
+  "models": {
+    "10": [
+      99262
+    ]
+  },
+  "name": "Aqueduct Portal",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    "Join instance",
+    "Rejoin last instance",
+    "Use last custom enrage",
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 4940,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

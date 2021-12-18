@@ -1,0 +1,19 @@
+{
+  "id": 88714,
+  "models": {
+    "10": [
+      92538
+    ]
+  },
+  "name": "Golem",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Construct",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

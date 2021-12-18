@@ -1,0 +1,31 @@
+{
+  "id": 97401,
+  "models": {
+    "10": [
+      104415,
+      104416,
+      104418
+    ]
+  },
+  "name": "Big Chinchompa portal",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 31155,
+  "models": {
+    "10": [
+      34065
+    ]
+  },
+  "name": "Doogle bush",
+  "actions": [
+    "Pick-leaf",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": 66678,
+  "models": {
+    "4": [
+      53190
+    ]
+  },
+  "name": "Ivy",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12359,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 30,
+  "occludes_2": false,
+  "member_actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

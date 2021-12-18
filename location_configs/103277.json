@@ -1,0 +1,19 @@
+{
+  "id": 103277,
+  "models": {
+    "10": [
+      107741
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2078": 3649,
+    "2090": 3649
+  },
+  "mirror": true,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

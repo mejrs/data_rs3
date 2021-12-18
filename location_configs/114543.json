@@ -1,0 +1,22 @@
+{
+  "id": 114543,
+  "models": {
+    "10": [
+      82482,
+      7767
+    ]
+  },
+  "name": "Tombshrooms",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

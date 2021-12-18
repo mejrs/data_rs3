@@ -1,0 +1,28 @@
+{
+  "id": 5156,
+  "models": {
+    "10": [
+      1951
+    ]
+  },
+  "name": "Cupboard",
+  "dim_y": 2,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 120,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

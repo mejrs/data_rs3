@@ -1,0 +1,13 @@
+{
+  "id": 42647,
+  "models": {
+    "10": [
+      32885
+    ]
+  },
+  "name": "Glass jars",
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

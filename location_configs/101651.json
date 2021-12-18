@@ -1,0 +1,13 @@
+{
+  "id": 101651,
+  "models": {
+    "10": [
+      110771
+    ]
+  },
+  "name": "Milk churn",
+  "unknown_27": false,
+  "ambient": 25,
+  "translate_y": 65526,
+  "occludes_2": false
+}

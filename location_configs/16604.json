@@ -1,0 +1,34 @@
+{
+  "id": 16604,
+  "models": {
+    "10": [
+      16761
+    ]
+  },
+  "name": "Dream tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 4355,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 40,
+  "model": false,
+  "mapscene": 66,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

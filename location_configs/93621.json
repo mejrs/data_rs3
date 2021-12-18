@@ -1,0 +1,17 @@
+{
+  "id": 93621,
+  "models": {
+    "10": [
+      95259
+    ]
+  },
+  "name": "Bust",
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

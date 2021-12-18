@@ -1,0 +1,27 @@
+{
+  "id": 102691,
+  "models": {
+    "10": [
+      112009
+    ]
+  },
+  "name": "Electrified trap",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Rebuild",
+    null,
+    "Dismantle",
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "unknown_78": {
+    "unknown_1": 590,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 30,
+  "unknown_1": 256,
+  "unknown_2": 270
+}

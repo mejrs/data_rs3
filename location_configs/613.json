@@ -1,0 +1,30 @@
+{
+  "id": 613,
+  "models": {
+    "0": [
+      50627
+    ],
+    "1": [
+      50649
+    ],
+    "2": [
+      50682
+    ],
+    "9": [
+      50597
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      26,
+      11306
+    ]
+  ],
+  "mirror": true,
+  "unknown_73": true,
+  "mapscene": 22
+}

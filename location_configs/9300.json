@@ -1,0 +1,44 @@
+{
+  "id": 9300,
+  "models": {
+    "0": [
+      113151
+    ]
+  },
+  "name": "Fence",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      6439,
+      7587
+    ],
+    [
+      6430,
+      7582
+    ],
+    [
+      6550,
+      7706
+    ]
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

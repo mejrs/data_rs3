@@ -1,0 +1,13 @@
+{
+  "id": 7170,
+  "models": {
+    "10": [
+      7437
+    ]
+  },
+  "name": "Eyes",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_69": 11,
+  "occludes_2": false
+}

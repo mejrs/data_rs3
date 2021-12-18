@@ -1,0 +1,22 @@
+{
+  "id": 87973,
+  "models": {
+    "10": [
+      91118
+    ]
+  },
+  "name": "Mortar and plaster mixer",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

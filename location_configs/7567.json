@@ -1,0 +1,34 @@
+{
+  "id": 7567,
+  "models": {
+    "10": [
+      7903,
+      7767
+    ]
+  },
+  "name": "Diseased belladonna",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      17831,
+      11687
+    ],
+    [
+      19875,
+      12707
+    ],
+    [
+      18198,
+      12054
+    ]
+  ],
+  "unknown_44": 28,
+  "occludes_2": false
+}

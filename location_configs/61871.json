@@ -1,0 +1,15 @@
+{
+  "id": 61871,
+  "models": {
+    "10": [
+      7719
+    ]
+  },
+  "name": "Bench",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "translate_y": 65531,
+  "occludes_2": false
+}

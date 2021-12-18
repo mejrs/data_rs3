@@ -1,0 +1,16 @@
+{
+  "id": 2176,
+  "models": {
+    "10": [
+      48709
+    ]
+  },
+  "name": "Jetty",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

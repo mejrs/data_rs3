@@ -1,0 +1,23 @@
+{
+  "id": 97582,
+  "models": {
+    "10": [
+      104685
+    ]
+  },
+  "name": "Banite ore rockfall",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Refight",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

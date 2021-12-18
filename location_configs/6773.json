@@ -1,0 +1,38 @@
+{
+  "id": 6773,
+  "models": {
+    "10": [
+      41857
+    ]
+  },
+  "name": "Fire-breathing equipment",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      18343,
+      40871
+    ],
+    [
+      17984,
+      40512
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

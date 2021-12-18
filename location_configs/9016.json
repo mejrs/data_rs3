@@ -1,0 +1,34 @@
+{
+  "id": 9016,
+  "models": {
+    "10": [
+      8896
+    ]
+  },
+  "name": "Medium jungle",
+  "is_transparent": true,
+  "unknown_24": 2380,
+  "actions": [
+    null,
+    null,
+    null,
+    "Hack",
+    null
+  ],
+  "colours": [
+    [
+      6825,
+      7841
+    ],
+    [
+      6585,
+      7851
+    ],
+    [
+      15017,
+      16037
+    ]
+  ],
+  "mapscene": 5,
+  "occludes_2": false
+}

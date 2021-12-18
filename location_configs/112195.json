@@ -1,0 +1,36 @@
+{
+  "id": 112195,
+  "models": {
+    "10": [
+      30384
+    ]
+  },
+  "name": "Green dragon egg",
+  "unknown_17": false,
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21706,
+      16677
+    ],
+    [
+      21702,
+      16801
+    ],
+    [
+      21693,
+      16796
+    ],
+    [
+      21685,
+      16920
+    ]
+  ],
+  "occludes_2": false
+}

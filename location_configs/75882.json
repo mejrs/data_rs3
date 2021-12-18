@@ -1,0 +1,33 @@
+{
+  "id": 75882,
+  "models": {
+    "10": [
+      31006,
+      2214
+    ]
+  },
+  "name": "East gate",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Pass through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 700,
+  "scale_z": 280,
+  "unknown_69": 5,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 102692,
+  "models": {
+    "10": [
+      112008
+    ]
+  },
+  "name": "Technology noticeboard",
+  "dim_y": 3,
+  "actions": [
+    "Tasks",
+    "Technology",
+    "Information",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    172,
+    null,
+    null,
+    null
+  ]
+}

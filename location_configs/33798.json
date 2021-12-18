@@ -1,0 +1,14 @@
+{
+  "id": 33798,
+  "models": {
+    "4": [
+      36492
+    ]
+  },
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2085": 3171
+  },
+  "occludes_2": false
+}

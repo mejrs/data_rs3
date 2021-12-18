@@ -1,0 +1,40 @@
+{
+  "id": 42190,
+  "models": {
+    "0": [
+      45520
+    ],
+    "1": [
+      45534
+    ],
+    "9": [
+      45527
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6672,
+      4
+    ],
+    [
+      6674,
+      3
+    ],
+    [
+      6676,
+      2
+    ]
+  ],
+  "textures": {
+    "1846": 1826
+  },
+  "mapscene": 22,
+  "occludes_2": false,
+  "unknown_196": 1
+}

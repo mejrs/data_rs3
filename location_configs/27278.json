@@ -1,0 +1,18 @@
+{
+  "id": 27278,
+  "models": {
+    "22": [
+      29189
+    ]
+  },
+  "name": "Springboard",
+  "ambient": 25,
+  "actions": [
+    "Step-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

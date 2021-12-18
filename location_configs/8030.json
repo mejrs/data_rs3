@@ -1,0 +1,21 @@
+{
+  "id": 8030,
+  "models": {
+    "10": [
+      110169,
+      7767,
+      110054
+    ]
+  },
+  "name": "Curry tree",
+  "ambient": 25,
+  "actions": [
+    "Pick-leaf",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

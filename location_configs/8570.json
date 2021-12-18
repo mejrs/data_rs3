@@ -1,0 +1,29 @@
+{
+  "id": 8570,
+  "models": {
+    "10": [
+      8213,
+      7766
+    ]
+  },
+  "name": "Dead potatoes",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      10768,
+      10262
+    ],
+    [
+      15774,
+      5276
+    ]
+  ],
+  "occludes_2": false
+}

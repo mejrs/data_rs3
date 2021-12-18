@@ -1,0 +1,22 @@
+{
+  "id": 28751,
+  "models": {
+    "10": [
+      31644
+    ]
+  },
+  "name": "Net trap",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_24": 5269,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "mapscene": 68,
+  "occludes_2": false
+}

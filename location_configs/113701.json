@@ -1,0 +1,43 @@
+{
+  "id": 113701,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Vines",
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 250,
+  "scale_y": 250,
+  "scale_z": 800,
+  "unknown_69": 10,
+  "translate_y": 100,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 2,
+    "7902": 204
+  }
+}

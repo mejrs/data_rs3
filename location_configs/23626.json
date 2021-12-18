@@ -1,0 +1,39 @@
+{
+  "id": 23626,
+  "models": {
+    "10": [
+      7826,
+      7816
+    ]
+  },
+  "name": "Cadava bush",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Pick-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      24873
+    ],
+    [
+      8722,
+      10520
+    ],
+    [
+      6364,
+      53698
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "mapscene": 9,
+  "occludes_2": false
+}

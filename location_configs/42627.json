@@ -1,0 +1,14 @@
+{
+  "id": 42627,
+  "models": {
+    "4": [
+      46100
+    ]
+  },
+  "name": "Alarm",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

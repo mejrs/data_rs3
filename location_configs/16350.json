@@ -1,0 +1,32 @@
+{
+  "id": 16350,
+  "models": {
+    "10": [
+      57572
+    ]
+  },
+  "name": "Lever",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Flip",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  }
+}

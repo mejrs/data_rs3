@@ -1,0 +1,27 @@
+{
+  "id": 72689,
+  "models": {
+    "10": [
+      70614,
+      70742
+    ]
+  },
+  "name": "Food Stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      42044,
+      42556
+    ],
+    [
+      60,
+      828
+    ]
+  ],
+  "occludes_2": false
+}

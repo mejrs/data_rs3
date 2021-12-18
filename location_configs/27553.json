@@ -1,0 +1,19 @@
+{
+  "id": 27553,
+  "models": {
+    "10": [
+      1508
+    ]
+  },
+  "name": "Cannon",
+  "dim_y": 2,
+  "actions": [
+    "Take-the-ride",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

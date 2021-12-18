@@ -1,0 +1,17 @@
+{
+  "id": 106318,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 20,
+  "translate_y": 65441,
+  "morphs_1": {
+    "varbit": 34747,
+    "ids": [
+      106320,
+      106319
+    ]
+  },
+  "is_members": true
+}

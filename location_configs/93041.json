@@ -1,0 +1,21 @@
+{
+  "id": 93041,
+  "models": {
+    "10": [
+      98465
+    ]
+  },
+  "name": "Cadarn",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "East:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

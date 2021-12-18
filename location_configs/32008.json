@@ -1,0 +1,27 @@
+{
+  "id": 32008,
+  "models": {
+    "10": [
+      61105,
+      61089
+    ]
+  },
+  "name": "Table",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

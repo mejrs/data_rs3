@@ -1,0 +1,74 @@
+{
+  "id": 73692,
+  "models": {
+    "10": [
+      65251
+    ]
+  },
+  "name": "Gold rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 2234,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      10309,
+      6696
+    ],
+    [
+      10299,
+      6691
+    ],
+    [
+      10283,
+      6686
+    ],
+    [
+      10276,
+      6676
+    ],
+    [
+      10275,
+      6671
+    ],
+    [
+      35549,
+      9778
+    ],
+    [
+      35539,
+      9768
+    ],
+    [
+      35526,
+      9758
+    ],
+    [
+      35501,
+      9748
+    ],
+    [
+      38446,
+      9738
+    ]
+  ],
+  "mapscene": 12,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

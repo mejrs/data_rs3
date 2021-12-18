@@ -1,0 +1,34 @@
+{
+  "id": 23055,
+  "models": {
+    "10": [
+      97124,
+      112868
+    ]
+  },
+  "name": "Broken cart",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "scale_x": 120,
+  "scale_z": 120,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

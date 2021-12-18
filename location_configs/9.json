@@ -1,0 +1,32 @@
+{
+  "id": 9,
+  "models": {
+    "0": [
+      42171
+    ]
+  },
+  "name": "Combat barrier",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 7382,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "unknown_89": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

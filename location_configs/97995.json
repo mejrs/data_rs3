@@ -1,0 +1,21 @@
+{
+  "id": 97995,
+  "models": {
+    "10": [
+      105018
+    ]
+  },
+  "name": "Bell",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 32,
+  "actions": [
+    "Ring",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

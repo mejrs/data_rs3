@@ -1,0 +1,23 @@
+{
+  "id": 96903,
+  "models": {
+    "10": [
+      31006
+    ]
+  },
+  "name": "Stump",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Balance-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

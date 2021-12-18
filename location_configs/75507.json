@@ -1,0 +1,28 @@
+{
+  "id": 75507,
+  "models": {
+    "0": [
+      76437
+    ]
+  },
+  "name": "Mine door entrance",
+  "actions": [
+    "Open",
+    "Watch",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2980": 9001
+  },
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

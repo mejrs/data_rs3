@@ -1,0 +1,15 @@
+{
+  "id": 47212,
+  "models": {
+    "10": [
+      50579,
+      50580
+    ]
+  },
+  "name": "Plinth",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

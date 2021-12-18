@@ -1,0 +1,24 @@
+{
+  "id": 121186,
+  "models": {
+    "10": [
+      114014,
+      113998,
+      123395
+    ]
+  },
+  "name": "Event noticeboard",
+  "unknown_19": 1,
+  "unknown_24": 29617,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open Yak Track",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

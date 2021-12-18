@@ -1,0 +1,33 @@
+{
+  "id": 117994,
+  "models": {
+    "10": [
+      117704
+    ]
+  },
+  "name": "Red valve",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34919,
+      65075
+    ],
+    [
+      23355,
+      950
+    ]
+  ],
+  "textures": {
+    "12910": 12912
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

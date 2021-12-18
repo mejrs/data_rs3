@@ -1,0 +1,14 @@
+{
+  "id": 66360,
+  "models": {
+    "10": [
+      29897
+    ]
+  },
+  "name": "Podium",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

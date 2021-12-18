@@ -1,0 +1,13 @@
+{
+  "id": 35668,
+  "models": {
+    "10": [
+      36227
+    ]
+  },
+  "name": "Small bed",
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 35,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 17042,
+  "models": {
+    "10": [
+      114113
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Grapple",
+    "Build hidey-hole",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

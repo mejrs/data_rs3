@@ -1,0 +1,22 @@
+{
+  "id": 95234,
+  "models": {
+    "22": [
+      19276
+    ]
+  },
+  "name": "Footprints",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 30,
+  "colours": [
+    [
+      8786,
+      8512
+    ]
+  ],
+  "model": false,
+  "translate_y": 65534,
+  "unknown_88": false,
+  "occludes_2": false
+}

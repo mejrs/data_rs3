@@ -1,0 +1,28 @@
+{
+  "id": 623,
+  "models": {
+    "0": [
+      8303
+    ]
+  },
+  "name": "Frame",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

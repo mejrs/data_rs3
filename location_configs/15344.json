@@ -1,0 +1,17 @@
+{
+  "id": 15344,
+  "models": {
+    "10": [
+      12885
+    ]
+  },
+  "name": "Stone space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

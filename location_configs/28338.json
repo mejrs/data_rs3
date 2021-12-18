@@ -1,0 +1,15 @@
+{
+  "id": 28338,
+  "models": {
+    "10": [
+      30400
+    ]
+  },
+  "name": "Dog basket",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

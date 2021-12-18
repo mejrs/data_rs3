@@ -1,0 +1,30 @@
+{
+  "id": 4672,
+  "models": {
+    "0": [
+      14930
+    ],
+    "9": [
+      14931
+    ]
+  },
+  "name": "Throne Room Door",
+  "occludes_1": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "unknown_170": 960,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

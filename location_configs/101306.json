@@ -1,0 +1,29 @@
+{
+  "id": 101306,
+  "models": {
+    "10": [
+      80484
+    ]
+  },
+  "name": "Tome",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 16626,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

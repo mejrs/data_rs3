@@ -1,0 +1,25 @@
+{
+  "id": 16529,
+  "models": {
+    "10": [
+      25038
+    ]
+  },
+  "name": "Crate",
+  "actions": [
+    "Take rotten tomato from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

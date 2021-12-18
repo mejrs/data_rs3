@@ -1,0 +1,21 @@
+{
+  "id": 105512,
+  "models": {
+    "10": [
+      115290
+    ]
+  },
+  "name": "Anima flow (chaotic)",
+  "dim_x": 3,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "7968": 7970
+  },
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_x": 65456,
+  "occludes_2": false
+}

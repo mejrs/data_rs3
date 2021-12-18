@@ -1,0 +1,29 @@
+{
+  "id": 96553,
+  "models": {
+    "10": [
+      103312
+    ]
+  },
+  "name": "Broken machine",
+  "dim_x": 3,
+  "dim_y": 10,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

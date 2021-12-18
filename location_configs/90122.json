@@ -1,0 +1,29 @@
+{
+  "id": 90122,
+  "models": {
+    "22": [
+      17919
+    ]
+  },
+  "name": "Rock formation",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65486,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

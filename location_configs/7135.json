@@ -1,0 +1,21 @@
+{
+  "id": 7135,
+  "models": {
+    "4": [
+      7453
+    ]
+  },
+  "name": "Law rift",
+  "unknown_19": 1,
+  "unknown_24": 2178,
+  "ambient": 50,
+  "actions": [
+    "Exit-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 50,
+  "occludes_2": false
+}

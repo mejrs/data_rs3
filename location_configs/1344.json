@@ -1,0 +1,34 @@
+{
+  "id": 1344,
+  "models": {
+    "10": [
+      10722
+    ]
+  },
+  "name": "Sand pit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Get sand from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4762,
+      8371
+    ],
+    [
+      5010,
+      8364
+    ],
+    [
+      5006,
+      8356
+    ]
+  ],
+  "occludes_2": false
+}

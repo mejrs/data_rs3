@@ -1,0 +1,27 @@
+{
+  "id": 93866,
+  "models": {
+    "10": [
+      99601
+    ]
+  },
+  "name": "Ladder",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

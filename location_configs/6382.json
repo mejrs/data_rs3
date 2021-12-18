@@ -1,0 +1,15 @@
+{
+  "id": 6382,
+  "models": {
+    "10": [
+      6210
+    ]
+  },
+  "name": "Root",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

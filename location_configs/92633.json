@@ -1,0 +1,14 @@
+{
+  "id": 92633,
+  "models": {
+    "10": [
+      98752
+    ]
+  },
+  "name": "Armour stand",
+  "ambient": 37,
+  "textures": {
+    "4840": 4842
+  },
+  "occludes_2": false
+}

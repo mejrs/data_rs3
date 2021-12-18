@@ -1,0 +1,17 @@
+{
+  "id": 60895,
+  "models": {
+    "10": [
+      51985
+    ]
+  },
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

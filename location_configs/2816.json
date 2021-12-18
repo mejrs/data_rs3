@@ -1,0 +1,31 @@
+{
+  "id": 2816,
+  "models": {
+    "10": [
+      37335
+    ]
+  },
+  "name": "Rock of Dalgroth",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    "Prospect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 32,
+  "mapscene": 11,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

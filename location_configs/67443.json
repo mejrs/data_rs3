@@ -1,0 +1,14 @@
+{
+  "id": 67443,
+  "models": {
+    "10": [
+      9741
+    ]
+  },
+  "name": "Footlocker",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

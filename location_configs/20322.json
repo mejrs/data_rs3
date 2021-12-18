@@ -1,0 +1,15 @@
+{
+  "id": 20322,
+  "models": {
+    "10": [
+      57792,
+      57788
+    ]
+  },
+  "name": "Korasi",
+  "unknown_24": 14193,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

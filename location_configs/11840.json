@@ -1,0 +1,12 @@
+{
+  "id": 11840,
+  "models": {
+    "10": [
+      11676
+    ]
+  },
+  "name": "Bricks",
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

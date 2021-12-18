@@ -1,0 +1,26 @@
+{
+  "id": 30671,
+  "models": {
+    "10": [
+      14666
+    ]
+  },
+  "name": "Gravestone",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "colours": [
+    [
+      41,
+      7326
+    ],
+    [
+      51,
+      7335
+    ],
+    [
+      45,
+      7331
+    ]
+  ],
+  "occludes_2": false
+}

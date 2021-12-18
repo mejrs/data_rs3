@@ -1,0 +1,23 @@
+{
+  "id": 83299,
+  "models": {
+    "10": [
+      50051
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_89": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        1067,
+        100
+      ],
+      [
+        808,
+        100
+      ]
+    ]
+  }
+}

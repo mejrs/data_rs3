@@ -1,0 +1,11 @@
+{
+  "id": 24098,
+  "models": {
+    "10": [
+      24740
+    ]
+  },
+  "name": "Cat basket",
+  "ambient": 20,
+  "occludes_2": false
+}

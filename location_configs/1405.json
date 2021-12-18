@@ -1,0 +1,18 @@
+{
+  "id": 1405,
+  "models": {
+    "10": [
+      1599
+    ]
+  },
+  "name": "Cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 45,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 35,
+  "mapscene": 4,
+  "occludes_2": false
+}

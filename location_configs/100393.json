@@ -1,0 +1,30 @@
+{
+  "id": 100393,
+  "models": {
+    "10": [
+      108059
+    ]
+  },
+  "name": "Present",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Read label",
+    "Open",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    49,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4477,
+  "models": {
+    "10": [
+      57871
+    ]
+  },
+  "name": "Memory energy",
+  "unknown_24": 14187,
+  "unknown_27": false,
+  "ambient": 40,
+  "contrast": 40,
+  "occludes_2": false
+}

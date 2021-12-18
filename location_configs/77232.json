@@ -1,0 +1,25 @@
+{
+  "id": 77232,
+  "models": {
+    "22": [
+      77647
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10508,
+      2059
+    ],
+    [
+      10388,
+      6162
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,26 @@
+{
+  "id": 82594,
+  "models": {
+    "10": [
+      83540
+    ]
+  },
+  "name": "Danger sign",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

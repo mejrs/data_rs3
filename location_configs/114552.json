@@ -1,0 +1,19 @@
+{
+  "id": 114552,
+  "models": {
+    "10": [
+      82339,
+      7767
+    ]
+  },
+  "name": "Dead tombshrooms",
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

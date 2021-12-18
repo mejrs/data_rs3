@@ -1,0 +1,29 @@
+{
+  "id": 29166,
+  "models": {
+    "10": [
+      4138
+    ]
+  },
+  "name": "Funeral pyre",
+  "dim_y": 3,
+  "unknown_24": 1304,
+  "actions": [
+    "Sacrifice remains",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7050,
+      7339
+    ],
+    [
+      7582,
+      6319
+    ]
+  ],
+  "occludes_2": false
+}

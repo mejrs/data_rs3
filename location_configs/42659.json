@@ -1,0 +1,13 @@
+{
+  "id": 42659,
+  "models": {
+    "10": [
+      32879
+    ]
+  },
+  "name": "Chocolate barrel",
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

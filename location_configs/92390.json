@@ -1,0 +1,19 @@
+{
+  "id": 92390,
+  "models": {
+    "10": [
+      98211
+    ]
+  },
+  "name": "Amlodd voicestone",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 64,
+  "textures": {
+    "4801": 1413
+  },
+  "translate_x": 65422,
+  "translate_y": 382,
+  "translate_z": 218,
+  "occludes_2": false
+}

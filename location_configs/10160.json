@@ -1,0 +1,25 @@
+{
+  "id": 10160,
+  "models": {
+    "10": [
+      7700
+    ]
+  },
+  "name": "Crates",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

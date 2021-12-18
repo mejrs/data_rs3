@@ -1,0 +1,16 @@
+{
+  "id": 83053,
+  "models": {
+    "10": [
+      84210
+    ]
+  },
+  "name": "Pressurized track",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

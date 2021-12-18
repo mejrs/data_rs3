@@ -1,0 +1,20 @@
+{
+  "id": 52306,
+  "models": {
+    "4": [
+      57022
+    ]
+  },
+  "name": "Wall safe",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Crack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

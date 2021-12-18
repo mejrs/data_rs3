@@ -1,0 +1,45 @@
+{
+  "id": 113708,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Block",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Climb over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 300,
+  "scale_y": 250,
+  "scale_z": 250,
+  "unknown_69": 10,
+  "translate_x": 50,
+  "translate_y": 100,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 2,
+    "7902": 204
+  }
+}

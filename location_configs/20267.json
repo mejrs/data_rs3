@@ -1,0 +1,23 @@
+{
+  "id": 20267,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 5431,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Load",
+    "Look in",
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 4531,
+    "ids": [
+      20264,
+      20265,
+      20266
+    ]
+  }
+}

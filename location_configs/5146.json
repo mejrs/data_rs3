@@ -1,0 +1,21 @@
+{
+  "id": 5146,
+  "models": {
+    "10": [
+      5141
+    ]
+  },
+  "name": "Goal",
+  "unknown_21": true,
+  "unknown_24": 1600,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      5231,
+      6340
+    ]
+  ],
+  "mapscene": 35,
+  "occludes_2": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": 117969,
+  "models": {
+    "10": [
+      118397,
+      118430
+    ]
+  },
+  "name": "Scrap metal (Smithing)",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34906,
+      2360
+    ],
+    [
+      34918,
+      2360
+    ]
+  ],
+  "textures": {
+    "9937": 12897,
+    "12918": 12917
+  },
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": 50265,
+  "models": {
+    "10": [
+      55197
+    ]
+  },
+  "name": "Gold diamond door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 13586,
+  "ambient": 50,
+  "actions": [
+    "Unlock",
+    "Info",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      1575,
+      6696
+    ],
+    [
+      1610,
+      6740
+    ],
+    [
+      1658,
+      6773
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    172,
+    null,
+    null,
+    null,
+    null
+  ]
+}

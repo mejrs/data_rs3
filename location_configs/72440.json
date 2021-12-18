@@ -1,0 +1,27 @@
+{
+  "id": 72440,
+  "models": {
+    "10": [
+      69661,
+      69660
+    ]
+  },
+  "name": "Sleeping man",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 16832,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Listen to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 115,
+  "scale_z": 115,
+  "translate_y": 30,
+  "occludes_2": false
+}

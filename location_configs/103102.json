@@ -1,0 +1,14 @@
+{
+  "id": 103102,
+  "models": {
+    "10": [
+      102303
+    ]
+  },
+  "name": "Obstacle",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

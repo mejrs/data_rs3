@@ -1,0 +1,36 @@
+{
+  "id": 49027,
+  "models": {
+    "10": [
+      18236
+    ]
+  },
+  "name": "Broken lobster trap",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7585,
+      6439
+    ],
+    [
+      7465,
+      6434
+    ],
+    [
+      6682,
+      6429
+    ],
+    [
+      7326,
+      3345
+    ],
+    [
+      5392,
+      3341
+    ]
+  ],
+  "occludes_2": false
+}

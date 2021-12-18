@@ -1,0 +1,12 @@
+{
+  "id": 16486,
+  "models": {
+    "10": [
+      118567
+    ]
+  },
+  "name": "An anonymous looking door",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

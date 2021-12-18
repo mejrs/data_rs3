@@ -1,0 +1,12 @@
+{
+  "id": 36587,
+  "models": {
+    "10": [
+      7700
+    ]
+  },
+  "name": "Crates",
+  "is_transparent": true,
+  "ambient": 50,
+  "occludes_2": false
+}

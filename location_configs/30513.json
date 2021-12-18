@@ -1,0 +1,27 @@
+{
+  "id": 30513,
+  "models": {
+    "4": [
+      33568
+    ]
+  },
+  "name": "Shelf",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 160,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

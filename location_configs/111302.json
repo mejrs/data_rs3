@@ -1,0 +1,30 @@
+{
+  "id": 111302,
+  "models": {
+    "10": [
+      37216
+    ]
+  },
+  "name": "Light jungle vines",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 2380,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

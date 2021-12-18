@@ -1,0 +1,14 @@
+{
+  "id": 87622,
+  "models": {
+    "10": [
+      90795,
+      90801
+    ]
+  },
+  "name": "Covered Mirror",
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_y": 65522,
+  "occludes_2": false
+}

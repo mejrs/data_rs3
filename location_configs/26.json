@@ -1,0 +1,27 @@
+{
+  "id": 26,
+  "models": {
+    "10": [
+      37402
+    ]
+  },
+  "name": "Clock spindle",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      41905,
+      3088
+    ],
+    [
+      41763,
+      3082
+    ],
+    [
+      41753,
+      0
+    ]
+  ],
+  "occludes_2": false
+}

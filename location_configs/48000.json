@@ -1,0 +1,22 @@
+{
+  "id": 48000,
+  "models": {
+    "10": [
+      51507
+    ]
+  },
+  "name": "Strange device",
+  "dim_x": 9,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 12752,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 20,
+  "unknown_78": {
+    "unknown_1": 33550,
+    "unknown_2": 5
+  },
+  "occludes_2": false
+}

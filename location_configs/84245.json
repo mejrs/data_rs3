@@ -1,0 +1,21 @@
+{
+  "id": 84245,
+  "models": {
+    "10": [
+      85785,
+      7766
+    ]
+  },
+  "name": "Diseased sunchokes",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 56888,
+  "models": {
+    "10": [
+      46070
+    ]
+  },
+  "name": "Keg",
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 4878,
+  "models": {
+    "10": [
+      4762
+    ]
+  },
+  "name": "Scimitar Stall",
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

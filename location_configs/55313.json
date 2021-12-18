@@ -1,0 +1,20 @@
+{
+  "id": 55313,
+  "models": {
+    "10": [
+      51082,
+      51083
+    ]
+  },
+  "name": "Strange machine",
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

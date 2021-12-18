@@ -1,0 +1,33 @@
+{
+  "id": 67210,
+  "models": {
+    "22": [
+      32733
+    ]
+  },
+  "name": "Destroyed floor",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Jump-over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 5,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_167": 25,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 41466,
+  "models": {
+    "10": [
+      1232
+    ]
+  },
+  "name": "Sword cabinet",
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7952,
+      5912
+    ],
+    [
+      5772,
+      5177
+    ],
+    [
+      8860,
+      40600
+    ]
+  ],
+  "occludes_2": false
+}

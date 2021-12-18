@@ -1,0 +1,29 @@
+{
+  "id": 6150,
+  "models": {
+    "10": [
+      29872
+    ]
+  },
+  "name": "Exit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 31582,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 3803,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

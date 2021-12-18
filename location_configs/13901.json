@@ -1,0 +1,28 @@
+{
+  "id": 13901,
+  "models": {
+    "10": [
+      14238
+    ]
+  },
+  "name": "Exit",
+  "unknown_21": true,
+  "unknown_22": true,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

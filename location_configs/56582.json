@@ -1,0 +1,21 @@
+{
+  "id": 56582,
+  "models": {
+    "10": [
+      62146
+    ]
+  },
+  "name": "Diseased lergberry bush",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "1869": 1867
+  },
+  "occludes_2": false
+}

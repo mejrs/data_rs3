@@ -1,0 +1,36 @@
+{
+  "id": 4135,
+  "models": {
+    "10": [
+      68847
+    ]
+  },
+  "name": "Bloodwood tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": -10,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "unknown_81": 32,
+  "is_members": true,
+  "mapscene": 106,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

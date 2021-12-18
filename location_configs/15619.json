@@ -1,0 +1,17 @@
+{
+  "id": 15619,
+  "models": {
+    "10": [
+      15359,
+      15360,
+      15361,
+      15354
+    ]
+  },
+  "name": "Catapult",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_24": 4157,
+  "unknown_89": false,
+  "occludes_2": false
+}

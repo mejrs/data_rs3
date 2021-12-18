@@ -1,0 +1,30 @@
+{
+  "id": 86678,
+  "models": {
+    "10": [
+      89023
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 21034,
+  "ambient": 17,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

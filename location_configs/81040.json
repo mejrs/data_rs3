@@ -1,0 +1,15 @@
+{
+  "id": 81040,
+  "models": {
+    "10": [
+      82220
+    ]
+  },
+  "name": "Crate of riches",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

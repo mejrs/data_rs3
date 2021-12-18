@@ -1,0 +1,12 @@
+{
+  "id": 15715,
+  "models": {
+    "10": [
+      15511
+    ]
+  },
+  "name": "Broken drilling machine",
+  "dim_x": 3,
+  "dim_y": 3,
+  "occludes_2": false
+}

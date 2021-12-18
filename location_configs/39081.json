@@ -1,0 +1,13 @@
+{
+  "id": 39081,
+  "models": {
+    "10": [
+      42393
+    ]
+  },
+  "name": "Crypt",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 114527,
+  "models": {
+    "10": [
+      82752,
+      7767
+    ]
+  },
+  "name": "Guarana tree stump",
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

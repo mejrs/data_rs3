@@ -1,0 +1,15 @@
+{
+  "id": 96224,
+  "models": {
+    "10": [
+      103121
+    ]
+  },
+  "name": "Supernatural Stu",
+  "unknown_19": 1,
+  "unknown_24": 26193,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

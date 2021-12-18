@@ -1,0 +1,19 @@
+{
+  "id": 11624,
+  "models": {
+    "0": [
+      60680
+    ]
+  },
+  "name": "Long hall door",
+  "occludes_1": false,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "unknown_170": 943
+}

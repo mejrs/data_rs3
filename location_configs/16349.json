@@ -1,0 +1,33 @@
+{
+  "id": 16349,
+  "models": {
+    "10": [
+      57571
+    ]
+  },
+  "name": "Slot",
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Take-bar",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7062,
+      127
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      338
+    ]
+  }
+}

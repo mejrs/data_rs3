@@ -1,0 +1,33 @@
+{
+  "id": 34469,
+  "models": {
+    "10": [
+      4326
+    ]
+  },
+  "name": "Table",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      5799,
+      7440
+    ],
+    [
+      5679,
+      7444
+    ],
+    [
+      5559,
+      7448
+    ],
+    [
+      5675,
+      7468
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

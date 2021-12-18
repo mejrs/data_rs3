@@ -1,0 +1,21 @@
+{
+  "id": 67336,
+  "models": {
+    "0": [
+      33296
+    ],
+    "2": [
+      33258
+    ],
+    "3": [
+      33098
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 20
+}

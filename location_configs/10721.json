@@ -1,0 +1,32 @@
+{
+  "id": 10721,
+  "models": {
+    "10": [
+      10678
+    ]
+  },
+  "name": "Doorway",
+  "unknown_19": 1,
+  "ambient": 30,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

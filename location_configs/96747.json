@@ -1,0 +1,12 @@
+{
+  "id": 96747,
+  "models": {
+    "10": [
+      103736,
+      103791
+    ]
+  },
+  "name": "Minigame Spotlight Podium",
+  "ambient": 64,
+  "occludes_2": false
+}

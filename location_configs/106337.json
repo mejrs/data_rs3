@@ -1,0 +1,21 @@
+{
+  "id": 106337,
+  "models": {
+    "10": [
+      104466
+    ]
+  },
+  "name": "Dominion Sandtower",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "5879": 7402
+  },
+  "model": false,
+  "scale_x": 20,
+  "scale_y": 20,
+  "scale_z": 20,
+  "unknown_81": 64,
+  "occludes_2": false
+}

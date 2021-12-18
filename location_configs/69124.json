@@ -1,0 +1,12 @@
+{
+  "id": 69124,
+  "models": {
+    "10": [
+      68133
+    ]
+  },
+  "name": "Lever",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

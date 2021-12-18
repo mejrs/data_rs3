@@ -1,0 +1,14 @@
+{
+  "id": 116160,
+  "models": {
+    "4": [
+      108407
+    ]
+  },
+  "name": "Archaeology banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "mirror": true,
+  "mapscene": 22,
+  "occludes_2": false
+}

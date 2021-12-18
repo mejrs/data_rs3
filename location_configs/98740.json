@@ -1,0 +1,13 @@
+{
+  "id": 98740,
+  "models": {
+    "10": [
+      106238
+    ]
+  },
+  "name": "Broken spear rack",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "occludes_2": false
+}

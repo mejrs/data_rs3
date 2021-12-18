@@ -1,0 +1,15 @@
+{
+  "id": 103824,
+  "models": {
+    "10": [
+      76594
+    ]
+  },
+  "name": "Tower",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_24": 7439,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

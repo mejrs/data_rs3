@@ -1,0 +1,16 @@
+{
+  "id": 74227,
+  "models": {
+    "4": [
+      72561
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 10,
+  "mirror": true,
+  "translate_y": 65478,
+  "occludes_2": false,
+  "unknown_167": 258
+}

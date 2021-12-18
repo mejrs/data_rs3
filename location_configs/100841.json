@@ -1,0 +1,24 @@
+{
+  "id": 100841,
+  "models": {
+    "10": [
+      108394
+    ]
+  },
+  "name": "15th Anniversary cake",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Celebrate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

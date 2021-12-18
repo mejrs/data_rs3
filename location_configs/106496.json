@@ -1,0 +1,29 @@
+{
+  "id": 106496,
+  "models": {
+    "0": [
+      27252
+    ]
+  },
+  "name": "Door",
+  "is_transparent": true,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

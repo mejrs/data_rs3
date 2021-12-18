@@ -1,0 +1,23 @@
+{
+  "id": 83104,
+  "models": {
+    "10": [
+      30475
+    ]
+  },
+  "name": "Wolpertinger",
+  "unknown_17": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        8303,
+        100
+      ],
+      [
+        8301,
+        100
+      ]
+    ]
+  }
+}

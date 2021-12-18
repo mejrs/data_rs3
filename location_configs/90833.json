@@ -1,0 +1,18 @@
+{
+  "id": 90833,
+  "models": {
+    "10": [
+      95142
+    ]
+  },
+  "name": "Barricade",
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_17": false,
+  "ambient": 64,
+  "model": false,
+  "translate_x": 65444,
+  "translate_z": 40,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

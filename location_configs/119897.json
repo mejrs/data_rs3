@@ -1,0 +1,26 @@
+{
+  "id": 119897,
+  "models": {
+    "10": [
+      98762
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

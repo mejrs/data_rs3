@@ -1,0 +1,11 @@
+{
+  "id": 1113,
+  "models": {
+    "10": [
+      1261
+    ]
+  },
+  "name": "Stool",
+  "is_transparent": true,
+  "occludes_2": false
+}

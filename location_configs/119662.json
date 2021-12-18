@@ -1,0 +1,31 @@
+{
+  "id": 119662,
+  "models": {
+    "4": [
+      2048
+    ]
+  },
+  "name": "'Merlin sucks' shield",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43934,
+      40627
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      472
+    ]
+  }
+}

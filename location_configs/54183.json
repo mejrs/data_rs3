@@ -1,0 +1,29 @@
+{
+  "id": 54183,
+  "models": {
+    "10": [
+      59669
+    ]
+  },
+  "name": "Mining rock",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

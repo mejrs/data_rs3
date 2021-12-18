@@ -1,0 +1,12 @@
+{
+  "id": 3040,
+  "models": {
+    "10": [
+      46207
+    ]
+  },
+  "name": "Driftwood",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

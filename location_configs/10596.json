@@ -1,0 +1,30 @@
+{
+  "id": 10596,
+  "models": {
+    "10": [
+      7417
+    ]
+  },
+  "name": "Wall jump",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Run-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 7,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

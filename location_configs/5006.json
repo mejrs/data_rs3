@@ -1,0 +1,48 @@
+{
+  "id": 5006,
+  "models": {
+    "10": [
+      237
+    ]
+  },
+  "name": "Trollweiss flowers",
+  "unknown_17": false,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17835,
+      19648
+    ],
+    [
+      48596,
+      36180
+    ],
+    [
+      53167,
+      36172
+    ],
+    [
+      37196,
+      36060
+    ],
+    [
+      10043,
+      36069
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 103362,
+  "models": {
+    "10": [
+      60931
+    ]
+  },
+  "name": "Rock",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2078": 3183,
+    "2102": 3185
+  },
+  "occludes_2": false
+}

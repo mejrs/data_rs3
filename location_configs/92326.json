@@ -1,0 +1,29 @@
+{
+  "id": 92326,
+  "models": {
+    "0": [
+      98233
+    ]
+  },
+  "name": "Fletching banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      33676
+    ],
+    [
+      36300,
+      4797
+    ]
+  ],
+  "mapscene": 22
+}

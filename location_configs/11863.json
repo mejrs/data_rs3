@@ -1,0 +1,12 @@
+{
+  "id": 11863,
+  "models": {
+    "10": [
+      11611
+    ]
+  },
+  "name": "Winch",
+  "dim_x": 2,
+  "ambient": 10,
+  "occludes_2": false
+}

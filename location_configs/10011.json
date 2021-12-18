@@ -1,0 +1,17 @@
+{
+  "id": 10011,
+  "models": {
+    "10": [
+      96336
+    ]
+  },
+  "name": "Light door",
+  "dim_x": 2,
+  "colours": [
+    [
+      127,
+      43968
+    ]
+  ],
+  "occludes_2": false
+}

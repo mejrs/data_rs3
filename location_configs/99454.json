@@ -1,0 +1,24 @@
+{
+  "id": 99454,
+  "models": {
+    "10": [
+      107025,
+      107027
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 27569,
+  "unknown_27": false,
+  "ambient": 32,
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      380
+    ]
+  },
+  "unknown_188": true
+}

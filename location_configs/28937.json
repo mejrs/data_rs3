@@ -1,0 +1,37 @@
+{
+  "id": 28937,
+  "models": {
+    "10": [
+      19910,
+      19922
+    ]
+  },
+  "name": "Deadfall trap",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5193,
+  "actions": [
+    "Dismantle",
+    "Investigate",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      57,
+      5425
+    ],
+    [
+      49,
+      5421
+    ],
+    [
+      41,
+      5417
+    ]
+  ],
+  "unknown_69": 13,
+  "mapscene": 71,
+  "occludes_2": false
+}

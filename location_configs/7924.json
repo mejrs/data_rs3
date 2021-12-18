@@ -1,0 +1,30 @@
+{
+  "id": 7924,
+  "models": {
+    "10": [
+      7866,
+      7767,
+      7783
+    ]
+  },
+  "name": "Woad plant",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      22428,
+      36395
+    ],
+    [
+      22433,
+      36643
+    ]
+  ],
+  "occludes_2": false
+}

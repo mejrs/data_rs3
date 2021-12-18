@@ -1,0 +1,17 @@
+{
+  "id": 105136,
+  "models": {
+    "10": [
+      114860
+    ]
+  },
+  "name": "Damaged tent",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

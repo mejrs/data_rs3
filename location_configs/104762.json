@@ -1,0 +1,30 @@
+{
+  "id": 104762,
+  "models": {
+    "10": [
+      109844,
+      108587
+    ]
+  },
+  "name": "Invention guild",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

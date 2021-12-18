@@ -1,0 +1,32 @@
+{
+  "id": 109037,
+  "models": {
+    "10": [
+      78720
+    ]
+  },
+  "name": "Rope",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    "Quick exit",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 567,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

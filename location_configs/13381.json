@@ -1,0 +1,27 @@
+{
+  "id": 13381,
+  "models": {
+    "10": [
+      12178,
+      12179
+    ]
+  },
+  "name": "Glove Rack",
+  "dim_x": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

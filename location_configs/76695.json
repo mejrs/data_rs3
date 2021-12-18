@@ -1,0 +1,18 @@
+{
+  "id": 76695,
+  "models": {
+    "10": [
+      75950
+    ]
+  },
+  "name": "Throne",
+  "dim_x": 8,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_186": 0
+}

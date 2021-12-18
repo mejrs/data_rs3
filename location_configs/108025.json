@@ -1,0 +1,15 @@
+{
+  "id": 108025,
+  "models": {
+    "10": [
+      118196
+    ]
+  },
+  "name": "Cupboard",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

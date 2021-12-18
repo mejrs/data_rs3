@@ -1,0 +1,20 @@
+{
+  "id": 100087,
+  "models": {
+    "10": [
+      107396
+    ]
+  },
+  "name": "Bin",
+  "dim_x": 2,
+  "unknown_22": true,
+  "actions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

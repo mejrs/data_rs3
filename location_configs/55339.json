@@ -1,0 +1,13 @@
+{
+  "id": 55339,
+  "models": {
+    "10": [
+      107308
+    ]
+  },
+  "name": "<col=ffff00>Frozen party member",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

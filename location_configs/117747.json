@@ -1,0 +1,31 @@
+{
+  "id": 117747,
+  "models": {
+    "10": [
+      117446,
+      116778
+    ]
+  },
+  "name": "Remote totem charging point",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "actions": [
+    "Charge totems",
+    "Check totems",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 635,
+  "unknown_196": 4,
+  "unknown_1": 32,
+  "unknown_2": 12884,
+  "unknown_3": 32,
+  "unknown_4": 96,
+  "unknown_5": 64,
+  "unknown_6": 96
+}

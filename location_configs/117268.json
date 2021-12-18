@@ -1,0 +1,28 @@
+{
+  "id": 117268,
+  "models": {
+    "10": [
+      91042,
+      91043
+    ]
+  },
+  "name": "Hidden switch",
+  "unknown_19": 1,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  },
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

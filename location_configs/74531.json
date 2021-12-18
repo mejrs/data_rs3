@@ -1,0 +1,34 @@
+{
+  "id": 74531,
+  "models": {
+    "10": [
+      72996
+    ]
+  },
+  "name": "Rope ladder",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    "Climb-quickly",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "is_members": true,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    52,
+    null,
+    null,
+    null,
+    null
+  ]
+}

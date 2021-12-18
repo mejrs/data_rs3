@@ -1,0 +1,14 @@
+{
+  "id": 46988,
+  "models": {
+    "10": [
+      50730
+    ]
+  },
+  "name": "Storage crate",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

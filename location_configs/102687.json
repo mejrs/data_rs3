@@ -1,0 +1,26 @@
+{
+  "id": 102687,
+  "models": {
+    "10": [
+      109833
+    ]
+  },
+  "name": "Oldak coil",
+  "unknown_17": false,
+  "actions": [
+    "Fire",
+    "Pick-up",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    169,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

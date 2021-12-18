@@ -1,0 +1,19 @@
+{
+  "id": 3511,
+  "models": {
+    "10": [
+      20943
+    ]
+  },
+  "name": "Budding branch",
+  "unknown_17": false,
+  "unknown_24": 1098,
+  "actions": [
+    null,
+    "Take-cutting",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

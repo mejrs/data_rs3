@@ -1,0 +1,20 @@
+{
+  "id": 53385,
+  "models": {
+    "10": [
+      52867
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_24": 9154,
+  "ambient": 15,
+  "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 2
+  },
+  "occludes_2": false,
+  "unknown_104": 30
+}

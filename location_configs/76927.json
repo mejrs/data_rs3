@@ -1,0 +1,29 @@
+{
+  "id": 76927,
+  "models": {
+    "10": [
+      77801
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      44058,
+      37
+    ],
+    [
+      42004,
+      33
+    ],
+    [
+      1320,
+      37
+    ]
+  ],
+  "occludes_2": false
+}

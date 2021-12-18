@@ -1,0 +1,19 @@
+{
+  "id": 9097,
+  "models": {
+    "10": [
+      9039
+    ]
+  },
+  "name": "Pedals",
+  "unknown_19": 1,
+  "actions": [
+    "Pedal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

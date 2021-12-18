@@ -1,0 +1,56 @@
+{
+  "id": 67638,
+  "models": {
+    "0": [
+      9476
+    ],
+    "9": [
+      9477
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7064,
+      4500
+    ],
+    [
+      6945,
+      4504
+    ],
+    [
+      6940,
+      4492
+    ],
+    [
+      6038,
+      4492
+    ]
+  ],
+  "textures": {
+    "2081": 2082,
+    "2091": 2061,
+    "2108": 2078
+  },
+  "unknown_75": 0,
+  "unknown_170": 948,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

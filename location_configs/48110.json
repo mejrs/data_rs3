@@ -1,0 +1,29 @@
+{
+  "id": 48110,
+  "models": {
+    "10": [
+      42423
+    ]
+  },
+  "name": "Rubble",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "colours": [
+    [
+      7467,
+      7375
+    ],
+    [
+      7457,
+      7355
+    ],
+    [
+      7444,
+      7322
+    ]
+  ],
+  "occludes_2": false
+}

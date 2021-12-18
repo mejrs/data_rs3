@@ -1,0 +1,27 @@
+{
+  "id": 121709,
+  "models": {
+    "10": [
+      124070,
+      124063
+    ]
+  },
+  "name": "Statue of Ophalmi (damaged)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Contribute fungus",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "translate_y": 65426,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 98506,
+  "models": {
+    "10": [
+      105601
+    ]
+  },
+  "name": "Statue of King Baxtorian",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 5,
+  "occludes_2": false
+}

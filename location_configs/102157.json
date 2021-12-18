@@ -1,0 +1,24 @@
+{
+  "id": 102157,
+  "models": {
+    "10": [
+      10344
+    ]
+  },
+  "name": "Chest",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "Store logs",
+    "Check",
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 13,
+  "is_members": true,
+  "occludes_2": false
+}

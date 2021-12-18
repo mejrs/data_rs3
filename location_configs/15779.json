@@ -1,0 +1,21 @@
+{
+  "id": 15779,
+  "models": {
+    "10": [
+      1687
+    ]
+  },
+  "name": "Tropical tree",
+  "colours": [
+    [
+      6707,
+      5772
+    ],
+    [
+      6585,
+      6684
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

@@ -1,0 +1,19 @@
+{
+  "id": 65406,
+  "models": {
+    "10": [
+      22152
+    ]
+  },
+  "dim_x": 3,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": -20,
+  "contrast": 15,
+  "model": false,
+  "translate_y": 240,
+  "unknown_88": false,
+  "occludes_2": false
+}

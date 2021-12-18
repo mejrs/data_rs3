@@ -1,0 +1,17 @@
+{
+  "id": 116902,
+  "models": {
+    "10": [
+      90734,
+      90823,
+      102821
+    ]
+  },
+  "name": "Pisces sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 33185,
+  "unknown_27": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

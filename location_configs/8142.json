@@ -1,0 +1,19 @@
+{
+  "id": 8142,
+  "models": {
+    "10": [
+      7874,
+      7766
+    ]
+  },
+  "name": "Herbs",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5826,
+  "models": {
+    "10": [
+      5653
+    ]
+  },
+  "name": "Swordshop Sign",
+  "unknown_24": 1430,
+  "colours": [
+    [
+      5404,
+      6932
+    ]
+  ],
+  "occludes_2": false
+}

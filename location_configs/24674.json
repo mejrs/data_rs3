@@ -1,0 +1,12 @@
+{
+  "id": 24674,
+  "models": {
+    "10": [
+      120129
+    ]
+  },
+  "name": "Mirror",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

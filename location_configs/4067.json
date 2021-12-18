@@ -1,0 +1,20 @@
+{
+  "id": 4067,
+  "models": {
+    "10": [
+      1552
+    ]
+  },
+  "name": "Warning sign",
+  "colours": [
+    [
+      6036,
+      6024
+    ],
+    [
+      127,
+      916
+    ]
+  ],
+  "occludes_2": false
+}

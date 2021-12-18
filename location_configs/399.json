@@ -1,0 +1,20 @@
+{
+  "id": 399,
+  "models": {
+    "10": [
+      1362
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

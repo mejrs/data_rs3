@@ -1,0 +1,38 @@
+{
+  "id": 15068,
+  "models": {
+    "10": [
+      8220,
+      7766
+    ]
+  },
+  "name": "Dry patch",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Water",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      19096,
+      10904
+    ],
+    [
+      16931,
+      10787
+    ],
+    [
+      20135,
+      10667
+    ],
+    [
+      7964,
+      12719
+    ]
+  ],
+  "occludes_2": false
+}

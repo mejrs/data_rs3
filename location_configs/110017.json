@@ -1,0 +1,19 @@
+{
+  "id": 110017,
+  "models": {
+    "10": [
+      1552
+    ]
+  },
+  "name": "Ogrewatch sign",
+  "ambient": 25,
+  "actions": [
+    "Start Game",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

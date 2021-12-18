@@ -1,0 +1,13 @@
+{
+  "id": 130,
+  "models": {
+    "10": [
+      2231
+    ]
+  },
+  "name": "Party Balloon",
+  "unknown_17": false,
+  "unknown_24": 501,
+  "ambient": 60,
+  "occludes_2": false
+}

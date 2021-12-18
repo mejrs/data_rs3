@@ -1,0 +1,30 @@
+{
+  "id": 91809,
+  "models": {
+    "10": [
+      97438
+    ]
+  },
+  "name": "Mirror",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Rotate",
+    "Remove",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    155,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

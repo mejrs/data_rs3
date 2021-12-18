@@ -1,0 +1,17 @@
+{
+  "id": 93681,
+  "models": {
+    "10": [
+      99706
+    ]
+  },
+  "name": "Faceless servant",
+  "unknown_19": 1,
+  "ambient": 64,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

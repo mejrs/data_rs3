@@ -1,0 +1,15 @@
+{
+  "id": 39304,
+  "models": {
+    "10": [
+      42818
+    ]
+  },
+  "name": "Branch",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "contrast": 15,
+  "occludes_2": false
+}

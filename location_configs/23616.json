@@ -1,0 +1,20 @@
+{
+  "id": 23616,
+  "models": {
+    "10": [
+      24919,
+      24918
+    ]
+  },
+  "name": "Roses",
+  "is_transparent": true,
+  "ambient": 25,
+  "colours": [
+    [
+      2729,
+      691
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 0
+}

@@ -1,0 +1,13 @@
+{
+  "id": 12600,
+  "models": {
+    "10": [
+      13618
+    ]
+  },
+  "name": "Snake",
+  "unknown_19": 1,
+  "unknown_24": 3532,
+  "ambient": 10,
+  "occludes_2": false
+}

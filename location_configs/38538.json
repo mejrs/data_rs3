@@ -1,0 +1,16 @@
+{
+  "id": 38538,
+  "models": {
+    "10": [
+      41892,
+      41890
+    ]
+  },
+  "name": "Popinjay",
+  "dim_x": 3,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

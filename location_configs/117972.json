@@ -1,0 +1,44 @@
+{
+  "id": 117972,
+  "models": {
+    "10": [
+      116075,
+      118432
+    ]
+  },
+  "name": "Kerapac's workbench",
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Construct",
+    "Make-all volatile",
+    "Make-all erratic",
+    "Make-all explosive",
+    "Make-all unstable"
+  ],
+  "colours": [
+    [
+      64692,
+      32948
+    ],
+    [
+      64809,
+      31916
+    ],
+    [
+      64799,
+      31910
+    ]
+  ],
+  "textures": {
+    "11300": 12858,
+    "11302": 12863,
+    "11304": 12866,
+    "11305": 12865
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

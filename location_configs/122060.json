@@ -1,0 +1,26 @@
+{
+  "id": 122060,
+  "models": {
+    "10": [
+      9252
+    ]
+  },
+  "name": "Polished TokKul",
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

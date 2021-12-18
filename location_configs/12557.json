@@ -1,0 +1,19 @@
+{
+  "id": 12557,
+  "models": {
+    "10": [
+      13725
+    ]
+  },
+  "name": "Rock and string",
+  "unknown_17": false,
+  "unknown_24": 3472,
+  "colours": [
+    [
+      5790,
+      49
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

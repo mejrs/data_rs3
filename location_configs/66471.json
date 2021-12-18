@@ -1,0 +1,55 @@
+{
+  "id": 66471,
+  "models": {
+    "10": [
+      52040
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6670,
+      34881
+    ],
+    [
+      6674,
+      34887
+    ],
+    [
+      6550,
+      34895
+    ],
+    [
+      6552,
+      34903
+    ],
+    [
+      6554,
+      34909
+    ],
+    [
+      6556,
+      34909
+    ],
+    [
+      32874,
+      43125
+    ]
+  ],
+  "textures": {
+    "1532": 2556
+  },
+  "occludes_2": false
+}

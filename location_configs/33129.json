@@ -1,0 +1,14 @@
+{
+  "id": 33129,
+  "models": {
+    "10": [
+      37394
+    ]
+  },
+  "name": "Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 42661,
+  "models": {
+    "10": [
+      32868
+    ]
+  },
+  "name": "Chocolate bars",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

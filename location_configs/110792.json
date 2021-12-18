@@ -1,0 +1,39 @@
+{
+  "id": 110792,
+  "models": {
+    "10": [
+      24503,
+      24504,
+      24510,
+      24514
+    ]
+  },
+  "name": "Moored boat",
+  "dim_x": 2,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_24": 31436,
+  "unknown_27": false,
+  "ambient": 40,
+  "textures": {
+    "9779": 9780,
+    "9786": 9787
+  },
+  "model": false,
+  "unknown_79": {
+    "unknown_1": 350,
+    "unknown_2": 750,
+    "unknown_3": 14,
+    "values": [
+      26436,
+      2901,
+      2901,
+      26441,
+      26448,
+      26449
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 110,
+  "unknown_196": 3
+}

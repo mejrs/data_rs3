@@ -1,0 +1,23 @@
+{
+  "id": 73848,
+  "models": {
+    "22": [
+      71974
+    ]
+  },
+  "name": "Archery circle",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take shot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_y": 65532,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2181,
+  "models": {
+    "10": [
+      2225
+    ]
+  },
+  "name": "Ballista",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    null,
+    "Fire",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    62,
+    null,
+    null,
+    null,
+    null
+  ]
+}

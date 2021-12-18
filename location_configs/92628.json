@@ -1,0 +1,13 @@
+{
+  "id": 92628,
+  "models": {
+    "10": [
+      98757
+    ]
+  },
+  "name": "Crystal chest",
+  "ambient": 37,
+  "unknown_69": 11,
+  "is_members": true,
+  "occludes_2": false
+}

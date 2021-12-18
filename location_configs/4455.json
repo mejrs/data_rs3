@@ -1,0 +1,14 @@
+{
+  "id": 4455,
+  "models": {
+    "10": [
+      57827
+    ]
+  },
+  "name": "Shark",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

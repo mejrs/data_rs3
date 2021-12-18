@@ -1,0 +1,29 @@
+{
+  "id": 14971,
+  "models": {
+    "10": [
+      10715
+    ]
+  },
+  "name": "Herman's desk",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "blocks_ranged": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

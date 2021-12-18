@@ -1,0 +1,25 @@
+{
+  "id": 100657,
+  "models": {
+    "10": [
+      108279
+    ]
+  },
+  "name": "Pump",
+  "unknown_19": 1,
+  "unknown_24": 27918,
+  "ambient": 15,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      381
+    ]
+  }
+}

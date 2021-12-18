@@ -1,0 +1,23 @@
+{
+  "id": 91279,
+  "models": {
+    "10": [
+      2230
+    ]
+  },
+  "name": "Party balloon",
+  "unknown_17": false,
+  "unknown_24": 500,
+  "ambient": 60,
+  "colours": [
+    [
+      17981,
+      127
+    ],
+    [
+      37824,
+      960
+    ]
+  ],
+  "occludes_2": false
+}

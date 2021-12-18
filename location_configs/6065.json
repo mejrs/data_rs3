@@ -1,0 +1,12 @@
+{
+  "id": 6065,
+  "models": {
+    "10": [
+      5951,
+      5950
+    ]
+  },
+  "name": "Clothes",
+  "dim_y": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 79436,
+  "models": {
+    "10": [
+      80388
+    ]
+  },
+  "name": "Chest",
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 115,
+  "unknown_69": 11,
+  "occludes_2": false
+}

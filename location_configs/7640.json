@@ -1,0 +1,29 @@
+{
+  "id": 7640,
+  "models": {
+    "10": [
+      7826,
+      7767
+    ]
+  },
+  "name": "Jangerberry bush",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      15002
+    ],
+    [
+      8722,
+      9878
+    ]
+  ],
+  "occludes_2": false
+}

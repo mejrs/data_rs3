@@ -1,0 +1,21 @@
+{
+  "id": 12413,
+  "models": {
+    "3": [
+      10215
+    ],
+    "10": [
+      10122
+    ]
+  },
+  "name": "Root",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "scale_x": 99,
+  "scale_y": 100,
+  "scale_z": 99,
+  "unknown_88": false,
+  "occludes_2": false
+}

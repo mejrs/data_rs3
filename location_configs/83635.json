@@ -1,0 +1,20 @@
+{
+  "id": 83635,
+  "models": {
+    "4": [
+      85021
+    ]
+  },
+  "name": "Scoreboard",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "View",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

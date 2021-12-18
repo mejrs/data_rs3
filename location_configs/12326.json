@@ -1,0 +1,16 @@
+{
+  "id": 12326,
+  "models": {
+    "10": [
+      29073
+    ]
+  },
+  "name": "Vine",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "contrast": 20,
+  "unknown_69": 11,
+  "occludes_2": false
+}

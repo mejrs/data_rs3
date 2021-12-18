@@ -1,0 +1,22 @@
+{
+  "id": 2463,
+  "models": {
+    "0": [
+      12030
+    ],
+    "2": [
+      112728
+    ],
+    "9": [
+      16331
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "model": false,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "mapscene": 22,
+  "occludes_2": false
+}

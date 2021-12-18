@@ -1,0 +1,19 @@
+{
+  "id": 843,
+  "models": {
+    "4": [
+      2051
+    ]
+  },
+  "name": "Wallshield",
+  "unknown_19": 1,
+  "ambient": 20,
+  "colours": [
+    [
+      61,
+      40483
+    ]
+  ],
+  "unknown_44": 2,
+  "occludes_2": false
+}

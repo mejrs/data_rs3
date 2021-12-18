@@ -1,0 +1,36 @@
+{
+  "id": 12343,
+  "models": {
+    "10": [
+      46181
+    ]
+  },
+  "name": "Skrach Uglogwee",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6482,
+      6478
+    ],
+    [
+      784,
+      22412
+    ],
+    [
+      8722,
+      22412
+    ]
+  ],
+  "textures": {
+    "332": 3171
+  },
+  "occludes_2": false
+}

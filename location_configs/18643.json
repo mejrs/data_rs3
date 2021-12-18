@@ -1,0 +1,12 @@
+{
+  "id": 18643,
+  "models": {
+    "10": [
+      18816
+    ]
+  },
+  "name": "Steam press",
+  "dim_x": 3,
+  "dim_y": 3,
+  "occludes_2": false
+}

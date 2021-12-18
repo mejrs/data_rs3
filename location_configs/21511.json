@@ -1,0 +1,54 @@
+{
+  "id": 21511,
+  "models": {
+    "10": [
+      11538
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7836,
+      6705
+    ],
+    [
+      7834,
+      6699
+    ],
+    [
+      7958,
+      6695
+    ],
+    [
+      6932,
+      6819
+    ],
+    [
+      6930,
+      6817
+    ]
+  ],
+  "textures": {
+    "2073": 2108,
+    "2093": 2108
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

@@ -1,0 +1,53 @@
+{
+  "id": 30141,
+  "models": {
+    "0": [
+      33095
+    ]
+  },
+  "name": "Energy barrier",
+  "unknown_19": 1,
+  "unknown_24": 9005,
+  "ambient": 32,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      11212,
+      20085
+    ],
+    [
+      6092,
+      19923
+    ],
+    [
+      4044,
+      19910
+    ],
+    [
+      968,
+      19775
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 3467,
+    "unknown_2": 5
+  },
+  "unknown_104": 180,
+  "unknown_1": 230,
+  "unknown_2": 270,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

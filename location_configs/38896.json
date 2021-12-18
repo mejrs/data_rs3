@@ -1,0 +1,19 @@
+{
+  "id": 38896,
+  "models": {
+    "10": [
+      22342
+    ]
+  },
+  "name": "Tree",
+  "unknown_21": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 6,
+  "occludes_2": false
+}

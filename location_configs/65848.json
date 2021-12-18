@@ -1,0 +1,11 @@
+{
+  "id": 65848,
+  "models": {
+    "10": [
+      26712
+    ]
+  },
+  "name": "Oven",
+  "dim_x": 2,
+  "occludes_2": false
+}

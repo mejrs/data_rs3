@@ -1,0 +1,35 @@
+{
+  "id": 94047,
+  "models": {
+    "10": [
+      99958
+    ]
+  },
+  "name": "Altar",
+  "dim_x": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 37,
+  "actions": [
+    "Pray at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 115,
+  "scale_y": 115,
+  "scale_z": 115,
+  "translate_y": 20,
+  "translate_z": 60,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

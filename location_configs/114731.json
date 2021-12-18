@@ -1,0 +1,28 @@
+{
+  "id": 114731,
+  "models": {
+    "10": [
+      67892,
+      84498
+    ]
+  },
+  "name": "Barrel of green liquid",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

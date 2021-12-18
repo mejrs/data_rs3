@@ -1,0 +1,28 @@
+{
+  "id": 5176,
+  "models": {
+    "10": [
+      5173
+    ]
+  },
+  "name": "Lightning conductor",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

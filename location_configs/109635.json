@@ -1,0 +1,15 @@
+{
+  "id": 109635,
+  "models": {
+    "4": [
+      88777
+    ]
+  },
+  "name": "Knife rack",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_x": 65516,
+  "translate_z": 30,
+  "occludes_2": false
+}

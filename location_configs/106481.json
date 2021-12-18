@@ -1,0 +1,52 @@
+{
+  "id": 106481,
+  "models": {
+    "10": [
+      49370
+    ]
+  },
+  "name": "Cupboard",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5400,
+      6425
+    ],
+    [
+      5394,
+      6419
+    ],
+    [
+      5390,
+      6415
+    ],
+    [
+      5397,
+      6422
+    ],
+    [
+      5389,
+      6413
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

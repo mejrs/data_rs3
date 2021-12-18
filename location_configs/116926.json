@@ -1,0 +1,34 @@
+{
+  "id": 116926,
+  "models": {
+    "10": [
+      96724,
+      96730
+    ]
+  },
+  "name": "Fort entrance",
+  "dim_y": 4,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 600,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 64,
+  "unknown_2": 15616,
+  "unknown_3": 64,
+  "unknown_4": 17152,
+  "unknown_5": 17152,
+  "unknown_6": 17152
+}

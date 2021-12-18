@@ -1,0 +1,16 @@
+{
+  "id": 31317,
+  "models": {
+    "10": [
+      34530,
+      34529
+    ]
+  },
+  "name": "Flames",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_24": 9423,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 114108,
+  "models": {
+    "10": [
+      109837,
+      109838
+    ]
+  },
+  "name": "Eva's Runecrafting Workbench",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 42,
+  "actions": [
+    "Risk your life for Runecrafting",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 1815,
+    "unknown_2": 5
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 80
+}

@@ -1,0 +1,24 @@
+{
+  "id": 11394,
+  "models": {
+    "10": [
+      45739,
+      45735
+    ]
+  },
+  "name": "Young tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 1697,
+  "ambient": 15,
+  "actions": [
+    "Nurture",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": 53166,
+  "models": {
+    "10": [
+      55027
+    ]
+  },
+  "name": "Farming patch (winter's grip fully grown)",
+  "dim_x": 2,
+  "is_transparent": true,
+  "colours": [
+    [
+      3498,
+      7607
+    ],
+    [
+      3502,
+      7614
+    ],
+    [
+      3512,
+      7622
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Harvest",
+    "Clear",
+    null,
+    "Replace"
+  ]
+}

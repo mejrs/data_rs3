@@ -1,0 +1,31 @@
+{
+  "id": 10060,
+  "models": {
+    "10": [
+      9796
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_24": 9662,
+  "colours": [
+    [
+      43067,
+      8078
+    ],
+    [
+      94,
+      10780
+    ],
+    [
+      9164,
+      4919
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 70
+}

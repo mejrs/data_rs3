@@ -1,0 +1,14 @@
+{
+  "id": 120612,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "translate_x": 65384,
+  "translate_y": 65473,
+  "morphs_1": {
+    "varbit": 49560,
+    "ids": [
+      120613,
+      120614
+    ]
+  }
+}

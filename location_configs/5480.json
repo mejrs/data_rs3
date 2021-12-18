@@ -1,0 +1,27 @@
+{
+  "id": 5480,
+  "models": {
+    "10": [
+      5370
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      7481,
+      16536
+    ],
+    [
+      8501,
+      16532
+    ],
+    [
+      8493,
+      16652
+    ]
+  ],
+  "unknown_44": 22,
+  "occludes_2": false
+}

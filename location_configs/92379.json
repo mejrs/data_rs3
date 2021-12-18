@@ -1,0 +1,17 @@
+{
+  "id": 92379,
+  "models": {
+    "4": [
+      98258
+    ]
+  },
+  "name": "Strength banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "490": 482
+  },
+  "mirror": true,
+  "mapscene": 22,
+  "occludes_2": false
+}

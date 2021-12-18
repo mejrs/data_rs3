@@ -1,0 +1,19 @@
+{
+  "id": 37018,
+  "models": {
+    "10": [
+      24238
+    ]
+  },
+  "name": "Doorway",
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      10270,
+      10266
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

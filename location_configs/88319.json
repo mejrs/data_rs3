@@ -1,0 +1,14 @@
+{
+  "id": 88319,
+  "models": {
+    "10": [
+      91888
+    ]
+  },
+  "name": "Villager",
+  "unknown_24": 22144,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false
+}

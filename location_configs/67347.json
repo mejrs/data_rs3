@@ -1,0 +1,17 @@
+{
+  "id": 67347,
+  "models": {
+    "10": [
+      33022
+    ]
+  },
+  "name": "Staircase",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mapscene": 69,
+  "occludes_2": false
+}

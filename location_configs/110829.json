@@ -1,0 +1,16 @@
+{
+  "id": 110829,
+  "models": {
+    "10": [
+      24609
+    ]
+  },
+  "name": "Huge shark",
+  "dim_x": 10,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "model": false,
+  "occludes_2": false
+}

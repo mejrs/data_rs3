@@ -1,0 +1,12 @@
+{
+  "id": 31437,
+  "models": {
+    "10": [
+      34574
+    ]
+  },
+  "name": "Kurask head",
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

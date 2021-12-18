@@ -1,0 +1,25 @@
+{
+  "id": 96648,
+  "models": {
+    "10": [
+      103594
+    ]
+  },
+  "name": "Maps",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_y": 65496,
+  "occludes_2": false
+}

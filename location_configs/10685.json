@@ -1,0 +1,20 @@
+{
+  "id": 10685,
+  "models": {
+    "10": [
+      10459,
+      10462
+    ]
+  },
+  "name": "Decorations Box",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Take-decoration",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

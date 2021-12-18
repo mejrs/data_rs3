@@ -1,0 +1,51 @@
+{
+  "id": 12963,
+  "models": {
+    "10": [
+      5257
+    ]
+  },
+  "name": "Crate",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5417,
+      5541
+    ],
+    [
+      5413,
+      5784
+    ],
+    [
+      5537,
+      5904
+    ],
+    [
+      5532,
+      5665
+    ],
+    [
+      5656,
+      5660
+    ],
+    [
+      5652,
+      5541
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 63226,
+  "models": {
+    "10": [
+      9488
+    ]
+  },
+  "name": "Contralto",
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 15418,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

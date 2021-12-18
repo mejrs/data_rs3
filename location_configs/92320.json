@@ -1,0 +1,29 @@
+{
+  "id": 92320,
+  "models": {
+    "0": [
+      98229
+    ]
+  },
+  "name": "Firemaking banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      4023
+    ],
+    [
+      36300,
+      5062
+    ]
+  ],
+  "mapscene": 22
+}

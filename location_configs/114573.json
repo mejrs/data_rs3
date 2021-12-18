@@ -1,0 +1,17 @@
+{
+  "id": 114573,
+  "models": {
+    "10": [
+      6855
+    ]
+  },
+  "name": "Frogspawn",
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

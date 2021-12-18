@@ -1,0 +1,36 @@
+{
+  "id": 43900,
+  "models": {
+    "22": [
+      75463
+    ]
+  },
+  "name": "Book",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      19472,
+      7168
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_167": 40,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 35516,
+  "models": {
+    "10": [
+      36117
+    ]
+  },
+  "name": "Steps",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb-up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "model": false,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

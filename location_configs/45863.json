@@ -1,0 +1,14 @@
+{
+  "id": 45863,
+  "models": {
+    "10": [
+      49412
+    ]
+  },
+  "name": "Border guard",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_24": 4636,
+  "unknown_89": false,
+  "occludes_2": false
+}

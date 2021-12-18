@@ -1,0 +1,12 @@
+{
+  "id": 30605,
+  "models": {
+    "22": [
+      33451
+    ]
+  },
+  "ambient": 10,
+  "contrast": 5,
+  "mirror": true,
+  "occludes_2": false
+}

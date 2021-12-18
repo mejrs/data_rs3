@@ -1,0 +1,32 @@
+{
+  "id": 67687,
+  "models": {
+    "10": [
+      55178
+    ]
+  },
+  "name": "Sparkling Fishing Spot",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 15941,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Bait",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

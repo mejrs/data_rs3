@@ -1,0 +1,33 @@
+{
+  "id": 97186,
+  "models": {
+    "10": [
+      104345,
+      104348
+    ]
+  },
+  "name": "Mural",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Cleanse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

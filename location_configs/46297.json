@@ -1,0 +1,20 @@
+{
+  "id": 46297,
+  "models": {
+    "10": [
+      49750
+    ]
+  },
+  "name": "Stack of logs",
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "member_actions": [
+    "Take-logs (many)",
+    "Take-log",
+    "Return-logs",
+    null,
+    null
+  ]
+}

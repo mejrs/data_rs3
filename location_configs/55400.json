@@ -1,0 +1,21 @@
+{
+  "id": 55400,
+  "models": {
+    "0": [
+      118710
+    ]
+  },
+  "name": "Curtain",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 13229,
+  "models": {
+    "0": [
+      12361
+    ]
+  },
+  "name": "Decorative window",
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,11 @@
+{
+  "id": 10438,
+  "models": {
+    "10": [
+      10190
+    ]
+  },
+  "name": "Statuette Plinth",
+  "ambient": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11390,
+  "models": {
+    "10": [
+      45702
+    ]
+  },
+  "name": "Shards",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "scale_x": 196,
+  "scale_z": 196,
+  "occludes_2": false
+}

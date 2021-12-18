@@ -1,0 +1,12 @@
+{
+  "id": 69044,
+  "models": {
+    "10": [
+      67936
+    ]
+  },
+  "name": "Dummy",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 42921,
+  "models": {
+    "10": [
+      46541
+    ]
+  },
+  "name": "Packing crate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

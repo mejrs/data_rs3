@@ -1,0 +1,16 @@
+{
+  "id": 15738,
+  "models": {
+    "10": [
+      36209
+    ]
+  },
+  "name": "Loom",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 5604,
+  "unknown_27": false,
+  "unknown_69": 13,
+  "translate_y": 65530,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 3484,
+  "models": {
+    "10": [
+      55198
+    ]
+  },
+  "name": "Orange wibbly thing",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 13586,
+  "ambient": 50,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "blocks_ranged": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

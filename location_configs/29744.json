@@ -1,0 +1,38 @@
+{
+  "id": 29744,
+  "models": {
+    "10": [
+      30860
+    ]
+  },
+  "name": "Lever",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      4531,
+      6443
+    ],
+    [
+      4651,
+      5537
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

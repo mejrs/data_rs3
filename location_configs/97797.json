@@ -1,0 +1,24 @@
+{
+  "id": 97797,
+  "models": {
+    "10": [
+      103826
+    ]
+  },
+  "name": "Barrel of poison",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Wear poison",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 13,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

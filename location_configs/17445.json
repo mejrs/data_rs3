@@ -1,0 +1,11 @@
+{
+  "id": 17445,
+  "models": {
+    "10": [
+      17500
+    ]
+  },
+  "name": "Stone circle wall",
+  "dim_x": 2,
+  "occludes_2": false
+}

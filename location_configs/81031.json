@@ -1,0 +1,15 @@
+{
+  "id": 81031,
+  "models": {
+    "10": [
+      82215
+    ]
+  },
+  "name": "Crate of food",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

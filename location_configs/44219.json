@@ -1,0 +1,24 @@
+{
+  "id": 44219,
+  "models": {
+    "10": [
+      47896
+    ]
+  },
+  "name": "Keypad",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 22,
+  "occludes_2": false,
+  "unknown_196": 3
+}

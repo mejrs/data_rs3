@@ -1,0 +1,12 @@
+{
+  "id": 119245,
+  "models": {
+    "10": [
+      113426
+    ]
+  },
+  "name": "Barrel of fish",
+  "ambient": 50,
+  "model": false,
+  "occludes_2": false
+}

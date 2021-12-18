@@ -1,0 +1,32 @@
+{
+  "id": 73681,
+  "models": {
+    "10": [
+      4556
+    ]
+  },
+  "name": "Broken bridge",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 256,
+  "unknown_69": 5,
+  "mapscene": 21,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

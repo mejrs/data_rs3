@@ -1,0 +1,16 @@
+{
+  "id": 119379,
+  "models": {
+    "10": [
+      95761,
+      95863
+    ]
+  },
+  "name": "Material cache (Tyrian purple)",
+  "unknown_21": true,
+  "ambient": 32,
+  "textures": {
+    "12338": 12335
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 104138,
+  "models": {
+    "10": [
+      113413
+    ]
+  },
+  "name": "Water barrel",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

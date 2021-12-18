@@ -1,0 +1,30 @@
+{
+  "id": 7792,
+  "models": {
+    "10": [
+      7950,
+      7768
+    ]
+  },
+  "name": "Diseased Calquat",
+  "ambient": 25,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      6585,
+      10539
+    ],
+    [
+      6709,
+      10535
+    ]
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

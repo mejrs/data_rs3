@@ -1,0 +1,14 @@
+{
+  "id": 4456,
+  "models": {
+    "10": [
+      57836
+    ]
+  },
+  "name": "Gull",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

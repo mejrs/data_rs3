@@ -1,0 +1,13 @@
+{
+  "id": 37285,
+  "models": {
+    "4": [
+      28577
+    ]
+  },
+  "name": "Supply",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,23 @@
+{
+  "id": 66700,
+  "models": {
+    "10": [
+      34064
+    ]
+  },
+  "name": "Crafting Stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

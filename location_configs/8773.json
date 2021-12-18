@@ -1,0 +1,22 @@
+{
+  "id": 8773,
+  "models": {
+    "4": [
+      2030
+    ]
+  },
+  "name": "Bow and Arrow",
+  "unknown_19": 1,
+  "colours": [
+    [
+      5012,
+      6569
+    ],
+    [
+      6798,
+      6569
+    ]
+  ],
+  "unknown_44": 5,
+  "occludes_2": false
+}

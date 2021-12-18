@@ -1,0 +1,31 @@
+{
+  "id": 43587,
+  "models": {
+    "10": [
+      47314
+    ]
+  },
+  "name": "Spring device",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 11820,
+  "ambient": 25,
+  "actions": [
+    "Fire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    155,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

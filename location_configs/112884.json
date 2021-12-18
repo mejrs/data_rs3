@@ -1,0 +1,57 @@
+{
+  "id": 112884,
+  "models": {
+    "10": [
+      73989,
+      73987
+    ]
+  },
+  "name": "Punishment rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      17
+    ],
+    [
+      3135,
+      17
+    ],
+    [
+      3127,
+      23
+    ],
+    [
+      2109,
+      11
+    ],
+    [
+      3143,
+      19
+    ]
+  ],
+  "textures": {
+    "322": 10867
+  },
+  "model": false,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 116815,
+  "models": {
+    "10": [
+      96038,
+      95735,
+      95736
+    ]
+  },
+  "name": "Fiery brimstone",
+  "unknown_21": true,
+  "actions": [
+    "Uncover",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12332": 12334
+  },
+  "unknown_98": true,
+  "occludes_2": false
+}

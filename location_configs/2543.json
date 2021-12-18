@@ -1,0 +1,27 @@
+{
+  "id": 2543,
+  "models": {
+    "10": [
+      1507
+    ]
+  },
+  "name": "Manhole",
+  "unknown_21": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

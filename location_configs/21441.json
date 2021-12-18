@@ -1,0 +1,11 @@
+{
+  "id": 21441,
+  "models": {
+    "10": [
+      21991
+    ]
+  },
+  "name": "Chopping table",
+  "dim_x": 2,
+  "occludes_2": false
+}

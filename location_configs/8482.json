@@ -1,0 +1,19 @@
+{
+  "id": 8482,
+  "models": {
+    "10": [
+      101376,
+      7768
+    ]
+  },
+  "name": "Willow Tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

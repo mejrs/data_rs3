@@ -1,0 +1,24 @@
+{
+  "id": 4922,
+  "models": {
+    "10": [
+      4887
+    ]
+  },
+  "name": "Cart tunnel",
+  "unknown_22": true,
+  "actions": [
+    "Crawl-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6689,
+      7851
+    ]
+  ],
+  "occludes_2": false
+}

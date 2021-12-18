@@ -1,0 +1,16 @@
+{
+  "id": 91889,
+  "models": {
+    "10": [
+      97466
+    ]
+  },
+  "name": "Gnomecopter",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

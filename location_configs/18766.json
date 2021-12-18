@@ -1,0 +1,27 @@
+{
+  "id": 18766,
+  "models": {
+    "10": [
+      19008,
+      19000
+    ]
+  },
+  "name": "Oak cape rack",
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 411,
+  "models": {
+    "10": [
+      36948
+    ]
+  },
+  "name": "Chaos altar",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

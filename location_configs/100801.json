@@ -1,0 +1,24 @@
+{
+  "id": 100801,
+  "models": {
+    "10": [
+      56137
+    ]
+  },
+  "name": "Hidden door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Push",
+    "Join instance",
+    "Rejoin last instance",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

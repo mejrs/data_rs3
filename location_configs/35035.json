@@ -1,0 +1,37 @@
+{
+  "id": 35035,
+  "models": {
+    "10": [
+      21796
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 50,
+  "colours": [
+    [
+      8587,
+      6541
+    ],
+    [
+      8585,
+      6539
+    ],
+    [
+      11784,
+      6541
+    ],
+    [
+      11783,
+      6539
+    ]
+  ],
+  "textures": {
+    "2350": 2358
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_95": 0,
+  "occludes_2": false
+}

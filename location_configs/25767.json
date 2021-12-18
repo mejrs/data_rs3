@@ -1,0 +1,38 @@
+{
+  "id": 25767,
+  "models": {
+    "10": [
+      25881
+    ]
+  },
+  "name": "Drawers",
+  "ambient": 30,
+  "actions": [
+    "Search",
+    "Shut",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      7706,
+      6435
+    ],
+    [
+      7587,
+      6323
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

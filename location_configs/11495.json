@@ -1,0 +1,14 @@
+{
+  "id": 11495,
+  "models": {
+    "10": [
+      120671
+    ]
+  },
+  "name": "Gallows",
+  "dim_x": 2,
+  "textures": {
+    "11109": 12290
+  },
+  "occludes_2": false
+}

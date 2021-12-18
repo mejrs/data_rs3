@@ -1,0 +1,18 @@
+{
+  "id": 81859,
+  "models": {
+    "22": [
+      81443
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 635,
+  "unknown_167": 12
+}

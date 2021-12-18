@@ -1,0 +1,43 @@
+{
+  "id": 113700,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Ruins",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 400,
+  "scale_y": 500,
+  "scale_z": 250,
+  "unknown_69": 10,
+  "translate_x": 65516,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "7901": 1,
+    "7902": 203
+  }
+}

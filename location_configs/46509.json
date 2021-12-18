@@ -1,0 +1,41 @@
+{
+  "id": 46509,
+  "models": {
+    "10": [
+      49879
+    ]
+  },
+  "name": "Light receiver",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      695,
+      127
+    ],
+    [
+      685,
+      110
+    ],
+    [
+      675,
+      90
+    ],
+    [
+      665,
+      70
+    ],
+    [
+      655,
+      50
+    ],
+    [
+      645,
+      30
+    ]
+  ],
+  "occludes_2": false
+}

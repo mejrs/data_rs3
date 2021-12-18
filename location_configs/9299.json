@@ -1,0 +1,20 @@
+{
+  "id": 9299,
+  "models": {
+    "10": [
+      64636
+    ]
+  },
+  "name": "Pile of rocks",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      6689,
+      45
+    ]
+  ],
+  "occludes_2": false
+}

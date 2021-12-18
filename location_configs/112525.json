@@ -1,0 +1,31 @@
+{
+  "id": 112525,
+  "models": {
+    "0": [
+      37618
+    ],
+    "9": [
+      37711
+    ]
+  },
+  "name": "Crumbling wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

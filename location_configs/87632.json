@@ -1,0 +1,29 @@
+{
+  "id": 87632,
+  "models": {
+    "22": [
+      90792
+    ]
+  },
+  "name": "Rock face",
+  "unknown_19": 1,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 5571,
+  "models": {
+    "22": [
+      2894
+    ]
+  },
+  "name": "Tracks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 1357,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

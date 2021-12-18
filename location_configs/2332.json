@@ -1,0 +1,28 @@
+{
+  "id": 2332,
+  "models": {
+    "22": [
+      1115
+    ]
+  },
+  "name": "A wooden log",
+  "unknown_22": true,
+  "unknown_27": false,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 13,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

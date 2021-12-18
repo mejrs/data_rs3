@@ -1,0 +1,12 @@
+{
+  "id": 55863,
+  "models": {
+    "10": [
+      61132
+    ]
+  },
+  "name": "Brazier",
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

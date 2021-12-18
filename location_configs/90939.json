@@ -1,0 +1,22 @@
+{
+  "id": 90939,
+  "models": {
+    "10": [
+      93733
+    ]
+  },
+  "name": "Barrier",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_24": 23411,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      367
+    ]
+  }
+}

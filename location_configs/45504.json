@@ -1,0 +1,23 @@
+{
+  "id": 45504,
+  "models": {
+    "4": [
+      49445
+    ]
+  },
+  "name": "Leaflets",
+  "unknown_19": 1,
+  "ambient": 35,
+  "colours": [
+    [
+      7830,
+      5404
+    ],
+    [
+      7825,
+      7820
+    ]
+  ],
+  "translate_y": 65506,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 35243,
+  "models": {
+    "0": [
+      59728
+    ]
+  },
+  "name": "Shelves",
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Mix Liquid",
+    "Mix Blue",
+    "Mix Green",
+    "Mix Yellow",
+    "Mix Violet"
+  ],
+  "contrast": 10
+}

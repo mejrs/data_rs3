@@ -1,0 +1,23 @@
+{
+  "id": 63200,
+  "models": {
+    "10": [
+      5548
+    ]
+  },
+  "name": "Book-making table",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Work-on",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 13,
+  "occludes_2": false
+}

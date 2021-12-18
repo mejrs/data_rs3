@@ -1,0 +1,15 @@
+{
+  "id": 26049,
+  "models": {
+    "10": [
+      57707,
+      27309
+    ]
+  },
+  "name": "Citizen",
+  "unknown_24": 6894,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 88908,
+  "models": {
+    "10": [
+      91930
+    ]
+  },
+  "name": "Cow",
+  "dim_y": 2,
+  "unknown_24": 22120,
+  "ambient": 64,
+  "model": false,
+  "scale_x": 1024,
+  "scale_y": 1024,
+  "scale_z": 1024,
+  "occludes_2": false,
+  "unknown_196": 1,
+  "unknown_202": 3
+}

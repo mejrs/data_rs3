@@ -1,0 +1,27 @@
+{
+  "id": 67968,
+  "models": {
+    "10": [
+      61876
+    ]
+  },
+  "name": "Robust glass machine",
+  "unknown_19": 1,
+  "unknown_24": 7907,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_69": 13,
+  "is_members": true,
+  "occludes_2": false
+}

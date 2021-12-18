@@ -1,0 +1,12 @@
+{
+  "id": 32281,
+  "models": {
+    "10": [
+      37214
+    ]
+  },
+  "name": "Exit Sign",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

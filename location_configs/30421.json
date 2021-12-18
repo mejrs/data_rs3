@@ -1,0 +1,26 @@
+{
+  "id": 30421,
+  "models": {
+    "4": [
+      63993
+    ]
+  },
+  "name": "Workshop Plan",
+  "unknown_19": 1,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

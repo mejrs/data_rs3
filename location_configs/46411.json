@@ -1,0 +1,41 @@
+{
+  "id": 46411,
+  "models": {
+    "0": [
+      96369
+    ]
+  },
+  "name": "Blue light emitter",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      695,
+      37559
+    ],
+    [
+      685,
+      37549
+    ],
+    [
+      675,
+      37539
+    ],
+    [
+      665,
+      37529
+    ],
+    [
+      655,
+      37519
+    ],
+    [
+      645,
+      37509
+    ]
+  ],
+  "occludes_2": false
+}

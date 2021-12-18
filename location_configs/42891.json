@@ -1,0 +1,24 @@
+{
+  "id": 42891,
+  "models": {
+    "10": [
+      46325
+    ]
+  },
+  "name": "Cave opening",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Leave-cave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

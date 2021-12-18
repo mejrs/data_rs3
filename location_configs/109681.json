@@ -1,0 +1,20 @@
+{
+  "id": 109681,
+  "models": {
+    "10": [
+      12462,
+      120161
+    ]
+  },
+  "name": "RuneFest display case",
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "translate_x": 65526,
+  "translate_z": 65526,
+  "occludes_2": false
+}

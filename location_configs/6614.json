@@ -1,0 +1,28 @@
+{
+  "id": 6614,
+  "models": {
+    "10": [
+      118568
+    ]
+  },
+  "name": "Door",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 0,
+  "actions": [
+    "Touch",
+    null,
+    "Open",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    49,
+    null,
+    null,
+    null
+  ]
+}

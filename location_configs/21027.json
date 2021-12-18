@@ -1,0 +1,12 @@
+{
+  "id": 21027,
+  "models": {
+    "10": [
+      21648
+    ]
+  },
+  "name": "Harp",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

@@ -1,0 +1,38 @@
+{
+  "id": 45235,
+  "models": {
+    "10": [
+      49426
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      5400
+    ],
+    [
+      6451,
+      5398
+    ],
+    [
+      6563,
+      5390
+    ],
+    [
+      6439,
+      5394
+    ]
+  ],
+  "textures": {
+    "2073": 3171,
+    "2093": 3179
+  },
+  "occludes_2": false
+}

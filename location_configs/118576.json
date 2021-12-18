@@ -1,0 +1,28 @@
+{
+  "id": 118576,
+  "models": {
+    "10": [
+      117755
+    ]
+  },
+  "name": "Vat",
+  "unknown_27": false,
+  "ambient": 0,
+  "colours": [
+    [
+      10186,
+      56000
+    ],
+    [
+      8095,
+      53787
+    ]
+  ],
+  "textures": {
+    "12847": 12850,
+    "12848": 12852
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

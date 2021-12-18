@@ -1,0 +1,15 @@
+{
+  "id": 118827,
+  "models": {
+    "10": [
+      121047
+    ]
+  },
+  "name": "Chipper",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

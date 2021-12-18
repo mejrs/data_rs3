@@ -1,0 +1,16 @@
+{
+  "id": 41579,
+  "models": {
+    "22": [
+      45159
+    ]
+  },
+  "name": "Snow",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "mapscene": 66,
+  "occludes_2": false
+}

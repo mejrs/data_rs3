@@ -1,0 +1,29 @@
+{
+  "id": 16079,
+  "models": {
+    "10": [
+      15870
+    ]
+  },
+  "name": "Rope",
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "2108": 313
+  },
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

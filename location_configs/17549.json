@@ -1,0 +1,14 @@
+{
+  "id": 17549,
+  "models": {
+    "10": [
+      17610
+    ]
+  },
+  "name": "Chair",
+  "scale_x": 128,
+  "scale_y": 160,
+  "scale_z": 128,
+  "unknown_75": 0,
+  "occludes_2": false
+}

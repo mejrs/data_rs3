@@ -1,0 +1,14 @@
+{
+  "id": 74153,
+  "models": {
+    "10": [
+      72394
+    ]
+  },
+  "name": "Engine",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "occludes_2": false
+}

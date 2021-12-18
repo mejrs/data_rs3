@@ -1,0 +1,15 @@
+{
+  "id": 82190,
+  "models": {
+    "10": [
+      83245
+    ]
+  },
+  "name": "Altar",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "occludes_2": false
+}

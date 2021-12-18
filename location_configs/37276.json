@@ -1,0 +1,12 @@
+{
+  "id": 37276,
+  "models": {
+    "10": [
+      28578
+    ]
+  },
+  "name": "Bellows",
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

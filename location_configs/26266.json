@@ -1,0 +1,12 @@
+{
+  "id": 26266,
+  "models": {
+    "10": [
+      27937
+    ]
+  },
+  "name": "Skullshield",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

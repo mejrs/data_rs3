@@ -1,0 +1,19 @@
+{
+  "id": 118226,
+  "models": {
+    "10": [
+      73972,
+      120748
+    ]
+  },
+  "name": "Crate of Onions",
+  "unknown_19": 1,
+  "actions": [
+    "Prepare",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": 120601,
+  "models": {
+    "0": [
+      122274,
+      123158
+    ],
+    "4": [
+      122275,
+      123159
+    ],
+    "10": [
+      122272,
+      123156
+    ],
+    "22": [
+      122273,
+      123157
+    ]
+  },
+  "name": "Drawer 'M'",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 24,
+  "translate_y": 65473,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

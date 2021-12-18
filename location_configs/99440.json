@@ -1,0 +1,23 @@
+{
+  "id": 99440,
+  "models": {
+    "22": [
+      107106
+    ]
+  },
+  "name": "Pressure plate",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 32,
+  "model": false,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      380
+    ]
+  }
+}

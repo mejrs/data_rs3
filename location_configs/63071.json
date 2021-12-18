@@ -1,0 +1,22 @@
+{
+  "id": 63071,
+  "models": {
+    "10": [
+      45743
+    ]
+  },
+  "name": "Root",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 353,
+  "ambient": 15,
+  "actions": [
+    "Destroy",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_89": false,
+  "occludes_2": false
+}

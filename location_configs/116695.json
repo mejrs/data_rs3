@@ -1,0 +1,30 @@
+{
+  "id": 116695,
+  "models": {
+    "10": [
+      96705,
+      90470,
+      90520
+    ]
+  },
+  "name": "Gutted fireplace",
+  "dim_x": 6,
+  "dim_y": 4,
+  "unknown_17": false,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 180,
+  "scale_y": 170,
+  "scale_z": 170,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

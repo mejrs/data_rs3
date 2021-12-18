@@ -1,0 +1,24 @@
+{
+  "id": 94959,
+  "models": {
+    "10": [
+      101065
+    ]
+  },
+  "name": "Door",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Check power",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

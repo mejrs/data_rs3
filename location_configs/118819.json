@@ -1,0 +1,18 @@
+{
+  "id": 118819,
+  "models": {
+    "10": [
+      65371
+    ]
+  },
+  "name": "Manure",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

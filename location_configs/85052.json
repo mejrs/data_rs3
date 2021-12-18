@@ -1,0 +1,16 @@
+{
+  "id": 85052,
+  "models": {
+    "10": [
+      86935
+    ]
+  },
+  "name": "Shelter",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

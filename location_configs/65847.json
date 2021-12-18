@@ -1,0 +1,12 @@
+{
+  "id": 65847,
+  "models": {
+    "10": [
+      26678
+    ]
+  },
+  "name": "Cooker",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

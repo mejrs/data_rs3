@@ -1,0 +1,17 @@
+{
+  "id": 18189,
+  "models": {
+    "10": [
+      18293
+    ]
+  },
+  "name": "Broken boat",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

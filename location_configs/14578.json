@@ -1,0 +1,18 @@
+{
+  "id": 14578,
+  "models": {
+    "10": [
+      13857
+    ]
+  },
+  "name": "Bones",
+  "is_transparent": true,
+  "unknown_21": true,
+  "colours": [
+    [
+      6241,
+      37
+    ]
+  ],
+  "occludes_2": false
+}

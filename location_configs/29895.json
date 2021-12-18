@@ -1,0 +1,38 @@
+{
+  "id": 29895,
+  "models": {
+    "10": [
+      31641
+    ]
+  },
+  "name": "Box trap",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 5177,
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      55,
+      6040
+    ],
+    [
+      51,
+      5014
+    ],
+    [
+      47,
+      5012
+    ],
+    [
+      22,
+      1934
+    ],
+    [
+      18,
+      908
+    ]
+  ],
+  "unknown_75": 0,
+  "occludes_2": false
+}

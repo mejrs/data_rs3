@@ -1,0 +1,29 @@
+{
+  "id": 112939,
+  "models": {
+    "10": [
+      10194,
+      10204,
+      10197
+    ]
+  },
+  "name": "Water channel",
+  "ambient": 20,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

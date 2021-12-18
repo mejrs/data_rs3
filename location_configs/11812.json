@@ -1,0 +1,11 @@
+{
+  "id": 11812,
+  "models": {
+    "10": [
+      11535
+    ]
+  },
+  "name": "Bathtub",
+  "dim_y": 2,
+  "occludes_2": false
+}

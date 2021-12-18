@@ -1,0 +1,30 @@
+{
+  "id": 8445,
+  "models": {
+    "10": [
+      20512
+    ]
+  },
+  "name": "Maple tree stump",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 35,
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 50,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 3,
+  "occludes_2": false
+}

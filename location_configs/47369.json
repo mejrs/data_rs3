@@ -1,0 +1,39 @@
+{
+  "id": 47369,
+  "models": {
+    "4": [
+      50965
+    ]
+  },
+  "name": "Lever C",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pull",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      792,
+      39704
+    ],
+    [
+      788,
+      39700
+    ],
+    [
+      784,
+      39696
+    ],
+    [
+      780,
+      39692
+    ]
+  ],
+  "translate_y": 65466,
+  "occludes_2": false
+}

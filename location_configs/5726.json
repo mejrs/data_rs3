@@ -1,0 +1,23 @@
+{
+  "id": 5726,
+  "models": {
+    "10": [
+      2896
+    ]
+  },
+  "name": "Initial wreckage",
+  "unknown_21": true,
+  "unknown_24": 1357,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

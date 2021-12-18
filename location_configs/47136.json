@@ -1,0 +1,22 @@
+{
+  "id": 47136,
+  "models": {
+    "10": [
+      50769
+    ]
+  },
+  "name": "Radiant pedestal",
+  "is_transparent": true,
+  "unknown_24": 12555,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take-globe",
+    "Telegrab-globe",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

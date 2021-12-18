@@ -1,0 +1,32 @@
+{
+  "id": 116692,
+  "models": {
+    "10": [
+      90469
+    ]
+  },
+  "name": "Tunnel",
+  "actions": [
+    "Leave",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 15872,
+  "unknown_2": 16128,
+  "unknown_3": 16128,
+  "unknown_4": 16896,
+  "unknown_5": 64,
+  "unknown_6": 16640
+}

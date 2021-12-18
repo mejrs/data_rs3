@@ -1,0 +1,19 @@
+{
+  "id": 8699,
+  "models": {
+    "10": [
+      70363
+    ]
+  },
+  "name": "Sink",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 117343,
+  "models": {
+    "10": [
+      89366
+    ]
+  },
+  "name": "Glowing mushroom",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false
+}

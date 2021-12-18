@@ -1,0 +1,24 @@
+{
+  "id": 87966,
+  "models": {
+    "10": [
+      91108,
+      91110
+    ]
+  },
+  "name": "Fabric stack",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Drop resource",
+    "Take resource",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

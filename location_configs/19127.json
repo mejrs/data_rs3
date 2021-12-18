@@ -1,0 +1,22 @@
+{
+  "id": 19127,
+  "models": {
+    "10": [
+      11874,
+      9230
+    ]
+  },
+  "name": "Candles",
+  "unknown_24": 2564,
+  "actions": [
+    "Steal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false
+}

@@ -1,0 +1,37 @@
+{
+  "id": 53739,
+  "models": {
+    "10": [
+      58997
+    ]
+  },
+  "name": "Altar",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Pray-at",
+    "Quick-Recharge",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    null,
+    null,
+    null,
+    "Replace"
+  ],
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

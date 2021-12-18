@@ -1,0 +1,30 @@
+{
+  "id": 29393,
+  "models": {
+    "10": [
+      64001
+    ]
+  },
+  "name": "Workbench",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 10,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 47137,
+  "models": {
+    "10": [
+      50716
+    ]
+  },
+  "name": "Damaged wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Scale",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1892": 1890
+  },
+  "occludes_2": false
+}

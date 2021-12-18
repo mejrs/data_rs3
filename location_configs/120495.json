@@ -1,0 +1,29 @@
+{
+  "id": 120495,
+  "models": {
+    "10": [
+      122251,
+      122465
+    ]
+  },
+  "name": "Pedestal",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Take ward",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      48571,
+      33882
+    ]
+  ],
+  "textures": {
+    "13853": 13852
+  },
+  "occludes_2": false
+}

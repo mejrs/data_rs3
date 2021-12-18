@@ -1,0 +1,23 @@
+{
+  "id": 67231,
+  "models": {
+    "10": [
+      96006
+    ]
+  },
+  "name": "Bonfire pit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "model": false,
+  "translate_z": 16,
+  "unknown_78": {
+    "unknown_1": 3473,
+    "unknown_2": 6
+  },
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_186": 0
+}

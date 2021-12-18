@@ -1,0 +1,41 @@
+{
+  "id": 110050,
+  "models": {
+    "10": [
+      2477
+    ]
+  },
+  "name": "Tap 2",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Pour",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5541,
+      5421
+    ],
+    [
+      5665,
+      5545
+    ],
+    [
+      5660,
+      5541
+    ],
+    [
+      5784,
+      5665
+    ]
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

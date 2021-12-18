@@ -1,0 +1,16 @@
+{
+  "id": 62028,
+  "models": {
+    "10": [
+      59936
+    ]
+  },
+  "name": "Side leg",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "occludes_2": false
+}

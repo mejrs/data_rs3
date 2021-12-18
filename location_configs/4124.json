@@ -1,0 +1,42 @@
+{
+  "id": 4124,
+  "models": {
+    "10": [
+      37192
+    ]
+  },
+  "name": "Black Chest (black)",
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      36907,
+      36886
+    ],
+    [
+      30757,
+      36888
+    ],
+    [
+      32804,
+      36876
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

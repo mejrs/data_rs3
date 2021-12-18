@@ -1,0 +1,32 @@
+{
+  "id": 104043,
+  "models": {
+    "10": [
+      113652
+    ]
+  },
+  "name": "Moai",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Talk to",
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    45,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5856": 37780
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": 63786,
+  "models": {
+    "10": [
+      36497
+    ]
+  },
+  "name": "Drawers",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      8487,
+      4378
+    ],
+    [
+      8478,
+      4370
+    ],
+    [
+      8598,
+      4362
+    ],
+    [
+      3974,
+      4358
+    ],
+    [
+      4750,
+      4358
+    ],
+    [
+      103,
+      1054
+    ],
+    [
+      78,
+      1042
+    ]
+  ],
+  "textures": {
+    "1562": 1943,
+    "2075": 2078
+  },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

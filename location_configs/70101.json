@@ -1,0 +1,14 @@
+{
+  "id": 70101,
+  "unknown_19": 1,
+  "model": false,
+  "morphs_1": {
+    "varbit": 15647,
+    "ids": [
+      112930,
+      20442
+    ]
+  },
+  "is_members": true,
+  "mapscene": 12
+}

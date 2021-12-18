@@ -1,0 +1,23 @@
+{
+  "id": 108191,
+  "models": {
+    "10": [
+      118333
+    ]
+  },
+  "name": "Sundial (Menaphos)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 70,
+  "occludes_2": false,
+  "unknown_196": 4
+}

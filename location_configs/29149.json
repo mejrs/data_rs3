@@ -1,0 +1,53 @@
+{
+  "id": 29149,
+  "models": {
+    "10": [
+      7685
+    ]
+  },
+  "name": "Crate",
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6443,
+      5421
+    ],
+    [
+      6439,
+      5545
+    ],
+    [
+      6563,
+      5541
+    ],
+    [
+      6558,
+      5665
+    ],
+    [
+      6682,
+      5660
+    ],
+    [
+      6806,
+      5784
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

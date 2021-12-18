@@ -1,0 +1,27 @@
+{
+  "id": 100873,
+  "models": {
+    "10": [
+      109839
+    ]
+  },
+  "name": "Inventor's workbench",
+  "ambient": 42,
+  "actions": [
+    "Discover",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    208,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

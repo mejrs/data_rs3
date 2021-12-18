@@ -1,0 +1,27 @@
+{
+  "id": 97443,
+  "models": {
+    "10": [
+      104666
+    ]
+  },
+  "name": "An old dock",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  }
+}

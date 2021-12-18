@@ -1,0 +1,41 @@
+{
+  "id": 91693,
+  "models": {
+    "10": [
+      53854
+    ]
+  },
+  "name": "Scroll",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      20890,
+      39339
+    ],
+    [
+      20884,
+      39330
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      51
+    ]
+  },
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

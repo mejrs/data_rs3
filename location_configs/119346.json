@@ -1,0 +1,14 @@
+{
+  "id": 119346,
+  "models": {
+    "10": [
+      121421,
+      96922
+    ]
+  },
+  "name": "Praetorium war table",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_98": true,
+  "occludes_2": false
+}

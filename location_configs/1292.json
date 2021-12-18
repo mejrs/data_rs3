@@ -1,0 +1,30 @@
+{
+  "id": 1292,
+  "models": {
+    "10": [
+      1650
+    ]
+  },
+  "name": "Dramen tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 42,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

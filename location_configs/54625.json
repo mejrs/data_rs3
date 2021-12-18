@@ -1,0 +1,21 @@
+{
+  "id": 54625,
+  "models": {
+    "22": [
+      59086
+    ]
+  },
+  "name": "Green recess",
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      40369,
+      23974
+    ]
+  ],
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false
+}

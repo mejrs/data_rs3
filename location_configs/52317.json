@@ -1,0 +1,19 @@
+{
+  "id": 52317,
+  "models": {
+    "10": [
+      57026
+    ]
+  },
+  "name": "Mark 2",
+  "ambient": 25,
+  "actions": [
+    "Pickpocket",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

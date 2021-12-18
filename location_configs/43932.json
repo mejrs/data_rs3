@@ -1,0 +1,14 @@
+{
+  "id": 43932,
+  "models": {
+    "10": [
+      47519
+    ]
+  },
+  "name": "Small desk",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

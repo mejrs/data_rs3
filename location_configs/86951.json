@@ -1,0 +1,15 @@
+{
+  "id": 86951,
+  "models": {
+    "10": [
+      88653
+    ]
+  },
+  "name": "Shelf",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 0,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 4
+}

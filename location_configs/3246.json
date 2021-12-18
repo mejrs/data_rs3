@@ -1,0 +1,19 @@
+{
+  "id": 3246,
+  "models": {
+    "10": [
+      721
+    ]
+  },
+  "name": "Platform",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "colours": [
+    [
+      5916,
+      7952
+    ]
+  ],
+  "occludes_2": false
+}

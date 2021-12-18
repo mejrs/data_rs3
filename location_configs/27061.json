@@ -1,0 +1,15 @@
+{
+  "id": 27061,
+  "models": {
+    "10": [
+      28969
+    ]
+  },
+  "name": "Horacio's jade vine patch",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "unknown_75": 0,
+  "occludes_2": false
+}

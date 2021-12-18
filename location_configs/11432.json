@@ -1,0 +1,29 @@
+{
+  "id": 11432,
+  "models": {
+    "10": [
+      45743
+    ]
+  },
+  "name": "Evil root",
+  "unknown_19": 1,
+  "unknown_24": 354,
+  "ambient": 15,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

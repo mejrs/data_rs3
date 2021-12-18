@@ -1,0 +1,20 @@
+{
+  "id": 98496,
+  "models": {
+    "10": [
+      99965
+    ]
+  },
+  "name": "Purified Seren stone",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 25024,
+  "unknown_27": false,
+  "ambient": 64,
+  "textures": {
+    "5256": 6042
+  },
+  "is_members": true,
+  "occludes_2": false
+}

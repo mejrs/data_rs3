@@ -1,0 +1,46 @@
+{
+  "id": 14215,
+  "models": {
+    "10": [
+      11191,
+      11117
+    ]
+  },
+  "name": "Healing potion",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      31696,
+      21456
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 6536,
+    "unknown_2": 3
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 50,
+  "mapfunction": 920,
+  "unknown_1": 230,
+  "unknown_2": 270,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

@@ -1,0 +1,28 @@
+{
+  "id": 109772,
+  "models": {
+    "10": [
+      120271
+    ]
+  },
+  "name": "High capacity plank maker",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_24": 31068,
+  "ambient": 20,
+  "actions": [
+    "Manage",
+    "Withdraw products",
+    null,
+    "Modify",
+    "Remove"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      966
+    ]
+  ],
+  "occludes_2": false
+}

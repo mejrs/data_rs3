@@ -1,0 +1,25 @@
+{
+  "id": 6103,
+  "models": {
+    "0": [
+      5913
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43043,
+      5404
+    ]
+  ],
+  "unknown_170": 369
+}

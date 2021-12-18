@@ -1,0 +1,26 @@
+{
+  "id": 97422,
+  "models": {
+    "10": [
+      104470
+    ]
+  },
+  "name": "Sand Exchange",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "5879": 11180
+  },
+  "model": false,
+  "unknown_81": 64,
+  "occludes_2": false
+}

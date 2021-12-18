@@ -1,0 +1,26 @@
+{
+  "id": 31865,
+  "models": {
+    "10": [
+      61088
+    ]
+  },
+  "name": "Plant",
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

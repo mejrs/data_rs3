@@ -1,0 +1,11 @@
+{
+  "id": 9407,
+  "models": {
+    "10": [
+      8215
+    ]
+  },
+  "name": "Potato plants",
+  "ambient": 25,
+  "occludes_2": false
+}

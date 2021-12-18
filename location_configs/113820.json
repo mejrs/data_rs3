@@ -1,0 +1,24 @@
+{
+  "id": 113820,
+  "models": {
+    "10": [
+      54577
+    ]
+  },
+  "name": "Bait pad",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Start encounter",
+    "Quick start",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 3267,
+  "unknown_196": 4
+}

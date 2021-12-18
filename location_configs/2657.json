@@ -1,0 +1,53 @@
+{
+  "id": 2657,
+  "models": {
+    "10": [
+      8232
+    ]
+  },
+  "name": "Bob's barrel",
+  "ambient": 20,
+  "actions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      14499,
+      5421
+    ],
+    [
+      5541,
+      5421
+    ],
+    [
+      5665,
+      5413
+    ],
+    [
+      5660,
+      5413
+    ],
+    [
+      5784,
+      5532
+    ],
+    [
+      5904,
+      5532
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

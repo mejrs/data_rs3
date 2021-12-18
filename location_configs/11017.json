@@ -1,0 +1,19 @@
+{
+  "id": 11017,
+  "models": {
+    "10": [
+      10991,
+      10878
+    ]
+  },
+  "name": "Brazier",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

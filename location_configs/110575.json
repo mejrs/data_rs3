@@ -1,0 +1,31 @@
+{
+  "id": 110575,
+  "models": {
+    "10": [
+      77207,
+      17421
+    ]
+  },
+  "name": "Rock (hidey-hole)",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Take items",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2720": 9705
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "params": {
+    "6896": 59
+  }
+}

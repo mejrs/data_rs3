@@ -1,0 +1,20 @@
+{
+  "id": 2105,
+  "models": {
+    "10": [
+      88832
+    ]
+  },
+  "name": "Tessa's suit of armour",
+  "ambient": -25,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false
+}

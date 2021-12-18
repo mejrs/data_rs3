@@ -1,0 +1,23 @@
+{
+  "id": 96640,
+  "models": {
+    "10": [
+      103657
+    ]
+  },
+  "name": "Oyster hunter diving suit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "model": false,
+  "occludes_2": false
+}

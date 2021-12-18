@@ -1,0 +1,36 @@
+{
+  "id": 119093,
+  "models": {
+    "10": [
+      96039,
+      120609,
+      95735
+    ]
+  },
+  "name": "Saurthen debris",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "textures": {
+    "12338": 13076
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3771
+  }
+}

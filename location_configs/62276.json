@@ -1,0 +1,47 @@
+{
+  "id": 62276,
+  "models": {
+    "10": [
+      1235
+    ]
+  },
+  "name": "Higher button",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6443,
+      5448
+    ],
+    [
+      6439,
+      5444
+    ],
+    [
+      6563,
+      6461
+    ],
+    [
+      6558,
+      5435
+    ],
+    [
+      6682,
+      6453
+    ],
+    [
+      6806,
+      6449
+    ]
+  ],
+  "occludes_2": false
+}

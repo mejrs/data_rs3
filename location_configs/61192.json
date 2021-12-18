@@ -1,0 +1,30 @@
+{
+  "id": 61192,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_2": {
+    "varbit": 40100,
+    "ids": [
+      38786,
+      61410
+    ],
+    "default": 38786
+  },
+  "mapscene": 1,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

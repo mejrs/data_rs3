@@ -1,0 +1,21 @@
+{
+  "id": 12578,
+  "models": {
+    "10": [
+      11180
+    ]
+  },
+  "name": "Rope",
+  "dim_x": 4,
+  "actions": [
+    "Swing",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 7,
+  "translate_y": 65446,
+  "occludes_2": false
+}

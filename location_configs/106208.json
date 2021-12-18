@@ -1,0 +1,15 @@
+{
+  "id": 106208,
+  "models": {
+    "10": [
+      116361
+    ]
+  },
+  "name": "[ph]",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "textures": {
+    "1304": 8225
+  },
+  "occludes_2": false
+}

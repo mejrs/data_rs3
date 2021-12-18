@@ -1,0 +1,27 @@
+{
+  "id": 9657,
+  "models": {
+    "21": [
+      9588
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_22": true,
+  "colours": [
+    [
+      2952,
+      6812
+    ],
+    [
+      5413,
+      6693
+    ],
+    [
+      5532,
+      6817
+    ]
+  ],
+  "unknown_44": 22,
+  "mirror": true,
+  "occludes_2": false
+}

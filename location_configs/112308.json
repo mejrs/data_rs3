@@ -1,0 +1,23 @@
+{
+  "id": 112308,
+  "models": {
+    "10": [
+      65424
+    ]
+  },
+  "name": "Large paddock",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Check animals",
+    "Check farmhands",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

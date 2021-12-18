@@ -1,0 +1,17 @@
+{
+  "id": 108370,
+  "models": {
+    "10": [
+      118854
+    ]
+  },
+  "name": "Frame",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 32,
+  "model": false,
+  "translate_x": 65421,
+  "translate_y": 65481,
+  "occludes_2": false
+}

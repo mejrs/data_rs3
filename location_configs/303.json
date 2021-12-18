@@ -1,0 +1,12 @@
+{
+  "id": 303,
+  "models": {
+    "10": [
+      1428
+    ]
+  },
+  "name": "Compost",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

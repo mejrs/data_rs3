@@ -1,0 +1,13 @@
+{
+  "id": 29144,
+  "models": {
+    "10": [
+      31969
+    ]
+  },
+  "name": "Shop counter",
+  "dim_x": 3,
+  "ambient": 10,
+  "contrast": 10,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 49519,
+  "models": {
+    "10": [
+      54760
+    ]
+  },
+  "name": "Empty crate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

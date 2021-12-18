@@ -1,0 +1,28 @@
+{
+  "id": 92717,
+  "models": {
+    "10": [
+      92471
+    ]
+  },
+  "name": "Anvil",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Smith",
+    "Deposit-all (into metal bank)",
+    "Withdraw-all (from metal bank)",
+    "Open smithing interface",
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

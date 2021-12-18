@@ -1,0 +1,14 @@
+{
+  "id": 104792,
+  "models": {
+    "10": [
+      90941
+    ]
+  },
+  "name": "Collector's water vessel",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false
+}

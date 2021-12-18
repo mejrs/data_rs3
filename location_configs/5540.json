@@ -1,0 +1,14 @@
+{
+  "id": 5540,
+  "models": {
+    "10": [
+      5564,
+      5566
+    ]
+  },
+  "name": "Bullrushes",
+  "unknown_17": false,
+  "scale_x": 90,
+  "scale_z": 90,
+  "occludes_2": false
+}

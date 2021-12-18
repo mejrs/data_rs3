@@ -1,0 +1,15 @@
+{
+  "id": 27054,
+  "models": {
+    "10": [
+      29010,
+      29009
+    ]
+  },
+  "name": "Smelly package",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "contrast": 0,
+  "occludes_2": false
+}

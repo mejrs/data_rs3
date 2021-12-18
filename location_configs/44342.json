@@ -1,0 +1,53 @@
+{
+  "id": 44342,
+  "models": {
+    "10": [
+      48144
+    ]
+  },
+  "name": "Geoff",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 11962,
+  "ambient": 15,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8,
+      2840
+    ],
+    [
+      7368,
+      27278
+    ],
+    [
+      7357,
+      27272
+    ],
+    [
+      8398,
+      27282
+    ],
+    [
+      8390,
+      27274
+    ]
+  ],
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

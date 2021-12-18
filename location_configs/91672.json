@@ -1,0 +1,25 @@
+{
+  "id": 91672,
+  "models": {
+    "10": [
+      96894
+    ]
+  },
+  "name": "Cocooned corpse",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

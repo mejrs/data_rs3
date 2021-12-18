@@ -1,0 +1,33 @@
+{
+  "id": 30570,
+  "models": {
+    "0": [
+      99432
+    ],
+    "2": [
+      99433
+    ]
+  },
+  "name": "Cell door",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

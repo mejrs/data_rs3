@@ -1,0 +1,21 @@
+{
+  "id": 40063,
+  "models": {
+    "10": [
+      35496
+    ]
+  },
+  "name": "Sink",
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 7,
+  "occludes_2": false
+}

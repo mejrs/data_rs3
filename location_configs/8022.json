@@ -1,0 +1,20 @@
+{
+  "id": 8022,
+  "models": {
+    "10": [
+      110042,
+      7767
+    ]
+  },
+  "name": "Curry tree",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

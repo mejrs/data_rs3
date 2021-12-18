@@ -1,0 +1,48 @@
+{
+  "id": 12286,
+  "models": {
+    "10": [
+      10245,
+      10244,
+      10246
+    ]
+  },
+  "name": "Firepit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 8647,
+  "unknown_27": false,
+  "ambient": 50,
+  "actions": [
+    "Add-root",
+    "Cook-at",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      4265,
+      5699
+    ]
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 8
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    64,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_199": true
+}

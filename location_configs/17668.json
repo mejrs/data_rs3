@@ -1,0 +1,28 @@
+{
+  "id": 17668,
+  "models": {
+    "10": [
+      17850
+    ]
+  },
+  "name": "Bunk bed",
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

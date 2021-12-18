@@ -1,0 +1,16 @@
+{
+  "id": 107958,
+  "models": {
+    "10": [
+      118255
+    ]
+  },
+  "name": "Double bed",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_x": 65496,
+  "occludes_2": false
+}

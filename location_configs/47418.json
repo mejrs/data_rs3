@@ -1,0 +1,16 @@
+{
+  "id": 47418,
+  "models": {
+    "0": [
+      50192
+    ],
+    "3": [
+      50212
+    ]
+  },
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mapscene": 22
+}

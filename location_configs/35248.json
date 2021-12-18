@@ -1,0 +1,30 @@
+{
+  "id": 35248,
+  "models": {
+    "10": [
+      61598
+    ]
+  },
+  "name": "Damaged Bridge",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

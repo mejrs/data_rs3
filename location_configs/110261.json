@@ -1,0 +1,39 @@
+{
+  "id": 110261,
+  "models": {
+    "10": [
+      64597
+    ]
+  },
+  "name": "Barrel",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      395
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "31": 1,
+    "1397": 1,
+    "689": 1,
+    "59": 1
+  }
+}

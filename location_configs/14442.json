@@ -1,0 +1,28 @@
+{
+  "id": 14442,
+  "models": {
+    "22": [
+      1068
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      6932,
+      4
+    ],
+    [
+      6684,
+      2962
+    ],
+    [
+      5772,
+      3982
+    ]
+  ],
+  "mirror": true,
+  "unknown_73": true,
+  "mapscene": 46,
+  "occludes_2": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": 12268,
+  "models": {
+    "22": [
+      13446
+    ]
+  },
+  "name": "Open trapdoor",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Go-down",
+    "Close",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5545,
+      5392
+    ],
+    [
+      6466,
+      5388
+    ],
+    [
+      6490,
+      61
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

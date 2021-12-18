@@ -1,0 +1,22 @@
+{
+  "id": 64637,
+  "models": {
+    "10": [
+      17591
+    ]
+  },
+  "name": "Mixer machine",
+  "unknown_19": 1,
+  "unknown_24": 15567,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mix powder",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

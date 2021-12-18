@@ -1,0 +1,20 @@
+{
+  "id": 16025,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take-rum",
+    null,
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 5915,
+    "ids": [
+      15924,
+      15924,
+      15926
+    ]
+  }
+}

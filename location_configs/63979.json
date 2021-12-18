@@ -1,0 +1,22 @@
+{
+  "id": 63979,
+  "models": {
+    "10": [
+      9076
+    ]
+  },
+  "name": "Candelabrum",
+  "unknown_19": 1,
+  "unknown_24": 12298,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Move",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

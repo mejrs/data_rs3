@@ -1,0 +1,11 @@
+{
+  "id": 15998,
+  "models": {
+    "10": [
+      15757
+    ]
+  },
+  "name": "Pirate Flag",
+  "ambient": 20,
+  "occludes_2": false
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2225,
+  "models": {
+    "10": [
+      11799
+    ]
+  },
+  "name": "Waterfall rocks",
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      30,
+      6930
+    ],
+    [
+      35,
+      7054
+    ],
+    [
+      39,
+      6930
+    ],
+    [
+      43,
+      6806
+    ],
+    [
+      47,
+      6682
+    ],
+    [
+      51,
+      6558
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 65362,
+  "models": {
+    "10": [
+      25117
+    ]
+  },
+  "name": "Obstacle pipe",
+  "dim_x": 2,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Squeeze-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

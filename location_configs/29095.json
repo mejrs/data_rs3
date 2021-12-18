@@ -1,0 +1,30 @@
+{
+  "id": 29095,
+  "models": {
+    "10": [
+      31982
+    ]
+  },
+  "name": "Unlit fire",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "ambient": 60,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 80,
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

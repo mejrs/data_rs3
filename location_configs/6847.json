@@ -1,0 +1,17 @@
+{
+  "id": 6847,
+  "models": {
+    "10": [
+      6811
+    ]
+  },
+  "name": "Bell",
+  "actions": [
+    "Ring",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

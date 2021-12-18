@@ -1,0 +1,33 @@
+{
+  "id": 118000,
+  "models": {
+    "10": [
+      117704
+    ]
+  },
+  "name": "Orange valve",
+  "unknown_19": 1,
+  "ambient": 20,
+  "actions": [
+    "Turn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34919,
+      2360
+    ],
+    [
+      23355,
+      4779
+    ]
+  ],
+  "textures": {
+    "12910": 12909
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

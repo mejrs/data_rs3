@@ -1,0 +1,28 @@
+{
+  "id": 16435,
+  "models": {
+    "22": [
+      1105
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_79": {
+    "unknown_1": 300,
+    "unknown_2": 500,
+    "unknown_3": 15,
+    "values": [
+      3918,
+      3918,
+      3919,
+      3920,
+      3917,
+      3922,
+      3922,
+      2901,
+      2901
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 80,
+  "unknown_198": true
+}

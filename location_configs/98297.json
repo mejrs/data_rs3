@@ -1,0 +1,21 @@
+{
+  "id": 98297,
+  "models": {
+    "10": [
+      89950
+    ]
+  },
+  "name": "Battle standard for Armadyl",
+  "unknown_24": 9662,
+  "actions": [
+    "For Armadyl!",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "params": {
+    "5214": 1
+  }
+}

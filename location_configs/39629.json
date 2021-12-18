@@ -1,0 +1,33 @@
+{
+  "id": 39629,
+  "models": {
+    "0": [
+      42997
+    ],
+    "1": [
+      42994
+    ]
+  },
+  "name": "Barrier",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "unknown_170": 637,
+  "cursors": [
+    null,
+    null,
+    174,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 24706,
+  "models": {
+    "10": [
+      1078
+    ]
+  },
+  "name": "Skeleton",
+  "unknown_17": false,
+  "ambient": 30,
+  "contrast": 20,
+  "occludes_2": false
+}

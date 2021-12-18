@@ -1,0 +1,28 @@
+{
+  "id": 117227,
+  "models": {
+    "10": [
+      92303
+    ]
+  },
+  "name": "Big High War God shrine",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

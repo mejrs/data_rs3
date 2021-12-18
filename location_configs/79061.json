@@ -1,0 +1,50 @@
+{
+  "id": 79061,
+  "models": {
+    "10": [
+      4326,
+      78914
+    ]
+  },
+  "name": "Food table",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take from",
+    "Take all from",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5559,
+      5400
+    ],
+    [
+      5679,
+      5398
+    ],
+    [
+      5675,
+      5394
+    ],
+    [
+      5799,
+      5390
+    ]
+  ],
+  "unknown_81": 20,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": 37279,
+  "models": {
+    "10": [
+      28573
+    ]
+  },
+  "name": "Junk",
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

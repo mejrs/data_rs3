@@ -1,0 +1,15 @@
+{
+  "id": 104827,
+  "models": {
+    "10": [
+      114688
+    ]
+  },
+  "name": "Sun statue",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_27": false,
+  "ambient": 20,
+  "model": false,
+  "occludes_2": false
+}

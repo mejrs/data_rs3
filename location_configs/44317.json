@@ -1,0 +1,50 @@
+{
+  "id": 44317,
+  "models": {
+    "10": [
+      48119
+    ]
+  },
+  "name": "Cookie",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 11960,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4626,
+      4480
+    ],
+    [
+      43072,
+      3597
+    ],
+    [
+      8741,
+      4550
+    ],
+    [
+      3604,
+      25744
+    ]
+  ],
+  "textures": {
+    "618": 1435
+  },
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

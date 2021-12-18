@@ -1,0 +1,29 @@
+{
+  "id": 92335,
+  "models": {
+    "0": [
+      98231
+    ]
+  },
+  "name": "Mining banner",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Unfurl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      43096,
+      10392
+    ],
+    [
+      36300,
+      32169
+    ]
+  ],
+  "mapscene": 22
+}

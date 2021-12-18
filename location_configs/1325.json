@@ -1,0 +1,12 @@
+{
+  "id": 1325,
+  "models": {
+    "10": [
+      2174
+    ]
+  },
+  "name": "Roots",
+  "is_transparent": true,
+  "mapscene": 6,
+  "occludes_2": false
+}

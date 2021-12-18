@@ -1,0 +1,25 @@
+{
+  "id": 62703,
+  "models": {
+    "10": [
+      3872
+    ]
+  },
+  "name": "Blazing torch",
+  "unknown_19": 1,
+  "unknown_24": 7438,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 5
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 70,
+  "unknown_1": 230,
+  "unknown_2": 270,
+  "unknown_186": 0
+}

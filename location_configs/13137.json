@@ -1,0 +1,27 @@
+{
+  "id": 13137,
+  "models": {
+    "0": [
+      12915
+    ],
+    "3": [
+      12916
+    ]
+  },
+  "name": "Combat ring",
+  "actions": [
+    "Climb-over",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

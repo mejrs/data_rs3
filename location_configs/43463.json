@@ -1,0 +1,16 @@
+{
+  "id": 43463,
+  "models": {
+    "10": [
+      47083
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 5686,
+  "unknown_69": 13,
+  "mapscene": 71,
+  "occludes_2": false,
+  "unknown_196": 1
+}

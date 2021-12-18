@@ -1,0 +1,25 @@
+{
+  "id": 104770,
+  "models": {
+    "10": [
+      114690
+    ]
+  },
+  "name": "Khan's tower",
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_27": false,
+  "ambient": 0,
+  "textures": {
+    "3183": 7394,
+    "3626": 7397,
+    "3629": 7396,
+    "3653": 7395
+  },
+  "model": false,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "translate_y": 65236,
+  "occludes_2": false
+}

@@ -1,0 +1,30 @@
+{
+  "id": 34963,
+  "models": {
+    "10": [
+      37440
+    ]
+  },
+  "name": "Cave exit",
+  "dim_x": 3,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

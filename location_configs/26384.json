@@ -1,0 +1,29 @@
+{
+  "id": 26384,
+  "models": {
+    "0": [
+      56292
+    ]
+  },
+  "name": "Big door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Bang",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    177,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

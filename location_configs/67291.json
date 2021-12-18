@@ -1,0 +1,33 @@
+{
+  "id": 67291,
+  "models": {
+    "10": [
+      2133
+    ]
+  },
+  "name": "Shelves",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7700,
+      8462
+    ],
+    [
+      8076,
+      8459
+    ],
+    [
+      7952,
+      8456
+    ],
+    [
+      5268,
+      6676
+    ]
+  ],
+  "occludes_2": false
+}

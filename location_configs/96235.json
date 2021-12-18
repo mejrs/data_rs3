@@ -1,0 +1,16 @@
+{
+  "id": 96235,
+  "models": {
+    "10": [
+      103111
+    ]
+  },
+  "name": "Depraved Dave",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 26190,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

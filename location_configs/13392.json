@@ -1,0 +1,25 @@
+{
+  "id": 13392,
+  "models": {
+    "10": [
+      13203
+    ]
+  },
+  "name": "Attack stone",
+  "actions": [
+    "Set-up",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false,
+  "cursors": [
+    172,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

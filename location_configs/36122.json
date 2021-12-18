@@ -1,0 +1,34 @@
+{
+  "id": 36122,
+  "models": {
+    "10": [
+      3289,
+      64602
+    ]
+  },
+  "name": "Operating table",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      6200
+    ],
+    [
+      66,
+      6176
+    ],
+    [
+      57,
+      6176
+    ],
+    [
+      90,
+      6244
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 35663,
+  "models": {
+    "10": [
+      36219
+    ]
+  },
+  "name": "Vast table",
+  "dim_x": 2,
+  "ambient": 25,
+  "contrast": 35,
+  "occludes_2": false
+}

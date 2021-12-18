@@ -1,0 +1,25 @@
+{
+  "id": 94964,
+  "models": {
+    "10": [
+      101056
+    ]
+  },
+  "name": "Circuit node (inactive)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 25308,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Turn on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

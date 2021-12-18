@@ -1,0 +1,13 @@
+{
+  "id": 17039,
+  "models": {
+    "10": [
+      16914
+    ]
+  },
+  "name": "Strong Yew",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 40,
+  "occludes_2": false
+}

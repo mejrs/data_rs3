@@ -1,0 +1,13 @@
+{
+  "id": 7033,
+  "models": {
+    "10": [
+      7087
+    ]
+  },
+  "name": "Giant Dwarf",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "occludes_2": false
+}

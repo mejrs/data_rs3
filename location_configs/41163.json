@@ -1,0 +1,34 @@
+{
+  "id": 41163,
+  "models": {
+    "10": [
+      44496,
+      44493,
+      44495
+    ]
+  },
+  "name": "Stone of Jas",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 10750,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Look-at",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

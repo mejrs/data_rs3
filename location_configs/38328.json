@@ -1,0 +1,16 @@
+{
+  "id": 38328,
+  "models": {
+    "10": [
+      41469,
+      41466
+    ]
+  },
+  "name": "Storage unit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 10199,
+  "ambient": 20,
+  "contrast": 10,
+  "occludes_2": false
+}

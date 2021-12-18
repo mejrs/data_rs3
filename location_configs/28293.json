@@ -1,0 +1,20 @@
+{
+  "id": 28293,
+  "models": {
+    "10": [
+      30344
+    ]
+  },
+  "name": "Snowman",
+  "unknown_17": false,
+  "ambient": 30,
+  "actions": [
+    "Add-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

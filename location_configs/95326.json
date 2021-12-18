@@ -1,0 +1,23 @@
+{
+  "id": 95326,
+  "models": {
+    "10": [
+      102257
+    ]
+  },
+  "name": "Shadow orb",
+  "unknown_24": 25939,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      127,
+      0
+    ]
+  ],
+  "textures": {
+    "1429": 1444
+  },
+  "mirror": true,
+  "occludes_2": false
+}

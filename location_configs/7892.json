@@ -1,0 +1,25 @@
+{
+  "id": 7892,
+  "models": {
+    "10": [
+      7857,
+      7767
+    ]
+  },
+  "name": "Diseased nasturtium",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      19361,
+      11156
+    ]
+  ],
+  "occludes_2": false
+}

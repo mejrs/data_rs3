@@ -1,0 +1,30 @@
+{
+  "id": 29088,
+  "models": {
+    "10": [
+      63399
+    ]
+  },
+  "name": "Achey tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    null,
+    null,
+    "Chop",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    59,
+    null,
+    null,
+    null
+  ]
+}

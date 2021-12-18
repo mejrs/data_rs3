@@ -1,0 +1,60 @@
+{
+  "id": 82257,
+  "models": {
+    "10": [
+      56755
+    ]
+  },
+  "name": "Zephyrium ore",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      39963,
+      21533
+    ],
+    [
+      39958,
+      21528
+    ],
+    [
+      39955,
+      21525
+    ],
+    [
+      39976,
+      21546
+    ],
+    [
+      39946,
+      21516
+    ]
+  ],
+  "textures": {
+    "1902": 1914
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 563,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "23": 50
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 103859,
+  "models": {
+    "10": [
+      113619
+    ]
+  },
+  "name": "Tent",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

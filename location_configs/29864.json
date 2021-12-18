@@ -1,0 +1,19 @@
+{
+  "id": 29864,
+  "models": {
+    "10": [
+      32635
+    ]
+  },
+  "name": "Incubator controls",
+  "ambient": 5,
+  "actions": [
+    "Adjust-Temperature",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 7941,
+  "models": {
+    "10": [
+      110008,
+      7767
+    ]
+  },
+  "name": "Apple tree",
+  "ambient": 25,
+  "actions": [
+    "Chop-down",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

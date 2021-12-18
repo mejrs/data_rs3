@@ -1,0 +1,20 @@
+{
+  "id": 101717,
+  "models": {
+    "10": [
+      110814,
+      110815
+    ]
+  },
+  "name": "Chronicle Game",
+  "unknown_19": 1,
+  "unknown_24": 28400,
+  "actions": [
+    "About Chronicle",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

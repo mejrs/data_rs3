@@ -1,0 +1,20 @@
+{
+  "id": 46803,
+  "models": {
+    "10": [
+      50328,
+      50114
+    ]
+  },
+  "name": "Fireplace",
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 477,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "371": 2164,
+    "2321": 2377
+  },
+  "occludes_2": false
+}

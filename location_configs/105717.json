@@ -1,0 +1,31 @@
+{
+  "id": 105717,
+  "models": {
+    "10": [
+      115985
+    ]
+  },
+  "name": "Broken enchantment",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65531,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      386
+    ]
+  },
+  "unknown_186": 0
+}

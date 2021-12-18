@@ -1,0 +1,23 @@
+{
+  "id": 62694,
+  "models": {
+    "10": [
+      2599
+    ]
+  },
+  "name": "Spectator eye",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

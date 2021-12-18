@@ -1,0 +1,15 @@
+{
+  "id": 22826,
+  "models": {
+    "10": [
+      23513
+    ]
+  },
+  "name": "Magic ball",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 6028,
+  "unknown_27": false,
+  "ambient": 40,
+  "occludes_2": false
+}

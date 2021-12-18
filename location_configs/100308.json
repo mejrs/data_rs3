@@ -1,0 +1,15 @@
+{
+  "id": 100308,
+  "models": {
+    "10": [
+      107882
+    ]
+  },
+  "dim_x": 7,
+  "dim_y": 13,
+  "unknown_19": 0,
+  "ambient": 50,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

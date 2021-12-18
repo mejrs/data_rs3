@@ -1,0 +1,32 @@
+{
+  "id": 72453,
+  "models": {
+    "10": [
+      69674
+    ]
+  },
+  "name": "Chasm",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 16047,
+  "models": {
+    "10": [
+      15848
+    ]
+  },
+  "name": "Cradle of Life",
+  "ambient": 30,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

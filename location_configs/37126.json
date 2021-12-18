@@ -1,0 +1,21 @@
+{
+  "id": 37126,
+  "models": {
+    "4": [
+      64623
+    ]
+  },
+  "name": "Noticeboard",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 14,
+  "occludes_2": false
+}

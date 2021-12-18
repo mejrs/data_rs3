@@ -1,0 +1,21 @@
+{
+  "id": 42997,
+  "models": {
+    "22": [
+      46647
+    ]
+  },
+  "name": "Skeleton",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Rummage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

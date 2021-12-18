@@ -1,0 +1,21 @@
+{
+  "id": 12553,
+  "models": {
+    "10": [
+      13720
+    ]
+  },
+  "name": "Old tree",
+  "dim_x": 4,
+  "unknown_21": true,
+  "actions": [
+    "Carve boat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "mapscene": 0,
+  "occludes_2": false
+}

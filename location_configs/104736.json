@@ -1,0 +1,32 @@
+{
+  "id": 104736,
+  "models": {
+    "10": [
+      114912
+    ]
+  },
+  "name": "Safe",
+  "unknown_27": false,
+  "actions": [
+    "Crack",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "mapfunction": 629,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5854": "safes"
+  }
+}

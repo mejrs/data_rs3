@@ -1,0 +1,13 @@
+{
+  "id": 109802,
+  "models": {
+    "10": [
+      120341
+    ]
+  },
+  "name": "Toadstool",
+  "unknown_19": 1,
+  "ambient": 25,
+  "model": false,
+  "occludes_2": false
+}

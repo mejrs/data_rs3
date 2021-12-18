@@ -1,0 +1,23 @@
+{
+  "id": 35507,
+  "models": {
+    "10": [
+      59629
+    ]
+  },
+  "name": "Strange blue plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Uproot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

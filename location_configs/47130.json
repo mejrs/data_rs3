@@ -1,0 +1,18 @@
+{
+  "id": 47130,
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "morphs_1": {
+    "varbit": 11113,
+    "ids": [
+      47131,
+      47131,
+      47132
+    ]
+  },
+  "unknown_88": false
+}

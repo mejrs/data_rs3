@@ -1,0 +1,13 @@
+{
+  "id": 24094,
+  "models": {
+    "10": [
+      24742
+    ]
+  },
+  "name": "Swings",
+  "dim_x": 2,
+  "unknown_24": 6466,
+  "ambient": 20,
+  "occludes_2": false
+}

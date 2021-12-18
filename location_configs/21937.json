@@ -1,0 +1,11 @@
+{
+  "id": 21937,
+  "models": {
+    "10": [
+      22643
+    ]
+  },
+  "name": "Experiment cabinet",
+  "ambient": 20,
+  "occludes_2": false
+}

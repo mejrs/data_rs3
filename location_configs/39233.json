@@ -1,0 +1,23 @@
+{
+  "id": 39233,
+  "models": {
+    "10": [
+      42796
+    ]
+  },
+  "name": "Maggie's cauldron",
+  "unknown_19": 1,
+  "ambient": 25,
+  "unknown_69": 13,
+  "unknown_78": {
+    "unknown_1": 3468,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_160": {
+    "values": [
+      20
+    ]
+  }
+}

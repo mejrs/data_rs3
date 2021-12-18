@@ -1,0 +1,15 @@
+{
+  "id": 84982,
+  "models": {
+    "10": [
+      87099
+    ]
+  },
+  "name": "Crates",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

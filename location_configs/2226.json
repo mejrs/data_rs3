@@ -1,0 +1,25 @@
+{
+  "id": 2226,
+  "models": {
+    "10": [
+      37376
+    ]
+  },
+  "name": "Smashed table",
+  "actions": [
+    "Look-at",
+    "Craft",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    62,
+    null,
+    null,
+    null,
+    null
+  ]
+}

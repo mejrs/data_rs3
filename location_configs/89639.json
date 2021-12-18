@@ -1,0 +1,14 @@
+{
+  "id": 89639,
+  "models": {
+    "10": [
+      93962
+    ]
+  },
+  "name": "Scroll shelf",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

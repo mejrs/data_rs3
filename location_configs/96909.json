@@ -1,0 +1,13 @@
+{
+  "id": 96909,
+  "models": {
+    "22": [
+      103971
+    ]
+  },
+  "name": "wound",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "translate_x": 60,
+  "occludes_2": false
+}

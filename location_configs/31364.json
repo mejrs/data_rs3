@@ -1,0 +1,14 @@
+{
+  "id": 31364,
+  "models": {
+    "10": [
+      34528
+    ]
+  },
+  "name": "Dull markings",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

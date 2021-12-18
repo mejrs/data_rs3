@@ -1,0 +1,30 @@
+{
+  "id": 30265,
+  "models": {
+    "10": [
+      20653
+    ]
+  },
+  "name": "Wooden doors",
+  "dim_x": 4,
+  "dim_y": 4,
+  "ambient": 15,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

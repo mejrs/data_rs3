@@ -1,0 +1,17 @@
+{
+  "id": 22811,
+  "models": {
+    "10": [
+      23325,
+      23336,
+      23326
+    ]
+  },
+  "name": "Counter",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "occludes_2": false
+}

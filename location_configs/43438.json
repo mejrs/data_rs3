@@ -1,0 +1,16 @@
+{
+  "id": 43438,
+  "models": {
+    "10": [
+      46948
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 20,
+  "unknown_81": 36,
+  "mapscene": 5,
+  "occludes_2": false
+}

@@ -1,0 +1,40 @@
+{
+  "id": 34560,
+  "models": {
+    "10": [
+      25881
+    ]
+  },
+  "name": "Drawers",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    "Shut",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      7706,
+      7452
+    ],
+    [
+      7587,
+      7468
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

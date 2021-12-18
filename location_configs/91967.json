@@ -1,0 +1,19 @@
+{
+  "id": 91967,
+  "models": {
+    "4": [
+      96089
+    ]
+  },
+  "name": "Symbol",
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 160,
+  "occludes_2": false
+}

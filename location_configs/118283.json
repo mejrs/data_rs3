@@ -1,0 +1,26 @@
+{
+  "id": 118283,
+  "models": {
+    "10": [
+      120783
+    ]
+  },
+  "name": "Desk space",
+  "dim_y": 2,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

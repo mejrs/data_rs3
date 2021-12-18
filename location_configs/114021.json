@@ -1,0 +1,25 @@
+{
+  "id": 114021,
+  "models": {
+    "10": [
+      67757
+    ]
+  },
+  "name": "Spa pool",
+  "dim_x": 8,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Relax",
+    "Salt-water treatment",
+    "Thermal bath treatment",
+    "Mud bath treatment",
+    null
+  ],
+  "model": false,
+  "translate_x": 65476,
+  "occludes_2": false,
+  "unknown_186": 0
+}

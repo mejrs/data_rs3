@@ -1,0 +1,33 @@
+{
+  "id": 109001,
+  "models": {
+    "10": [
+      118385
+    ]
+  },
+  "name": "Acadia tree",
+  "unknown_19": 1,
+  "unknown_24": 5773,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Cut down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_81": 40,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

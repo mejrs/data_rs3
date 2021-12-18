@@ -1,0 +1,25 @@
+{
+  "id": 6462,
+  "models": {
+    "10": [
+      4960
+    ]
+  },
+  "name": "Ice gate",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_22": true,
+  "actions": [
+    "Go-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "scale_x": 86,
+  "scale_y": 86,
+  "scale_z": 86,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 33048,
+  "models": {
+    "10": [
+      121926
+    ]
+  },
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "blocks_ranged": true,
+  "occludes_2": false
+}

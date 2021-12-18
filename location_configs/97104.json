@@ -1,0 +1,18 @@
+{
+  "id": 97104,
+  "models": {
+    "10": [
+      104040
+    ]
+  },
+  "name": "Vine",
+  "unknown_21": true,
+  "unknown_24": 26484,
+  "unknown_27": false,
+  "ambient": 25,
+  "unknown_89": false,
+  "occludes_2": false,
+  "params": {
+    "5102": 1
+  }
+}

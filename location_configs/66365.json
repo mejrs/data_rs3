@@ -1,0 +1,22 @@
+{
+  "id": 66365,
+  "models": {
+    "10": [
+      30759
+    ]
+  },
+  "name": "Fire",
+  "unknown_19": 1,
+  "unknown_24": 15631,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Stamp-out"
+  ],
+  "contrast": 12,
+  "occludes_2": false
+}

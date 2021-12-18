@@ -1,0 +1,14 @@
+{
+  "id": 112282,
+  "models": {
+    "10": [
+      30400
+    ]
+  },
+  "name": "Cat basket",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "model": false,
+  "translate_y": 65472,
+  "occludes_2": false
+}

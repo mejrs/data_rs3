@@ -1,0 +1,17 @@
+{
+  "id": 13493,
+  "models": {
+    "10": [
+      89923
+    ]
+  },
+  "name": "Rune armour",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

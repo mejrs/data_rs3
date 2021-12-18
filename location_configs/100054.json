@@ -1,0 +1,20 @@
+{
+  "id": 100054,
+  "models": {
+    "10": [
+      107402,
+      107404
+    ]
+  },
+  "name": "Lit brazier",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "ambient": 25,
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_188": true
+}

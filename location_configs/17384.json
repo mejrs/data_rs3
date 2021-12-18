@@ -1,0 +1,47 @@
+{
+  "id": 17384,
+  "models": {
+    "10": [
+      39106
+    ]
+  },
+  "name": "Root",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5526,
+      7574
+    ],
+    [
+      5518,
+      7566
+    ],
+    [
+      5514,
+      7562
+    ],
+    [
+      5510,
+      7558
+    ]
+  ],
+  "translate_y": 1,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

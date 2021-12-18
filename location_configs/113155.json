@@ -1,0 +1,74 @@
+{
+  "id": 113155,
+  "models": {
+    "10": [
+      73989,
+      73999,
+      73987
+    ]
+  },
+  "name": "Common gem rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      1056
+    ],
+    [
+      3135,
+      2075
+    ],
+    [
+      3127,
+      3098
+    ],
+    [
+      2109,
+      4115
+    ],
+    [
+      3143,
+      3100
+    ],
+    [
+      54994,
+      6612
+    ],
+    [
+      54858,
+      6468
+    ],
+    [
+      54991,
+      6457
+    ],
+    [
+      54856,
+      6447
+    ]
+  ],
+  "textures": {
+    "322": 10872,
+    "1304": 10836
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

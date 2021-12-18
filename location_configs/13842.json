@@ -1,0 +1,15 @@
+{
+  "id": 13842,
+  "models": {
+    "10": [
+      14158
+    ]
+  },
+  "name": "Ripples",
+  "dim_x": 4,
+  "dim_y": 5,
+  "unknown_24": 3743,
+  "ambient": 10,
+  "model": false,
+  "occludes_2": false
+}

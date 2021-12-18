@@ -1,0 +1,11 @@
+{
+  "id": 6950,
+  "models": {
+    "10": [
+      6880
+    ]
+  },
+  "name": "Boulder",
+  "blocks_ranged": true,
+  "occludes_2": false
+}

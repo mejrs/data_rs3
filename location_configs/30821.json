@@ -1,0 +1,24 @@
+{
+  "id": 30821,
+  "models": {
+    "10": [
+      33888
+    ]
+  },
+  "name": "Font",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4502,
+      5908
+    ],
+    [
+      4510,
+      5665
+    ]
+  ],
+  "occludes_2": false
+}

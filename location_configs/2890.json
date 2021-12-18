@@ -1,0 +1,29 @@
+{
+  "id": 2890,
+  "models": {
+    "10": [
+      1702
+    ]
+  },
+  "name": "Jungle Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "actions": [
+    "Chop-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 5,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

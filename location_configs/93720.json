@@ -1,0 +1,33 @@
+{
+  "id": 93720,
+  "models": {
+    "10": [
+      99505
+    ]
+  },
+  "name": "Mountaineering gear",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  },
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

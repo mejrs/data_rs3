@@ -1,0 +1,15 @@
+{
+  "id": 20978,
+  "models": {
+    "10": [
+      21210
+    ]
+  },
+  "name": "Gnome skeleton",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

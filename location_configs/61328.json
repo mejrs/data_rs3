@@ -1,0 +1,16 @@
+{
+  "id": 61328,
+  "models": {
+    "10": [
+      49133
+    ]
+  },
+  "name": "Vanstrom's Desk",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

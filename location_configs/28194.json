@@ -1,0 +1,40 @@
+{
+  "id": 28194,
+  "models": {
+    "10": [
+      9298
+    ]
+  },
+  "name": "Viewing orb",
+  "unknown_21": true,
+  "unknown_24": 2657,
+  "unknown_27": false,
+  "ambient": 60,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      916,
+      9164
+    ]
+  ],
+  "unknown_44": 2,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "580": 343
+  }
+}

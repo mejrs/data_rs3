@@ -1,0 +1,23 @@
+{
+  "id": 30888,
+  "models": {
+    "10": [
+      64657
+    ]
+  },
+  "name": "Lever",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "unknown_69": 14,
+  "unknown_89": false,
+  "occludes_2": false
+}

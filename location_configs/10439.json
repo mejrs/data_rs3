@@ -1,0 +1,27 @@
+{
+  "id": 10439,
+  "models": {
+    "10": [
+      10190,
+      10191
+    ]
+  },
+  "name": "Elidinis Statuette",
+  "ambient": 15,
+  "actions": [
+    "Pray-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

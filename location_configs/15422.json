@@ -1,0 +1,17 @@
+{
+  "id": 15422,
+  "models": {
+    "10": [
+      12677
+    ]
+  },
+  "name": "Crystal ball space",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

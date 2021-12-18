@@ -1,0 +1,24 @@
+{
+  "id": 110580,
+  "unknown_19": 1,
+  "ambient": 37,
+  "textures": {
+    "2720": 9705
+  },
+  "model": false,
+  "translate_x": 75,
+  "translate_y": 65456,
+  "translate_z": 15,
+  "morphs_1": {
+    "varbit": 39827,
+    "ids": [
+      110581,
+      110582,
+      110583
+    ]
+  },
+  "unknown_88": false,
+  "params": {
+    "6896": 61
+  }
+}

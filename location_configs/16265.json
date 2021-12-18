@@ -1,0 +1,42 @@
+{
+  "id": 16265,
+  "models": {
+    "10": [
+      16293,
+      16294
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Chop-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      6819,
+      6554
+    ]
+  ],
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
+  "unknown_81": 42,
+  "mapscene": 1,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

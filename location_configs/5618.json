@@ -1,0 +1,26 @@
+{
+  "id": 5618,
+  "models": {
+    "10": [
+      5559
+    ]
+  },
+  "name": "Drawers",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

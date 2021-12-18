@@ -1,0 +1,14 @@
+{
+  "id": 18404,
+  "models": {
+    "10": [
+      18484,
+      18483
+    ]
+  },
+  "name": "Bottle",
+  "ambient": 20,
+  "contrast": 10,
+  "model": false,
+  "occludes_2": false
+}

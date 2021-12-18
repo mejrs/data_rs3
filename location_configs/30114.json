@@ -1,0 +1,21 @@
+{
+  "id": 30114,
+  "models": {
+    "10": [
+      32848
+    ]
+  },
+  "name": "Coal supply",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

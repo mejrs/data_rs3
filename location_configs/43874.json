@@ -1,0 +1,35 @@
+{
+  "id": 43874,
+  "models": {
+    "10": [
+      70732,
+      70945
+    ]
+  },
+  "name": "Yeti village sign",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      400
+    ]
+  },
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

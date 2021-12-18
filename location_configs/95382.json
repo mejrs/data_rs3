@@ -1,0 +1,14 @@
+{
+  "id": 95382,
+  "models": {
+    "22": [
+      102210
+    ]
+  },
+  "name": "Numeral plate",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 87365,
+  "models": {
+    "4": [
+      5964
+    ]
+  },
+  "name": "Blacksmith's tools",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 118,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

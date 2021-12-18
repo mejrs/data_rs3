@@ -1,0 +1,32 @@
+{
+  "id": 117164,
+  "models": {
+    "10": [
+      84417
+    ]
+  },
+  "name": "Rope",
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11803": 12181
+  },
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "unknown_69": 7,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 19032,
+  "models": {
+    "10": [
+      19232
+    ]
+  },
+  "name": "Large root",
+  "ambient": 15,
+  "actions": [
+    "Pull Up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

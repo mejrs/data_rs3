@@ -1,0 +1,14 @@
+{
+  "id": 41230,
+  "models": {
+    "10": [
+      44044
+    ]
+  },
+  "name": "Broken furnace",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

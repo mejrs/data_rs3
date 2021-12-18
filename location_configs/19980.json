@@ -1,0 +1,32 @@
+{
+  "id": 19980,
+  "models": {
+    "10": [
+      20080,
+      20062,
+      20081
+    ]
+  },
+  "name": "Pedestal",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Take-from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      127,
+      4539
+    ],
+    [
+      32999,
+      5582
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": 4383,
+  "models": {
+    "10": [
+      4569
+    ]
+  },
+  "name": "Iron ladder",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 112003,
+  "models": {
+    "10": [
+      61565
+    ]
+  },
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 0,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 400,
+  "scale_y": 400,
+  "scale_z": 400,
+  "translate_y": 150,
+  "occludes_2": false,
+  "unknown_196": 4
+}

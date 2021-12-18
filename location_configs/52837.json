@@ -1,0 +1,36 @@
+{
+  "id": 52837,
+  "models": {
+    "10": [
+      57916
+    ]
+  },
+  "name": "Mabel in a sack",
+  "unknown_21": true,
+  "unknown_24": 14241,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      340
+    ]
+  },
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

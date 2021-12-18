@@ -1,0 +1,28 @@
+{
+  "id": 36727,
+  "models": {
+    "10": [
+      38619
+    ]
+  },
+  "name": "Table",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7454,
+      9492
+    ],
+    [
+      7464,
+      9496
+    ],
+    [
+      7484,
+      9508
+    ]
+  ],
+  "occludes_2": false
+}

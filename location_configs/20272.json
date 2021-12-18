@@ -1,0 +1,28 @@
+{
+  "id": 20272,
+  "models": {
+    "10": [
+      16424
+    ]
+  },
+  "name": "Odd markings",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

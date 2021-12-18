@@ -1,0 +1,38 @@
+{
+  "id": 14217,
+  "models": {
+    "0": [
+      14469
+    ],
+    "1": [
+      14470
+    ],
+    "2": [
+      14471
+    ],
+    "9": [
+      14472
+    ]
+  },
+  "name": "Wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 5,
+  "actions": [
+    null,
+    null,
+    "Repair",
+    null,
+    null
+  ],
+  "model": false,
+  "cursors": [
+    null,
+    null,
+    174,
+    null,
+    null,
+    null
+  ]
+}

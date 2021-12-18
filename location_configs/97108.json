@@ -1,0 +1,26 @@
+{
+  "id": 97108,
+  "models": {
+    "22": [
+      104048
+    ]
+  },
+  "name": "Root",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Nurture",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 85,
+  "params": {
+    "5102": 1
+  }
+}

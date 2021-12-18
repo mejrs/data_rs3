@@ -1,0 +1,20 @@
+{
+  "id": 118558,
+  "models": {
+    "10": [
+      120844,
+      120845
+    ]
+  },
+  "name": "Security gate",
+  "dim_x": 2,
+  "dim_y": 7,
+  "unknown_17": false,
+  "unknown_24": 33746,
+  "model": false,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104,
+  "occludes_2": false,
+  "unknown_196": 4
+}

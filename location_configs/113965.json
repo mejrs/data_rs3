@@ -1,0 +1,22 @@
+{
+  "id": 113965,
+  "dim_x": 10,
+  "dim_y": 13,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "model": false,
+  "translate_x": 110,
+  "translate_y": 240,
+  "translate_z": 30,
+  "morphs_1": {
+    "varbit": 44268,
+    "ids": [
+      null,
+      null,
+      113966,
+      113966
+    ]
+  },
+  "unknown_186": 0
+}

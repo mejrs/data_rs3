@@ -1,0 +1,22 @@
+{
+  "id": 90215,
+  "models": {
+    "0": [
+      94188
+    ]
+  },
+  "name": "Rock bridge",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_z": 65356,
+  "unknown_88": false
+}

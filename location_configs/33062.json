@@ -1,0 +1,33 @@
+{
+  "id": 33062,
+  "models": {
+    "10": [
+      25079
+    ]
+  },
+  "name": "Cabinet",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7830,
+      8076
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

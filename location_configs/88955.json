@@ -1,0 +1,29 @@
+{
+  "id": 88955,
+  "models": {
+    "10": [
+      92842
+    ]
+  },
+  "dim_x": 8,
+  "dim_y": 10,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 65,
+  "contrast": 35,
+  "colours": [
+    [
+      7321,
+      7296
+    ]
+  ],
+  "textures": {
+    "1414": 3527,
+    "3531": 3522
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

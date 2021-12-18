@@ -1,0 +1,25 @@
+{
+  "id": 105983,
+  "models": {
+    "10": [
+      57543
+    ]
+  },
+  "name": "Ritual marker",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 11958,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

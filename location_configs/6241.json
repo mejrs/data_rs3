@@ -1,0 +1,18 @@
+{
+  "id": 6241,
+  "models": {
+    "0": [
+      118708
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 20,
+  "contrast": 15,
+  "textures": {
+    "2390": 1448
+  },
+  "unknown_170": 1151
+}

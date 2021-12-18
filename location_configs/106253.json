@@ -1,0 +1,30 @@
+{
+  "id": 106253,
+  "models": {
+    "10": [
+      116550
+    ]
+  },
+  "name": "Fountain of energy",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Direct",
+    null,
+    "Prestige",
+    "Unlock-Selection",
+    null
+  ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_x": 65521,
+  "translate_y": 250,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

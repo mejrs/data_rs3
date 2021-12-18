@@ -1,0 +1,27 @@
+{
+  "id": 121714,
+  "models": {
+    "10": [
+      124070,
+      124071
+    ]
+  },
+  "name": "Statue of Tagga (damaged)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Restore",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "translate_y": 65426,
+  "occludes_2": false
+}

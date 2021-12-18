@@ -1,0 +1,28 @@
+{
+  "id": 117022,
+  "models": {
+    "22": [
+      96635
+    ]
+  },
+  "name": "Control",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Dial forward",
+    "Dial back",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 100,
+  "unknown_1": 0,
+  "unknown_2": 48,
+  "unknown_3": 0,
+  "unknown_4": 16448,
+  "unknown_5": 64,
+  "unknown_6": 16448
+}

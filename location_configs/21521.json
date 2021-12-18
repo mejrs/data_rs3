@@ -1,0 +1,17 @@
+{
+  "id": 21521,
+  "models": {
+    "10": [
+      64143
+    ]
+  },
+  "name": "Swamp mushroom",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 15,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "occludes_2": false
+}

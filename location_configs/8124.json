@@ -1,0 +1,20 @@
+{
+  "id": 8124,
+  "models": {
+    "10": [
+      110129,
+      7767
+    ]
+  },
+  "name": "Diseased papaya tree",
+  "ambient": 30,
+  "actions": [
+    "Prune",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

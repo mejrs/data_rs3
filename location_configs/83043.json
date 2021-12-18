@@ -1,0 +1,29 @@
+{
+  "id": 83043,
+  "models": {
+    "10": [
+      84285
+    ]
+  },
+  "name": "Clouded vials",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "translate_y": 65510,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

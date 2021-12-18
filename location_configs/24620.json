@@ -1,0 +1,28 @@
+{
+  "id": 24620,
+  "models": {
+    "10": [
+      25349
+    ]
+  },
+  "name": "Painting",
+  "dim_x": 3,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

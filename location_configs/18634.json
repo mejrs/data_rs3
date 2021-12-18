@@ -1,0 +1,14 @@
+{
+  "id": 18634,
+  "models": {
+    "10": [
+      18761,
+      18750
+    ]
+  },
+  "name": "Old crane",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "occludes_2": false
+}

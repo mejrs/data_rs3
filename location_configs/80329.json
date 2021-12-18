@@ -1,0 +1,17 @@
+{
+  "id": 80329,
+  "models": {
+    "10": [
+      80397
+    ]
+  },
+  "name": "Beam",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 18818,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 20768,
+  "models": {
+    "0": [
+      49632
+    ]
+  },
+  "name": "Ledge",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "textures": {
+    "1516": 1532
+  },
+  "mirror": true
+}

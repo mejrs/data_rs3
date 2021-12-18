@@ -1,0 +1,28 @@
+{
+  "id": 14959,
+  "models": {
+    "10": [
+      14902,
+      14904
+    ]
+  },
+  "name": "Firebox",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

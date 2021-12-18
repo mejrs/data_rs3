@@ -1,0 +1,14 @@
+{
+  "id": 29129,
+  "models": {
+    "10": [
+      31912
+    ]
+  },
+  "name": "Logs",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "contrast": 20,
+  "occludes_2": false
+}

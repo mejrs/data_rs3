@@ -1,0 +1,23 @@
+{
+  "id": 32323,
+  "models": {
+    "4": [
+      37977
+    ]
+  },
+  "name": "Helmet rack",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4766,
+      6554
+    ],
+    [
+      4762,
+      6550
+    ]
+  ],
+  "occludes_2": false
+}

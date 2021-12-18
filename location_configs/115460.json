@@ -1,0 +1,24 @@
+{
+  "id": 115460,
+  "models": {
+    "4": [
+      90395
+    ]
+  },
+  "name": "'Disorder'",
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Hang painting",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 130,
+  "scale_y": 170,
+  "scale_z": 170,
+  "translate_y": 45,
+  "occludes_2": false
+}

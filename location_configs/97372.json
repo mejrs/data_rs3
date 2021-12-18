@@ -1,0 +1,17 @@
+{
+  "id": 97372,
+  "models": {
+    "10": [
+      104445
+    ]
+  },
+  "name": "Cocktails and drinks",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 20,
+  "occludes_2": false
+}

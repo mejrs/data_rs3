@@ -1,0 +1,12 @@
+{
+  "id": 28695,
+  "models": {
+    "10": [
+      31308
+    ]
+  },
+  "name": "Druid's Circle stone",
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

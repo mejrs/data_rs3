@@ -1,0 +1,20 @@
+{
+  "id": 120559,
+  "models": {
+    "10": [
+      122532
+    ]
+  },
+  "name": "Old desk",
+  "dim_x": 2,
+  "unknown_17": false,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

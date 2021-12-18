@@ -1,0 +1,23 @@
+{
+  "id": 29322,
+  "models": {
+    "0": [
+      27408
+    ]
+  },
+  "name": "Metal door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "unknown_75": 0,
+  "unknown_196": 1
+}

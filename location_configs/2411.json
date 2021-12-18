@@ -1,0 +1,40 @@
+{
+  "id": 2411,
+  "models": {
+    "10": [
+      1637
+    ]
+  },
+  "name": "Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      3470,
+      8365
+    ]
+  ],
+  "textures": {
+    "44": 88,
+    "2643": 2649,
+    "2652": 2646
+  },
+  "mapscene": 1,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 120548,
+  "models": {
+    "10": [
+      122465
+    ]
+  },
+  "name": "Light pedestal (empty)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Place light globe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2024,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "morphs_2": {
+    "varp": 2473,
+    "ids": [
+      14338,
+      14338,
+      14339
+    ],
+    "default": 14338
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 96352,
+  "models": {
+    "10": [
+      62678
+    ]
+  },
+  "name": "Gudrik's gravestone",
+  "unknown_17": false,
+  "ambient": 64,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_y": 86,
+  "translate_z": 65472,
+  "occludes_2": false,
+  "unknown_196": 0
+}

@@ -1,0 +1,15 @@
+{
+  "id": 73773,
+  "models": {
+    "10": [
+      72021
+    ]
+  },
+  "name": "Oomad's Gielinor Games reward shop",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

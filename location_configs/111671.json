@@ -1,0 +1,18 @@
+{
+  "id": 111671,
+  "models": {
+    "10": [
+      47752
+    ]
+  },
+  "name": "Stone head",
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "unknown_88": false,
+  "occludes_2": false
+}

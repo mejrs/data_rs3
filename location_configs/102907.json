@@ -1,0 +1,18 @@
+{
+  "id": 102907,
+  "models": {
+    "10": [
+      112218,
+      112219,
+      112220,
+      112221
+    ]
+  },
+  "name": "Repaired deck",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

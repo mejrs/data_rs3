@@ -1,0 +1,38 @@
+{
+  "id": 9374,
+  "models": {
+    "10": [
+      9294
+    ],
+    "22": [
+      9295
+    ]
+  },
+  "name": "Sulphur pit",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    null,
+    "Cook-at",
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "model": false,
+  "unknown_73": true,
+  "unknown_78": {
+    "unknown_1": 3473,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "cursors": [
+    null,
+    64,
+    null,
+    null,
+    null,
+    null
+  ]
+}

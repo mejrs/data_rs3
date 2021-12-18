@@ -1,0 +1,29 @@
+{
+  "id": 110533,
+  "models": {
+    "10": [
+      85122
+    ]
+  },
+  "name": "Stone blocks",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Convert to hidey-hole",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2720": 9705
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "params": {
+    "6896": 42
+  }
+}

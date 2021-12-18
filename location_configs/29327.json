@@ -1,0 +1,27 @@
+{
+  "id": 29327,
+  "models": {
+    "10": [
+      64023,
+      64043
+    ]
+  },
+  "name": "Cannon barrel desk",
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

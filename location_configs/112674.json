@@ -1,0 +1,28 @@
+{
+  "id": 112674,
+  "models": {
+    "10": [
+      69014
+    ]
+  },
+  "name": "Magical Rift",
+  "dim_x": 8,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Maintain the rift",
+    "Strengthen with Summoning",
+    "Empower with Magic",
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 8500,
+    "unknown_2": 12
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 175
+}

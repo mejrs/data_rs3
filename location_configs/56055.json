@@ -1,0 +1,15 @@
+{
+  "id": 56055,
+  "models": {
+    "10": [
+      61508
+    ]
+  },
+  "name": "Sagittarian shortbow",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 15,
+  "contrast": 10,
+  "occludes_2": false
+}

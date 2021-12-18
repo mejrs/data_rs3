@@ -1,0 +1,12 @@
+{
+  "id": 2151,
+  "models": {
+    "10": [
+      1806
+    ]
+  },
+  "name": "Obelisk of Water",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

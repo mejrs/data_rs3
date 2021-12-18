@@ -1,0 +1,38 @@
+{
+  "id": 102289,
+  "models": {
+    "10": [
+      111595
+    ]
+  },
+  "name": "My Little Vanstrom",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_79": {
+    "unknown_1": 300,
+    "unknown_2": 450,
+    "unknown_3": 10,
+    "values": [
+      14079,
+      2901
+    ]
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

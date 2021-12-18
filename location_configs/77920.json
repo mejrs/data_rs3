@@ -1,0 +1,36 @@
+{
+  "id": 77920,
+  "models": {
+    "10": [
+      78274,
+      78276
+    ]
+  },
+  "dim_y": 3,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_24": 10883,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      678,
+      18982
+    ],
+    [
+      673,
+      18977
+    ],
+    [
+      669,
+      18973
+    ]
+  ],
+  "unknown_78": {
+    "unknown_1": 4208,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 15
+}

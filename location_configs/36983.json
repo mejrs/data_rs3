@@ -1,0 +1,29 @@
+{
+  "id": 36983,
+  "models": {
+    "10": [
+      22942
+    ]
+  },
+  "name": "Stand",
+  "unknown_24": 5906,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      4510,
+      5404
+    ],
+    [
+      4502,
+      5400
+    ]
+  ],
+  "textures": {
+    "2076": 3179,
+    "2090": 3171,
+    "2094": 3171
+  },
+  "occludes_2": false
+}

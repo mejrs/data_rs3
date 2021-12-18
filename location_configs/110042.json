@@ -1,0 +1,30 @@
+{
+  "id": 110042,
+  "models": {
+    "10": [
+      2218
+    ]
+  },
+  "name": "Gingerbread stall",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

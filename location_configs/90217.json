@@ -1,0 +1,30 @@
+{
+  "id": 90217,
+  "models": {
+    "0": [
+      94170
+    ]
+  },
+  "name": "Rock formation",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "translate_z": 100,
+  "unknown_88": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

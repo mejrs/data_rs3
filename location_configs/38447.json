@@ -1,0 +1,13 @@
+{
+  "id": 38447,
+  "models": {
+    "10": [
+      41779
+    ]
+  },
+  "name": "Pile of logs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

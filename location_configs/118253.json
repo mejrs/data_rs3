@@ -1,0 +1,25 @@
+{
+  "id": 118253,
+  "models": {
+    "10": [
+      12649
+    ]
+  },
+  "name": "Bench space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

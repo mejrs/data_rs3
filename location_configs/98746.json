@@ -1,0 +1,29 @@
+{
+  "id": 98746,
+  "models": {
+    "10": [
+      106363
+    ]
+  },
+  "name": "Tithe door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_188": true,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

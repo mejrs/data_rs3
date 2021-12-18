@@ -1,0 +1,26 @@
+{
+  "id": 13641,
+  "models": {
+    "10": [
+      13200
+    ]
+  },
+  "name": "Greater teleport focus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 3648,
+  "ambient": 40,
+  "actions": [
+    "Direct-portal",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "unknown_78": {
+    "unknown_1": 1686,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 120
+}

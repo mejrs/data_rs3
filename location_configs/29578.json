@@ -1,0 +1,28 @@
+{
+  "id": 29578,
+  "models": {
+    "10": [
+      32511
+    ]
+  },
+  "name": "Treasure chest",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

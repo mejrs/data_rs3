@@ -1,0 +1,18 @@
+{
+  "id": 30808,
+  "models": {
+    "10": [
+      33874,
+      33872
+    ]
+  },
+  "name": "Dragon machine",
+  "dim_x": 3,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_24": 4295,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false
+}

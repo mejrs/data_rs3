@@ -1,0 +1,17 @@
+{
+  "id": 105480,
+  "models": {
+    "10": [
+      88682
+    ]
+  },
+  "name": "Pile of bones",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 30,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

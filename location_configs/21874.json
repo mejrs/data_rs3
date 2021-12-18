@@ -1,0 +1,15 @@
+{
+  "id": 21874,
+  "models": {
+    "10": [
+      22683,
+      22684
+    ]
+  },
+  "name": "Huge vat",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

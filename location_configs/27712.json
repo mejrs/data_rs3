@@ -1,0 +1,13 @@
+{
+  "id": 27712,
+  "models": {
+    "10": [
+      29652
+    ]
+  },
+  "name": "Barrel",
+  "is_transparent": true,
+  "ambient": -10,
+  "contrast": 10,
+  "occludes_2": false
+}

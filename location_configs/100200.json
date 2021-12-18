@@ -1,0 +1,25 @@
+{
+  "id": 100200,
+  "models": {
+    "0": [
+      37670
+    ],
+    "1": [
+      37585
+    ],
+    "9": [
+      37718
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 20,
+  "textures": {
+    "1155": 1892,
+    "1891": 1889
+  },
+  "model": false,
+  "unknown_88": false
+}

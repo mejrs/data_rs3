@@ -1,0 +1,21 @@
+{
+  "id": 64666,
+  "models": {
+    "10": [
+      49269
+    ]
+  },
+  "name": "Gear wheels",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Leap through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

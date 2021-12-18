@@ -1,0 +1,48 @@
+{
+  "id": 83517,
+  "models": {
+    "10": [
+      85041,
+      38317
+    ]
+  },
+  "name": "Pickaxe table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Take 1",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6451,
+      6444
+    ],
+    [
+      6443,
+      6440
+    ],
+    [
+      6439,
+      6436
+    ],
+    [
+      6563,
+      6432
+    ],
+    [
+      6558,
+      6428
+    ],
+    [
+      6682,
+      6424
+    ]
+  ],
+  "occludes_2": false
+}

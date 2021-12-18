@@ -1,0 +1,27 @@
+{
+  "id": 104021,
+  "models": {
+    "10": [
+      113572
+    ]
+  },
+  "name": "Treasure chest",
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

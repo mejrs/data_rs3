@@ -1,0 +1,12 @@
+{
+  "id": 24259,
+  "models": {
+    "10": [
+      25025
+    ]
+  },
+  "name": "Cannon",
+  "dim_y": 2,
+  "ambient": 25,
+  "occludes_2": false
+}

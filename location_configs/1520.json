@@ -1,0 +1,20 @@
+{
+  "id": 1520,
+  "models": {
+    "0": [
+      639
+    ]
+  },
+  "name": "Large door",
+  "occludes_1": false,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_75": 0,
+  "unknown_170": 960
+}

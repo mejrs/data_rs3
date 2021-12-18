@@ -1,0 +1,16 @@
+{
+  "id": 106585,
+  "models": {
+    "10": [
+      87345
+    ]
+  },
+  "name": "Bank chest",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 115,
+  "occludes_2": false
+}

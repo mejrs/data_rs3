@@ -1,0 +1,47 @@
+{
+  "id": 95960,
+  "models": {
+    "10": [
+      120162
+    ]
+  },
+  "name": "Master Crafting Noticeboard",
+  "unknown_19": 1,
+  "unknown_24": 29617,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "View",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9428,
+      9428
+    ],
+    [
+      12248,
+      9428
+    ],
+    [
+      8768,
+      9428
+    ],
+    [
+      8112,
+      9428
+    ],
+    [
+      4028,
+      9428
+    ]
+  ],
+  "textures": {
+    "9178": 467
+  },
+  "occludes_2": false
+}

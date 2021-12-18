@@ -1,0 +1,27 @@
+{
+  "id": 51073,
+  "models": {
+    "10": [
+      21263
+    ]
+  },
+  "name": "A golden pear bush",
+  "unknown_24": 1097,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23933,
+  "models": {
+    "10": [
+      24846
+    ]
+  },
+  "name": "Chandelier",
+  "unknown_19": 1,
+  "ambient": 30,
+  "contrast": 20,
+  "model": false,
+  "translate_y": 35,
+  "occludes_2": false
+}

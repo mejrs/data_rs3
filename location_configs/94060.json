@@ -1,0 +1,27 @@
+{
+  "id": 94060,
+  "models": {
+    "10": [
+      100004
+    ]
+  },
+  "name": "Harp",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "Tune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

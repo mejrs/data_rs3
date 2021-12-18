@@ -1,0 +1,53 @@
+{
+  "id": 116416,
+  "models": {
+    "10": [
+      95761,
+      95863
+    ]
+  },
+  "name": "Material cache (cobalt blue)",
+  "unknown_21": true,
+  "ambient": 20,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      59675,
+      39340
+    ],
+    [
+      59944,
+      39741
+    ],
+    [
+      59932,
+      39721
+    ],
+    [
+      58915,
+      38703
+    ]
+  ],
+  "textures": {
+    "12018": 12494,
+    "12338": 12344
+  },
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 2876
+  }
+}

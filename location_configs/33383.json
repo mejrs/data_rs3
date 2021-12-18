@@ -1,0 +1,13 @@
+{
+  "id": 33383,
+  "models": {
+    "10": [
+      38073
+    ]
+  },
+  "name": "Icicle",
+  "ambient": 30,
+  "contrast": 25,
+  "unknown_81": 35,
+  "occludes_2": false
+}

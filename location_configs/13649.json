@@ -1,0 +1,19 @@
+{
+  "id": 13649,
+  "models": {
+    "10": [
+      12485
+    ]
+  },
+  "name": "Globe",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

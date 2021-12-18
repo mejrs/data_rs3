@@ -1,0 +1,27 @@
+{
+  "id": 72443,
+  "models": {
+    "10": [
+      69664,
+      69648
+    ]
+  },
+  "name": "Waylan",
+  "dim_y": 2,
+  "unknown_24": 16830,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Listen to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 115,
+  "scale_z": 115,
+  "unknown_69": 11,
+  "translate_y": 30,
+  "occludes_2": false
+}

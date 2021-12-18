@@ -1,0 +1,20 @@
+{
+  "id": 61331,
+  "models": {
+    "10": [
+      46343
+    ]
+  },
+  "name": "Water pump",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

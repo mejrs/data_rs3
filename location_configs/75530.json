@@ -1,0 +1,23 @@
+{
+  "id": 75530,
+  "models": {
+    "10": [
+      76434
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 18,
+  "contrast": 15,
+  "textures": {
+    "2980": 9001
+  },
+  "mirror": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

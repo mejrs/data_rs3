@@ -1,0 +1,13 @@
+{
+  "id": 109673,
+  "models": {
+    "4": [
+      120159
+    ]
+  },
+  "name": "Shelf",
+  "unknown_19": 1,
+  "ambient": 50,
+  "translate_y": 65476,
+  "occludes_2": false
+}

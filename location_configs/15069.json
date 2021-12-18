@@ -1,0 +1,20 @@
+{
+  "id": 15069,
+  "models": {
+    "10": [
+      8220,
+      7766
+    ]
+  },
+  "name": "Dry patch",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Water",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

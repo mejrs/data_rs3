@@ -1,0 +1,14 @@
+{
+  "id": 116419,
+  "models": {
+    "10": [
+      95761
+    ]
+  },
+  "name": "Material cache (depleted)",
+  "unknown_21": true,
+  "textures": {
+    "12338": 12333
+  },
+  "occludes_2": false
+}

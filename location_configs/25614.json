@@ -1,0 +1,32 @@
+{
+  "id": 25614,
+  "models": {
+    "10": [
+      1190
+    ]
+  },
+  "name": "Crystal ball",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 10,
+  "colours": [
+    [
+      46199,
+      43125
+    ],
+    [
+      4527,
+      5309
+    ],
+    [
+      5660,
+      6024
+    ],
+    [
+      926,
+      916
+    ]
+  ],
+  "occludes_2": false
+}

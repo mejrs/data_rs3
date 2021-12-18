@@ -1,0 +1,27 @@
+{
+  "id": 16174,
+  "models": {
+    "10": [
+      15849
+    ]
+  },
+  "name": "Bone Chain",
+  "unknown_21": true,
+  "actions": [
+    "Climb-down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

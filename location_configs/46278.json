@@ -1,0 +1,14 @@
+{
+  "id": 46278,
+  "models": {
+    "10": [
+      8157
+    ]
+  },
+  "name": "Yew",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "occludes_2": false,
+  "unknown_189": true
+}

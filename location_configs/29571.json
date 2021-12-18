@@ -1,0 +1,34 @@
+{
+  "id": 29571,
+  "models": {
+    "10": [
+      27574,
+      32370
+    ]
+  },
+  "name": "Bar shelves",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      43992,
+      5327
+    ],
+    [
+      43988,
+      5322
+    ],
+    [
+      43856,
+      5309
+    ],
+    [
+      63411,
+      5301
+    ]
+  ],
+  "mirror": true,
+  "occludes_2": false
+}

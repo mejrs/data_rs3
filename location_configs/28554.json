@@ -1,0 +1,17 @@
+{
+  "id": 28554,
+  "models": {
+    "10": [
+      7794
+    ]
+  },
+  "name": "Evil turnip patch",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

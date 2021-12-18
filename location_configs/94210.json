@@ -1,0 +1,21 @@
+{
+  "id": 94210,
+  "models": {
+    "10": [
+      98468
+    ]
+  },
+  "name": "Trahaearn",
+  "unknown_19": 1,
+  "ambient": 37,
+  "actions": [
+    "East:",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

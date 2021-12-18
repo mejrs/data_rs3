@@ -1,0 +1,22 @@
+{
+  "id": 106644,
+  "models": {
+    "0": [
+      117180
+    ]
+  },
+  "name": "Crevice",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Squeeze through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_y": 155,
+  "mapfunction": 625
+}

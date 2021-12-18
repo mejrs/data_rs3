@@ -1,0 +1,28 @@
+{
+  "id": 86768,
+  "models": {
+    "10": [
+      88755,
+      89123
+    ]
+  },
+  "name": "Handwritten message",
+  "ambient": -25,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

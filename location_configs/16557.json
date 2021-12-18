@@ -1,0 +1,12 @@
+{
+  "id": 16557,
+  "models": {
+    "10": [
+      16432
+    ]
+  },
+  "name": "Ladder",
+  "translate_y": 65516,
+  "mapscene": 7,
+  "occludes_2": false
+}

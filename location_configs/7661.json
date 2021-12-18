@@ -1,0 +1,33 @@
+{
+  "id": 7661,
+  "models": {
+    "10": [
+      7826,
+      7767
+    ]
+  },
+  "name": "Dead jangerberry bush",
+  "ambient": 25,
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      16540
+    ],
+    [
+      8722,
+      16532
+    ],
+    [
+      12473,
+      43043
+    ]
+  ],
+  "occludes_2": false
+}

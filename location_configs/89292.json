@@ -1,0 +1,40 @@
+{
+  "id": 89292,
+  "models": {
+    "4": [
+      93630
+    ]
+  },
+  "name": "Noticeboard",
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      7952,
+      7442
+    ],
+    [
+      6808,
+      8724
+    ],
+    [
+      7715,
+      6447
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

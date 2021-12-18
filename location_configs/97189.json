@@ -1,0 +1,12 @@
+{
+  "id": 97189,
+  "models": {
+    "10": [
+      104341
+    ]
+  },
+  "name": "Egg cup",
+  "ambient": 25,
+  "contrast": 10,
+  "occludes_2": false
+}

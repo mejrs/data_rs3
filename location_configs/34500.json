@@ -1,0 +1,31 @@
+{
+  "id": 34500,
+  "models": {
+    "4": [
+      25199
+    ]
+  },
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      7830,
+      7440
+    ],
+    [
+      7706,
+      7448
+    ],
+    [
+      7582,
+      7456
+    ]
+  ],
+  "textures": {
+    "518": 525,
+    "864": 2580
+  },
+  "occludes_2": false
+}

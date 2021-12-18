@@ -1,0 +1,12 @@
+{
+  "id": 17292,
+  "models": {
+    "10": [
+      17277
+    ]
+  },
+  "name": "Hoisted sail",
+  "dim_x": 2,
+  "translate_z": 65519,
+  "occludes_2": false
+}

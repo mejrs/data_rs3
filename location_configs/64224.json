@@ -1,0 +1,22 @@
+{
+  "id": 64224,
+  "models": {
+    "10": [
+      12432
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "scale_y": 205,
+  "translate_y": 1080,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

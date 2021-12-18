@@ -1,0 +1,31 @@
+{
+  "id": 81759,
+  "models": {
+    "10": [
+      82173
+    ]
+  },
+  "name": "Bank Box",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Bank",
+    "Collect",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    5,
+    5,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 104003,
+  "models": {
+    "10": [
+      113445
+    ]
+  },
+  "name": "Grill",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Cook at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "mapfunction": 596,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

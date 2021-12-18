@@ -1,0 +1,21 @@
+{
+  "id": 79221,
+  "models": {
+    "10": [
+      75678
+    ]
+  },
+  "dim_x": 3,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "textures": {
+    "2453": 1472,
+    "2470": 1511,
+    "2477": 1503
+  },
+  "model": false,
+  "unknown_81": 20,
+  "occludes_2": false
+}

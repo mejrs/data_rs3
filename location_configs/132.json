@@ -1,0 +1,16 @@
+{
+  "id": 132,
+  "models": {
+    "10": [
+      51087,
+      22174,
+      22173,
+      25133
+    ]
+  },
+  "name": "Bar",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "occludes_2": false
+}

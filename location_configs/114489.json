@@ -1,0 +1,19 @@
+{
+  "id": 114489,
+  "models": {
+    "10": [
+      82487,
+      7767
+    ]
+  },
+  "name": "Carambola tree stump",
+  "actions": [
+    "Clear",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false
+}

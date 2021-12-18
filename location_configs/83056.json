@@ -1,0 +1,48 @@
+{
+  "id": 83056,
+  "models": {
+    "10": [
+      84202
+    ]
+  },
+  "name": "Corner track",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Rotate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      10495,
+      9259
+    ],
+    [
+      9465,
+      9248
+    ],
+    [
+      8429,
+      9230
+    ]
+  ],
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    189,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

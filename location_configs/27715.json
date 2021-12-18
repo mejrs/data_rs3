@@ -1,0 +1,15 @@
+{
+  "id": 27715,
+  "models": {
+    "10": [
+      29647
+    ]
+  },
+  "name": "Operation lights",
+  "ambient": 20,
+  "contrast": 10,
+  "scale_x": 112,
+  "scale_y": 112,
+  "scale_z": 112,
+  "occludes_2": false
+}

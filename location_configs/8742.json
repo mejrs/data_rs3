@@ -1,0 +1,26 @@
+{
+  "id": 8742,
+  "models": {
+    "10": [
+      97280
+    ]
+  },
+  "name": "Tree",
+  "dim_y": 4,
+  "actions": [
+    "Pass",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 18403,
+  "models": {
+    "10": [
+      18482,
+      18481
+    ]
+  },
+  "name": "Kennith's ball",
+  "ambient": 20,
+  "contrast": 10,
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false
+}

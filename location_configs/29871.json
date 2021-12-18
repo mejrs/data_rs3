@@ -1,0 +1,22 @@
+{
+  "id": 29871,
+  "models": {
+    "10": [
+      32613
+    ]
+  },
+  "name": "Water pool",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Fill-Buckets",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

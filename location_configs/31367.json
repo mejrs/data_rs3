@@ -1,0 +1,51 @@
+{
+  "id": 31367,
+  "models": {
+    "0": [
+      35406
+    ]
+  },
+  "name": "A dark hole",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 10,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 5,
+  "colours": [
+    [
+      21547,
+      47147
+    ],
+    [
+      21543,
+      47143
+    ],
+    [
+      21539,
+      47139
+    ],
+    [
+      21534,
+      47134
+    ],
+    [
+      21530,
+      47130
+    ]
+  ],
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

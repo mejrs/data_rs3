@@ -1,0 +1,19 @@
+{
+  "id": 2551,
+  "models": {
+    "4": [
+      104332,
+      104331
+    ]
+  },
+  "name": "Steel smelter",
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

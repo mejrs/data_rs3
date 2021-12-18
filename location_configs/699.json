@@ -1,0 +1,12 @@
+{
+  "id": 699,
+  "models": {
+    "10": [
+      1792
+    ]
+  },
+  "name": "Carcass",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false
+}

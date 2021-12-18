@@ -1,0 +1,35 @@
+{
+  "id": 93719,
+  "models": {
+    "10": [
+      99512
+    ]
+  },
+  "name": "Cupboard",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 110,
+  "unknown_69": 7,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  },
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

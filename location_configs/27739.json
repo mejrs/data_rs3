@@ -1,0 +1,23 @@
+{
+  "id": 27739,
+  "models": {
+    "10": [
+      78049
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "translate_y": 240,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 7,
+    "unknown_2": 3,
+    "unknown_3": 5,
+    "unknown_4": 40
+  }
+}

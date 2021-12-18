@@ -1,0 +1,44 @@
+{
+  "id": 117369,
+  "models": {
+    "10": [
+      96039,
+      95735,
+      89807
+    ]
+  },
+  "name": "Bandos's sanctum debris",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      123
+    ]
+  ],
+  "textures": {
+    "11930": 12269,
+    "11931": 12273,
+    "12338": 12345
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3375
+  }
+}

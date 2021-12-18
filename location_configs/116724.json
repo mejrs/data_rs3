@@ -1,0 +1,25 @@
+{
+  "id": 116724,
+  "models": {
+    "3": [
+      88894
+    ]
+  },
+  "name": "Melted red candle",
+  "ambient": -25,
+  "actions": [
+    "Replace",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      457
+    ]
+  }
+}

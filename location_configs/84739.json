@@ -1,0 +1,11 @@
+{
+  "id": 84739,
+  "models": {
+    "10": [
+      9674
+    ]
+  },
+  "name": "Dead villager",
+  "dim_y": 2,
+  "occludes_2": false
+}

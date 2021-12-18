@@ -1,0 +1,20 @@
+{
+  "id": 98750,
+  "models": {
+    "10": [
+      106364
+    ]
+  },
+  "name": "Blood lock",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

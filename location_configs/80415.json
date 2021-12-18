@@ -1,0 +1,39 @@
+{
+  "id": 80415,
+  "models": {
+    "10": [
+      80830,
+      80855,
+      80832
+    ]
+  },
+  "name": "Grey chair",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9343,
+      40814
+    ],
+    [
+      1556,
+      28
+    ],
+    [
+      1576,
+      48
+    ]
+  ],
+  "textures": {
+    "2864": 2870
+  },
+  "occludes_2": false
+}

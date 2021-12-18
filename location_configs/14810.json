@@ -1,0 +1,24 @@
+{
+  "id": 14810,
+  "models": {
+    "10": [
+      63634
+    ]
+  },
+  "name": "Workbench",
+  "ambient": 15,
+  "actions": [
+    "Carve-on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

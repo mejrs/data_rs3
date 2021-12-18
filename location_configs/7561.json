@@ -1,0 +1,19 @@
+{
+  "id": 7561,
+  "models": {
+    "10": [
+      7901,
+      7767
+    ]
+  },
+  "name": "Belladonna",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

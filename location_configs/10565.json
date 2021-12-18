@@ -1,0 +1,41 @@
+{
+  "id": 10565,
+  "models": {
+    "0": [
+      36192
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Pay-toll(10gp)",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6439,
+      5400
+    ],
+    [
+      6430,
+      5394
+    ],
+    [
+      6550,
+      5390
+    ]
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

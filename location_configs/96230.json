@@ -1,0 +1,14 @@
+{
+  "id": 96230,
+  "models": {
+    "22": [
+      103106
+    ]
+  },
+  "name": "Apparition Alex",
+  "unknown_19": 1,
+  "unknown_24": 26185,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

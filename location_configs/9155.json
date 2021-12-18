@@ -1,0 +1,12 @@
+{
+  "id": 9155,
+  "models": {
+    "10": [
+      48632
+    ]
+  },
+  "name": "Globe of Gielinor",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 114581,
+  "models": {
+    "10": [
+      78404
+    ]
+  },
+  "name": "Brutish dinosaur egg",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Check",
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "textures": {
+    "11475": 11473
+  },
+  "occludes_2": false
+}

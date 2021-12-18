@@ -1,0 +1,20 @@
+{
+  "id": 94933,
+  "models": {
+    "10": [
+      101062
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 15,
+  "contrast": 25,
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_188": true
+}

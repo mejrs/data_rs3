@@ -1,0 +1,25 @@
+{
+  "id": 114327,
+  "models": {
+    "10": [
+      39896
+    ]
+  },
+  "name": "Mystical tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Teleport",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

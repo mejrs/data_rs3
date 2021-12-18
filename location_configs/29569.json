@@ -1,0 +1,21 @@
+{
+  "id": 29569,
+  "models": {
+    "10": [
+      7387,
+      7390,
+      32369
+    ]
+  },
+  "name": "Old bookshelf",
+  "unknown_19": 1,
+  "actions": [
+    null,
+    null,
+    "Take-Egg",
+    null,
+    null
+  ],
+  "translate_z": 65520,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 33305,
+  "models": {
+    "10": [
+      46629
+    ]
+  },
+  "name": "Stone scroll holders",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

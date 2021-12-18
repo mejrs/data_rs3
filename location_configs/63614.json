@@ -1,0 +1,19 @@
+{
+  "id": 63614,
+  "models": {
+    "10": [
+      9186
+    ]
+  },
+  "name": "Icyene statue",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 200,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_y": 65528,
+  "occludes_2": false
+}

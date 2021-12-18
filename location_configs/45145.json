@@ -1,0 +1,23 @@
+{
+  "id": 45145,
+  "models": {
+    "0": [
+      48848
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "unknown_88": false,
+  "unknown_163": {
+    "unknown_1": -1,
+    "unknown_2": -1,
+    "unknown_3": 0,
+    "unknown_4": 42
+  }
+}

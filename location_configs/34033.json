@@ -1,0 +1,17 @@
+{
+  "id": 34033,
+  "models": {
+    "4": [
+      35586
+    ]
+  },
+  "ambient": 30,
+  "contrast": 30,
+  "colours": [
+    [
+      4,
+      5648
+    ]
+  ],
+  "occludes_2": false
+}

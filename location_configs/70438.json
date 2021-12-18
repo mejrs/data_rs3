@@ -1,0 +1,28 @@
+{
+  "id": 70438,
+  "models": {
+    "22": [
+      69271
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      500,
+      12830
+    ],
+    [
+      40887,
+      12867
+    ]
+  ],
+  "model": false,
+  "translate_y": 65533,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_167": 7
+}

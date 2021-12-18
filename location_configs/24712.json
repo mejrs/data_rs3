@@ -1,0 +1,18 @@
+{
+  "id": 24712,
+  "models": {
+    "10": [
+      1544
+    ]
+  },
+  "name": "Broken cart wheel",
+  "ambient": 15,
+  "contrast": 15,
+  "colours": [
+    [
+      6049,
+      6550
+    ]
+  ],
+  "occludes_2": false
+}

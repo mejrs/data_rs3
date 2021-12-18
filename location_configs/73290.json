@@ -1,0 +1,17 @@
+{
+  "id": 73290,
+  "models": {
+    "10": [
+      7755
+    ]
+  },
+  "name": "<col=ffff00>Scruffy</col>",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 2268,
+  "unknown_27": false,
+  "ambient": 25,
+  "translate_x": 24,
+  "translate_z": 24,
+  "occludes_2": false
+}

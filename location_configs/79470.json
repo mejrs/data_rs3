@@ -1,0 +1,14 @@
+{
+  "id": 79470,
+  "models": {
+    "10": [
+      80486
+    ]
+  },
+  "name": "Stool",
+  "unknown_19": 1,
+  "unknown_24": 18971,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

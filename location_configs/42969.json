@@ -1,0 +1,20 @@
+{
+  "id": 42969,
+  "models": {
+    "10": [
+      46560
+    ]
+  },
+  "name": "Broken table",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Replace",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

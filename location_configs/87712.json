@@ -1,0 +1,20 @@
+{
+  "id": 87712,
+  "models": {
+    "10": [
+      90764
+    ]
+  },
+  "name": "Tree",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

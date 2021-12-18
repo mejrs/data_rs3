@@ -1,0 +1,24 @@
+{
+  "id": 43487,
+  "models": {
+    "10": [
+      47234
+    ]
+  },
+  "name": "Lantern",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      4892,
+      6449
+    ],
+    [
+      4899,
+      6449
+    ]
+  ],
+  "unknown_44": 5,
+  "occludes_2": false
+}

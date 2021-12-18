@@ -1,0 +1,14 @@
+{
+  "id": 116813,
+  "models": {
+    "10": [
+      89205
+    ]
+  },
+  "name": "Spiked chair",
+  "unknown_19": 1,
+  "textures": {
+    "12135": 12602
+  },
+  "occludes_2": false
+}

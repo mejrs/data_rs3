@@ -1,0 +1,32 @@
+{
+  "id": 119691,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Crumbled wall",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "unknown_69": 5,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8257,
+  "models": {
+    "10": [
+      8197,
+      7766
+    ]
+  },
+  "name": "Wildblood Hops",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13210,
+      2716
+    ],
+    [
+      13214,
+      2597
+    ]
+  ],
+  "occludes_2": false
+}

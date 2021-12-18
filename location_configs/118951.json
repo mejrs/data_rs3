@@ -1,0 +1,52 @@
+{
+  "id": 118951,
+  "models": {
+    "10": [
+      95761,
+      95863
+    ]
+  },
+  "name": "Material cache (carbon black)",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      58915,
+      22052
+    ],
+    [
+      59944,
+      22056
+    ],
+    [
+      59932,
+      22044
+    ],
+    [
+      59675,
+      21787
+    ]
+  ],
+  "textures": {
+    "12018": 13030
+  },
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 3704
+  }
+}

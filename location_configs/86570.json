@@ -1,0 +1,28 @@
+{
+  "id": 86570,
+  "models": {
+    "22": [
+      88605,
+      88603
+    ]
+  },
+  "name": "Bow",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

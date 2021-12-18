@@ -1,0 +1,27 @@
+{
+  "id": 89338,
+  "models": {
+    "10": [
+      9386
+    ]
+  },
+  "name": "Valerio",
+  "unknown_24": 15412,
+  "ambient": 20,
+  "actions": [
+    "Dance with",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      10048
+    ]
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

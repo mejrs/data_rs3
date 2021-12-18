@@ -1,0 +1,42 @@
+{
+  "id": 19971,
+  "models": {
+    "10": [
+      11799
+    ]
+  },
+  "name": "Rocks",
+  "is_transparent": true,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      30,
+      5148
+    ],
+    [
+      35,
+      5153
+    ],
+    [
+      39,
+      5157
+    ],
+    [
+      43,
+      5161
+    ]
+  ],
+  "textures": {
+    "2347": 1498,
+    "2355": 1487
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 103609,
+  "models": {
+    "0": [
+      113193
+    ]
+  },
+  "name": "Damaged wall",
+  "unknown_19": 1,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

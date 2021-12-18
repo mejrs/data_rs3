@@ -1,0 +1,41 @@
+{
+  "id": 114462,
+  "models": {
+    "10": [
+      82067,
+      7767
+    ]
+  },
+  "name": "Diseased golden dragonfruit cactus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      8483,
+      7591
+    ],
+    [
+      8480,
+      6808
+    ],
+    [
+      13360,
+      3243
+    ]
+  ],
+  "textures": {
+    "11697": 11702
+  },
+  "model": false,
+  "scale_x": 145,
+  "scale_y": 145,
+  "scale_z": 145,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 13485,
+  "models": {
+    "10": [
+      12159
+    ]
+  },
+  "name": "Abyssal demon head",
+  "ambient": 25,
+  "actions": [
+    "Talk-to",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": 4817,
+  "models": {
+    "10": [
+      1593
+    ]
+  },
+  "name": "Jungle Palm",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_81": 64,
+  "mapscene": 5,
+  "occludes_2": false
+}

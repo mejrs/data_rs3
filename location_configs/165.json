@@ -1,0 +1,18 @@
+{
+  "id": 165,
+  "models": {
+    "10": [
+      11546
+    ]
+  },
+  "name": "Incinerator",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_69": 13,
+  "unknown_78": {
+    "unknown_1": 3474,
+    "unknown_2": 3
+  },
+  "occludes_2": false,
+  "unknown_104": 150
+}

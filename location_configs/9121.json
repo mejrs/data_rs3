@@ -1,0 +1,27 @@
+{
+  "id": 9121,
+  "models": {
+    "10": [
+      9058
+    ]
+  },
+  "name": "Pipes",
+  "unknown_19": 1,
+  "unknown_24": 2439,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

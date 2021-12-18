@@ -1,0 +1,27 @@
+{
+  "id": 29113,
+  "models": {
+    "10": [
+      31825
+    ]
+  },
+  "name": "Fever grass",
+  "ambient": 20,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 41110,
+  "models": {
+    "10": [
+      44379
+    ]
+  },
+  "name": "Washing",
+  "ambient": 25,
+  "contrast": 25,
+  "unknown_75": 0,
+  "occludes_2": false
+}

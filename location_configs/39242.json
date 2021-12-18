@@ -1,0 +1,12 @@
+{
+  "id": 39242,
+  "models": {
+    "10": [
+      42792
+    ]
+  },
+  "name": "Trinket chest",
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

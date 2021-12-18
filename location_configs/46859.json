@@ -1,0 +1,55 @@
+{
+  "id": 46859,
+  "models": {
+    "10": [
+      50154
+    ]
+  },
+  "name": "Bed",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Web",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      404,
+      49428
+    ],
+    [
+      410,
+      49434
+    ],
+    [
+      400,
+      49424
+    ],
+    [
+      396,
+      49420
+    ],
+    [
+      398,
+      49422
+    ],
+    [
+      392,
+      49416
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    150,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

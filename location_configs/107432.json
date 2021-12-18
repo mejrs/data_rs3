@@ -1,0 +1,31 @@
+{
+  "id": 107432,
+  "models": {
+    "10": [
+      118421
+    ]
+  },
+  "name": "Fountain",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 567,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

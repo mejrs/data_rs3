@@ -1,0 +1,29 @@
+{
+  "id": 76295,
+  "models": {
+    "10": [
+      76052,
+      76057
+    ]
+  },
+  "name": "Range",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Cook at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

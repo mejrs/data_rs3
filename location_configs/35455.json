@@ -1,0 +1,13 @@
+{
+  "id": 35455,
+  "models": {
+    "10": [
+      36120
+    ]
+  },
+  "name": "Mini-table",
+  "ambient": 25,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false
+}

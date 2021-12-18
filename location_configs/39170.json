@@ -1,0 +1,11 @@
+{
+  "id": 39170,
+  "models": {
+    "10": [
+      42501
+    ]
+  },
+  "name": "Statue of a king",
+  "dim_y": 2,
+  "occludes_2": false
+}

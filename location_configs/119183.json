@@ -1,0 +1,13 @@
+{
+  "id": 119183,
+  "models": {
+    "4": [
+      89063
+    ]
+  },
+  "name": "Clock",
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

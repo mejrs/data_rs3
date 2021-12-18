@@ -1,0 +1,22 @@
+{
+  "id": 110048,
+  "models": {
+    "10": [
+      2378
+    ]
+  },
+  "name": "Kegger",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "model": false,
+  "occludes_2": false
+}

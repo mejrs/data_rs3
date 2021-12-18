@@ -1,0 +1,31 @@
+{
+  "id": 121474,
+  "models": {
+    "10": [
+      124024,
+      124032
+    ]
+  },
+  "name": "Storage spot (timber fungus)",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Deposit all",
+    "Withdraw all",
+    "Withdraw-X",
+    "Check contents",
+    "Use"
+  ],
+  "occludes_2": false,
+  "mapfunction": 3651,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    46,
+    null
+  ],
+  "unknown_196": 4
+}

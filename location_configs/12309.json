@@ -1,0 +1,55 @@
+{
+  "id": 12309,
+  "models": {
+    "10": [
+      32139
+    ]
+  },
+  "name": "Chest",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Bank",
+    "Buy-food",
+    "Buy-items",
+    "Collect",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6554,
+      6439
+    ],
+    [
+      5400,
+      6434
+    ],
+    [
+      8596,
+      6429
+    ],
+    [
+      5648,
+      6424
+    ],
+    [
+      10401,
+      28
+    ],
+    [
+      10508,
+      23
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    5,
+    null,
+    null,
+    5,
+    null,
+    null
+  ]
+}

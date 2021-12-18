@@ -1,0 +1,54 @@
+{
+  "id": 40803,
+  "models": {
+    "10": [
+      7700
+    ]
+  },
+  "name": "Crate",
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6563,
+      7952
+    ],
+    [
+      6443,
+      7704
+    ],
+    [
+      6439,
+      7700
+    ],
+    [
+      6558,
+      7949
+    ],
+    [
+      6682,
+      7050
+    ],
+    [
+      6806,
+      7050
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

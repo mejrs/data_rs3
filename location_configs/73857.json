@@ -1,0 +1,22 @@
+{
+  "id": 73857,
+  "models": {
+    "10": [
+      72024,
+      72012,
+      72017
+    ]
+  },
+  "dim_x": 3,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      2588,
+      25535
+    ]
+  ],
+  "unknown_93": 8288,
+  "occludes_2": false
+}

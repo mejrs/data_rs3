@@ -1,0 +1,29 @@
+{
+  "id": 10641,
+  "models": {
+    "10": [
+      10388,
+      10389
+    ]
+  },
+  "name": "Doric's Whetstone",
+  "dim_x": 2,
+  "unknown_24": 2997,
+  "ambient": 10,
+  "colours": [
+    [
+      5545,
+      6689
+    ],
+    [
+      6466,
+      6808
+    ],
+    [
+      10287,
+      5165
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

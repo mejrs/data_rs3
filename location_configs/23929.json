@@ -1,0 +1,11 @@
+{
+  "id": 23929,
+  "models": {
+    "10": [
+      24838
+    ]
+  },
+  "name": "Gold",
+  "ambient": 30,
+  "occludes_2": false
+}

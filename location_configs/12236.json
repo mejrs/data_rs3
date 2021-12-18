@@ -1,0 +1,12 @@
+{
+  "id": 12236,
+  "models": {
+    "10": [
+      12155
+    ]
+  },
+  "name": "Mounted sea bass",
+  "ambient": 25,
+  "contrast": 25,
+  "occludes_2": false
+}

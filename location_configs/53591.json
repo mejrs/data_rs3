@@ -1,0 +1,39 @@
+{
+  "id": 53591,
+  "models": {
+    "0": [
+      58644
+    ]
+  },
+  "name": "Shop wall",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      5559,
+      6585
+    ],
+    [
+      6594,
+      5673
+    ],
+    [
+      5404,
+      6585
+    ],
+    [
+      5524,
+      5673
+    ]
+  ]
+}

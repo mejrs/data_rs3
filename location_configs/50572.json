@@ -1,0 +1,21 @@
+{
+  "id": 50572,
+  "models": {
+    "0": [
+      15962
+    ],
+    "1": [
+      31720
+    ],
+    "9": [
+      15963
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 20,
+  "scale_y": 153,
+  "unknown_88": false,
+  "occludes_2": false
+}

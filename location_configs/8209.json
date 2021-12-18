@@ -1,0 +1,19 @@
+{
+  "id": 8209,
+  "models": {
+    "10": [
+      8225,
+      7766
+    ]
+  },
+  "name": "Hops Patch",
+  "ambient": 25,
+  "actions": [
+    "Rake",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

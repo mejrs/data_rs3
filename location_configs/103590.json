@@ -1,0 +1,22 @@
+{
+  "id": 103590,
+  "models": {
+    "10": [
+      113164
+    ]
+  },
+  "name": "Slayer dummy",
+  "unknown_27": false,
+  "actions": [
+    "Practice",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_75": 0,
+  "unknown_81": 32,
+  "mapscene": 4,
+  "occludes_2": false
+}

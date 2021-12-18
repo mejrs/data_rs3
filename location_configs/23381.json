@@ -1,0 +1,21 @@
+{
+  "id": 23381,
+  "models": {
+    "10": [
+      1716
+    ]
+  },
+  "name": "Dead tree",
+  "colours": [
+    [
+      6028,
+      3470
+    ],
+    [
+      7054,
+      3470
+    ]
+  ],
+  "mapscene": 27,
+  "occludes_2": false
+}

@@ -1,0 +1,32 @@
+{
+  "id": 6883,
+  "models": {
+    "10": [
+      37180
+    ]
+  },
+  "name": "Ogre Coffin",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    "Pick-lock",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mapscene": 34,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

@@ -1,0 +1,23 @@
+{
+  "id": 39476,
+  "models": {
+    "4": [
+      17539
+    ]
+  },
+  "name": "Shelf",
+  "unknown_19": 1,
+  "ambient": 20,
+  "contrast": 15,
+  "colours": [
+    [
+      7706,
+      5396
+    ],
+    [
+      7954,
+      5408
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 103965,
+  "models": {
+    "10": [
+      113380
+    ]
+  },
+  "name": "Temple of Aminishi",
+  "dim_x": 11,
+  "dim_y": 3,
+  "unknown_17": false,
+  "ambient": 0,
+  "textures": {
+    "7391": 7390
+  },
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "unknown_186": 0
+}

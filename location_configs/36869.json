@@ -1,0 +1,24 @@
+{
+  "id": 36869,
+  "models": {
+    "10": [
+      36498
+    ]
+  },
+  "name": "Water wheel",
+  "dim_x": 3,
+  "unknown_24": 1729,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6808,
+      5408
+    ],
+    [
+      6684,
+      5404
+    ]
+  ],
+  "occludes_2": false
+}

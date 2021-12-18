@@ -1,0 +1,17 @@
+{
+  "id": 13491,
+  "models": {
+    "10": [
+      89924
+    ]
+  },
+  "name": "Mithril armour",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "occludes_2": false
+}

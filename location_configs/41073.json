@@ -1,0 +1,41 @@
+{
+  "id": 41073,
+  "models": {
+    "10": [
+      43963
+    ]
+  },
+  "name": "Open cupboard",
+  "actions": [
+    null,
+    "Search",
+    "Shut",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5660,
+      5914
+    ],
+    [
+      4750,
+      5904
+    ],
+    [
+      5908,
+      5912
+    ]
+  ],
+  "unknown_69": 13,
+  "translate_x": 14,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

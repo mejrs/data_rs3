@@ -1,0 +1,13 @@
+{
+  "id": 104188,
+  "models": {
+    "10": [
+      103647
+    ]
+  },
+  "name": "Anchors",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

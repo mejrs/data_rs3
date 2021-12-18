@@ -1,0 +1,30 @@
+{
+  "id": 97787,
+  "models": {
+    "10": [
+      5089
+    ]
+  },
+  "name": "Bell",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 42,
+  "scale_y": 42,
+  "scale_z": 42,
+  "occludes_2": false,
+  "unknown_163": {
+    "unknown_1": 0,
+    "unknown_2": 0,
+    "unknown_3": 127,
+    "unknown_4": 127
+  }
+}

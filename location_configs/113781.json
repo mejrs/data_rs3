@@ -1,0 +1,20 @@
+{
+  "id": 113781,
+  "models": {
+    "10": [
+      47533
+    ]
+  },
+  "name": "Deposit box",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

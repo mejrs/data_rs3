@@ -1,0 +1,19 @@
+{
+  "id": 116956,
+  "models": {
+    "10": [
+      96936
+    ]
+  },
+  "name": "Cell controller",
+  "unknown_19": 1,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

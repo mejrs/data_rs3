@@ -1,0 +1,14 @@
+{
+  "id": 44292,
+  "models": {
+    "10": [
+      48165
+    ]
+  },
+  "name": "Poison Arrow pub",
+  "unknown_19": 1,
+  "unknown_24": 4128,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": 7224,
+  "models": {
+    "10": [
+      7604
+    ]
+  },
+  "name": "Spinning blades",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 2199,
+  "colours": [
+    [
+      10518,
+      5786
+    ],
+    [
+      10514,
+      5910
+    ],
+    [
+      10638,
+      6034
+    ],
+    [
+      10762,
+      3604
+    ]
+  ],
+  "unknown_44": 30,
+  "unknown_73": true,
+  "unknown_78": {
+    "unknown_1": 35048,
+    "unknown_2": 8
+  },
+  "occludes_2": false
+}

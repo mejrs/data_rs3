@@ -1,0 +1,34 @@
+{
+  "id": 106707,
+  "models": {
+    "10": [
+      117658
+    ]
+  },
+  "name": "Portal",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Continue",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21036,
+      681
+    ]
+  ],
+  "textures": {
+    "4311": 13975
+  },
+  "occludes_2": false,
+  "mapfunction": 612,
+  "unknown_196": 4
+}

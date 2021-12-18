@@ -1,0 +1,22 @@
+{
+  "id": 89300,
+  "models": {
+    "10": [
+      93576
+    ]
+  },
+  "name": "Cart",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Deposit loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

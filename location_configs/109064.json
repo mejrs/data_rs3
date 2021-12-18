@@ -1,0 +1,31 @@
+{
+  "id": 109064,
+  "models": {
+    "10": [
+      118927
+    ]
+  },
+  "name": "Tomb (Worker district)",
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

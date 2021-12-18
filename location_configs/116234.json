@@ -1,0 +1,22 @@
+{
+  "id": 116234,
+  "models": {
+    "10": [
+      17556
+    ]
+  },
+  "name": "Boat",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

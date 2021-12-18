@@ -1,0 +1,17 @@
+{
+  "id": 47168,
+  "models": {
+    "10": [
+      50766
+    ]
+  },
+  "name": "Ice block",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 19999,
+  "models": {
+    "10": [
+      1821
+    ]
+  },
+  "name": "Large bone",
+  "colours": [
+    [
+      10361,
+      10318
+    ]
+  ],
+  "occludes_2": false
+}

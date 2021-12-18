@@ -1,0 +1,56 @@
+{
+  "id": 62487,
+  "models": {
+    "4": [
+      1755
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      39947,
+      6689
+    ],
+    [
+      39950,
+      6692
+    ],
+    [
+      39958,
+      6700
+    ],
+    [
+      39963,
+      6705
+    ],
+    [
+      15,
+      6693
+    ],
+    [
+      25,
+      6703
+    ],
+    [
+      35,
+      6713
+    ],
+    [
+      40,
+      6718
+    ]
+  ],
+  "textures": {
+    "1565": 1947
+  },
+  "model": false,
+  "translate_x": 20,
+  "translate_y": 65366,
+  "translate_z": 65466,
+  "unknown_88": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

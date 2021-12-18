@@ -1,0 +1,14 @@
+{
+  "id": 18256,
+  "models": {
+    "10": [
+      18218
+    ]
+  },
+  "name": "Steeple",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 40,
+  "contrast": 20,
+  "occludes_2": false
+}

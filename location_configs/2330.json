@@ -1,0 +1,19 @@
+{
+  "id": 2330,
+  "models": {
+    "4": [
+      104329,
+      104331
+    ]
+  },
+  "name": "Iron smelter",
+  "ambient": 20,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 98985,
+  "models": {
+    "4": [
+      106157
+    ]
+  },
+  "name": "Portrait",
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_x": 50,
+  "translate_z": 60,
+  "occludes_2": false
+}

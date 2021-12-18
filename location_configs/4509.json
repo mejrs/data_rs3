@@ -1,0 +1,18 @@
+{
+  "id": 4509,
+  "models": {
+    "22": [
+      4472
+    ]
+  },
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 20,
+  "textures": {
+    "2401": 2390
+  },
+  "scale_x": 130,
+  "scale_y": 140,
+  "scale_z": 135,
+  "occludes_2": false
+}

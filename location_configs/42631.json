@@ -1,0 +1,30 @@
+{
+  "id": 42631,
+  "models": {
+    "10": [
+      9111
+    ]
+  },
+  "name": "Arch",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_97": true,
+  "mapscene": 75,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

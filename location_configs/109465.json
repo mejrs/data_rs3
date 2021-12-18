@@ -1,0 +1,18 @@
+{
+  "id": 109465,
+  "models": {
+    "10": [
+      119524
+    ]
+  },
+  "name": "Large Pile of Dung",
+  "unknown_19": 1,
+  "unknown_24": 21155,
+  "unknown_27": false,
+  "ambient": -30,
+  "model": false,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "occludes_2": false
+}

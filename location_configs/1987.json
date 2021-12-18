@@ -1,0 +1,19 @@
+{
+  "id": 1987,
+  "models": {
+    "10": [
+      1461
+    ]
+  },
+  "name": "Log raft",
+  "dim_y": 2,
+  "actions": [
+    "Board",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 1
+}

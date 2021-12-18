@@ -1,0 +1,28 @@
+{
+  "id": 813,
+  "models": {
+    "10": [
+      63776,
+      63778
+    ]
+  },
+  "name": "Emitter (earth)",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Take-rune",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      344
+    ]
+  }
+}

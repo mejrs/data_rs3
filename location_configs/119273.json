@@ -1,0 +1,26 @@
+{
+  "id": 119273,
+  "models": {
+    "10": [
+      74102
+    ]
+  },
+  "name": "Crate",
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

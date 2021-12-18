@@ -1,0 +1,20 @@
+{
+  "id": 6454,
+  "models": {
+    "10": [
+      4956
+    ]
+  },
+  "name": "Icy rock",
+  "colours": [
+    [
+      127,
+      41077
+    ]
+  ],
+  "scale_x": 150,
+  "scale_y": 300,
+  "scale_z": 150,
+  "unknown_81": 35,
+  "occludes_2": false
+}

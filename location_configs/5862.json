@@ -1,0 +1,12 @@
+{
+  "id": 5862,
+  "models": {
+    "10": [
+      5694
+    ]
+  },
+  "name": "Burial mound",
+  "dim_y": 2,
+  "unknown_21": true,
+  "occludes_2": false
+}

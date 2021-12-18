@@ -1,0 +1,12 @@
+{
+  "id": 21920,
+  "models": {
+    "10": [
+      22724
+    ]
+  },
+  "name": "Spinning pipe",
+  "unknown_24": 5825,
+  "ambient": 10,
+  "occludes_2": false
+}

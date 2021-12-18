@@ -1,0 +1,17 @@
+{
+  "id": 92879,
+  "models": {
+    "10": [
+      98476
+    ]
+  },
+  "name": "Heriau's stock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 37,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

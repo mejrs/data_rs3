@@ -1,0 +1,29 @@
+{
+  "id": 97769,
+  "models": {
+    "10": [
+      58033
+    ]
+  },
+  "name": "Entrance",
+  "unknown_19": 1,
+  "unknown_24": 12980,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

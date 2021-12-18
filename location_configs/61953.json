@@ -1,0 +1,23 @@
+{
+  "id": 61953,
+  "models": {
+    "10": [
+      61674
+    ]
+  },
+  "name": "Winch",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open-Curtains",
+    "Close-Curtains",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 13,
+  "occludes_2": false
+}

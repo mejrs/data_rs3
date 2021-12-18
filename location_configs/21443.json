@@ -1,0 +1,11 @@
+{
+  "id": 21443,
+  "models": {
+    "10": [
+      22019
+    ]
+  },
+  "name": "Ore table",
+  "dim_x": 2,
+  "occludes_2": false
+}

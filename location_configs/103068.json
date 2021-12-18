@@ -1,0 +1,16 @@
+{
+  "id": 103068,
+  "models": {
+    "10": [
+      88678
+    ]
+  },
+  "name": "Barracks bed",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": -25,
+  "contrast": 15,
+  "translate_x": 16,
+  "translate_z": 32,
+  "occludes_2": false
+}

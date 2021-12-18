@@ -1,0 +1,22 @@
+{
+  "id": 9980,
+  "models": {
+    "10": [
+      49880
+    ]
+  },
+  "name": "Final Pillar",
+  "ambient": 25,
+  "contrast": 25,
+  "colours": [
+    [
+      22464,
+      33728
+    ],
+    [
+      4032,
+      11200
+    ]
+  ],
+  "occludes_2": false
+}

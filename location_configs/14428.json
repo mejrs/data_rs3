@@ -1,0 +1,34 @@
+{
+  "id": 14428,
+  "models": {
+    "10": [
+      2331
+    ]
+  },
+  "name": "Fishing spot",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 525,
+  "ambient": 35,
+  "actions": [
+    "Bait",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 100,
+  "model": false,
+  "scale_y": 32,
+  "translate_y": 100,
+  "unknown_73": true,
+  "occludes_2": false,
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

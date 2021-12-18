@@ -1,0 +1,53 @@
+{
+  "id": 116379,
+  "models": {
+    "10": [
+      95761,
+      95863
+    ]
+  },
+  "name": "Material cache (Armadylean yellow)",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "colours": [
+    [
+      58915,
+      6972
+    ],
+    [
+      59944,
+      8002
+    ],
+    [
+      59932,
+      7989
+    ],
+    [
+      59675,
+      8635
+    ]
+  ],
+  "textures": {
+    "12018": 12497,
+    "12338": 12337
+  },
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 2854
+  }
+}

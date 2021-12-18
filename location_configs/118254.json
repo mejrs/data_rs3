@@ -1,0 +1,25 @@
+{
+  "id": 118254,
+  "models": {
+    "10": [
+      12661
+    ]
+  },
+  "name": "Organ space",
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

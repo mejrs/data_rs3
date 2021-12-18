@@ -1,0 +1,18 @@
+{
+  "id": 45027,
+  "models": {
+    "10": [
+      8662
+    ]
+  },
+  "name": "Dwarven machinery",
+  "actions": [
+    "Control",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": 112681,
+  "models": {
+    "10": [
+      68975
+    ]
+  },
+  "name": "Event noticeboard",
+  "unknown_19": 1,
+  "unknown_24": 29617,
+  "unknown_27": false,
+  "actions": [
+    "View",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

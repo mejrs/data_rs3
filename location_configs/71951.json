@@ -1,0 +1,14 @@
+{
+  "id": 71951,
+  "models": {
+    "4": [
+      70302
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 20,
+  "translate_z": 65416,
+  "occludes_2": false
+}

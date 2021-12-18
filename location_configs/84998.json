@@ -1,0 +1,21 @@
+{
+  "id": 84998,
+  "models": {
+    "10": [
+      87074
+    ]
+  },
+  "name": "Pig decoy",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Add bacon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

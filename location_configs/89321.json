@@ -1,0 +1,21 @@
+{
+  "id": 89321,
+  "models": {
+    "10": [
+      1455
+    ]
+  },
+  "name": "Haystack",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Poke",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

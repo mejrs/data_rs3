@@ -1,0 +1,16 @@
+{
+  "id": 116584,
+  "models": {
+    "10": [
+      89801
+    ]
+  },
+  "name": "Icyene buckler",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 50,
+  "translate_x": 30,
+  "translate_y": 300,
+  "translate_z": 130,
+  "occludes_2": false
+}

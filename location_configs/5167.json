@@ -1,0 +1,29 @@
+{
+  "id": 5167,
+  "models": {
+    "10": [
+      21900
+    ]
+  },
+  "name": "Memorial",
+  "dim_x": 2,
+  "unknown_27": false,
+  "actions": [
+    "Push",
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "mapscene": 34,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

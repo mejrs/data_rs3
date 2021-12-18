@@ -1,0 +1,17 @@
+{
+  "id": 25950,
+  "models": {
+    "10": [
+      57794,
+      57781
+    ]
+  },
+  "name": "Diana",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 14191,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "occludes_2": false
+}

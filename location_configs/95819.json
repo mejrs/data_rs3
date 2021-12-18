@@ -1,0 +1,50 @@
+{
+  "id": 95819,
+  "models": {
+    "10": [
+      12395
+    ]
+  },
+  "name": "Bed",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      926,
+      8115
+    ],
+    [
+      6319,
+      127
+    ],
+    [
+      5545,
+      7954
+    ],
+    [
+      6466,
+      7830
+    ],
+    [
+      8377,
+      7378
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

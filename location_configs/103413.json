@@ -1,0 +1,35 @@
+{
+  "id": 103413,
+  "models": {
+    "0": [
+      112852
+    ]
+  },
+  "name": "Locked door",
+  "unknown_19": 1,
+  "occludes_1": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      36300,
+      966
+    ]
+  ],
+  "unknown_170": 960,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

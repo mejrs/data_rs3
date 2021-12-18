@@ -1,0 +1,14 @@
+{
+  "id": 35454,
+  "models": {
+    "10": [
+      36112
+    ]
+  },
+  "name": "Opulent table",
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 20,
+  "model": false,
+  "occludes_2": false
+}

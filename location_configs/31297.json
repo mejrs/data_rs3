@@ -1,0 +1,26 @@
+{
+  "id": 31297,
+  "models": {
+    "10": [
+      34358
+    ]
+  },
+  "name": "Signpost",
+  "unknown_24": 4128,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

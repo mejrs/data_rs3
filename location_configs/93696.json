@@ -1,0 +1,34 @@
+{
+  "id": 93696,
+  "models": {
+    "10": [
+      20628,
+      99571
+    ]
+  },
+  "name": "Scorched skeleton",
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65504,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

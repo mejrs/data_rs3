@@ -1,0 +1,15 @@
+{
+  "id": 97458,
+  "models": {
+    "10": [
+      104623
+    ]
+  },
+  "name": "Stage",
+  "dim_x": 12,
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "occludes_2": false
+}

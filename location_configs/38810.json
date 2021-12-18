@@ -1,0 +1,19 @@
+{
+  "id": 38810,
+  "models": {
+    "10": [
+      1078
+    ]
+  },
+  "name": "Corpse",
+  "is_transparent": true,
+  "ambient": -40,
+  "actions": [
+    "Loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

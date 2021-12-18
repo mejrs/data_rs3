@@ -1,0 +1,16 @@
+{
+  "id": 73756,
+  "models": {
+    "10": [
+      7873,
+      7766,
+      72034
+    ]
+  },
+  "name": "Herb patch (green herbs)",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

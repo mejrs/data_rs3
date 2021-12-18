@@ -1,0 +1,22 @@
+{
+  "id": 100908,
+  "models": {
+    "10": [
+      110178
+    ]
+  },
+  "name": "Avatar Control Stone",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Manage Avatar",
+    "Attune to Avatar",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 32,
+  "occludes_2": false
+}

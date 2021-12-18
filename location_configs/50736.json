@@ -1,0 +1,28 @@
+{
+  "id": 50736,
+  "models": {
+    "10": [
+      21223
+    ]
+  },
+  "name": "Fungi on log",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 1096,
+  "actions": [
+    null,
+    "Pick",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    45,
+    null,
+    null,
+    null,
+    null
+  ]
+}

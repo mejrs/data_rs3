@@ -1,0 +1,24 @@
+{
+  "id": 65326,
+  "models": {
+    "0": [
+      22479
+    ],
+    "9": [
+      22482
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 15,
+  "actions": [
+    "Touch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "mirror": true,
+  "unknown_196": 2
+}

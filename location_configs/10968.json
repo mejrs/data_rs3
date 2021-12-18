@@ -1,0 +1,19 @@
+{
+  "id": 10968,
+  "models": {
+    "10": [
+      10927,
+      10925,
+      10923
+    ]
+  },
+  "name": "Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_24": 3100,
+  "model": false,
+  "unknown_88": false,
+  "unknown_89": false,
+  "occludes_2": false
+}

@@ -1,0 +1,42 @@
+{
+  "id": 27615,
+  "models": {
+    "10": [
+      64663
+    ]
+  },
+  "name": "Massive arm",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 10838,
+  "unknown_27": false,
+  "ambient": 15,
+  "actions": [
+    "Loosen-straps",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "colours": [
+    [
+      61,
+      6200
+    ],
+    [
+      66,
+      6176
+    ],
+    [
+      57,
+      6176
+    ],
+    [
+      90,
+      6244
+    ]
+  ],
+  "occludes_2": false
+}

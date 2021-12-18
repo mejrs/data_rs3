@@ -1,0 +1,22 @@
+{
+  "id": 121822,
+  "models": {
+    "10": [
+      123748
+    ]
+  },
+  "name": "Sticky fungus",
+  "unknown_21": true,
+  "unknown_24": 34435,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Remove",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 65486,
+  "occludes_2": false
+}

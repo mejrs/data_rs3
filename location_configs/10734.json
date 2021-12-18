@@ -1,0 +1,24 @@
+{
+  "id": 10734,
+  "models": {
+    "10": [
+      10648
+    ]
+  },
+  "name": "Coin Collector",
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 30,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 30,
+  "scale_x": 128,
+  "scale_y": 192,
+  "scale_z": 128,
+  "occludes_2": false
+}

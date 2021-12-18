@@ -1,0 +1,15 @@
+{
+  "id": 17037,
+  "models": {
+    "10": [
+      16896,
+      16908
+    ]
+  },
+  "name": "Strong Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 40,
+  "unknown_81": 35,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 62659,
+  "models": {
+    "10": [
+      1927
+    ]
+  },
+  "name": "Fountain",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_24": 14016,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 4062,
+    "unknown_2": 20
+  },
+  "occludes_2": false,
+  "unknown_104": 70
+}

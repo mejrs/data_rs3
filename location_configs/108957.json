@@ -1,0 +1,29 @@
+{
+  "id": 108957,
+  "models": {
+    "10": [
+      119510
+    ]
+  },
+  "name": "Sarcophagus",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Open",
+    "Reset panels",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

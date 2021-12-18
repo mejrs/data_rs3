@@ -1,0 +1,19 @@
+{
+  "id": 77723,
+  "models": {
+    "10": [
+      77353
+    ]
+  },
+  "dim_x": 7,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false,
+  "unknown_186": 0
+}

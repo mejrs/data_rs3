@@ -1,0 +1,23 @@
+{
+  "id": 115437,
+  "models": {
+    "10": [
+      32877
+    ]
+  },
+  "name": "Sack of duck food",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take duck food",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

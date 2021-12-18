@@ -1,0 +1,29 @@
+{
+  "id": 37830,
+  "models": {
+    "10": [
+      41055
+    ]
+  },
+  "name": "Hollow log",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 15,
+  "occludes_2": false,
+  "member_actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

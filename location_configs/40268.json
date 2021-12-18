@@ -1,0 +1,30 @@
+{
+  "id": 40268,
+  "models": {
+    "10": [
+      43861
+    ]
+  },
+  "name": "Door lock",
+  "unknown_19": 1,
+  "unknown_22": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

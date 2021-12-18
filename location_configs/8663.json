@@ -1,0 +1,29 @@
+{
+  "id": 8663,
+  "models": {
+    "10": [
+      8184,
+      7766
+    ]
+  },
+  "name": "Watermelons",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      16291,
+      22040
+    ],
+    [
+      10155,
+      15256
+    ]
+  ],
+  "occludes_2": false
+}

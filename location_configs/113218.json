@@ -1,0 +1,72 @@
+{
+  "id": 113218,
+  "models": {
+    "10": [
+      73989,
+      74043
+    ]
+  },
+  "name": "Mithril rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      40102
+    ],
+    [
+      3135,
+      44188
+    ],
+    [
+      3127,
+      48272
+    ],
+    [
+      2109,
+      40969
+    ],
+    [
+      3143,
+      43140
+    ],
+    [
+      54994,
+      43301
+    ],
+    [
+      54858,
+      43303
+    ],
+    [
+      54991,
+      43297
+    ],
+    [
+      54856,
+      43293
+    ]
+  ],
+  "textures": {
+    "322": 10889,
+    "1304": 10854
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

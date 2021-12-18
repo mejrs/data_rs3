@@ -1,0 +1,25 @@
+{
+  "id": 84391,
+  "models": {
+    "10": [
+      85923,
+      7766,
+      85927
+    ]
+  },
+  "name": "Diseased grapevines",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "2205": 2209
+  },
+  "model": false,
+  "occludes_2": false
+}

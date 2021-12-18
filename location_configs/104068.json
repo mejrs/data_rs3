@@ -1,0 +1,29 @@
+{
+  "id": 104068,
+  "models": {
+    "10": [
+      113650,
+      113651
+    ]
+  },
+  "name": "Aminishi moai",
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

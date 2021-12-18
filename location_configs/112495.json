@@ -1,0 +1,17 @@
+{
+  "id": 112495,
+  "models": {
+    "10": [
+      67618
+    ]
+  },
+  "name": "Prayer Pillar",
+  "actions": [
+    "Stabilise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

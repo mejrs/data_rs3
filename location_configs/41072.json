@@ -1,0 +1,41 @@
+{
+  "id": 41072,
+  "models": {
+    "10": [
+      43955
+    ]
+  },
+  "name": "Cupboard",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5660,
+      5914
+    ],
+    [
+      4750,
+      5904
+    ],
+    [
+      5908,
+      5912
+    ]
+  ],
+  "unknown_69": 13,
+  "translate_x": 14,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

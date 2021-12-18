@@ -1,0 +1,31 @@
+{
+  "id": 37846,
+  "models": {
+    "10": [
+      7794
+    ]
+  },
+  "name": "Flower patch",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 20,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      13982,
+      12441
+    ],
+    [
+      14230,
+      12435
+    ]
+  ],
+  "occludes_2": false
+}

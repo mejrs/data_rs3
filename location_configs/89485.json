@@ -1,0 +1,37 @@
+{
+  "id": 89485,
+  "models": {
+    "10": [
+      93735,
+      93734,
+      93666
+    ]
+  },
+  "name": "Coffin",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      27
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 0
+}

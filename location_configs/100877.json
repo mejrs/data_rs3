@@ -1,0 +1,27 @@
+{
+  "id": 100877,
+  "models": {
+    "10": [
+      109800
+    ]
+  },
+  "name": "Parts bin",
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    209,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 40539,
+  "models": {
+    "10": [
+      64721
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2118": 2113
+  },
+  "occludes_2": false
+}

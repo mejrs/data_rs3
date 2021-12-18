@@ -1,0 +1,14 @@
+{
+  "id": 32050,
+  "models": {
+    "10": [
+      37232
+    ]
+  },
+  "name": "Spear wall",
+  "is_transparent": true,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_196": 1
+}

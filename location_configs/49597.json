@@ -1,0 +1,28 @@
+{
+  "id": 49597,
+  "models": {
+    "10": [
+      54928
+    ]
+  },
+  "name": "Food barrel",
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

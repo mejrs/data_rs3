@@ -1,0 +1,20 @@
+{
+  "id": 13160,
+  "models": {
+    "10": [
+      11126
+    ]
+  },
+  "name": "Mahogany Wardrobe",
+  "ambient": 25,
+  "actions": [
+    "Change-clothes",
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false
+}

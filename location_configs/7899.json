@@ -1,0 +1,19 @@
+{
+  "id": 7899,
+  "models": {
+    "10": [
+      7861,
+      7767
+    ]
+  },
+  "name": "Rosemary",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "occludes_2": false
+}

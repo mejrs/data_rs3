@@ -1,0 +1,27 @@
+{
+  "id": 95787,
+  "models": {
+    "10": [
+      103251
+    ]
+  },
+  "name": "Display case",
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Take shield from",
+    "Study",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    56,
+    null,
+    null,
+    null,
+    null
+  ]
+}

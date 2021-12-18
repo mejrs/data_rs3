@@ -1,0 +1,36 @@
+{
+  "id": 46303,
+  "models": {
+    "10": [
+      25841
+    ]
+  },
+  "name": "Cart",
+  "dim_x": 2,
+  "dim_y": 3,
+  "ambient": 10,
+  "contrast": 15,
+  "colours": [
+    [
+      7830,
+      7954
+    ],
+    [
+      7582,
+      7706
+    ],
+    [
+      7587,
+      7583
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

@@ -1,0 +1,17 @@
+{
+  "id": 31333,
+  "models": {
+    "0": [
+      34453
+    ]
+  },
+  "name": "Broken door",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "occludes_1": false,
+  "ambient": 25,
+  "contrast": 25,
+  "model": false,
+  "unknown_170": 833
+}

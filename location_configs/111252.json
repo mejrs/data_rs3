@@ -1,0 +1,15 @@
+{
+  "id": 111252,
+  "models": {
+    "10": [
+      34244
+    ]
+  },
+  "name": "Lost property",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0
+}

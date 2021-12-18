@@ -1,0 +1,21 @@
+{
+  "id": 61411,
+  "models": {
+    "10": [
+      56157
+    ]
+  },
+  "name": "Tree stump",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Nurture",
+    null,
+    null,
+    null
+  ]
+}

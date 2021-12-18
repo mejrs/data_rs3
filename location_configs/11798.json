@@ -1,0 +1,24 @@
+{
+  "id": 11798,
+  "models": {
+    "0": [
+      60869
+    ]
+  },
+  "name": "Scale",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "occludes_1": false,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Balance",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_170": 961,
+  "unknown_171": 160
+}

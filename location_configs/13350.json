@@ -1,0 +1,17 @@
+{
+  "id": 13350,
+  "models": {
+    "0": [
+      12206
+    ]
+  },
+  "name": "Door",
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 125
+}

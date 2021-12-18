@@ -1,0 +1,21 @@
+{
+  "id": 104768,
+  "models": {
+    "10": [
+      113188
+    ]
+  },
+  "name": "Rowboat",
+  "dim_x": 4,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 29067,
+  "unknown_27": false,
+  "ambient": 40,
+  "model": false,
+  "scale_x": 190,
+  "scale_y": 190,
+  "scale_z": 190,
+  "occludes_2": false
+}

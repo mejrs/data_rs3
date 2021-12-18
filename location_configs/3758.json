@@ -1,0 +1,56 @@
+{
+  "id": 3758,
+  "models": {
+    "10": [
+      3717
+    ]
+  },
+  "name": "Cave Exit",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_22": true,
+  "ambient": 25,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      6036,
+      7335
+    ],
+    [
+      5008,
+      7219
+    ],
+    [
+      1932,
+      7232
+    ],
+    [
+      904,
+      7244
+    ],
+    [
+      900,
+      7384
+    ],
+    [
+      0,
+      7269
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

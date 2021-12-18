@@ -1,0 +1,17 @@
+{
+  "id": 108609,
+  "models": {
+    "10": [
+      118212
+    ]
+  },
+  "name": "Pile of money",
+  "dim_x": 3,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "translate_z": 70,
+  "occludes_2": false
+}

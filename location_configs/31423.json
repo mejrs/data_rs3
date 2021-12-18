@@ -1,0 +1,15 @@
+{
+  "id": 31423,
+  "models": {
+    "10": [
+      34513
+    ]
+  },
+  "name": "Machinery",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_22": true,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1858,
+  "models": {
+    "10": [
+      98309,
+      98311,
+      7843
+    ]
+  },
+  "name": "Compost Bin",
+  "ambient": 25,
+  "occludes_2": false
+}

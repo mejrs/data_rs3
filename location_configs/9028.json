@@ -1,0 +1,30 @@
+{
+  "id": 9028,
+  "models": {
+    "0": [
+      8890
+    ],
+    "9": [
+      8891
+    ]
+  },
+  "name": "Medium fence",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

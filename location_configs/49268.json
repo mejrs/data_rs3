@@ -1,0 +1,56 @@
+{
+  "id": 49268,
+  "models": {
+    "10": [
+      54780
+    ]
+  },
+  "name": "Debris",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 13485,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      20,
+      6554
+    ],
+    [
+      25,
+      6556
+    ],
+    [
+      5,
+      6674
+    ],
+    [
+      0,
+      6670
+    ],
+    [
+      10,
+      6550
+    ]
+  ],
+  "model": false,
+  "unknown_89": false,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

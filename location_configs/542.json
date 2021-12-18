@@ -1,0 +1,17 @@
+{
+  "id": 542,
+  "models": {
+    "10": [
+      693
+    ]
+  },
+  "name": "Stalagmite",
+  "unknown_21": true,
+  "colours": [
+    [
+      5916,
+      7952
+    ]
+  ],
+  "occludes_2": false
+}

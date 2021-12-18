@@ -1,0 +1,18 @@
+{
+  "id": 20731,
+  "models": {
+    "10": [
+      63193
+    ]
+  },
+  "name": "Boulder",
+  "unknown_17": false,
+  "colours": [
+    [
+      7952,
+      7054
+    ]
+  ],
+  "translate_y": 80,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 110317,
+  "models": {
+    "10": [
+      69797,
+      69800,
+      69798,
+      101136
+    ]
+  },
+  "name": "Santa",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

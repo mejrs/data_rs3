@@ -1,0 +1,19 @@
+{
+  "id": 93694,
+  "unknown_19": 1,
+  "ambient": 64,
+  "translate_x": 65504,
+  "morphs_1": {
+    "varbit": 25647,
+    "ids": [
+      93696,
+      93695,
+      93695
+    ]
+  },
+  "unknown_160": {
+    "values": [
+      369
+    ]
+  }
+}

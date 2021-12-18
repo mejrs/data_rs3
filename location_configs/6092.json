@@ -1,0 +1,43 @@
+{
+  "id": 6092,
+  "models": {
+    "10": [
+      7107,
+      14193
+    ]
+  },
+  "name": "Bookcase",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      11148,
+      5404
+    ],
+    [
+      11026,
+      5404
+    ],
+    [
+      10894,
+      5404
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

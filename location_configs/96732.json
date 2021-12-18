@@ -1,0 +1,30 @@
+{
+  "id": 96732,
+  "models": {
+    "10": [
+      7875,
+      7766
+    ]
+  },
+  "name": "Herbs",
+  "ambient": 25,
+  "actions": [
+    "Pick",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "5031": 3049
+  }
+}

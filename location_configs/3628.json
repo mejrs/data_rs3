@@ -1,0 +1,31 @@
+{
+  "id": 3628,
+  "models": {
+    "0": [
+      3334
+    ]
+  },
+  "name": "Wall",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37,
+      61
+    ]
+  ],
+  "unknown_189": true,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

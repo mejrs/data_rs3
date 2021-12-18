@@ -1,0 +1,17 @@
+{
+  "id": 112498,
+  "models": {
+    "10": [
+      67618
+    ]
+  },
+  "name": "Runecrafting Pillar",
+  "actions": [
+    "Stabilise",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

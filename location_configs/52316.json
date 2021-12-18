@@ -1,0 +1,28 @@
+{
+  "id": 52316,
+  "models": {
+    "10": [
+      57026
+    ]
+  },
+  "name": "Mark 1",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Attack",
+    null,
+    "Pickpocket",
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    42,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

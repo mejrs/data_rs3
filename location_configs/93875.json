@@ -1,0 +1,28 @@
+{
+  "id": 93875,
+  "models": {
+    "10": [
+      99517
+    ]
+  },
+  "name": "Desk",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "ambient": 64,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

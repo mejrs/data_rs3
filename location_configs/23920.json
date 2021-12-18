@@ -1,0 +1,22 @@
+{
+  "id": 23920,
+  "models": {
+    "10": [
+      24869
+    ]
+  },
+  "name": "Pump and drain",
+  "dim_y": 2,
+  "is_transparent": true,
+  "ambient": 20,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "translate_y": 65531,
+  "occludes_2": false
+}

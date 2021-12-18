@@ -1,0 +1,30 @@
+{
+  "id": 62428,
+  "models": {
+    "10": [
+      1526
+    ]
+  },
+  "name": "Information point",
+  "unknown_19": 1,
+  "unknown_24": 2714,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

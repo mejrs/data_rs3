@@ -1,0 +1,27 @@
+{
+  "id": 19935,
+  "models": {
+    "10": [
+      20089
+    ]
+  },
+  "name": "Metal bird",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      7070,
+      61
+    ],
+    [
+      9123,
+      61
+    ],
+    [
+      11200,
+      61
+    ]
+  ],
+  "unknown_73": true,
+  "occludes_2": false
+}

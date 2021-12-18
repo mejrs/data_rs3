@@ -1,0 +1,27 @@
+{
+  "id": 3538,
+  "models": {
+    "10": [
+      55145
+    ]
+  },
+  "name": "Block of metal",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

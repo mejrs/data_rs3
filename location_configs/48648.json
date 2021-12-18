@@ -1,0 +1,20 @@
+{
+  "id": 48648,
+  "models": {
+    "10": [
+      52339
+    ]
+  },
+  "name": "Statue of Dahmaroc",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Check",
+    null,
+    null,
+    "Remove"
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,13 @@
+{
+  "id": 38809,
+  "models": {
+    "10": [
+      42310
+    ]
+  },
+  "name": "Brewing vat",
+  "unknown_21": true,
+  "unknown_22": true,
+  "scale_y": 115,
+  "occludes_2": false
+}

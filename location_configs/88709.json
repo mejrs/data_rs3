@@ -1,0 +1,28 @@
+{
+  "id": 88709,
+  "models": {
+    "10": [
+      92669
+    ]
+  },
+  "name": "Bandos",
+  "dim_x": 7,
+  "dim_y": 7,
+  "unknown_24": 22284,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

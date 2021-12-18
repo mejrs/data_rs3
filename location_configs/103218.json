@@ -1,0 +1,23 @@
+{
+  "id": 103218,
+  "models": {
+    "10": [
+      112888,
+      40655
+    ]
+  },
+  "name": "Life altar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_24": 503,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

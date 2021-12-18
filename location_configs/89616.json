@@ -1,0 +1,23 @@
+{
+  "id": 89616,
+  "models": {
+    "10": [
+      93984
+    ]
+  },
+  "name": "Map",
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Look at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_186": 0
+}

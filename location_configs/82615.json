@@ -1,0 +1,30 @@
+{
+  "id": 82615,
+  "models": {
+    "10": [
+      83658
+    ]
+  },
+  "name": "Stone plaque",
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

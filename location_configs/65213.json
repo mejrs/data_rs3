@@ -1,0 +1,17 @@
+{
+  "id": 65213,
+  "models": {
+    "10": [
+      20582
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_x": 130,
+  "scale_y": 95,
+  "scale_z": 118,
+  "unknown_81": 40,
+  "mapscene": 11,
+  "occludes_2": false
+}

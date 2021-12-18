@@ -1,0 +1,37 @@
+{
+  "id": 103388,
+  "models": {
+    "10": [
+      112829,
+      112839
+    ]
+  },
+  "name": "Barricaded door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      36300,
+      966
+    ]
+  ],
+  "translate_y": 384,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

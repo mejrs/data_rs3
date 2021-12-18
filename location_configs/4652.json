@@ -1,0 +1,19 @@
+{
+  "id": 4652,
+  "models": {
+    "10": [
+      4599
+    ]
+  },
+  "name": "Table",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "View-game",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

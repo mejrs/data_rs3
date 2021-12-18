@@ -1,0 +1,28 @@
+{
+  "id": 36764,
+  "models": {
+    "0": [
+      12030
+    ],
+    "2": [
+      112728
+    ],
+    "9": [
+      16331
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "unknown_27": false,
+  "colours": [
+    [
+      0,
+      6674
+    ]
+  ],
+  "model": false,
+  "scale_y": 174,
+  "mapscene": 22,
+  "occludes_2": false
+}

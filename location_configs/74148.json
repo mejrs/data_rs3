@@ -1,0 +1,15 @@
+{
+  "id": 74148,
+  "models": {
+    "10": [
+      72416
+    ]
+  },
+  "name": "Ship's wheel",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_22": true,
+  "ambient": 25,
+  "occludes_2": false
+}

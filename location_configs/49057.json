@@ -1,0 +1,28 @@
+{
+  "id": 49057,
+  "models": {
+    "10": [
+      19037
+    ]
+  },
+  "name": "Bureau",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "colours": [
+    [
+      6443,
+      6439
+    ],
+    [
+      6682,
+      6424
+    ],
+    [
+      6930,
+      6419
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false
+}

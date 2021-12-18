@@ -1,0 +1,27 @@
+{
+  "id": 110273,
+  "models": {
+    "10": [
+      118598
+    ]
+  },
+  "name": "Fire pit",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Add logs to",
+    "Cook on",
+    "Configure",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    64,
+    155,
+    null,
+    null,
+    null
+  ]
+}

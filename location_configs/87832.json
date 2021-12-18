@@ -1,0 +1,44 @@
+{
+  "id": 87832,
+  "models": {
+    "10": [
+      90737
+    ]
+  },
+  "name": "<col=ffff00>Frank</col>",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_24": 13762,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    "Reclaim items",
+    "Death event"
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      10048
+    ]
+  ],
+  "occludes_2": false,
+  "member_actions": [
+    null,
+    "Get task",
+    "Rewards",
+    null,
+    null
+  ],
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

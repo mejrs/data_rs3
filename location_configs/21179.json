@@ -1,0 +1,22 @@
+{
+  "id": 21179,
+  "models": {
+    "10": [
+      21579
+    ]
+  },
+  "name": "Firm snow patch",
+  "dim_x": 3,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false
+}

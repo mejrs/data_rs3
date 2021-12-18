@@ -1,0 +1,27 @@
+{
+  "id": 13714,
+  "models": {
+    "10": [
+      10388
+    ]
+  },
+  "name": "Whetstone",
+  "dim_x": 2,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Remove"
+  ],
+  "colours": [
+    [
+      10287,
+      10295
+    ]
+  ],
+  "unknown_69": 11,
+  "translate_x": 20,
+  "translate_z": 20,
+  "occludes_2": false
+}

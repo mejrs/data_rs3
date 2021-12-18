@@ -1,0 +1,20 @@
+{
+  "id": 100464,
+  "models": {
+    "10": [
+      30329
+    ]
+  },
+  "name": "Snowman",
+  "unknown_17": false,
+  "ambient": 30,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 20,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 85380,
+  "models": {
+    "10": [
+      88152
+    ]
+  },
+  "name": "Girders",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Reclaim",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_81": 85,
+  "occludes_2": false
+}

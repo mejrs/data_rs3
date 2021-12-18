@@ -1,0 +1,19 @@
+{
+  "id": 35977,
+  "models": {
+    "10": [
+      35261
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 0,
+  "colours": [
+    [
+      36298,
+      40041
+    ]
+  ],
+  "unknown_94": true,
+  "occludes_2": false
+}

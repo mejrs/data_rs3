@@ -1,0 +1,24 @@
+{
+  "id": 87958,
+  "models": {
+    "10": [
+      91107,
+      91117
+    ]
+  },
+  "name": "Straw stack",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Drop resource",
+    "Take resource",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "occludes_2": false
+}

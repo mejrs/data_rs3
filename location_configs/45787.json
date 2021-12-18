@@ -1,0 +1,37 @@
+{
+  "id": 45787,
+  "models": {
+    "10": [
+      49179
+    ]
+  },
+  "name": "Ladder",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      6930,
+      5392
+    ],
+    [
+      6932,
+      5396
+    ],
+    [
+      7958,
+      5400
+    ],
+    [
+      7834,
+      5404
+    ],
+    [
+      7836,
+      5408
+    ]
+  ],
+  "scale_y": 180,
+  "unknown_88": false,
+  "occludes_2": false
+}

@@ -1,0 +1,51 @@
+{
+  "id": 57350,
+  "models": {
+    "10": [
+      65029
+    ]
+  },
+  "name": "Cave",
+  "dim_x": 6,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 5415,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      32786,
+      37200
+    ]
+  ],
+  "textures": {
+    "325": 1417
+  },
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 3445,
+    "unknown_2": 10
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 64,
+  "unknown_178": 5,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 95875,
+  "models": {
+    "10": [
+      7331
+    ]
+  },
+  "name": "Watering can",
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      376
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

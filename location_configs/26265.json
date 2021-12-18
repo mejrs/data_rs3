@@ -1,0 +1,12 @@
+{
+  "id": 26265,
+  "models": {
+    "10": [
+      27946
+    ]
+  },
+  "name": "Stormram",
+  "unknown_21": true,
+  "ambient": 25,
+  "occludes_2": false
+}

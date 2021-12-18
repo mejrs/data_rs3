@@ -1,0 +1,12 @@
+{
+  "id": 30997,
+  "models": {
+    "10": [
+      16278
+    ]
+  },
+  "name": "Dragon eggs",
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

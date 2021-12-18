@@ -1,0 +1,29 @@
+{
+  "id": 64669,
+  "models": {
+    "10": [
+      17827
+    ]
+  },
+  "name": "Unstable floor",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 25,
+  "actions": [
+    "Run across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

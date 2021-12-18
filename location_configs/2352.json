@@ -1,0 +1,32 @@
+{
+  "id": 2352,
+  "models": {
+    "10": [
+      1487
+    ]
+  },
+  "name": "Rope",
+  "is_members": true,
+  "mapscene": 69,
+  "occludes_2": false,
+  "member_actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_160": {
+    "values": [
+      273
+    ]
+  },
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

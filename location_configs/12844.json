@@ -1,0 +1,19 @@
+{
+  "id": 12844,
+  "models": {
+    "10": [
+      4476
+    ]
+  },
+  "name": "Pile of bricks",
+  "unknown_17": false,
+  "ambient": 20,
+  "colours": [
+    [
+      21526,
+      13840
+    ]
+  ],
+  "unknown_44": 4,
+  "occludes_2": false
+}

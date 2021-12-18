@@ -1,0 +1,13 @@
+{
+  "id": 9440,
+  "models": {
+    "10": [
+      51400
+    ]
+  },
+  "name": "Fireplace",
+  "dim_y": 2,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 116498,
+  "models": {
+    "10": [
+      89758,
+      89759,
+      89760
+    ]
+  },
+  "name": "Sconce",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,28 @@
+{
+  "id": 87414,
+  "models": {
+    "10": [
+      90505
+    ]
+  },
+  "name": "Statue",
+  "unknown_19": 1,
+  "ambient": 15,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

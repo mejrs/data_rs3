@@ -1,0 +1,54 @@
+{
+  "id": 27245,
+  "models": {
+    "10": [
+      29144
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10652,
+      910
+    ],
+    [
+      9661,
+      54670
+    ],
+    [
+      8745,
+      55174
+    ],
+    [
+      10772,
+      906
+    ],
+    [
+      3470,
+      12
+    ],
+    [
+      3350,
+      16
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

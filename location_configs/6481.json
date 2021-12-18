@@ -1,0 +1,30 @@
+{
+  "id": 6481,
+  "models": {
+    "10": [
+      118635
+    ]
+  },
+  "name": "Tunnel",
+  "dim_y": 2,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_y": 50,
+  "translate_z": 195,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

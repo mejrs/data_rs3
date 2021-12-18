@@ -1,0 +1,22 @@
+{
+  "id": 16643,
+  "models": {
+    "10": [
+      16660
+    ]
+  },
+  "name": "Water Source",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 8,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 10,
+  "occludes_2": false
+}

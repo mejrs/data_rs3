@@ -1,0 +1,31 @@
+{
+  "id": 20451,
+  "models": {
+    "10": [
+      38837,
+      38843
+    ]
+  },
+  "name": "Obelisk",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Summon",
+    "Renew points",
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "unknown_78": {
+    "unknown_1": 6199,
+    "unknown_2": 15
+  },
+  "occludes_2": false,
+  "unknown_104": 100,
+  "unknown_196": 1
+}

@@ -1,0 +1,16 @@
+{
+  "id": 30044,
+  "models": {
+    "10": [
+      32768
+    ]
+  },
+  "name": "Ice mound",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 15,
+  "model": false,
+  "occludes_2": false
+}
