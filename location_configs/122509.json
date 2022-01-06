@@ -1,0 +1,22 @@
+{
+  "id": 122509,
+  "models": {
+    "10": [
+      121916,
+      7767
+    ]
+  },
+  "name": "Iris bush (budding)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13632": 14491
+  },
+  "is_members": true,
+  "occludes_2": false
+}

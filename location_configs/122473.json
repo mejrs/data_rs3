@@ -1,0 +1,22 @@
+{
+  "id": 122473,
+  "models": {
+    "10": [
+      28521
+    ]
+  },
+  "name": "Solid ground",
+  "unknown_21": true,
+  "actions": [
+    "Jump to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "params": {
+    "6668": 4810
+  }
+}

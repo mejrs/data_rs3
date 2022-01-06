@@ -1,0 +1,26 @@
+{
+  "id": 122464,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Collapsed walls",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Jump across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "is_members": true,
+  "occludes_2": false
+}

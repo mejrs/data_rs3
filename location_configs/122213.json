@@ -1,0 +1,49 @@
+{
+  "id": 122213,
+  "models": {
+    "10": [
+      114014,
+      113998,
+      121053
+    ]
+  },
+  "name": "Event noticeboard",
+  "unknown_19": 1,
+  "unknown_24": 29617,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Open Yak Track",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      9428,
+      20399
+    ],
+    [
+      12248,
+      65469
+    ],
+    [
+      8768,
+      20399
+    ],
+    [
+      8112,
+      65469
+    ],
+    [
+      4028,
+      20399
+    ]
+  ],
+  "textures": {
+    "9178": 9479
+  },
+  "occludes_2": false
+}

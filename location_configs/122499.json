@@ -1,0 +1,22 @@
+{
+  "id": 122499,
+  "models": {
+    "10": [
+      124865,
+      124869
+    ]
+  },
+  "name": "Flower basket (golden roses)",
+  "actions": [
+    "Interact",
+    "Check",
+    "Fill X",
+    "Fill all",
+    "Remove all"
+  ],
+  "textures": {
+    "14494": 14483
+  },
+  "is_members": true,
+  "occludes_2": false
+}

@@ -1,0 +1,22 @@
+{
+  "id": 122504,
+  "models": {
+    "10": [
+      124959,
+      7767
+    ]
+  },
+  "name": "Rose bush (bare)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13633": 14494
+  },
+  "is_members": true,
+  "occludes_2": false
+}

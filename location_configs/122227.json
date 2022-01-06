@@ -1,0 +1,24 @@
+{
+  "id": 122227,
+  "models": {
+    "10": [
+      120550
+    ]
+  },
+  "name": "Rug",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      41378,
+      3784
+    ]
+  ],
+  "textures": {
+    "13053": 14467
+  },
+  "occludes_2": false
+}

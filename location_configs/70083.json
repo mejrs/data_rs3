@@ -8,12 +8,12 @@
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "textures": {
+    "2653": 12356
+  },
   "model": false,
   "scale_x": 110,
   "scale_y": 110,
   "scale_z": 110,
-  "unknown_98": true,
   "occludes_2": false
 }

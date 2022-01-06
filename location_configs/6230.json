@@ -5,6 +5,13 @@
       6072
     ]
   },
-  "name": "Money Pot",
+  "name": "Money pot",
+  "actions": [
+    "Throw coin",
+    null,
+    null,
+    null,
+    null
+  ],
   "occludes_2": false
 }

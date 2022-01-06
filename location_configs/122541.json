@@ -1,0 +1,24 @@
+{
+  "id": 122541,
+  "models": {
+    "10": [
+      124844,
+      124850
+    ]
+  },
+  "name": "Debris",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

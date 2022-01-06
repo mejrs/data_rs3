@@ -10,7 +10,6 @@
   "dim_y": 3,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 64,
   "actions": [
     "Chop down",
     null,
@@ -24,6 +23,10 @@
       15635
     ]
   ],
+  "textures": {
+    "2637": 12356,
+    "2653": 12356
+  },
   "model": false,
   "scale_x": 110,
   "scale_y": 110,

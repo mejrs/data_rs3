@@ -9,10 +9,11 @@
   "dim_y": 3,
   "unknown_17": false,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
   "textures": {
-    "2653": 11402
+    "2242": 2252,
+    "2261": 2255,
+    "2262": 2245,
+    "2653": 12356
   },
   "model": false,
   "scale_x": 200,

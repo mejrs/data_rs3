@@ -1,0 +1,21 @@
+{
+  "id": 122452,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Interact",
+    null,
+    "Clear",
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "morphs_1": {
+    "varbit": 50891,
+    "ids": [
+      122447,
+      122453
+    ]
+  },
+  "is_members": true
+}

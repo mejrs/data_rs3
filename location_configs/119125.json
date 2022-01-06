@@ -18,6 +18,11 @@
   ],
   "model": false,
   "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      477
+    ]
+  },
   "cursors": [
     49,
     null,

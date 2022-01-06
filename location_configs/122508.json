@@ -1,0 +1,22 @@
+{
+  "id": 122508,
+  "models": {
+    "10": [
+      124951,
+      7767
+    ]
+  },
+  "name": "Iris bush (bare)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13632": 14491
+  },
+  "is_members": true,
+  "occludes_2": false
+}

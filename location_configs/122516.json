@@ -1,0 +1,22 @@
+{
+  "id": 122516,
+  "models": {
+    "10": [
+      124944,
+      7767
+    ]
+  },
+  "name": "Hollyhock bush (bare)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13631": 14488
+  },
+  "is_members": true,
+  "occludes_2": false
+}

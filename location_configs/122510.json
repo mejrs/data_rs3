@@ -1,0 +1,22 @@
+{
+  "id": 122510,
+  "models": {
+    "10": [
+      121915,
+      7767
+    ]
+  },
+  "name": "Iris bush (blooming)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13632": 14491
+  },
+  "is_members": true,
+  "occludes_2": false
+}

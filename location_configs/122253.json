@@ -1,0 +1,14 @@
+{
+  "id": 122253,
+  "models": {
+    "10": [
+      124836
+    ]
+  },
+  "name": "Medical tools",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 122394,
+  "models": {
+    "10": [
+      124949
+    ]
+  },
+  "name": "Hydrangea bush",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "14489": 14490
+  },
+  "occludes_2": false
+}

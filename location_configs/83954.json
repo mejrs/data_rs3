@@ -2,11 +2,11 @@
   "id": 83954,
   "models": {
     "10": [
-      76711
+      73839
     ]
   },
   "name": "Bank chest",
-  "ambient": 10,
+  "ambient": 0,
   "actions": [
     null,
     "Use",
@@ -14,10 +14,6 @@
     null,
     null
   ],
-  "contrast": 15,
-  "scale_x": 115,
-  "scale_y": 115,
-  "scale_z": 115,
   "occludes_2": false,
   "cursors": [
     null,

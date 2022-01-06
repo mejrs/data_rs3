@@ -1,0 +1,22 @@
+{
+  "id": 122518,
+  "models": {
+    "10": [
+      121912,
+      7767
+    ]
+  },
+  "name": "Hollyhock bush (blooming)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13631": 14488
+  },
+  "is_members": true,
+  "occludes_2": false
+}

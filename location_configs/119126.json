@@ -18,5 +18,10 @@
     null
   ],
   "model": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      471
+    ]
+  }
 }

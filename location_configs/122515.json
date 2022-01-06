@@ -1,0 +1,36 @@
+{
+  "id": 122515,
+  "models": {
+    "10": [
+      124946,
+      7767
+    ]
+  },
+  "name": "Hydrangea bush (blooming)",
+  "actions": [
+    "Harvest",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      21033
+    ],
+    [
+      8722,
+      21272
+    ],
+    [
+      6364,
+      6618
+    ]
+  ],
+  "textures": {
+    "14489": 14490
+  },
+  "is_members": true,
+  "occludes_2": false
+}

@@ -1,0 +1,55 @@
+{
+  "id": 122122,
+  "models": {
+    "10": [
+      124501,
+      124502,
+      124503,
+      124505
+    ]
+  },
+  "name": "Strange symbols",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Assign ally",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64692,
+      10320
+    ],
+    [
+      64809,
+      10306
+    ],
+    [
+      64799,
+      9272
+    ]
+  ],
+  "textures": {
+    "11309": 12321,
+    "11314": 12326,
+    "14297": 14298
+  },
+  "model": false,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      476
+    ]
+  },
+  "unknown_196": 4
+}

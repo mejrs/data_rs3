@@ -1,0 +1,19 @@
+{
+  "id": 122537,
+  "models": {
+    "10": [
+      36844
+    ]
+  },
+  "name": "Murky water",
+  "unknown_24": 9645,
+  "actions": [
+    "Clean",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

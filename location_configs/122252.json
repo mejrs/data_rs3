@@ -1,0 +1,15 @@
+{
+  "id": 122252,
+  "models": {
+    "10": [
+      124832
+    ]
+  },
+  "name": "Operating table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false
+}

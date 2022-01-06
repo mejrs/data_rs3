@@ -18,6 +18,11 @@
   ],
   "contrast": 15,
   "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      475
+    ]
+  },
   "cursors": [
     45,
     null,

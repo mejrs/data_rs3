@@ -2,7 +2,7 @@
   "id": 110259,
   "models": {
     "10": [
-      7047
+      118518
     ]
   },
   "name": "Coconut tree",
@@ -17,6 +17,10 @@
     null
   ],
   "contrast": 15,
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
   "model": false,
   "unknown_81": 80,
   "occludes_2": false,

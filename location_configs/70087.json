@@ -8,11 +8,10 @@
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
   "textures": {
-    "2653": 11402
+    "2653": 12356
   },
+  "unknown_45": 8,
   "model": false,
   "scale_x": 200,
   "scale_y": 215,

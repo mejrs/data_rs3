@@ -1,0 +1,18 @@
+{
+  "id": 122494,
+  "models": {
+    "10": [
+      124865
+    ]
+  },
+  "name": "Empty flower basket",
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

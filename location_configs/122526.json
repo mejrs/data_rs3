@@ -1,0 +1,57 @@
+{
+  "id": 122526,
+  "models": {
+    "10": [
+      124848,
+      124846
+    ]
+  },
+  "name": "Rubble",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Rescue Survivor",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8741,
+      127
+    ],
+    [
+      25238,
+      127
+    ],
+    [
+      59515,
+      127
+    ],
+    [
+      4554,
+      6717
+    ],
+    [
+      4550,
+      6713
+    ],
+    [
+      4540,
+      6709
+    ],
+    [
+      4533,
+      6705
+    ]
+  ],
+  "textures": {
+    "622": 618
+  },
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

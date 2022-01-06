@@ -1,0 +1,22 @@
+{
+  "id": 122532,
+  "models": {
+    "10": [
+      41203
+    ]
+  },
+  "name": "Soil mound",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Plant seed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "is_members": true,
+  "occludes_2": false
+}

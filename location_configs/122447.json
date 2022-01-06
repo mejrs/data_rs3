@@ -1,0 +1,23 @@
+{
+  "id": 122447,
+  "models": {
+    "10": [
+      124894
+    ]
+  },
+  "name": "Fallen masonry",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    "Clear",
+    null,
+    null
+  ],
+  "textures": {
+    "12007": 9001
+  },
+  "is_members": true,
+  "occludes_2": false
+}

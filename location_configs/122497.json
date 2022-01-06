@@ -1,0 +1,19 @@
+{
+  "id": 122497,
+  "models": {
+    "10": [
+      124865,
+      124867
+    ]
+  },
+  "name": "Flower basket (hydrangeas)",
+  "actions": [
+    "Interact",
+    "Check",
+    "Fill X",
+    "Fill all",
+    "Remove all"
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

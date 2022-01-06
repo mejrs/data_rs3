@@ -1,0 +1,22 @@
+{
+  "id": 122517,
+  "models": {
+    "10": [
+      121913,
+      7766
+    ]
+  },
+  "name": "Hollyhock bush (budding)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13631": 14488
+  },
+  "is_members": true,
+  "occludes_2": false
+}

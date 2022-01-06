@@ -1,0 +1,35 @@
+{
+  "id": 122544,
+  "models": {
+    "10": [
+      68884
+    ]
+  },
+  "name": "Ancient chest",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Check progress",
+    "Check tasks",
+    "Open",
+    null,
+    null
+  ],
+  "textures": {
+    "11375": 14478
+  },
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    49,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 122493,
+  "models": {
+    "10": [
+      124870
+    ]
+  },
+  "name": "Flower basket rubble",
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

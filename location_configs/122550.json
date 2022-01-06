@@ -1,0 +1,29 @@
+{
+  "id": 122550,
+  "models": {
+    "10": [
+      111288
+    ]
+  },
+  "name": "Rift",
+  "unknown_17": false,
+  "ambient": 25,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 52575,
+    "unknown_2": 16
+  },
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_104": 190,
+  "unknown_1": 240,
+  "unknown_2": 270
+}

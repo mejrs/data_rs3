@@ -1,0 +1,21 @@
+{
+  "id": 122147,
+  "models": {
+    "10": [
+      80643
+    ]
+  },
+  "name": "Drawers",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Invade privacy",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 11,
+  "occludes_2": false
+}

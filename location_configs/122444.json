@@ -1,0 +1,38 @@
+{
+  "id": 122444,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Fallen palm tree",
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Run across",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 512,
+  "scale_y": 128,
+  "scale_z": 128,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

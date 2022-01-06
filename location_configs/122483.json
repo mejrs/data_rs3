@@ -1,0 +1,21 @@
+{
+  "id": 122483,
+  "models": {
+    "10": [
+      124942
+    ]
+  },
+  "name": "Pile of junk",
+  "dim_x": 3,
+  "dim_y": 3,
+  "actions": [
+    "Construct",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

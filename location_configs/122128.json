@@ -1,0 +1,20 @@
+{
+  "id": 122128,
+  "models": {
+    "10": [
+      91740
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_24": 22431,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 240,
+  "scale_y": 240,
+  "scale_z": 240,
+  "unknown_81": 32,
+  "unknown_89": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,22 @@
+{
+  "id": 122505,
+  "models": {
+    "10": [
+      121919,
+      7766
+    ]
+  },
+  "name": "Rose bush (budding)",
+  "actions": [
+    "Cultivate",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13633": 14494
+  },
+  "is_members": true,
+  "occludes_2": false
+}

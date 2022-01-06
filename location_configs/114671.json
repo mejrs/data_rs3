@@ -2,19 +2,20 @@
   "id": 114671,
   "models": {
     "10": [
-      6646
+      8028,
+      124756,
+      124757,
+      124755
     ]
   },
-  "name": "Event noticeboard",
+  "name": "Sleigh",
+  "dim_x": 2,
+  "dim_y": 4,
   "unknown_19": 1,
-  "unknown_24": 29617,
   "unknown_27": false,
-  "actions": [
-    "Open Advent Calendar",
-    null,
-    null,
-    null,
-    null
-  ],
-  "occludes_2": false
+  "textures": {
+    "9483": 14418
+  },
+  "occludes_2": false,
+  "mapfunction": 627
 }

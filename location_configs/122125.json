@@ -1,0 +1,28 @@
+{
+  "id": 122125,
+  "models": {
+    "10": [
+      124496
+    ]
+  },
+  "name": "Intricate lock",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Assign ally",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      476
+    ]
+  },
+  "unknown_196": 4
+}

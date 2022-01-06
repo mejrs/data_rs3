@@ -1,0 +1,15 @@
+{
+  "id": 122383,
+  "models": {
+    "10": [
+      121911
+    ]
+  },
+  "name": "Hollyhock bush",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "13631": 14488
+  },
+  "occludes_2": false
+}

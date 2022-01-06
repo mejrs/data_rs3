@@ -1,0 +1,22 @@
+{
+  "id": 122507,
+  "models": {
+    "10": [
+      121917,
+      7767
+    ]
+  },
+  "name": "Rose bush (blooming)",
+  "actions": [
+    "Harvest",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13633": 14494
+  },
+  "is_members": true,
+  "occludes_2": false
+}
