@@ -1,0 +1,31 @@
+{
+  "id": 124337,
+  "models": {
+    "10": [
+      122251,
+      122465
+    ]
+  },
+  "name": "Corrupt Ward",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      48571,
+      64830
+    ]
+  ],
+  "textures": {
+    "13853": 13851
+  },
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

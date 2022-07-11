@@ -15,5 +15,6 @@
   "scale_y": 64,
   "scale_z": 256,
   "translate_x": 65408,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_203": true
 }

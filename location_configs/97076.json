@@ -19,14 +19,6 @@
   "contrast": 25,
   "unknown_75": 0,
   "occludes_2": false,
-  "cursors": [
-    5,
-    null,
-    null,
-    null,
-    null,
-    null
-  ],
   "params": {
     "5102": 1
   }

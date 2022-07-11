@@ -1,0 +1,13 @@
+{
+  "id": 123397,
+  "models": {
+    "10": [
+      125515
+    ]
+  },
+  "name": "Sack of eggs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false,
+  "unknown_196": 4
+}

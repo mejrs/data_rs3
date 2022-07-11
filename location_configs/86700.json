@@ -21,7 +21,7 @@
   ],
   "contrast": 15,
   "model": false,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "unknown_75": 0,
   "unknown_88": false,
   "occludes_2": false,

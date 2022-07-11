@@ -1,0 +1,31 @@
+{
+  "id": 123263,
+  "models": {
+    "10": [
+      116522
+    ]
+  },
+  "name": "Hibernation pod",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    "Toggle sky",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

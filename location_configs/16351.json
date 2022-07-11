@@ -22,7 +22,7 @@
   "contrast": 15,
   "mirror": true,
   "model": false,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false,
   "unknown_160": {
     "values": [

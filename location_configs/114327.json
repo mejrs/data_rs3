@@ -14,7 +14,7 @@
   "ambient": 25,
   "actions": [
     "Teleport",
-    null,
+    "Teleport to Ben",
     null,
     null,
     null

@@ -1,0 +1,36 @@
+{
+  "id": 123675,
+  "models": {
+    "10": [
+      1877
+    ],
+    "22": [
+      75464
+    ]
+  },
+  "name": "Notes",
+  "unknown_24": 1199,
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 123687,
+  "models": {
+    "10": [
+      125200,
+      125201
+    ]
+  },
+  "name": "Broken railing",
+  "dim_x": 3,
+  "unknown_17": false,
+  "actions": [
+    "Climb rope",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13673": 14611
+  },
+  "occludes_2": false,
+  "cursors": [
+    54,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

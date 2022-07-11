@@ -1,0 +1,20 @@
+{
+  "id": 123223,
+  "models": {
+    "10": [
+      37234
+    ]
+  },
+  "name": "Slipstream",
+  "unknown_17": false,
+  "unknown_21": true,
+  "ambient": 20,
+  "contrast": 25,
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false
+}

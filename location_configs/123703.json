@@ -1,0 +1,28 @@
+{
+  "id": 123703,
+  "models": {
+    "10": [
+      124832,
+      1877
+    ]
+  },
+  "name": "Operating table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_24": 1199,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  }
+}

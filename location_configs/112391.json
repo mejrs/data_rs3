@@ -1,12 +1,15 @@
 {
   "id": 112391,
   "models": {
-    "22": [
-      1105
+    "10": [
+      125125
     ]
   },
-  "unknown_73": true,
+  "dim_x": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "model": false,
   "occludes_2": false,
-  "mapfunction": 4183,
-  "unknown_198": true
+  "unknown_186": 2
 }

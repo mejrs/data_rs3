@@ -9,5 +9,6 @@
   "scale_x": 128,
   "scale_y": 64,
   "scale_z": 128,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_203": true
 }

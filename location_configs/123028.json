@@ -1,0 +1,19 @@
+{
+  "id": 123028,
+  "models": {
+    "22": [
+      125359
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "colours": [
+    [
+      804,
+      50980
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

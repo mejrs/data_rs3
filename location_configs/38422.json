@@ -1,32 +1,12 @@
 {
   "id": 38422,
   "models": {
-    "4": [
-      41738
+    "10": [
+      125582
     ]
   },
-  "name": "Map",
-  "unknown_19": 1,
-  "actions": [
-    "Study",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
-    [
-      5786,
-      7952
-    ]
-  ],
-  "occludes_2": false,
-  "cursors": [
-    50,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "name": "Akash",
+  "unknown_24": 34799,
+  "unknown_75": 0,
+  "occludes_2": false
 }

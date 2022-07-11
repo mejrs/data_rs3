@@ -1,0 +1,29 @@
+{
+  "id": 123150,
+  "models": {
+    "10": [
+      122198
+    ]
+  },
+  "name": "Cathedral door",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -30,13 +30,5 @@
   "textures": {
     "9937": 12899
   },
-  "occludes_2": false,
-  "cursors": [
-    5,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

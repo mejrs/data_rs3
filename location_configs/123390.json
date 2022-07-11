@@ -1,0 +1,13 @@
+{
+  "id": 123390,
+  "models": {
+    "10": [
+      125460
+    ]
+  },
+  "name": "Ship's wheel",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false,
+  "unknown_196": 2
+}

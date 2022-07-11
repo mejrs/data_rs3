@@ -1,0 +1,21 @@
+{
+  "id": 123794,
+  "models": {
+    "10": [
+      125908,
+      125909
+    ]
+  },
+  "dim_x": 7,
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "textures": {
+    "13673": 14611,
+    "15146": 15147
+  },
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4
+}

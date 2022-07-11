@@ -12,7 +12,7 @@
   "model": false,
   "scale_x": 1,
   "scale_z": 1,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "unknown_88": false,
   "occludes_2": false
 }

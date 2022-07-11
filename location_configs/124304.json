@@ -1,0 +1,30 @@
+{
+  "id": 124304,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Descend",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "model": false,
+  "scale_x": 384,
+  "scale_y": 384,
+  "scale_z": 384,
+  "unknown_69": 14,
+  "occludes_2": false
+}

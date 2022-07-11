@@ -10,6 +10,6 @@
   "unknown_21": true,
   "unknown_22": true,
   "ambient": 10,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false
 }

@@ -1,0 +1,14 @@
+{
+  "id": 123419,
+  "models": {
+    "10": [
+      89136,
+      125458
+    ]
+  },
+  "name": "Fire extinguisher",
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

@@ -20,7 +20,7 @@
   "contrast": 25,
   "mirror": true,
   "scale_y": 130,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "cursors": [
     49,
     null,

@@ -1,0 +1,37 @@
+{
+  "id": 123304,
+  "models": {
+    "4": [
+      34351
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "model": false,
+  "unknown_79": {
+    "unknown_1": 250,
+    "unknown_2": 650,
+    "unknown_3": 20,
+    "values": [
+      53519,
+      53520,
+      53521,
+      53522,
+      53523,
+      53524,
+      53525,
+      53526,
+      53527,
+      53528,
+      53529,
+      53530,
+      53531,
+      53532
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 140,
+  "unknown_1": 255,
+  "unknown_2": 256,
+  "unknown_198": true
+}

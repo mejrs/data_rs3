@@ -38,7 +38,7 @@
   "textures": {
     "810": 2556
   },
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "unknown_78": {
     "unknown_1": 39226,
     "unknown_2": 10

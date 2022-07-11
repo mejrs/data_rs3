@@ -1,0 +1,20 @@
+{
+  "id": 123839,
+  "models": {
+    "10": [
+      87763
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "textures": {
+    "11105": 15133
+  },
+  "scale_x": 210,
+  "scale_y": 210,
+  "scale_z": 210,
+  "occludes_2": false,
+  "unknown_186": 2
+}

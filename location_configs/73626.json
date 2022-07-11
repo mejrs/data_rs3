@@ -17,7 +17,7 @@
     null
   ],
   "model": false,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "mapscene": 22,
   "occludes_2": false,
   "cursors": [

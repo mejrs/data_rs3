@@ -1,0 +1,38 @@
+{
+  "id": 123727,
+  "models": {
+    "10": [
+      125720,
+      125723
+    ]
+  },
+  "name": "Empty stone circle",
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Construct",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "unknown_196": 4,
+  "params": {
+    "2640": 22,
+    "2645": 1,
+    "2655": 53242,
+    "2665": 1,
+    "5446": 1
+  }
+}

@@ -2,10 +2,11 @@
   "id": 122471,
   "models": {
     "10": [
-      28521
+      67768
     ]
   },
   "name": "Solid ground",
+  "unknown_17": false,
   "unknown_21": true,
   "actions": [
     "Jump to",
@@ -14,6 +15,9 @@
     null,
     null
   ],
+  "textures": {
+    "8868": 11042
+  },
   "is_members": true,
   "occludes_2": false,
   "params": {

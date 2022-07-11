@@ -1,0 +1,14 @@
+{
+  "id": 124345,
+  "models": {
+    "4": [
+      126134
+    ]
+  },
+  "name": "Broken Cell Door",
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

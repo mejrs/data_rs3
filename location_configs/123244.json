@@ -1,0 +1,31 @@
+{
+  "id": 123244,
+  "models": {
+    "10": [
+      125390
+    ]
+  },
+  "name": "Longleaf marsh plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Take seeds",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "14715": 14716
+  },
+  "scale_x": 175,
+  "scale_y": 175,
+  "scale_z": 175,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      480
+    ]
+  }
+}

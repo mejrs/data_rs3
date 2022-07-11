@@ -1,0 +1,44 @@
+{
+  "id": 123213,
+  "models": {
+    "10": [
+      111288
+    ]
+  },
+  "name": "Inactive rift",
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      45000,
+      968
+    ],
+    [
+      43721,
+      713
+    ],
+    [
+      43593,
+      584
+    ],
+    [
+      43465,
+      456
+    ],
+    [
+      43338,
+      330
+    ]
+  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "translate_y": 65386,
+  "occludes_2": false,
+  "mapfunction": 612
+}

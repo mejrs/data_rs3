@@ -1,0 +1,40 @@
+{
+  "id": 123383,
+  "models": {
+    "10": [
+      125533,
+      125534,
+      125535
+    ]
+  },
+  "name": "Pile of dinosaur eggs",
+  "dim_x": 3,
+  "dim_y": 3,
+  "ambient": 10,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      7386,
+      36407
+    ]
+  ],
+  "textures": {
+    "11105": 14046
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

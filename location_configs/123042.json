@@ -1,0 +1,22 @@
+{
+  "id": 123042,
+  "models": {
+    "10": [
+      125361,
+      125363
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "colours": [
+    [
+      804,
+      10020
+    ]
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false,
+  "unknown_186": 2
+}

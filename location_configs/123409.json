@@ -1,0 +1,39 @@
+{
+  "id": 123409,
+  "models": {
+    "10": [
+      125455,
+      125456,
+      125528
+    ]
+  },
+  "name": "Rooty mush trough",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Feed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8727,
+      5914
+    ]
+  ],
+  "textures": {
+    "14781": 14780
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    47,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 123407,
+  "models": {
+    "10": [
+      125455,
+      125456,
+      125527
+    ]
+  },
+  "name": "Cerealy mush trough",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Feed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    47,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

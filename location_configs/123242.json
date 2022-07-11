@@ -1,0 +1,31 @@
+{
+  "id": 123242,
+  "models": {
+    "10": [
+      125387
+    ]
+  },
+  "name": "Flowering marsh plant",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Take Seeds",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "14711": 14712
+  },
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      480
+    ]
+  }
+}

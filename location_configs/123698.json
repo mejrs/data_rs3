@@ -1,0 +1,38 @@
+{
+  "id": 123698,
+  "models": {
+    "10": [
+      67768,
+      1877
+    ]
+  },
+  "name": "Jars of body parts",
+  "unknown_24": 1199,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 70,
+  "scale_y": 512,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_203": true
+}

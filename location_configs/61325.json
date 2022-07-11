@@ -20,6 +20,7 @@
   "contrast": 15,
   "mapscene": 1,
   "occludes_2": false,
+  "mapfunction": 5165,
   "cursors": [
     59,
     null,

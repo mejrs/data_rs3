@@ -14,6 +14,6 @@
     "2090": 3649
   },
   "mirror": true,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false
 }

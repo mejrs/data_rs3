@@ -1,0 +1,15 @@
+{
+  "id": 124338,
+  "models": {
+    "10": [
+      122251,
+      122465
+    ]
+  },
+  "name": "Corrupt Ward",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

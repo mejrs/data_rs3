@@ -1,0 +1,14 @@
+{
+  "id": 123146,
+  "models": {
+    "10": [
+      117867
+    ]
+  },
+  "name": "Incubator hatch",
+  "unknown_78": {
+    "unknown_1": 48799,
+    "unknown_2": 15
+  },
+  "occludes_2": false
+}

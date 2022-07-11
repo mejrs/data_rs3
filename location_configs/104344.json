@@ -2,20 +2,14 @@
   "id": 104344,
   "models": {
     "10": [
-      113160
+      125859
     ]
   },
+  "dim_y": 2,
+  "unknown_17": false,
   "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_27": false,
-  "actions": [
-    "Carve",
-    null,
-    null,
-    null,
-    null
-  ],
+  "ambient": 0,
   "model": false,
-  "unknown_88": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_186": 2
 }

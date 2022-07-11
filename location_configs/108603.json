@@ -12,6 +12,6 @@
   "ambient": 0,
   "model": false,
   "unknown_69": 5,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false
 }

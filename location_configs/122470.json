@@ -8,6 +8,7 @@
   "name": "Crocodile",
   "dim_y": 2,
   "unknown_19": 1,
+  "unknown_24": 34620,
   "actions": [
     "Jump to",
     null,

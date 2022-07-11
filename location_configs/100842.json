@@ -16,7 +16,7 @@
   },
   "unknown_19": 0,
   "unknown_27": false,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false,
   "unknown_188": true
 }

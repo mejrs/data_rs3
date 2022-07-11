@@ -26,13 +26,5 @@
   "is_members": true,
   "unknown_93": 8224,
   "unknown_98": true,
-  "occludes_2": false,
-  "cursors": [
-    5,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

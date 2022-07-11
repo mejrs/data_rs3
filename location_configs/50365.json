@@ -24,7 +24,7 @@
       1098
     ]
   ],
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false,
   "cursors": [
     49,

@@ -1,0 +1,29 @@
+{
+  "id": 123153,
+  "models": {
+    "10": [
+      123736,
+      123737,
+      123740
+    ]
+  },
+  "name": "Croesus",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_24": 34421,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "textures": {
+    "14142": 14143,
+    "14144": 14147,
+    "14146": 14145,
+    "14148": 14150
+  },
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      480
+    ]
+  }
+}

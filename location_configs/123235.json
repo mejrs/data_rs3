@@ -1,0 +1,24 @@
+{
+  "id": 123235,
+  "models": {
+    "10": [
+      125287,
+      105711
+    ]
+  },
+  "name": "Idol of the Leviathan",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

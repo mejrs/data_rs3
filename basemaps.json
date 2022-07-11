@@ -9817,12 +9817,12 @@
         9520
       ],
       [
-        3088,
+        3072,
         9616
       ]
     ],
     "center": [
-      3016,
+      3008,
       9568
     ],
     "name": "Asgarnia Ice Cave"
@@ -10983,17 +10983,17 @@
     "mapId": 609,
     "bounds": [
       [
-        3072,
-        9536
+        6400,
+        12800
       ],
       [
-        3136,
-        9600
+        0,
+        0
       ]
     ],
     "center": [
-      3104,
-      9568
+      3200,
+      6400
     ],
     "name": "Wizards' Tower basement"
   },
@@ -13300,6 +13300,60 @@
       384
     ],
     "name": "Senntisten sewers"
+  },
+  {
+    "mapId": 738,
+    "bounds": [
+      [
+        1920,
+        1408
+      ],
+      [
+        2048,
+        1536
+      ]
+    ],
+    "center": [
+      1984,
+      1472
+    ],
+    "name": "Senntisten Asylum"
+  },
+  {
+    "mapId": 739,
+    "bounds": [
+      [
+        1600,
+        1792
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "center": [
+      1824,
+      1920
+    ],
+    "name": "Senntisten"
+  },
+  {
+    "mapId": 740,
+    "bounds": [
+      [
+        1600,
+        1536
+      ],
+      [
+        1856,
+        1792
+      ]
+    ],
+    "center": [
+      1728,
+      1664
+    ],
+    "name": "The Zamorakian Undercity"
   },
   {
     "mapId": 10000,

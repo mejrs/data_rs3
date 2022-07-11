@@ -1,0 +1,30 @@
+{
+  "id": 122361,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Wall",
+  "unknown_21": true,
+  "actions": [
+    "Climb up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    52,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 122752,
+  "models": {
+    "10": [
+      125184
+    ]
+  },
+  "name": "Mattress",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_196": 4
+}

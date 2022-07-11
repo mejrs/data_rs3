@@ -1,0 +1,29 @@
+{
+  "id": 123662,
+  "models": {
+    "10": [
+      1877
+    ],
+    "22": [
+      125719
+    ]
+  },
+  "name": "Blood trail",
+  "unknown_24": 1199,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  },
+  "unknown_196": 4
+}

@@ -1,0 +1,38 @@
+{
+  "id": 124306,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

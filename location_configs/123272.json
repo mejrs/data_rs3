@@ -1,0 +1,22 @@
+{
+  "id": 123272,
+  "models": {
+    "10": [
+      125332
+    ]
+  },
+  "name": "Fishery (unstocked)",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Stock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false
+}

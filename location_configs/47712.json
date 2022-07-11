@@ -2,10 +2,14 @@
   "id": 47712,
   "models": {
     "10": [
-      14994
+      125384
     ]
   },
-  "name": "Altar",
-  "dim_x": 2,
-  "occludes_2": false
+  "unknown_17": false,
+  "unknown_19": 0,
+  "textures": {
+    "14710": 14829
+  },
+  "occludes_2": false,
+  "unknown_186": 2
 }

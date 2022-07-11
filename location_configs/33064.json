@@ -1,21 +1,13 @@
 {
   "id": 33064,
   "models": {
-    "4": [
-      2065
+    "10": [
+      125651
     ]
   },
-  "name": "Hanging banner",
-  "unknown_19": 1,
-  "colours": [
-    [
-      5786,
-      7952
-    ],
-    [
-      6682,
-      8076
-    ]
-  ],
-  "occludes_2": false
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "occludes_2": false,
+  "unknown_196": 4
 }

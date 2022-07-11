@@ -1,0 +1,19 @@
+{
+  "id": 124343,
+  "models": {
+    "4": [
+      126134,
+      122337,
+      122335
+    ]
+  },
+  "name": "Cell Door",
+  "unknown_19": 1,
+  "ambient": 0,
+  "textures": {
+    "13673": 14611
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

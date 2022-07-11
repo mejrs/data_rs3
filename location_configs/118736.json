@@ -13,5 +13,6 @@
   },
   "model": false,
   "translate_y": 750,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_203": true
 }

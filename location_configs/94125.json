@@ -8,7 +8,10 @@
   },
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 64,
+  "ambient": 20,
+  "textures": {
+    "4086": 14791
+  },
   "model": false,
   "unknown_88": false,
   "occludes_2": false,

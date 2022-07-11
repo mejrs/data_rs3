@@ -5,17 +5,17 @@
       84948
     ]
   },
-  "name": "Fateful portal (TzKal-Zuk)",
+  "name": "Fateful portal (The Zamorakian Undercity)",
   "ambient": 0,
   "actions": [
     "Enter",
     null,
-    null,
+    "Set arrival point",
     null,
     null
   ],
   "textures": {
-    "11897": 14263,
+    "11897": 15144,
     "11899": 11905,
     "11900": 11904
   },

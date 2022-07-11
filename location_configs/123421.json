@@ -1,0 +1,15 @@
+{
+  "id": 123421,
+  "models": {
+    "10": [
+      47666
+    ]
+  },
+  "name": "Wreckage",
+  "dim_y": 3,
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

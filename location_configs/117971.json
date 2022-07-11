@@ -24,13 +24,5 @@
   "scale_x": 150,
   "scale_y": 150,
   "scale_z": 150,
-  "occludes_2": false,
-  "cursors": [
-    5,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

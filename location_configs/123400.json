@@ -1,0 +1,28 @@
+{
+  "id": 123400,
+  "models": {
+    "10": [
+      125524
+    ]
+  },
+  "name": "Storm barn",
+  "dim_x": 2,
+  "dim_y": 2,
+  "actions": [
+    "Collect",
+    "Return",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": 123683,
+  "models": {
+    "10": [
+      1877
+    ],
+    "22": [
+      80166
+    ]
+  },
+  "name": "Diagnostic Sanitarium Manual, Fifth Edition",
+  "unknown_24": 1199,
+  "ambient": 0,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 122828,
+  "models": {
+    "4": [
+      122450
+    ]
+  },
+  "unknown_19": 0,
+  "textures": {
+    "13862": 14608
+  },
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "occludes_2": false
+}

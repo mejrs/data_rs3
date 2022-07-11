@@ -38,6 +38,6 @@
       5387
     ]
   ],
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "unknown_196": 1
 }

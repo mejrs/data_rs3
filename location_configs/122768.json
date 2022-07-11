@@ -1,0 +1,24 @@
+{
+  "id": 122768,
+  "models": {
+    "10": [
+      125194
+    ]
+  },
+  "name": "Asylum gate",
+  "dim_x": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
+  "occludes_2": false,
+  "unknown_196": 4
+}

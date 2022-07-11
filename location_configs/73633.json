@@ -13,6 +13,6 @@
   "scale_x": 1,
   "scale_y": 1,
   "scale_z": 1,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false
 }

@@ -1,0 +1,15 @@
+{
+  "id": 123420,
+  "models": {
+    "10": [
+      125461
+    ]
+  },
+  "name": "Shipwreck",
+  "dim_y": 3,
+  "unknown_17": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

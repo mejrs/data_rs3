@@ -1,0 +1,31 @@
+{
+  "id": 123710,
+  "models": {
+    "10": [
+      122546,
+      1877
+    ]
+  },
+  "name": "Sink",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_24": 1199,
+  "unknown_27": false,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  }
+}

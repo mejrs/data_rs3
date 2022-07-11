@@ -1,0 +1,24 @@
+{
+  "id": 123674,
+  "models": {
+    "10": [
+      125163
+    ]
+  },
+  "name": "Gate",
+  "is_transparent": true,
+  "actions": [
+    "Walk through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  }
+}

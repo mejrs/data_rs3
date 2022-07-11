@@ -18,7 +18,7 @@
   ],
   "contrast": 15,
   "mirror": true,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "cursors": [
     49,
     null,

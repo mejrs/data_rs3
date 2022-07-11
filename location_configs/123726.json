@@ -1,0 +1,29 @@
+{
+  "id": 123726,
+  "models": {
+    "10": [
+      125722,
+      89336
+    ]
+  },
+  "name": "Material cart",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Collect",
+    "Return",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  },
+  "unknown_196": 4
+}

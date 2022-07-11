@@ -1,0 +1,12 @@
+{
+  "id": 123415,
+  "models": {
+    "10": [
+      125519
+    ]
+  },
+  "name": "Waiting line",
+  "dim_y": 4,
+  "unknown_17": false,
+  "occludes_2": false
+}

@@ -1,0 +1,21 @@
+{
+  "id": 123838,
+  "models": {
+    "10": [
+      91053
+    ]
+  },
+  "name": "Sacrifical altar",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Offer bones",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

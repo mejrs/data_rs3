@@ -1,0 +1,32 @@
+{
+  "id": 123669,
+  "models": {
+    "4": [
+      125165
+    ],
+    "10": [
+      1877
+    ]
+  },
+  "name": "Crane lever",
+  "unknown_24": 1199,
+  "actions": [
+    "Pull",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  },
+  "unknown_1": 16134,
+  "unknown_2": 16134,
+  "unknown_3": 16134,
+  "unknown_4": 16634,
+  "unknown_5": 16634,
+  "unknown_6": 16634
+}

@@ -1,0 +1,33 @@
+{
+  "id": 123214,
+  "models": {
+    "10": [
+      125291
+    ]
+  },
+  "name": "Dark Portal",
+  "unknown_21": true,
+  "actions": [
+    "Approach",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 64,
+  "scale_z": 64,
+  "unknown_78": {
+    "unknown_1": 54177,
+    "unknown_2": 12
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 200,
+  "unknown_196": 4,
+  "unknown_1": 15972,
+  "unknown_2": 15560,
+  "unknown_3": 15972,
+  "unknown_4": 16796,
+  "unknown_5": 64,
+  "unknown_6": 16796
+}

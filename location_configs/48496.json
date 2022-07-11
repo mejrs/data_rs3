@@ -21,7 +21,7 @@
   ],
   "contrast": 10,
   "unknown_69": 13,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false,
   "cursors": [
     53,

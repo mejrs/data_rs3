@@ -2,13 +2,32 @@
   "id": 41454,
   "models": {
     "10": [
-      27531,
-      27528
+      125586
     ]
   },
-  "unknown_19": 0,
-  "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "occludes_2": false
+  "name": "George",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        34808,
+        200
+      ],
+      [
+        34809,
+        30
+      ],
+      [
+        34814,
+        20
+      ],
+      [
+        34817,
+        15
+      ]
+    ]
+  }
 }

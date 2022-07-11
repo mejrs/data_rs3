@@ -21,7 +21,7 @@
   "scale_z": 256,
   "unknown_69": 10,
   "translate_y": 512,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false,
   "mapfunction": 625,
   "cursors": [
@@ -32,6 +32,7 @@
     null,
     null
   ],
+  "unknown_203": true,
   "params": {
     "6668": 3103
   }

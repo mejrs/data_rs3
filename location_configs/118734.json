@@ -14,5 +14,6 @@
   "model": false,
   "translate_x": 50,
   "translate_y": 740,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_203": true
 }

@@ -1,0 +1,13 @@
+{
+  "id": 123394,
+  "models": {
+    "10": [
+      125516
+    ]
+  },
+  "name": "Wheelbarrow",
+  "dim_x": 2,
+  "dim_y": 2,
+  "occludes_2": false,
+  "unknown_196": 4
+}

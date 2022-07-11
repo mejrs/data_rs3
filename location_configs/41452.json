@@ -2,13 +2,11 @@
   "id": 41452,
   "models": {
     "10": [
-      27531,
-      27538
+      125583
     ]
   },
-  "unknown_19": 0,
-  "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "name": "Silun",
+  "unknown_24": 34799,
+  "unknown_75": 0,
   "occludes_2": false
 }

@@ -1,0 +1,31 @@
+{
+  "id": 122706,
+  "models": {
+    "10": [
+      125004
+    ]
+  },
+  "name": "Sentinel of Bik",
+  "unknown_75": 0,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        34676,
+        200
+      ],
+      [
+        34677,
+        30
+      ],
+      [
+        34681,
+        20
+      ],
+      [
+        34685,
+        5
+      ]
+    ]
+  }
+}

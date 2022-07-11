@@ -13,6 +13,6 @@
     "2078": 3649,
     "2090": 3649
   },
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false
 }

@@ -12,5 +12,6 @@
   "textures": {
     "8868": 11042
   },
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_203": true
 }

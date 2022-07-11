@@ -45,7 +45,7 @@
     "2096": 3178
   },
   "unknown_69": 10,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false,
   "cursors": [
     null,

@@ -1,0 +1,39 @@
+{
+  "id": 123405,
+  "models": {
+    "10": [
+      125455,
+      125456,
+      125525
+    ]
+  },
+  "name": "Beany mush trough",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Feed",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      8727,
+      52646
+    ]
+  ],
+  "textures": {
+    "14781": 14777
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    47,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

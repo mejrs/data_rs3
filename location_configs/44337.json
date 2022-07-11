@@ -17,7 +17,7 @@
   "is_transparent": true,
   "unknown_27": false,
   "model": false,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "mapscene": 22,
   "occludes_2": false
 }

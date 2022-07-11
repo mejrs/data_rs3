@@ -1,0 +1,36 @@
+{
+  "id": 124310,
+  "models": {
+    "10": [
+      125924,
+      85331
+    ]
+  },
+  "name": "World Guardian's treasure",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 20122,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    "Bank",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 160,
+  "scale_y": 160,
+  "scale_z": 160,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    5,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -5,11 +5,27 @@
       121753
     ]
   },
+  "name": "Tree of Balance",
   "dim_x": 5,
   "dim_y": 5,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_24": 16362,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
   "translate_y": 300,
   "occludes_2": false,
-  "unknown_188": true
+  "unknown_188": true,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

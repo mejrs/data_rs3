@@ -27,7 +27,7 @@
   "contrast": 20,
   "unknown_69": 11,
   "unknown_73": true,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "unknown_88": false,
   "mapscene": 22,
   "occludes_2": false

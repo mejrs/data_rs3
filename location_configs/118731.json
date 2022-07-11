@@ -15,5 +15,6 @@
   "scale_z": 150,
   "translate_y": 100,
   "translate_z": 20,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_203": true
 }

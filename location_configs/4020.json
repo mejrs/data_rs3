@@ -10,10 +10,10 @@
   "unknown_19": 1,
   "ambient": 100,
   "actions": [
+    "Wait",
     "Wait-Ozan",
     "Wait-Owen",
     "Wait-Ariane",
-    null,
     null
   ],
   "contrast": 100,

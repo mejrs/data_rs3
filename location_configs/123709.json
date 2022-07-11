@@ -1,0 +1,29 @@
+{
+  "id": 123709,
+  "models": {
+    "10": [
+      80377,
+      1877
+    ]
+  },
+  "name": "Plate",
+  "unknown_17": false,
+  "unknown_24": 1199,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  }
+}

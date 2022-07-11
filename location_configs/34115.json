@@ -2,20 +2,16 @@
   "id": 34115,
   "models": {
     "10": [
-      64347
+      125642
     ]
   },
-  "name": "Workbench",
-  "dim_x": 2,
-  "colours": [
-    [
-      6466,
-      4395
-    ],
-    [
-      5545,
-      4515
-    ]
-  ],
-  "occludes_2": false
+  "dim_x": 9,
+  "dim_y": 9,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4
 }

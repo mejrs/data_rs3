@@ -1,0 +1,27 @@
+{
+  "id": 123237,
+  "models": {
+    "10": [
+      105643
+    ]
+  },
+  "name": "Resonating crystal",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 45,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      480
+    ]
+  }
+}

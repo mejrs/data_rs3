@@ -1,23 +1,12 @@
 {
   "id": 104342,
   "models": {
-    "10": [
-      113882
+    "22": [
+      125857
     ]
   },
-  "name": "Terrorbird racing checkpoint",
-  "dim_x": 6,
-  "unknown_17": false,
-  "unknown_19": 1,
-  "unknown_21": true,
-  "ambient": 0,
-  "actions": [
-    null,
-    null,
-    "Check hiscores",
-    null,
-    null
-  ],
-  "occludes_2": false,
-  "mapfunction": 3795
+  "unknown_19": 0,
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
 }

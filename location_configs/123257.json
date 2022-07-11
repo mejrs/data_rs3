@@ -1,0 +1,30 @@
+{
+  "id": 123257,
+  "models": {
+    "10": [
+      125421
+    ]
+  },
+  "name": "Mystery egg",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    "Check contents",
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "14736": 14743
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

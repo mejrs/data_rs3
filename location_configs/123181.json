@@ -1,0 +1,15 @@
+{
+  "id": 123181,
+  "models": {
+    "10": [
+      123546
+    ]
+  },
+  "name": "Shard of ice",
+  "unknown_27": false,
+  "scale_x": 256,
+  "scale_y": 180,
+  "scale_z": 256,
+  "occludes_2": false,
+  "unknown_196": 4
+}

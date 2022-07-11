@@ -1,0 +1,27 @@
+{
+  "id": 123681,
+  "models": {
+    "10": [
+      125148,
+      1877
+    ]
+  },
+  "name": "Nabor",
+  "unknown_17": false,
+  "unknown_24": 1199,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  },
+  "unknown_196": 4
+}

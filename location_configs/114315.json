@@ -10,5 +10,6 @@
   "scale_x": 384,
   "scale_y": 512,
   "scale_z": 128,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_203": true
 }

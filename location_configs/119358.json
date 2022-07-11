@@ -2,7 +2,7 @@
   "id": 119358,
   "models": {
     "10": [
-      94049
+      94058
     ]
   },
   "name": "World Gate",
@@ -11,7 +11,7 @@
   "unknown_24": 22848,
   "ambient": 64,
   "actions": [
-    "Travel to Freneskae",
+    "Enter",
     null,
     null,
     null,
@@ -21,5 +21,13 @@
   "translate_y": 130,
   "translate_z": 65492,
   "unknown_88": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

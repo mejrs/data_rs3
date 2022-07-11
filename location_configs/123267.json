@@ -1,0 +1,26 @@
+{
+  "id": 123267,
+  "models": {
+    "10": [
+      125353
+    ]
+  },
+  "name": "Stonemason",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Prepare stone",
+    "Check stored XP",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 175,
+  "scale_y": 175,
+  "scale_z": 175,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_196": 4
+}

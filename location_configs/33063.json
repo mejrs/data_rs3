@@ -2,32 +2,15 @@
   "id": 33063,
   "models": {
     "10": [
-      37502
+      125366
     ]
   },
-  "name": "Cabinet",
   "dim_y": 2,
-  "unknown_19": 1,
-  "actions": [
-    null,
-    "Search",
-    "Close",
-    null,
-    null
-  ],
-  "colours": [
-    [
-      7830,
-      8076
-    ]
-  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "scale_x": 85,
+  "scale_y": 85,
+  "scale_z": 85,
   "occludes_2": false,
-  "cursors": [
-    null,
-    56,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_196": 4
 }

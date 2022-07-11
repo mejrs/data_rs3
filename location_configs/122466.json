@@ -21,6 +21,7 @@
   "textures": {
     "8868": 11042
   },
+  "unknown_69": 11,
   "is_members": true,
   "occludes_2": false,
   "cursors": [
@@ -30,5 +31,6 @@
     null,
     null,
     null
-  ]
+  ],
+  "unknown_203": true
 }

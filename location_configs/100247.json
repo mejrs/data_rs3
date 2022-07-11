@@ -16,12 +16,12 @@
     null
   ],
   "contrast": 15,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false,
   "cursors": [
     null,
     5,
-    5,
+    null,
     null,
     null,
     null

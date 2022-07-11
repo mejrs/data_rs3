@@ -1,0 +1,25 @@
+{
+  "id": 123697,
+  "models": {
+    "10": [
+      89205,
+      1877
+    ]
+  },
+  "name": "Spiky chair",
+  "unknown_17": false,
+  "unknown_24": 1199,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  }
+}

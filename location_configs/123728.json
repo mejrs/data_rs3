@@ -1,0 +1,29 @@
+{
+  "id": 123728,
+  "models": {
+    "10": [
+      125720,
+      125721
+    ]
+  },
+  "name": "Stone circle",
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Add rune",
+    "Check rune",
+    "Remove rune",
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

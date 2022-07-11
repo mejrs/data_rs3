@@ -20,6 +20,6 @@
     null
   ],
   "contrast": 10,
-  "blocks_ranged": true,
+  "breakroutefinding": true,
   "occludes_2": false
 }

@@ -1,0 +1,21 @@
+{
+  "id": 123224,
+  "models": {
+    "10": [
+      125292
+    ]
+  },
+  "name": "Boiling Rift",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_21": true,
+  "actions": [
+    "Give memories",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

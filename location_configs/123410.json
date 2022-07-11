@@ -1,0 +1,11 @@
+{
+  "id": 123410,
+  "models": {
+    "10": [
+      48020
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "occludes_2": false
+}

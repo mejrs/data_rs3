@@ -1,0 +1,22 @@
+{
+  "id": 123276,
+  "models": {
+    "10": [
+      125366
+    ]
+  },
+  "name": "Fletcher's hut",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Fletch logs",
+    "Check stored XP",
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 7,
+  "occludes_2": false,
+  "unknown_196": 4
+}

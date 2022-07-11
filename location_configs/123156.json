@@ -1,0 +1,31 @@
+{
+  "id": 123156,
+  "models": {
+    "10": [
+      123991
+    ]
+  },
+  "name": "Mutated timber fungus",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    null,
+    null,
+    "Remove",
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      480
+    ]
+  },
+  "unknown_196": 4
+}

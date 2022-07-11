@@ -10,7 +10,7 @@
   "actions": [
     "Enter",
     "Reattune",
-    null,
+    "Set arrival point",
     null,
     null
   ],

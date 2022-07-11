@@ -31,13 +31,5 @@
     "9937": 12907,
     "12918": 12920
   },
-  "occludes_2": false,
-  "cursors": [
-    5,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

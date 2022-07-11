@@ -1,0 +1,31 @@
+{
+  "id": 123664,
+  "models": {
+    "10": [
+      96038,
+      1877
+    ]
+  },
+  "name": "Pile of ash",
+  "unknown_17": false,
+  "unknown_24": 1199,
+  "ambient": 32,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12332": 12333
+  },
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      481
+    ]
+  }
+}
