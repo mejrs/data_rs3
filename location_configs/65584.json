@@ -2,17 +2,14 @@
   "id": 65584,
   "models": {
     "10": [
-      22518
+      126309
     ]
   },
   "dim_x": 2,
   "dim_y": 6,
   "unknown_17": false,
   "unknown_19": 0,
-  "unknown_21": true,
   "unknown_22": true,
-  "ambient": 25,
-  "contrast": 15,
   "mirror": true,
   "occludes_2": false
 }

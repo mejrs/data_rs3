@@ -1,12 +1,14 @@
 {
   "id": 12221,
   "models": {
-    "22": [
-      12042
+    "10": [
+      127195,
+      127196
     ]
   },
   "unknown_19": 0,
-  "unknown_21": true,
-  "ambient": 20,
-  "occludes_2": false
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 4
 }

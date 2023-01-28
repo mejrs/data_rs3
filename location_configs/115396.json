@@ -6,8 +6,9 @@
     ]
   },
   "name": "Dead tree",
-  "unknown_17": false,
+  "is_transparent": true,
   "unknown_19": 1,
+  "unknown_27": false,
   "scale_x": 55,
   "scale_y": 55,
   "scale_z": 55,

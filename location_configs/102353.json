@@ -23,5 +23,13 @@
   "scale_z": 138,
   "translate_y": 42,
   "unknown_88": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

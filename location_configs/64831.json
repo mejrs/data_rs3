@@ -2,15 +2,13 @@
   "id": 64831,
   "models": {
     "0": [
-      21091
+      126487
     ]
   },
   "name": "Door",
   "unknown_19": 1,
   "unknown_21": true,
-  "occludes_1": false,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Open",
     null,
@@ -18,9 +16,7 @@
     null,
     null
   ],
-  "contrast": 15,
   "mirror": true,
-  "unknown_170": 961,
   "cursors": [
     49,
     null,

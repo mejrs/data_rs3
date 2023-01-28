@@ -10,7 +10,7 @@
   "dim_x": 2,
   "dim_y": 2,
   "actions": [
-    null,
+    "Cure",
     "Inspect",
     "Clear",
     "Guide",

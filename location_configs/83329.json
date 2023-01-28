@@ -2,7 +2,7 @@
   "id": 83329,
   "models": {
     "10": [
-      84636
+      126571
     ]
   },
   "name": "Supply tent (Mining)",
@@ -11,7 +11,7 @@
   "unknown_19": 1,
   "unknown_24": 20025,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": -25,
   "actions": [
     "Loot",
     null,
@@ -19,7 +19,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "colours": [
     [
       8997,

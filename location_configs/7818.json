@@ -2,26 +2,39 @@
   "id": 7818,
   "models": {
     "10": [
-      98309,
-      98311,
-      7839
+      74154
     ]
   },
-  "name": "Compost Bin",
-  "actions": [
-    "Use",
-    null,
-    null,
-    null,
-    null
+  "name": "Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      2116,
+      17
+    ],
+    [
+      3135,
+      17
+    ],
+    [
+      3127,
+      23
+    ],
+    [
+      2109,
+      11
+    ],
+    [
+      3143,
+      19
+    ]
   ],
-  "occludes_2": false,
-  "cursors": [
-    46,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "textures": {
+    "322": 10867
+  },
+  "model": false,
+  "occludes_2": false
 }

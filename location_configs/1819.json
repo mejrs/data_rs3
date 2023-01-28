@@ -2,12 +2,18 @@
   "id": 1819,
   "models": {
     "10": [
-      98309,
-      98311,
-      7843
+      124698
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 25,
-  "occludes_2": false
+  "dim_x": 4,
+  "dim_y": 8,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "scale_x": 256,
+  "scale_y": 64,
+  "scale_z": 256,
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4
 }

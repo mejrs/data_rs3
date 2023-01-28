@@ -8,7 +8,7 @@
   "name": "Fountain",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 10,
   "actions": [
     "Fill",
     null,

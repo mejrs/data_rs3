@@ -2,7 +2,7 @@
   "id": 83340,
   "models": {
     "10": [
-      84639
+      126573
     ]
   },
   "dim_x": 2,
@@ -10,7 +10,7 @@
   "unknown_19": 0,
   "unknown_24": 20025,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": -25,
   "contrast": 15,
   "scale_x": 140,
   "scale_y": 140,

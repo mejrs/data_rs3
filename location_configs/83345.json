@@ -3,10 +3,11 @@
   "models": {
     "10": [
       84713,
-      84625
+      126280
     ]
   },
   "unknown_19": 0,
+  "unknown_21": true,
   "unknown_24": 9642,
   "unknown_27": false,
   "occludes_2": false,

@@ -24,12 +24,17 @@
   "is_members": true,
   "occludes_2": false,
   "cursors": [
-    52,
+    181,
     null,
     null,
     null,
     null,
     null
   ],
-  "unknown_203": true
+  "unknown_1": 15360,
+  "unknown_2": 16128,
+  "unknown_3": 16128,
+  "unknown_4": 16640,
+  "unknown_5": 16640,
+  "unknown_6": 16640
 }

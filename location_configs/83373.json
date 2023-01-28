@@ -2,15 +2,13 @@
   "id": 83373,
   "models": {
     "10": [
-      84628
+      126563
     ]
   },
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
   "unknown_19": 0,
-  "ambient": 15,
-  "contrast": 10,
   "model": false,
   "unknown_81": 40,
   "unknown_88": false,

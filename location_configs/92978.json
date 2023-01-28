@@ -2,25 +2,30 @@
   "id": 92978,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      113576
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
+  "name": "Frank's Free Chest",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_22": true,
+  "unknown_27": false,
   "actions": [
-    "Empty",
-    null,
-    null,
+    "Loot",
+    "Check Progress",
+    "View Rewards",
     null,
     null
   ],
-  "colours": [
-    [
-      8724,
-      8604
-    ]
-  ],
-  "occludes_2": false
+  "textures": {
+    "7417": 11510
+  },
+  "model": false,
+  "scale_x": 185,
+  "scale_y": 185,
+  "scale_z": 185,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 627
 }

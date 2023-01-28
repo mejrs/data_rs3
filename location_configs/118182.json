@@ -5,9 +5,9 @@
       120737
     ]
   },
-  "unknown_19": 0,
+  "name": "Pumpkin",
+  "unknown_19": 1,
   "unknown_27": false,
   "model": false,
-  "occludes_2": false,
-  "unknown_186": 2
+  "occludes_2": false
 }

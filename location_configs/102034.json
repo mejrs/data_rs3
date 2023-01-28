@@ -10,7 +10,7 @@
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 5,
   "actions": [
     "Play",
     null,

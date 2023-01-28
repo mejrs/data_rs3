@@ -2,11 +2,17 @@
   "id": 65268,
   "models": {
     "10": [
-      22453
+      120739
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
+  "textures": {
+    "11921": 15240
+  },
+  "scale_x": 40,
+  "scale_y": 40,
+  "scale_z": 40,
   "unknown_81": 200,
   "mapscene": 6,
   "occludes_2": false

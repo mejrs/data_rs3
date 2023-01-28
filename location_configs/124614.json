@@ -1,0 +1,39 @@
+{
+  "id": 124614,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Stepping stone",
+  "dim_y": 2,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 512,
+  "scale_y": 128,
+  "scale_z": 128,
+  "unknown_69": 10,
+  "breakroutefinding": true,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_203": true,
+  "params": {
+    "6668": 6540
+  }
+}

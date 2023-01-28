@@ -2,14 +2,27 @@
   "id": 65250,
   "models": {
     "10": [
-      22345
+      126590,
+      126581
     ]
   },
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      15,
+      4486
+    ]
+  ],
+  "textures": {
+    "11921": 15240,
+    "13104": 15230,
+    "15238": 15239
+  },
+  "scale_x": 170,
+  "scale_y": 185,
+  "scale_z": 170,
   "unknown_81": 40,
   "mapscene": 6,
   "occludes_2": false

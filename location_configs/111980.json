@@ -7,7 +7,9 @@
   },
   "unknown_19": 0,
   "unknown_24": 2222,
-  "ambient": 0,
+  "textures": {
+    "2301": 14231
+  },
   "model": false,
   "unknown_88": false,
   "occludes_2": false

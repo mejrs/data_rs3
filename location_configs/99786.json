@@ -6,7 +6,7 @@
     ]
   },
   "name": "Dwarf statue",
-  "ambient": 25,
+  "ambient": 10,
   "contrast": 15,
   "occludes_2": false,
   "unknown_196": 3

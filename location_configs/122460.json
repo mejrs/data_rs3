@@ -23,5 +23,18 @@
   },
   "is_members": true,
   "occludes_2": false,
-  "unknown_203": true
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16128,
+  "unknown_2": 16128,
+  "unknown_3": 16128,
+  "unknown_4": 17408,
+  "unknown_5": 16640,
+  "unknown_6": 16640
 }

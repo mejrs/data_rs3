@@ -2,7 +2,7 @@
   "id": 65081,
   "models": {
     "10": [
-      23051
+      126336
     ]
   },
   "name": "Wilderness wall",
@@ -19,6 +19,10 @@
     null,
     null
   ],
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  },
   "mirror": true,
   "occludes_2": false,
   "cursors": [

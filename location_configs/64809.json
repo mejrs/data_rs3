@@ -2,16 +2,14 @@
   "id": 64809,
   "models": {
     "1": [
-      21821
+      126497
     ],
     "9": [
-      20813
+      126498
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
-  "unknown_27": false,
-  "ambient": 25,
-  "contrast": 20
+  "unknown_27": false
 }

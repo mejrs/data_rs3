@@ -1,43 +1,28 @@
 {
   "id": 1883,
   "models": {
-    "10": [
-      98309,
-      98311,
-      7841
+    "22": [
+      126404
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 25,
-  "actions": [
-    "Take-tomato",
-    null,
-    null,
-    null,
-    null
-  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 5,
+  "contrast": 15,
   "colours": [
     [
-      2979,
-      3742
-    ],
-    [
-      22430,
-      9647
-    ],
-    [
-      7580,
-      12942
-    ],
-    [
-      7700,
-      13194
-    ],
-    [
-      7461,
-      12818
+      140,
+      2196
     ]
   ],
-  "unknown_44": 62,
-  "occludes_2": false
+  "textures": {
+    "15070": 15081
+  },
+  "model": false,
+  "translate_y": 2,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 2
 }

@@ -2,20 +2,13 @@
   "id": 12222,
   "models": {
     "10": [
-      12066
+      127195,
+      127197
     ]
   },
-  "is_transparent": true,
   "unknown_19": 0,
-  "unknown_22": true,
   "unknown_27": false,
-  "ambient": 20,
-  "colours": [
-    [
-      7461,
-      7580
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false,
-  "unknown_196": 3
+  "unknown_196": 4
 }

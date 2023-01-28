@@ -2,14 +2,13 @@
   "id": 11738,
   "models": {
     "10": [
-      24542
+      47552
     ]
   },
   "name": "Large table",
   "dim_y": 2,
   "is_transparent": true,
-  "ambient": 25,
-  "contrast": 15,
-  "translate_y": 30,
+  "scale_x": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

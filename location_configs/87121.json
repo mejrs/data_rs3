@@ -7,7 +7,7 @@
   },
   "dim_x": 5,
   "unknown_19": 0,
-  "ambient": 0,
+  "ambient": 64,
   "contrast": 15,
   "mirror": true,
   "occludes_2": false,

@@ -6,10 +6,10 @@
       7767
     ]
   },
-  "name": "Diseased belladonna",
+  "name": "Diseased nightshade",
   "ambient": 25,
   "actions": [
-    null,
+    "Cure",
     "Inspect",
     "Clear",
     "Guide",

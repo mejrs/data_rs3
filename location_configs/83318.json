@@ -2,15 +2,24 @@
   "id": 83318,
   "models": {
     "10": [
-      84640
+      126574
     ]
   },
   "dim_x": 2,
   "dim_y": 3,
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      7258,
+      49538
+    ]
+  ],
+  "textures": {
+    "11104": 15134,
+    "11105": 15133,
+    "11108": 15135
+  },
   "scale_x": 140,
   "scale_y": 140,
   "scale_z": 140,

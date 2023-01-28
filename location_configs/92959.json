@@ -2,18 +2,12 @@
   "id": 92959,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      127325
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "colours": [
-    [
-      8724,
-      13074
-    ]
-  ],
+  "name": "Pile of rope",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": -10,
   "occludes_2": false
 }

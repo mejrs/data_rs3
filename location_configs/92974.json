@@ -2,25 +2,17 @@
   "id": 92974,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      127354
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "actions": [
-    "Empty",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
-    [
-      8724,
-      8604
-    ]
-  ],
+  "name": "Sharp rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "textures": {
+    "11805": 12163,
+    "11806": 12164,
+    "11807": 12165,
+    "11808": 12166
+  },
   "occludes_2": false
 }

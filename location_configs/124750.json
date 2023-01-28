@@ -1,0 +1,15 @@
+{
+  "id": 124750,
+  "models": {
+    "10": [
+      121914
+    ]
+  },
+  "name": "Iris bush",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "13632": 15395
+  },
+  "occludes_2": false
+}

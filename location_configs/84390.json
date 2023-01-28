@@ -10,7 +10,7 @@
   "name": "Diseased grapevines",
   "ambient": 25,
   "actions": [
-    null,
+    "Cure",
     "Inspect",
     "Clear",
     "Guide",

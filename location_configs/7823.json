@@ -2,24 +2,72 @@
   "id": 7823,
   "models": {
     "10": [
-      98309,
-      98310
+      73989,
+      74043,
+      73987
     ]
   },
-  "name": "Compost Bin",
+  "name": "Argonlike rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
   "actions": [
-    "Open",
+    "Mine",
     null,
     null,
-    null,
+    "Prospect",
     null
   ],
+  "colours": [
+    [
+      2116,
+      17
+    ],
+    [
+      3135,
+      17
+    ],
+    [
+      3127,
+      23
+    ],
+    [
+      2109,
+      11
+    ],
+    [
+      3143,
+      19
+    ],
+    [
+      54994,
+      42787
+    ],
+    [
+      54858,
+      42787
+    ],
+    [
+      54991,
+      42787
+    ],
+    [
+      54856,
+      42787
+    ]
+  ],
+  "textures": {
+    "322": 10867,
+    "1304": 10877
+  },
+  "model": false,
+  "mapscene": 12,
   "occludes_2": false,
   "cursors": [
-    49,
+    58,
     null,
     null,
-    null,
+    56,
     null,
     null
   ]

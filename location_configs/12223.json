@@ -1,21 +1,15 @@
 {
   "id": 12223,
   "models": {
-    "10": [
-      12067
+    "22": [
+      127198
     ]
   },
-  "is_transparent": true,
-  "unknown_19": 0,
-  "unknown_22": true,
-  "unknown_27": false,
-  "ambient": 20,
-  "colours": [
-    [
-      7461,
-      7580
-    ]
-  ],
+  "dim_x": 2,
+  "dim_y": 2,
+  "ambient": 0,
+  "unknown_73": true,
+  "unknown_75": 0,
   "occludes_2": false,
-  "unknown_196": 3
+  "unknown_196": 4
 }

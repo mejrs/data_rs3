@@ -2,12 +2,11 @@
   "id": 38836,
   "models": {
     "0": [
-      21734
+      126490
     ]
   },
   "name": "Jail door",
   "unknown_27": false,
-  "ambient": 20,
   "actions": [
     "Pass-through",
     "Close",
@@ -15,7 +14,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "cursors": [
     57,
     null,

@@ -8,7 +8,7 @@
   },
   "name": "Diseased tombshrooms",
   "actions": [
-    null,
+    "Cure",
     "Inspect",
     "Clear",
     "Guide",

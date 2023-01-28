@@ -8,7 +8,7 @@
   "name": "Door",
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": -25,
+  "ambient": 64,
   "actions": [
     "Open",
     null,

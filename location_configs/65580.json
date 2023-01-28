@@ -2,7 +2,7 @@
   "id": 65580,
   "models": {
     "10": [
-      24881
+      126307
     ]
   },
   "dim_x": 2,
@@ -12,8 +12,6 @@
   "unknown_21": true,
   "unknown_22": true,
   "unknown_24": 1216,
-  "ambient": 25,
-  "contrast": 15,
   "mirror": true,
   "occludes_2": false
 }

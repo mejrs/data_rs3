@@ -2,12 +2,11 @@
   "id": 26193,
   "models": {
     "10": [
-      27586
+      71215
     ]
   },
   "name": "Chest",
   "unknown_19": 1,
-  "ambient": 20,
   "actions": [
     "Open",
     null,
@@ -15,7 +14,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "occludes_2": false,
   "cursors": [
     49,

@@ -2,7 +2,7 @@
   "id": 83322,
   "models": {
     "10": [
-      84636
+      126571
     ]
   },
   "name": "Supply tent (Farming)",
@@ -11,7 +11,6 @@
   "unknown_19": 1,
   "unknown_24": 20025,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Loot",
     null,
@@ -19,7 +18,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "colours": [
     [
       8997,
@@ -63,7 +61,10 @@
     ]
   ],
   "textures": {
-    "729": 721
+    "729": 721,
+    "11104": 15134,
+    "11105": 15133,
+    "11108": 15135
   },
   "unknown_81": 40,
   "occludes_2": false

@@ -2,18 +2,15 @@
   "id": 4156,
   "models": {
     "10": [
-      98309,
-      98311,
-      66424
+      118892
     ]
   },
-  "name": "Compost Bin",
-  "actions": [
-    "Empty",
-    null,
-    null,
-    null,
-    null
-  ],
+  "name": "Charger",
+  "is_transparent": true,
+  "unknown_27": false,
+  "scale_x": 192,
+  "scale_y": 128,
+  "scale_z": 192,
+  "translate_z": 65504,
   "occludes_2": false
 }

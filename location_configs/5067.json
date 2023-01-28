@@ -2,18 +2,33 @@
   "id": 5067,
   "models": {
     "10": [
-      98309,
-      98311,
-      66424
+      67768
     ]
   },
-  "name": "Compost Bin",
+  "name": "The Magister's chamber",
+  "dim_x": 5,
+  "dim_y": 7,
   "actions": [
-    "Empty",
+    "Exit",
     null,
     null,
     null,
     null
   ],
-  "occludes_2": false
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 570,
+  "scale_y": 500,
+  "scale_z": 700,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_203": true
 }

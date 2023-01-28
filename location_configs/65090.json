@@ -2,12 +2,16 @@
   "id": 65090,
   "models": {
     "10": [
-      23168
+      126318
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  },
   "occludes_2": false
 }

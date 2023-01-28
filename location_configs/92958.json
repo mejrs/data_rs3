@@ -2,18 +2,12 @@
   "id": 92958,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      105280
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "colours": [
-    [
-      8724,
-      13074
-    ]
-  ],
+  "name": "Broken hammer",
+  "unknown_17": false,
+  "unknown_21": true,
+  "model": false,
   "occludes_2": false
 }

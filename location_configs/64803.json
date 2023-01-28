@@ -2,22 +2,20 @@
   "id": 64803,
   "models": {
     "0": [
-      21510
+      126491
     ],
     "1": [
-      21675
+      126492
     ],
     "3": [
-      21607
+      126493
     ],
     "9": [
-      21952
+      126494
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
-  "unknown_27": false,
-  "ambient": 25,
-  "contrast": 20
+  "unknown_27": false
 }

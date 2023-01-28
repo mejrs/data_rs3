@@ -10,6 +10,12 @@
   "unknown_19": 0,
   "ambient": 25,
   "contrast": 15,
+  "colours": [
+    [
+      15,
+      4486
+    ]
+  ],
   "scale_x": 160,
   "scale_y": 180,
   "scale_z": 160,

@@ -2,12 +2,10 @@
   "id": 64840,
   "models": {
     "0": [
-      21375
+      126488
     ]
   },
   "name": "Wooden door",
-  "occludes_1": false,
-  "ambient": 25,
   "actions": [
     "Close",
     null,
@@ -15,7 +13,5 @@
     null,
     null
   ],
-  "contrast": 15,
-  "mirror": true,
-  "unknown_170": 961
+  "mirror": true
 }

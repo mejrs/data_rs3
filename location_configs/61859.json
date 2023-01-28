@@ -7,8 +7,8 @@
   },
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 15,
-  "contrast": 10,
+  "ambient": 0,
+  "contrast": 0,
   "textures": {
     "1516": 2556
   },

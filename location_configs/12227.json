@@ -2,20 +2,24 @@
   "id": 12227,
   "models": {
     "10": [
-      12071
+      47538,
+      47540,
+      47541
     ]
   },
-  "is_transparent": true,
-  "unknown_19": 0,
-  "unknown_22": true,
-  "unknown_27": false,
-  "ambient": 20,
-  "colours": [
-    [
-      7461,
-      7580
-    ]
-  ],
+  "name": "Bonfire",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "textures": {
+    "11359": 11322,
+    "11363": 11322
+  },
+  "unknown_78": {
+    "unknown_1": 4990,
+    "unknown_2": 5
+  },
+  "unknown_98": true,
   "occludes_2": false,
-  "unknown_196": 3
+  "unknown_104": 190
 }

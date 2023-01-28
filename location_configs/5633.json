@@ -2,18 +2,10 @@
   "id": 5633,
   "models": {
     "10": [
-      98309,
-      98311,
-      66424
+      127356
     ]
   },
-  "name": "Compost Bin",
-  "actions": [
-    "Empty",
-    null,
-    null,
-    null,
-    null
-  ],
+  "unknown_19": 0,
+  "ambient": 30,
   "occludes_2": false
 }

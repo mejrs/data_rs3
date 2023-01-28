@@ -18,5 +18,13 @@
   ],
   "contrast": 15,
   "unknown_75": 0,
-  "unknown_170": 1191
+  "unknown_170": 1191,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

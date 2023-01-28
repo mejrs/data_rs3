@@ -2,25 +2,13 @@
   "id": 12189,
   "models": {
     "10": [
-      834
-    ],
-    "22": [
-      46800
+      89135
     ]
   },
-  "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 20,
-  "colours": [
-    [
-      6689,
-      7461
-    ]
-  ],
-  "textures": {
-    "2377": 2396
-  },
-  "occludes_2": false,
-  "unknown_196": 3
+  "name": "Basket",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
 }

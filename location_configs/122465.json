@@ -6,6 +6,7 @@
     ]
   },
   "name": "Large rocks",
+  "dim_x": 2,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -21,10 +22,13 @@
   "textures": {
     "8868": 11042
   },
+  "scale_x": 256,
+  "scale_y": 128,
+  "scale_z": 128,
   "is_members": true,
   "occludes_2": false,
   "cursors": [
-    52,
+    181,
     null,
     null,
     null,

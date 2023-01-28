@@ -9,19 +9,11 @@
   "dim_y": 2,
   "is_transparent": true,
   "actions": [
-    "Open",
+    "Interact",
     null,
     null,
     null,
     null
   ],
-  "occludes_2": false,
-  "cursors": [
-    49,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

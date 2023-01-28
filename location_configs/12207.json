@@ -2,13 +2,13 @@
   "id": 12207,
   "models": {
     "10": [
-      12037
+      127194
     ]
   },
+  "name": "Washing Line",
   "unknown_17": false,
-  "unknown_19": 0,
-  "unknown_22": true,
-  "ambient": 20,
+  "unknown_19": 1,
+  "ambient": 0,
   "occludes_2": false,
-  "unknown_196": 3
+  "unknown_196": 4
 }

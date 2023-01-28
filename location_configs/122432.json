@@ -5,7 +5,8 @@
       118514
     ]
   },
-  "unknown_19": 0,
+  "name": "Palm tree",
+  "unknown_19": 1,
   "textures": {
     "8897": 14485,
     "8906": 14495

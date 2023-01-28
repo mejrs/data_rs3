@@ -2,12 +2,11 @@
   "id": 2418,
   "models": {
     "10": [
-      27575
+      71239
     ]
   },
   "name": "Chest",
   "unknown_19": 1,
-  "ambient": 20,
   "actions": [
     null,
     "Deposit",
@@ -15,6 +14,5 @@
     null,
     null
   ],
-  "contrast": 15,
   "occludes_2": false
 }

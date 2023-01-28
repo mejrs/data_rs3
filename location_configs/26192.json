@@ -2,12 +2,11 @@
   "id": 26192,
   "models": {
     "10": [
-      27608
+      80094
     ]
   },
   "dim_y": 3,
   "unknown_19": 0,
-  "unknown_24": 478,
   "actions": [
     "Examine",
     "Warm-by",
@@ -23,5 +22,21 @@
     "unknown_2": 3
   },
   "occludes_2": false,
-  "unknown_104": 50
+  "unknown_104": 50,
+  "unknown_204": [
+    {
+      "id": 31,
+      "some_bool": false,
+      "vec_1": [
+        3267887104,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

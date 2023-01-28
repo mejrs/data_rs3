@@ -1,0 +1,21 @@
+{
+  "id": 124766,
+  "models": {
+    "10": [
+      121917
+    ]
+  },
+  "name": "Wilderness rose",
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13633": 15396
+  },
+  "is_members": true,
+  "occludes_2": false
+}

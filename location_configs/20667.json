@@ -19,5 +19,13 @@
     null
   ],
   "contrast": 25,
-  "is_members": true
+  "is_members": true,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

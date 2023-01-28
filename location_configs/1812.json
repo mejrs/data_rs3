@@ -2,27 +2,15 @@
   "id": 1812,
   "models": {
     "10": [
-      98309,
-      98311,
-      7843
+      123558
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 25,
-  "colours": [
-    [
-      7580,
-      12942
-    ],
-    [
-      7700,
-      13194
-    ],
-    [
-      7461,
-      12818
-    ]
-  ],
-  "unknown_44": 14,
-  "occludes_2": false
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false,
+  "unknown_186": 2
 }

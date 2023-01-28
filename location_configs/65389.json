@@ -2,13 +2,12 @@
   "id": 65389,
   "models": {
     "0": [
-      22468
+      126382
     ]
   },
   "name": "Gate",
   "unknown_19": 1,
-  "unknown_21": true,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Open",
     null,
@@ -16,7 +15,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "mirror": true,
   "mapscene": 95,
   "cursors": [

@@ -2,18 +2,14 @@
   "id": 92954,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      7024
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "colours": [
-    [
-      8724,
-      13074
-    ]
-  ],
+  "name": "Scaffolding",
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_22": true,
+  "unknown_27": false,
+  "model": false,
   "occludes_2": false
 }

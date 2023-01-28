@@ -2,15 +2,14 @@
   "id": 40661,
   "models": {
     "10": [
-      44085
+      126265,
+      127351
     ]
   },
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "unknown_73": true,
   "occludes_2": false
 }

@@ -6,7 +6,6 @@
     ]
   },
   "name": "Crate",
-  "ambient": 25,
   "actions": [
     "Search",
     null,
@@ -14,7 +13,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "occludes_2": false,
   "cursors": [
     56,

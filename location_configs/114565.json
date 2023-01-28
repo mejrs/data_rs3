@@ -8,7 +8,7 @@
   },
   "name": "Diseased stinkshroom",
   "actions": [
-    null,
+    "Cure",
     "Inspect",
     "Clear",
     "Guide",

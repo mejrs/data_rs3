@@ -2,14 +2,15 @@
   "id": 65209,
   "models": {
     "10": [
-      20385
+      126278
+    ],
+    "22": [
+      125887
     ]
   },
-  "is_transparent": true,
+  "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 25,
-  "contrast": 15,
   "mapscene": 11,
   "occludes_2": false
 }

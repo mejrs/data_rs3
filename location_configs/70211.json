@@ -2,7 +2,8 @@
   "id": 70211,
   "models": {
     "10": [
-      69084
+      127391,
+      127393
     ]
   },
   "name": "Ritual marker",
@@ -12,8 +13,6 @@
   "unknown_21": true,
   "unknown_24": 11958,
   "unknown_27": false,
-  "ambient": 20,
-  "contrast": 25,
   "model": false,
   "unknown_88": false,
   "occludes_2": false

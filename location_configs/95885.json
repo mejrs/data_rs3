@@ -26,5 +26,13 @@
     "3679": 5562,
     "3680": 5561
   },
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

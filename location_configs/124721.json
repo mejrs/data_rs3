@@ -1,0 +1,19 @@
+{
+  "id": 124721,
+  "models": {
+    "10": [
+      85100
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "textures": {
+    "11921": 15240,
+    "15238": 15239
+  },
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false,
+  "unknown_196": 4
+}

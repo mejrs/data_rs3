@@ -1,0 +1,14 @@
+{
+  "id": 124567,
+  "models": {
+    "10": [
+      93024
+    ]
+  },
+  "name": "Agility shortcut",
+  "textures": {
+    "8868": 397
+  },
+  "unknown_69": 10,
+  "occludes_2": false
+}

@@ -9,7 +9,7 @@
   "name": "Diseased Hammerstone Hops",
   "ambient": 25,
   "actions": [
-    null,
+    "Cure",
     "Inspect",
     "Clear",
     "Guide",

@@ -1,16 +1,17 @@
 {
   "id": 26226,
   "models": {
-    "22": [
-      28292
+    "10": [
+      65371
     ]
   },
+  "dim_x": 3,
+  "dim_y": 3,
   "unknown_17": false,
-  "colours": [
-    [
-      6241,
-      8377
-    ]
-  ],
+  "unknown_19": 0,
+  "model": false,
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
   "occludes_2": false
 }

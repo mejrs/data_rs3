@@ -7,7 +7,7 @@
   },
   "name": "Staircase",
   "unknown_27": false,
-  "ambient": 20,
+  "ambient": 10,
   "actions": [
     "Climb-down",
     null,

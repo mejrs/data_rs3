@@ -1,0 +1,21 @@
+{
+  "id": 124764,
+  "models": {
+    "10": [
+      124951
+    ]
+  },
+  "name": "Strange flower sprout",
+  "actions": [
+    "Nurture",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13632": 15395
+  },
+  "is_members": true,
+  "occludes_2": false
+}

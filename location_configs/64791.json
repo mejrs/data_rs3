@@ -2,12 +2,9 @@
   "id": 64791,
   "models": {
     "0": [
-      21888
+      126553
     ]
   },
   "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15
+  "unknown_27": false
 }

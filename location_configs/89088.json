@@ -15,6 +15,9 @@
     null,
     null
   ],
+  "textures": {
+    "1742": 11172
+  },
   "mapfunction": 625,
   "cursors": [
     181,

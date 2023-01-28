@@ -1,21 +1,32 @@
 {
   "id": 12226,
   "models": {
-    "10": [
-      12069
+    "22": [
+      80246
     ]
   },
-  "is_transparent": true,
-  "unknown_19": 0,
-  "unknown_22": true,
-  "unknown_27": false,
-  "ambient": 20,
-  "colours": [
-    [
-      7461,
-      7580
-    ]
+  "name": "Druid's Journal",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
   ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "unknown_73": true,
   "occludes_2": false,
-  "unknown_196": 3
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

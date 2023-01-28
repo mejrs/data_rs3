@@ -9,9 +9,10 @@
   "dim_y": 13,
   "unknown_17": false,
   "unknown_19": 0,
-  "ambient": 25,
-  "model": false,
-  "unknown_88": false,
+  "textures": {
+    "3772": 11170
+  },
   "occludes_2": false,
+  "unknown_186": 2,
   "unknown_196": 3
 }

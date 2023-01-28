@@ -9,7 +9,6 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 20,
   "actions": [
     "Remove beacon",
     null,
@@ -17,7 +16,6 @@
     null,
     null
   ],
-  "contrast": 25,
   "colours": [
     [
       36824,

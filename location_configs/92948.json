@@ -2,26 +2,32 @@
   "id": 92948,
   "models": {
     "10": [
-      98309,
-      98310
+      127392,
+      127393,
+      127373
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "actions": [
-    "Open",
-    null,
-    null,
-    null,
-    null
+  "name": "Subtly sabotaged ritual marker",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_24": 30007,
+  "unknown_27": false,
+  "colours": [
+    [
+      933,
+      129
+    ],
+    [
+      57,
+      62503
+    ]
   ],
+  "textures": {
+    "1585": 15487,
+    "15487": 15486
+  },
+  "model": false,
+  "unknown_88": false,
   "occludes_2": false,
-  "cursors": [
-    49,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_188": true
 }

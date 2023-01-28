@@ -5,8 +5,9 @@
       77993
     ]
   },
+  "name": "Hammock",
   "dim_x": 2,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_21": true,
   "ambient": 0,
   "scale_x": 175,

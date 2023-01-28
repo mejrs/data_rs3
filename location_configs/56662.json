@@ -7,7 +7,7 @@
   },
   "name": "Diseased blue vine blossom",
   "actions": [
-    null,
+    "Cure",
     "Inspect",
     "Clear",
     "Guide",

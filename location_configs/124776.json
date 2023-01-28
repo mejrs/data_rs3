@@ -1,0 +1,15 @@
+{
+  "id": 124776,
+  "models": {
+    "10": [
+      45743
+    ]
+  },
+  "name": "Evil root",
+  "unknown_19": 1,
+  "unknown_24": 354,
+  "ambient": 15,
+  "unknown_75": 0,
+  "is_members": true,
+  "occludes_2": false
+}

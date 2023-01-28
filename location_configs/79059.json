@@ -2,38 +2,11 @@
   "id": 79059,
   "models": {
     "10": [
-      20
+      47545
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      3230,
-      5390
-    ],
-    [
-      3226,
-      5390
-    ],
-    [
-      3222,
-      5398
-    ],
-    [
-      3218,
-      5402
-    ],
-    [
-      3214,
-      5406
-    ]
-  ],
-  "textures": {
-    "598": 2075
-  },
   "occludes_2": false
 }

@@ -2,11 +2,28 @@
   "id": 1954,
   "models": {
     "10": [
-      98309,
-      98311,
-      66424
+      126589,
+      126578,
+      127274
     ]
   },
-  "name": "Compost Bin",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 0,
+  "colours": [
+    [
+      15,
+      3466
+    ]
+  ],
+  "textures": {
+    "11921": 15241,
+    "13104": 15230
+  },
+  "scale_x": 160,
+  "scale_y": 180,
+  "scale_z": 160,
+  "unknown_81": 40,
+  "mapscene": 6,
   "occludes_2": false
 }

@@ -1,0 +1,12 @@
+{
+  "id": 124673,
+  "models": {
+    "10": [
+      126628
+    ]
+  },
+  "name": "Balloon",
+  "unknown_17": false,
+  "ambient": 32,
+  "occludes_2": false
+}

@@ -2,27 +2,16 @@
   "id": 79036,
   "models": {
     "10": [
-      81066
+      73839
     ]
   },
   "name": "Bank chest",
-  "ambient": 15,
   "actions": [
     "Use",
     null,
     "Collect",
     null,
     null
-  ],
-  "colours": [
-    [
-      6682,
-      5396
-    ],
-    [
-      6443,
-      5408
-    ]
   ],
   "unknown_73": true,
   "occludes_2": false,

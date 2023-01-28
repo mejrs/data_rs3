@@ -2,13 +2,12 @@
   "id": 65717,
   "models": {
     "0": [
-      57038
+      126470
     ]
   },
   "name": "Door",
   "unknown_19": 1,
-  "occludes_1": false,
-  "ambient": 25,
+  "ambient": -10,
   "actions": [
     "Open",
     "Pick-lock",
@@ -16,12 +15,11 @@
     null,
     null
   ],
-  "contrast": 15,
   "unknown_75": 0,
-  "unknown_170": 957,
+  "occludes_2": false,
   "cursors": [
     49,
-    null,
+    195,
     null,
     null,
     null,

@@ -2,13 +2,14 @@
   "id": 65437,
   "models": {
     "10": [
-      19928
+      126269
     ]
   },
   "name": "Bones",
   "dim_x": 2,
   "dim_y": 4,
   "unknown_21": true,
+  "ambient": -15,
   "occludes_2": false,
   "unknown_196": 2
 }

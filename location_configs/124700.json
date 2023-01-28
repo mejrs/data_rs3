@@ -1,0 +1,39 @@
+{
+  "id": 124700,
+  "models": {
+    "10": [
+      126674,
+      126675
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "colours": [
+    [
+      682,
+      21170
+    ],
+    [
+      63003,
+      21170
+    ]
+  ],
+  "textures": {
+    "15266": 15265
+  },
+  "model": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        35013,
+        200
+      ],
+      [
+        35014,
+        30
+      ]
+    ]
+  }
+}

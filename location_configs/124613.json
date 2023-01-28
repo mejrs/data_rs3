@@ -1,0 +1,38 @@
+{
+  "id": 124613,
+  "models": {
+    "22": [
+      64389
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "colours": [
+    [
+      5298,
+      40
+    ],
+    [
+      6307,
+      35
+    ],
+    [
+      6307,
+      30
+    ],
+    [
+      6298,
+      25
+    ]
+  ],
+  "textures": {
+    "1516": 15076,
+    "2377": 15070
+  },
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

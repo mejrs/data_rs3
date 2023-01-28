@@ -2,7 +2,7 @@
   "id": 65734,
   "models": {
     "10": [
-      25757
+      126375
     ]
   },
   "name": "Cliffside",
@@ -10,7 +10,7 @@
   "dim_y": 4,
   "is_transparent": true,
   "unknown_22": true,
-  "ambient": -20,
+  "ambient": 5,
   "actions": [
     "Climb",
     null,
@@ -19,6 +19,12 @@
     null
   ],
   "contrast": 15,
+  "textures": {
+    "11800": 12159,
+    "11802": 12160,
+    "11803": 12161,
+    "11804": 12162
+  },
   "model": false,
   "unknown_69": 5,
   "unknown_88": false,

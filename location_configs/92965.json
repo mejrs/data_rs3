@@ -2,25 +2,22 @@
   "id": 92965,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      2742
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "actions": [
-    "Empty",
-    null,
-    null,
-    null,
-    null
-  ],
+  "name": "White dust",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
   "colours": [
     [
-      8724,
-      8604
+      82,
+      6371
     ]
   ],
+  "model": false,
+  "unknown_88": false,
   "occludes_2": false
 }

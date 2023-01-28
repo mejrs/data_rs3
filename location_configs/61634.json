@@ -9,6 +9,6 @@
   "dim_x": 3,
   "unknown_21": true,
   "ambient": 25,
-  "contrast": 15,
+  "contrast": 0,
   "occludes_2": false
 }

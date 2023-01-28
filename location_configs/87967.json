@@ -10,7 +10,6 @@
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
   "actions": [
     "Drop-Resource",
     "Take-resource",

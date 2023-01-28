@@ -1,0 +1,29 @@
+{
+  "id": 124780,
+  "models": {
+    "10": [
+      86692,
+      127129
+    ]
+  },
+  "name": "Skeleton",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Take bones",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_1": 16128,
+  "unknown_2": 16128,
+  "unknown_3": 15984,
+  "unknown_4": 16640,
+  "unknown_5": 16640,
+  "unknown_6": 16784
+}

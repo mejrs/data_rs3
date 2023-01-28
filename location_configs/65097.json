@@ -2,7 +2,7 @@
   "id": 65097,
   "models": {
     "10": [
-      23012
+      126325
     ]
   },
   "dim_x": 2,
@@ -11,5 +11,9 @@
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  },
   "occludes_2": false
 }

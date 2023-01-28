@@ -2,42 +2,17 @@
   "id": 1910,
   "models": {
     "10": [
-      98309,
-      98311,
-      7843
+      118321
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 25,
-  "actions": [
-    "Take-tomato",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
-    [
-      2979,
-      3742
-    ],
-    [
-      22430,
-      9647
-    ],
-    [
-      7580,
-      12942
-    ],
-    [
-      7700,
-      13194
-    ],
-    [
-      7461,
-      12818
-    ]
-  ],
-  "unknown_44": 62,
-  "occludes_2": false
+  "name": "Bookcase",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "mirror": true,
+  "model": false,
+  "translate_y": 320,
+  "occludes_2": false,
+  "unknown_196": 4
 }

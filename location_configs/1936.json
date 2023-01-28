@@ -2,42 +2,14 @@
   "id": 1936,
   "models": {
     "10": [
-      98309,
-      98311,
-      7843
+      126265,
+      127351
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 25,
-  "actions": [
-    "Take-tomato",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
-    [
-      2979,
-      3742
-    ],
-    [
-      22430,
-      9647
-    ],
-    [
-      7580,
-      12942
-    ],
-    [
-      7700,
-      13194
-    ],
-    [
-      7461,
-      12818
-    ]
-  ],
-  "unknown_44": 62,
+  "name": "Cave entrance",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
   "occludes_2": false
 }

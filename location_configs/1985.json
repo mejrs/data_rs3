@@ -1,12 +1,18 @@
 {
   "id": 1985,
   "models": {
+    "0": [
+      18838,
+      127383
+    ],
     "10": [
-      98309,
-      98311,
-      66424
+      18525,
+      127382
     ]
   },
-  "name": "Compost Bin",
-  "occludes_2": false
+  "name": "Grave",
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "unknown_93": 8224
 }

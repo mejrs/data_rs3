@@ -2,18 +2,14 @@
   "id": 92956,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      127339
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "colours": [
-    [
-      8724,
-      13074
-    ]
-  ],
+  "name": "Crates",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "model": false,
+  "unknown_93": 8224,
   "occludes_2": false
 }

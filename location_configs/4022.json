@@ -35,5 +35,13 @@
   "model": false,
   "breakroutefinding": true,
   "unknown_88": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

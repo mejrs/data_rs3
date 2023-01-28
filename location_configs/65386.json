@@ -2,14 +2,13 @@
   "id": 65386,
   "models": {
     "10": [
-      22466
+      126379
     ]
   },
   "name": "Gate",
   "dim_x": 2,
   "unknown_19": 1,
-  "unknown_21": true,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Open",
     null,
@@ -17,7 +16,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "unknown_75": 0,
   "mapscene": 95,
   "occludes_2": false,

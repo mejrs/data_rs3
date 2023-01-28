@@ -2,12 +2,21 @@
   "id": 65247,
   "models": {
     "10": [
-      22377
+      126590
     ]
   },
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      15,
+      4486
+    ]
+  ],
+  "textures": {
+    "11921": 15240,
+    "13104": 15230,
+    "15238": 15239
+  },
   "model": false,
   "unknown_81": 40,
   "unknown_88": false,

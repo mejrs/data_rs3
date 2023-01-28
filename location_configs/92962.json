@@ -2,18 +2,17 @@
   "id": 92962,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      89179
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "colours": [
-    [
-      8724,
-      13074
-    ]
-  ],
+  "name": "Rune pouch",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "unknown_88": false,
   "occludes_2": false
 }

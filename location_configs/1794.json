@@ -2,27 +2,17 @@
   "id": 1794,
   "models": {
     "10": [
-      98309,
-      98311,
-      66424
+      127352
     ]
   },
-  "name": "Compost Bin",
-  "actions": [
-    "Empty",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
-    [
-      5409,
-      10665
-    ]
-  ],
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
   "textures": {
-    "10467": 10466
+    "11805": 12163,
+    "11806": 12164,
+    "11807": 12165,
+    "11808": 12166
   },
   "occludes_2": false
 }

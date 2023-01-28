@@ -7,7 +7,7 @@
   },
   "name": "Dragon",
   "unknown_19": 1,
-  "ambient": -25,
+  "ambient": 64,
   "actions": [
     "Inspect",
     null,

@@ -1,0 +1,36 @@
+{
+  "id": 124772,
+  "models": {
+    "10": [
+      42165,
+      42167
+    ]
+  },
+  "name": "Infernal star",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 10351,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "unknown_89": false,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -8,7 +8,7 @@
   "name": "Pillar",
   "dim_x": 2,
   "unknown_21": true,
-  "ambient": 15,
+  "ambient": 0,
   "actions": [
     "Jump-over",
     null,
@@ -16,7 +16,7 @@
     null,
     null
   ],
-  "contrast": 10,
+  "contrast": 0,
   "occludes_2": false,
   "cursors": [
     181,

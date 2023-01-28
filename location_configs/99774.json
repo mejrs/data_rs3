@@ -11,7 +11,7 @@
   "unknown_21": true,
   "unknown_22": true,
   "occludes_1": false,
-  "ambient": 20,
+  "ambient": 10,
   "contrast": 15,
   "mirror": true,
   "model": false,

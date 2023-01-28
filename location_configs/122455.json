@@ -2,31 +2,16 @@
   "id": 122455,
   "models": {
     "10": [
-      67768
+      125767
     ]
   },
-  "name": "Stone pillar",
-  "dim_y": 2,
-  "actions": [
-    "Use",
-    null,
-    null,
-    null,
-    null
-  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_24": 34638,
   "textures": {
-    "8868": 11042
+    "14598": 15034
   },
-  "unknown_69": 10,
-  "is_members": true,
+  "model": false,
   "occludes_2": false,
-  "cursors": [
-    46,
-    null,
-    null,
-    null,
-    null,
-    null
-  ],
-  "unknown_203": true
+  "unknown_196": 4
 }

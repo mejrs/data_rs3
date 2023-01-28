@@ -1,12 +1,11 @@
 {
   "id": 64819,
   "models": {
-    "0": [
-      21947
+    "10": [
+      126489
     ]
   },
   "unknown_19": 0,
   "unknown_22": true,
-  "ambient": 25,
-  "contrast": 20
+  "occludes_2": false
 }

@@ -8,7 +8,7 @@
   "name": "Storage crate",
   "is_transparent": true,
   "unknown_27": false,
-  "ambient": 15,
+  "ambient": 0,
   "contrast": 15,
   "textures": {
     "1892": 1890

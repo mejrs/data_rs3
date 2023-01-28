@@ -2,11 +2,14 @@
   "id": 99778,
   "models": {
     "10": [
-      107280
+      47544
     ]
   },
   "name": "Bench",
   "dim_x": 2,
   "is_transparent": true,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
   "occludes_2": false
 }

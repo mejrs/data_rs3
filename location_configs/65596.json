@@ -2,12 +2,14 @@
   "id": 65596,
   "models": {
     "0": [
-      22808
+      126289
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 25,
-  "contrast": 15
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  }
 }

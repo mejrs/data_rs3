@@ -1,0 +1,23 @@
+{
+  "id": 124745,
+  "models": {
+    "10": [
+      127063,
+      127061,
+      127059
+    ]
+  },
+  "name": "Ornate grave",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

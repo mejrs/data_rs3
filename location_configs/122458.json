@@ -6,6 +6,7 @@
     ]
   },
   "name": "Fallen palm tree",
+  "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
@@ -21,6 +22,9 @@
   "textures": {
     "8868": 11042
   },
+  "scale_x": 128,
+  "scale_y": 128,
+  "scale_z": 256,
   "unknown_69": 14,
   "is_members": true,
   "occludes_2": false,

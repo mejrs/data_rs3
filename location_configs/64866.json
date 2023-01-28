@@ -2,10 +2,10 @@
   "id": 64866,
   "models": {
     "0": [
-      18348
+      126483
     ],
     "10": [
-      18424
+      126482
     ]
   },
   "unknown_17": false,
@@ -13,8 +13,6 @@
   "unknown_21": true,
   "unknown_22": true,
   "occludes_1": false,
-  "ambient": 25,
-  "contrast": 20,
   "unknown_170": 1325,
   "unknown_196": 3
 }

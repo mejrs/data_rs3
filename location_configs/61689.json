@@ -11,9 +11,10 @@
   "unknown_19": 0,
   "unknown_22": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 5,
+  "contrast": 0,
   "model": false,
+  "translate_y": 2,
   "unknown_88": false,
   "occludes_2": false
 }

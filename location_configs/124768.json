@@ -1,0 +1,35 @@
+{
+  "id": 124768,
+  "models": {
+    "10": [
+      121911
+    ]
+  },
+  "name": "Poisonous hollyhock",
+  "actions": [
+    "Harvest",
+    "Dig up",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      21033
+    ],
+    [
+      8722,
+      21272
+    ],
+    [
+      6364,
+      6618
+    ]
+  ],
+  "textures": {
+    "13631": 15394
+  },
+  "is_members": true,
+  "occludes_2": false
+}

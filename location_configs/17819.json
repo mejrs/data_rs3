@@ -10,7 +10,7 @@
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 7,
   "actions": [
     "Enter",
     "Uninstanced encounter",
@@ -38,6 +38,7 @@
     ]
   ],
   "textures": {
+    "1742": 11172,
     "2350": 2358
   },
   "model": false,

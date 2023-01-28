@@ -8,7 +8,7 @@
   "dim_y": 2,
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 0,
+  "ambient": 64,
   "contrast": 15,
   "occludes_2": false
 }

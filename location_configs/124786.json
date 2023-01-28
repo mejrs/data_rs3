@@ -1,0 +1,27 @@
+{
+  "id": 124786,
+  "models": {
+    "10": [
+      2259
+    ]
+  },
+  "name": "Swamp bubbles",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 480,
+  "actions": [
+    "Fill bellows",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_1": 16134,
+  "unknown_2": 16134,
+  "unknown_3": 16134,
+  "unknown_4": 16634,
+  "unknown_5": 16634,
+  "unknown_6": 16634
+}

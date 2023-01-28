@@ -1,35 +1,26 @@
 {
   "id": 1881,
   "models": {
-    "10": [
-      98309,
-      98311,
-      7841
+    "22": [
+      126392
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 25,
-  "actions": [
-    "Close",
-    null,
-    null,
-    null,
-    null
-  ],
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 5,
+  "contrast": 15,
   "colours": [
     [
-      7580,
-      12942
-    ],
-    [
-      7700,
-      13194
-    ],
-    [
-      7461,
-      12818
+      140,
+      14
     ]
   ],
-  "unknown_44": 14,
-  "occludes_2": false
+  "textures": {
+    "15070": 15081
+  },
+  "model": false,
+  "unknown_73": true,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 3
 }

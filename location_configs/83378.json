@@ -2,16 +2,10 @@
   "id": 83378,
   "models": {
     "10": [
-      52223
+      73985
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 15,
-  "contrast": 10,
-  "textures": {
-    "1562": 1948,
-    "2108": 3189
-  },
   "occludes_2": false
 }

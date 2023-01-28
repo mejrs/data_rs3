@@ -10,8 +10,9 @@
   "dim_y": 5,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "textures": {
+    "1742": 11172
+  },
   "model": false,
   "unknown_81": 100,
   "unknown_88": false,

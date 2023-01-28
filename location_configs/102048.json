@@ -7,7 +7,7 @@
   },
   "name": "Staircase",
   "is_transparent": true,
-  "ambient": 25,
+  "ambient": 5,
   "actions": [
     "Climb down",
     null,

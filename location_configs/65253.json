@@ -8,7 +8,6 @@
   "name": "Tree",
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 2,
   "actions": [
     "Chop down",
     null,

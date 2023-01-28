@@ -2,13 +2,15 @@
   "id": 65601,
   "models": {
     "0": [
-      22654
+      126283
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 25,
-  "contrast": 15,
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  },
   "mirror": true
 }

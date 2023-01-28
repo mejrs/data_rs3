@@ -2,18 +2,12 @@
   "id": 92953,
   "models": {
     "10": [
-      98309,
-      98311,
-      7842
+      73074
     ]
   },
-  "name": "Compost Bin",
-  "ambient": 37,
-  "colours": [
-    [
-      8724,
-      13074
-    ]
-  ],
+  "name": "Closed chest",
+  "dim_x": 2,
+  "unknown_27": false,
+  "model": false,
   "occludes_2": false
 }

@@ -2,11 +2,27 @@
   "id": 2999,
   "models": {
     "10": [
-      98309,
-      98311,
-      66424
+      126079
     ]
   },
-  "name": "Compost Bin",
-  "occludes_2": false
+  "name": "Prison",
+  "dim_x": 3,
+  "unknown_27": false,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
 }
