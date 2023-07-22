@@ -1,0 +1,15 @@
+{
+  "id": 125238,
+  "models": {
+    "10": [
+      124483
+    ]
+  },
+  "name": "Shrike",
+  "unknown_17": false,
+  "unknown_24": 34581,
+  "textures": {
+    "14287": 15748
+  },
+  "occludes_2": false
+}

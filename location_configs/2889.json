@@ -2,12 +2,11 @@
   "id": 2889,
   "models": {
     "10": [
-      1701
+      118518
     ]
   },
   "name": "Jungle Tree",
   "unknown_17": false,
-  "ambient": 40,
   "actions": [
     "Chop-down",
     null,
@@ -15,20 +14,14 @@
     null,
     null
   ],
-  "colours": [
-    [
-      61,
-      16916
-    ],
-    [
-      49,
-      13840
-    ],
-    [
-      41,
-      4626
-    ]
-  ],
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
   "mapscene": 5,
   "occludes_2": false,
   "cursors": [
@@ -38,5 +31,6 @@
     null,
     null,
     null
-  ]
+  ],
+  "unknown_196": 4
 }

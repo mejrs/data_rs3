@@ -1,0 +1,39 @@
+{
+  "id": 125256,
+  "models": {
+    "10": [
+      72819
+    ]
+  },
+  "name": "Unearthed coffer",
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16184,
+  "unknown_2": 16184,
+  "unknown_3": 16184,
+  "unknown_4": 16584,
+  "unknown_5": 16584,
+  "unknown_6": 16584
+}

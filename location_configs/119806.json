@@ -5,13 +5,13 @@
       121945
     ]
   },
+  "name": "Hedge",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "model": false,
   "mapscene": 9,
   "occludes_2": false,
-  "unknown_186": 2,
   "unknown_196": 3
 }

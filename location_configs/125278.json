@@ -1,0 +1,20 @@
+{
+  "id": 125278,
+  "models": {
+    "10": [
+      127657
+    ]
+  },
+  "name": "Table",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "textures": {
+    "11346": 15634,
+    "11348": 15635,
+    "11349": 15636
+  },
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

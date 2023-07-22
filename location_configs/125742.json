@@ -1,0 +1,22 @@
+{
+  "id": 125742,
+  "models": {
+    "10": [
+      128208
+    ]
+  },
+  "name": "Ancient door",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65486,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

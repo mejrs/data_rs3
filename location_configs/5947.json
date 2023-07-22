@@ -18,7 +18,9 @@
     null,
     null
   ],
-  "contrast": 15,
+  "textures": {
+    "1767": 8538
+  },
   "unknown_69": 7,
   "translate_y": 60,
   "occludes_2": false,

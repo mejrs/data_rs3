@@ -2,7 +2,7 @@
   "id": 82329,
   "models": {
     "10": [
-      83472
+      127792
     ]
   },
   "name": "Unlit beacon",
@@ -10,8 +10,6 @@
   "dim_y": 3,
   "unknown_21": true,
   "unknown_24": 10237,
-  "ambient": 25,
-  "contrast": 25,
   "mapscene": 87,
   "occludes_2": false,
   "member_actions": [

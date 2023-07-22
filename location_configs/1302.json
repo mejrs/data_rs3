@@ -2,12 +2,16 @@
   "id": 1302,
   "models": {
     "10": [
-      1702
+      118513
     ]
   },
   "name": "Leafy tree",
   "dim_x": 2,
   "dim_y": 2,
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
   "unknown_81": 45,
   "mapscene": 5,
   "occludes_2": false

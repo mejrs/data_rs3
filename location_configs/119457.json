@@ -5,11 +5,28 @@
       121481
     ]
   },
-  "unknown_19": 0,
+  "name": "Tree",
+  "unknown_19": 1,
   "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
   "unknown_81": 80,
   "mapscene": 1,
   "occludes_2": false,
   "unknown_188": true,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
   "unknown_196": 4
 }

@@ -13,7 +13,7 @@
   "actions": [
     "Take Compost",
     "Check Contents",
-    null,
+    "Add all weeds",
     null,
     null
   ],

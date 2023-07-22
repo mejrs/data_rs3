@@ -1,0 +1,33 @@
+{
+  "id": 125233,
+  "models": {
+    "10": [
+      127764,
+      127765,
+      127766
+    ]
+  },
+  "name": "Stone stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "actions": [
+    "Climb",
+    "Ascend",
+    null,
+    "Top floor",
+    null
+  ],
+  "is_members": true,
+  "unknown_98": true,
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    54,
+    52,
+    null,
+    52,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 125040,
+  "models": {
+    "10": [
+      25338
+    ]
+  },
+  "name": "Dig Site specimen rocks",
+  "unknown_22": true,
+  "ambient": 20,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -2,16 +2,17 @@
   "id": 72449,
   "models": {
     "10": [
-      69773
+      84471
     ]
   },
   "name": "Rocks",
+  "dim_x": 2,
   "dim_y": 3,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "model": false,
+  "scale_x": 280,
+  "scale_y": 280,
+  "scale_z": 280,
   "unknown_88": false,
-  "unknown_95": 65524,
   "occludes_2": false
 }

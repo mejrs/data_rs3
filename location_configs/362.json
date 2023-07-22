@@ -2,11 +2,12 @@
   "id": 362,
   "models": {
     "10": [
-      1460
+      67867
     ]
   },
   "name": "Barrel",
-  "ambient": 25,
-  "contrast": 25,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
   "occludes_2": false
 }

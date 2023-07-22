@@ -1,0 +1,29 @@
+{
+  "id": 125425,
+  "models": {
+    "10": [
+      7668
+    ]
+  },
+  "name": "Wise Old Signpost",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    "Toggle Effects",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 627,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

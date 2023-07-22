@@ -1,0 +1,16 @@
+{
+  "id": 124939,
+  "models": {
+    "10": [
+      127660
+    ]
+  },
+  "name": "Timber",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

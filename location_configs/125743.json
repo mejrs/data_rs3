@@ -1,0 +1,30 @@
+{
+  "id": 125743,
+  "models": {
+    "10": [
+      128539
+    ]
+  },
+  "name": "Ancient door",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "translate_x": 65486,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

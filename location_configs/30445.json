@@ -8,8 +8,9 @@
   "dim_y": 2,
   "unknown_19": 0,
   "unknown_22": true,
-  "ambient": 25,
-  "contrast": 15,
+  "textures": {
+    "1767": 8538
+  },
   "model": false,
   "translate_y": 104,
   "occludes_2": false,

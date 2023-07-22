@@ -12,6 +12,9 @@
   "unknown_27": false,
   "ambient": 7,
   "contrast": 15,
+  "textures": {
+    "1742": 11172
+  },
   "model": false,
   "unknown_88": false,
   "unknown_95": 65504,

@@ -2,7 +2,7 @@
   "id": 2890,
   "models": {
     "10": [
-      1702
+      118518
     ]
   },
   "name": "Jungle Tree",
@@ -16,6 +16,14 @@
     null,
     null
   ],
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
   "mapscene": 5,
   "occludes_2": false,
   "cursors": [

@@ -1,0 +1,19 @@
+{
+  "id": 125711,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "model": false,
+  "translate_y": 65511,
+  "unknown_88": false,
+  "morphs_2": {
+    "varbit": 52519,
+    "ids": [
+      125705,
+      125705,
+      125707,
+      125706,
+      125704
+    ],
+    "default": 125705
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 125213,
+  "models": {
+    "10": [
+      128008,
+      128005,
+      128007
+    ]
+  },
+  "name": "Cabbage shrine",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_98": true,
+  "occludes_2": false
+}

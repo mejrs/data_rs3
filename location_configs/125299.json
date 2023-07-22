@@ -1,0 +1,41 @@
+{
+  "id": 125299,
+  "models": {
+    "10": [
+      39331
+    ]
+  },
+  "name": "Lead pipe",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 32,
+  "scale_y": 32,
+  "scale_z": 32,
+  "translate_y": 65476,
+  "translate_z": 32,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16284,
+  "unknown_2": 16284,
+  "unknown_3": 16284,
+  "unknown_4": 16484,
+  "unknown_5": 16584,
+  "unknown_6": 16584
+}

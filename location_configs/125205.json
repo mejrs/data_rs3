@@ -1,0 +1,34 @@
+{
+  "id": 125205,
+  "models": {
+    "10": [
+      80998
+    ]
+  },
+  "name": "Range",
+  "dim_x": 2,
+  "unknown_17": false,
+  "actions": [
+    "Cook-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 4985,
+    "unknown_2": 3
+  },
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_104": 50,
+  "mapfunction": 596,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

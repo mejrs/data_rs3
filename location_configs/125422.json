@@ -1,0 +1,34 @@
+{
+  "id": 125422,
+  "models": {
+    "10": [
+      104415,
+      104416,
+      115137
+    ]
+  },
+  "name": "Wilderness Flash Events portal",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "1304": 3541
+  },
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

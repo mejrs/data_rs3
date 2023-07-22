@@ -2,20 +2,13 @@
   "id": 38383,
   "models": {
     "10": [
-      1716
+      85107
     ]
   },
   "name": "Dead tree",
-  "colours": [
-    [
-      7054,
-      5388
-    ],
-    [
-      6028,
-      5388
-    ]
-  ],
+  "scale_x": 40,
+  "scale_y": 40,
+  "scale_z": 40,
   "unknown_81": 42,
   "mapscene": 27,
   "occludes_2": false,

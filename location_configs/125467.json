@@ -1,0 +1,24 @@
+{
+  "id": 125467,
+  "models": {
+    "10": [
+      128397
+    ]
+  },
+  "name": "Boulder",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      3124,
+      5137
+    ]
+  ],
+  "textures": {
+    "11803": 12161
+  },
+  "occludes_2": false
+}

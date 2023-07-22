@@ -10,5 +10,8 @@
   "dim_y": 3,
   "unknown_17": false,
   "unknown_21": true,
+  "textures": {
+    "1830": 11178
+  },
   "occludes_2": false
 }

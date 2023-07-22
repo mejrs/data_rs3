@@ -8,8 +8,9 @@
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 50,
-  "contrast": 15,
+  "textures": {
+    "1861": 11172
+  },
   "model": false,
   "translate_y": 65533,
   "unknown_73": true,

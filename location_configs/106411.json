@@ -10,13 +10,9 @@
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 32,
-  "colours": [
-    [
-      127,
-      188
-    ]
-  ],
+  "textures": {
+    "8359": 15772
+  },
   "model": false,
   "translate_x": 65316,
   "unknown_88": false,

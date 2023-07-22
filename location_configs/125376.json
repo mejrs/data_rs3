@@ -1,0 +1,17 @@
+{
+  "id": 125376,
+  "models": {
+    "10": [
+      128211
+    ]
+  },
+  "name": "Wall spikes",
+  "dim_x": 2,
+  "dim_y": 6,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

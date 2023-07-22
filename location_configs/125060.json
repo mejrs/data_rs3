@@ -1,0 +1,22 @@
+{
+  "id": 125060,
+  "models": {
+    "10": [
+      127588
+    ]
+  },
+  "name": "Construction hotspot",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "is_members": true,
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 125234,
+  "models": {
+    "10": [
+      127763
+    ]
+  },
+  "name": "Regular Stairs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "actions": [
+    "Climb",
+    "Ascend",
+    "Descend",
+    "Top floor",
+    "Bottom floor"
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    54,
+    52,
+    53,
+    52,
+    53,
+    null
+  ]
+}

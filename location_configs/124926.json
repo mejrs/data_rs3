@@ -1,0 +1,22 @@
+{
+  "id": 124926,
+  "models": {
+    "10": [
+      127664
+    ]
+  },
+  "name": "Miscellania Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Manage",
+    "Kingdom Map",
+    "Check Approval",
+    "Collect",
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

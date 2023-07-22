@@ -1,0 +1,38 @@
+{
+  "id": 125286,
+  "models": {
+    "10": [
+      116157
+    ]
+  },
+  "name": "Strange satchel",
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16184,
+  "unknown_2": 16184,
+  "unknown_3": 16184,
+  "unknown_4": 16584,
+  "unknown_5": 16584,
+  "unknown_6": 16584
+}

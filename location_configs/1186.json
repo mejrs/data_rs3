@@ -2,16 +2,13 @@
   "id": 1186,
   "models": {
     "10": [
-      1617
+      121907
     ]
   },
   "name": "Curling plant",
   "unknown_17": false,
-  "colours": [
-    [
-      17304,
-      17197
-    ]
-  ],
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
   "occludes_2": false
 }

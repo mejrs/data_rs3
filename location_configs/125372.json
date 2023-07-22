@@ -1,0 +1,18 @@
+{
+  "id": 125372,
+  "dim_x": 2,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "is_members": true,
+  "morphs_2": {
+    "varbit": 52851,
+    "ids": [
+      125579,
+      125373,
+      125375
+    ],
+    "default": 125579
+  }
+}

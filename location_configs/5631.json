@@ -2,7 +2,9 @@
   "id": 5631,
   "models": {
     "10": [
-      53746
+      87820,
+      87809,
+      87789
     ]
   },
   "name": "Fire",
@@ -10,9 +12,25 @@
   "dim_y": 2,
   "unknown_24": 15735,
   "unknown_78": {
-    "unknown_1": 4972,
-    "unknown_2": 6
+    "unknown_1": 4987,
+    "unknown_2": 10
   },
   "occludes_2": false,
-  "unknown_104": 40
+  "unknown_104": 100,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

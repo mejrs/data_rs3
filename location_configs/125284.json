@@ -1,0 +1,42 @@
+{
+  "id": 125284,
+  "models": {
+    "10": [
+      128033
+    ]
+  },
+  "name": "Nut roast",
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 15984,
+  "unknown_2": 15784,
+  "unknown_3": 16584,
+  "unknown_4": 64,
+  "unknown_5": 15984,
+  "unknown_6": 16984
+}

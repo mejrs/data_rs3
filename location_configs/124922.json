@@ -1,0 +1,27 @@
+{
+  "id": 124922,
+  "models": {
+    "10": [
+      127653,
+      127662,
+      127654
+    ]
+  },
+  "name": "Research notes",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Manage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false,
+  "mapfunction": 3448
+}

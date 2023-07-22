@@ -1,0 +1,11 @@
+{
+  "id": 125719,
+  "models": {
+    "10": [
+      127591
+    ]
+  },
+  "name": "Some planks",
+  "dim_x": 2,
+  "occludes_2": false
+}

@@ -1,0 +1,27 @@
+{
+  "id": 125312,
+  "models": {
+    "10": [
+      128216
+    ]
+  },
+  "name": "Old Crypt",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_1": 15884,
+  "unknown_2": 16034,
+  "unknown_3": 15834,
+  "unknown_4": 17608,
+  "unknown_5": 17408,
+  "unknown_6": 16884
+}

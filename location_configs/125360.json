@@ -1,0 +1,20 @@
+{
+  "id": 125360,
+  "models": {
+    "10": [
+      124050,
+      124053
+    ]
+  },
+  "name": "Crypt shelves",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "13673": 14611
+  },
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

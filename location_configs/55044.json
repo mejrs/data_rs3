@@ -7,7 +7,6 @@
   },
   "name": "Table",
   "is_transparent": true,
-  "unknown_22": true,
   "ambient": 10,
   "contrast": 20,
   "occludes_2": false

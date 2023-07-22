@@ -1,0 +1,27 @@
+{
+  "id": 124924,
+  "models": {
+    "10": [
+      127658
+    ]
+  },
+  "name": "Anachronia Table",
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Manage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11346": 15634,
+    "11348": 15635,
+    "11349": 15636
+  },
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

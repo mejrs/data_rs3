@@ -8,7 +8,7 @@
   "name": "Bunk bed",
   "dim_y": 2,
   "unknown_27": false,
-  "ambient": 10,
+  "ambient": 35,
   "actions": [
     "Search",
     null,

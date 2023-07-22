@@ -3,6 +3,9 @@
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
+  "scale_x": 640,
+  "scale_y": 640,
+  "scale_z": 640,
   "morphs_1": {
     "varbit": 12765,
     "ids": [

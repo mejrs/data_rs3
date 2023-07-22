@@ -13,6 +13,9 @@
   "contrast": 15,
   "mirror": true,
   "model": false,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
   "occludes_2": false,
   "unknown_186": 0
 }

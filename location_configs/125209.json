@@ -1,0 +1,31 @@
+{
+  "id": 125209,
+  "models": {
+    "10": [
+      88436
+    ]
+  },
+  "name": "Supply cupboard",
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 100,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

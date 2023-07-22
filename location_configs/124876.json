@@ -1,0 +1,17 @@
+{
+  "id": 124876,
+  "models": {
+    "10": [
+      127787
+    ],
+    "22": [
+      120686
+    ]
+  },
+  "name": "Grass",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false
+}

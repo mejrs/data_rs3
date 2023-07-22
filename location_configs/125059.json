@@ -1,0 +1,28 @@
+{
+  "id": 125059,
+  "models": {
+    "10": [
+      127747
+    ]
+  },
+  "name": "Fort Forinthry blueprints",
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Check plans",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

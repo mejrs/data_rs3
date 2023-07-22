@@ -1,0 +1,36 @@
+{
+  "id": 125584,
+  "models": {
+    "10": [
+      90595,
+      90598
+    ]
+  },
+  "name": "Elder tree",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_y": 150,
+  "unknown_81": 32,
+  "mapscene": 0,
+  "occludes_2": false,
+  "mapfunction": 5173,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

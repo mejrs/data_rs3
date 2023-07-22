@@ -21,6 +21,10 @@
       8640
     ]
   ],
+  "textures": {
+    "2367": 13425
+  },
+  "model": false,
   "scale_x": 96,
   "scale_y": 96,
   "scale_z": 96,

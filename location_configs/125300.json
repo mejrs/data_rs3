@@ -1,0 +1,36 @@
+{
+  "id": 125300,
+  "models": {
+    "10": [
+      9902
+    ]
+  },
+  "name": "Wrench",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16184,
+  "unknown_2": 16184,
+  "unknown_3": 16184,
+  "unknown_4": 16584,
+  "unknown_5": 16584,
+  "unknown_6": 16584
+}

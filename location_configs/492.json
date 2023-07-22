@@ -10,7 +10,6 @@
   "dim_y": 2,
   "is_transparent": true,
   "unknown_21": true,
-  "ambient": -5,
   "actions": [
     "Climb-down",
     null,
@@ -18,9 +17,9 @@
     null,
     null
   ],
-  "contrast": 10,
   "textures": {
-    "1830": 1883
+    "1830": 15070,
+    "1863": 15070
   },
   "unknown_88": false,
   "occludes_2": false,

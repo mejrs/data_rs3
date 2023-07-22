@@ -1,0 +1,29 @@
+{
+  "id": 125055,
+  "models": {
+    "10": [
+      127750,
+      127751
+    ]
+  },
+  "name": "Invention Machines",
+  "ambient": 42,
+  "actions": [
+    "Manage",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "6569": 15553
+  },
+  "unknown_78": {
+    "unknown_1": 1815,
+    "unknown_2": 5
+  },
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 80
+}

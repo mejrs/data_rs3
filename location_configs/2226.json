@@ -7,16 +7,16 @@
   },
   "name": "Smashed table",
   "actions": [
-    "Look-at",
     "Craft",
+    null,
     null,
     null,
     null
   ],
   "occludes_2": false,
   "cursors": [
-    null,
     62,
+    null,
     null,
     null,
     null,

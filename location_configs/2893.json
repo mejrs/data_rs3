@@ -2,7 +2,7 @@
   "id": 2893,
   "models": {
     "10": [
-      1618
+      121900
     ]
   },
   "name": "Jungle Bush",
@@ -14,12 +14,10 @@
     null,
     null
   ],
-  "colours": [
-    [
-      17304,
-      22447
-    ]
-  ],
+  "model": false,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
   "mapscene": 5,
   "occludes_2": false,
   "cursors": [

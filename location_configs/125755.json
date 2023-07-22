@@ -1,0 +1,20 @@
+{
+  "id": 125755,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Necromantic dragon bones",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 270,
+  "scale_y": 200,
+  "scale_z": 270,
+  "translate_z": 65476,
+  "occludes_2": false
+}

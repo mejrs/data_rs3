@@ -10,17 +10,17 @@
   "dim_y": 3,
   "ambient": 0,
   "actions": [
-    "Touch",
-    null,
     "Open",
+    null,
+    null,
     null,
     null
   ],
   "occludes_2": false,
   "cursors": [
-    null,
-    null,
     49,
+    null,
+    null,
     null,
     null,
     null

@@ -1,0 +1,29 @@
+{
+  "id": 125489,
+  "models": {
+    "10": [
+      64869
+    ]
+  },
+  "name": "Willow",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 35,
+  "contrast": 50,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "model": false,
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
+  "unknown_81": 80,
+  "mapscene": 3,
+  "occludes_2": false,
+  "mapfunction": 5144,
+  "unknown_189": true
+}

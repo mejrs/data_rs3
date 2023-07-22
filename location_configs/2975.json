@@ -2,10 +2,11 @@
   "id": 2975,
   "models": {
     "10": [
-      1676
+      119491
     ]
   },
   "name": "Leafy Palm Tree",
+  "unknown_24": 29068,
   "actions": [
     "Shake",
     null,
@@ -13,6 +14,12 @@
     null,
     null
   ],
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
   "mapscene": 0,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 4
 }

@@ -12,6 +12,9 @@
   "ambient": 25,
   "contrast": 15,
   "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
   "occludes_2": false,
   "unknown_186": 0
 }

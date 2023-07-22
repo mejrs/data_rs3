@@ -1,0 +1,36 @@
+{
+  "id": 124886,
+  "models": {
+    "10": [
+      121484
+    ]
+  },
+  "name": "Tree",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13436": 15638
+  },
+  "translate_y": 10,
+  "unknown_81": 80,
+  "mapscene": 1,
+  "occludes_2": false,
+  "unknown_188": true,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

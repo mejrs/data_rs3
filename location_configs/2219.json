@@ -17,6 +17,9 @@
     null,
     null
   ],
+  "textures": {
+    "1863": 11178
+  },
   "scale_x": 192,
   "scale_z": 192,
   "unknown_88": false,

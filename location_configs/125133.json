@@ -1,0 +1,32 @@
+{
+  "id": 125133,
+  "models": {
+    "10": [
+      96045,
+      96261,
+      96046,
+      96162
+    ]
+  },
+  "name": "Archaeologist's workbench",
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Restore",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 3374,
+  "cursors": [
+    4,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

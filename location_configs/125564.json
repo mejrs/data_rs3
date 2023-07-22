@@ -1,0 +1,39 @@
+{
+  "id": 125564,
+  "models": {
+    "10": [
+      128447,
+      120416
+    ]
+  },
+  "name": "Oak",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "9236": 9235,
+    "9256": 9257
+  },
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

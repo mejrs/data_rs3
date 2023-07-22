@@ -1,0 +1,29 @@
+{
+  "id": 124949,
+  "models": {
+    "10": [
+      127684
+    ]
+  },
+  "name": "Gates",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

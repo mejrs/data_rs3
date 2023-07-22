@@ -1,0 +1,26 @@
+{
+  "id": 125054,
+  "models": {
+    "10": [
+      127748
+    ]
+  },
+  "name": "Woodworking bench",
+  "unknown_27": false,
+  "actions": [
+    "Construct frames",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

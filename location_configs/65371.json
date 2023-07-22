@@ -9,8 +9,8 @@
   "dim_x": 2,
   "is_transparent": true,
   "actions": [
-    "Pray-at",
-    "Offer",
+    "Pray at",
+    null,
     null,
     null,
     null

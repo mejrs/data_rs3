@@ -17,6 +17,9 @@
     null,
     null
   ],
+  "textures": {
+    "2367": 11178
+  },
   "scale_x": 256,
   "scale_z": 256,
   "mapscene": 11,

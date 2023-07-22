@@ -7,7 +7,7 @@
   },
   "name": "Door",
   "unknown_19": 1,
-  "ambient": 10,
+  "ambient": 35,
   "actions": [
     "Open",
     null,

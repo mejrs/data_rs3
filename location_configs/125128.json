@@ -1,0 +1,37 @@
+{
+  "id": 125128,
+  "models": {
+    "10": [
+      77626
+    ]
+  },
+  "name": "New Foundations",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 504,
+  "actions": [
+    "Start Quest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 20,
+  "unknown_78": {
+    "unknown_1": 19372,
+    "unknown_2": 10
+  },
+  "unknown_88": false,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_104": 64,
+  "unknown_160": {
+    "values": [
+      489
+    ]
+  },
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "unknown_188": true
+}

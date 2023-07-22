@@ -1,0 +1,28 @@
+{
+  "id": 125461,
+  "models": {
+    "10": [
+      128392
+    ]
+  },
+  "name": "Ivy",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "mapfunction": 5161,
+  "member_actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

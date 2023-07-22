@@ -1,0 +1,28 @@
+{
+  "id": 124844,
+  "models": {
+    "10": [
+      85306
+    ]
+  },
+  "name": "Altar",
+  "ambient": 0,
+  "actions": [
+    "Pray-at",
+    "Offer Bones",
+    "Offer Ashes",
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

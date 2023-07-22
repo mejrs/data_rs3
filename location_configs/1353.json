@@ -2,20 +2,13 @@
   "id": 1353,
   "models": {
     "10": [
-      1685
+      120740
     ]
   },
   "name": "Tree stump",
   "unknown_21": true,
-  "colours": [
-    [
-      7054,
-      5388
-    ],
-    [
-      6028,
-      5388
-    ]
-  ],
+  "scale_x": 40,
+  "scale_y": 40,
+  "scale_z": 40,
   "occludes_2": false
 }

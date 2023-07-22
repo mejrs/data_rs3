@@ -1,0 +1,17 @@
+{
+  "id": 124938,
+  "models": {
+    "10": [
+      127663
+    ]
+  },
+  "name": "Construction supplies",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "is_members": true,
+  "occludes_2": false
+}

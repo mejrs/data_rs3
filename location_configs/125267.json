@@ -1,0 +1,13 @@
+{
+  "id": 125267,
+  "models": {
+    "10": [
+      96040
+    ]
+  },
+  "name": "Container",
+  "is_transparent": true,
+  "unknown_27": false,
+  "is_members": true,
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 124916,
+  "models": {
+    "10": [
+      127669,
+      127673
+    ]
+  },
+  "name": "Ports Table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Manage",
+    "Teleport",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false
+}

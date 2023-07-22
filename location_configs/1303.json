@@ -2,28 +2,18 @@
   "id": 1303,
   "models": {
     "10": [
-      1701
+      118520
     ]
   },
   "name": "Tree",
-  "dim_x": 2,
-  "dim_y": 2,
-  "colours": [
-    [
-      61,
-      15799
-    ],
-    [
-      49,
-      15923
-    ],
-    [
-      41,
-      6583
-    ]
-  ],
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
   "unknown_75": 0,
   "unknown_81": 100,
   "mapscene": 5,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 4
 }

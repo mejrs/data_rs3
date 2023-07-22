@@ -2,11 +2,12 @@
   "id": 662,
   "models": {
     "10": [
-      1080
+      86694
     ]
   },
   "name": "Corpse",
-  "dim_x": 2,
   "is_transparent": true,
+  "unknown_21": true,
+  "model": false,
   "occludes_2": false
 }

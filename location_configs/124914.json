@@ -1,0 +1,30 @@
+{
+  "id": 124914,
+  "models": {
+    "10": [
+      68840
+    ]
+  },
+  "name": "Bank chest",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Use",
+    "Collect",
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    null,
+    46,
+    null,
+    null,
+    null,
+    null
+  ]
+}

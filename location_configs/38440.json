@@ -2,7 +2,8 @@
   "id": 38440,
   "models": {
     "10": [
-      41816
+      127792,
+      127793
     ]
   },
   "name": "Beacon",
@@ -10,7 +11,6 @@
   "dim_y": 3,
   "unknown_21": true,
   "unknown_24": 10237,
-  "ambient": 25,
   "actions": [
     "Add-logs",
     null,
@@ -18,7 +18,6 @@
     null,
     null
   ],
-  "contrast": 25,
   "unknown_78": {
     "unknown_1": 3473,
     "unknown_2": 12

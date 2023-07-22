@@ -2,14 +2,22 @@
   "id": 12560,
   "models": {
     "10": [
-      13716,
-      13715
+      128333
     ]
   },
   "name": "Tree",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
+  "scale_x": 640,
+  "scale_y": 640,
+  "scale_z": 640,
   "mapscene": 5,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 4
 }

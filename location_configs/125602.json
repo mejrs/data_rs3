@@ -1,0 +1,23 @@
+{
+  "id": 125602,
+  "models": {
+    "10": [
+      128506
+    ]
+  },
+  "name": "Mural",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "15950": 15952
+  },
+  "occludes_2": false,
+  "unknown_196": 2
+}

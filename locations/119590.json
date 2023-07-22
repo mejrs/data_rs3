@@ -27,7 +27,7 @@
     "y": 9,
     "id": 119590,
     "type": 22,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -37,6 +37,6 @@
     "y": 10,
     "id": 119590,
     "type": 22,
-    "rotation": 1
+    "rotation": 0
   }
 ]

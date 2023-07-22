@@ -11,9 +11,9 @@
   "ambient": 25,
   "actions": [
     "Play",
-    "Throw balls",
-    "Throw cabbages",
-    "Throw chinchompas",
+    null,
+    null,
+    null,
     null
   ],
   "contrast": 15,

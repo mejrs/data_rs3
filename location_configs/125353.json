@@ -1,0 +1,23 @@
+{
+  "id": 125353,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "morphs_2": {
+    "varbit": 52822,
+    "ids": [
+      125354,
+      125355,
+      125356
+    ],
+    "default": 125357
+  }
+}

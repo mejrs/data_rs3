@@ -1,0 +1,14 @@
+{
+  "id": 125158,
+  "models": {
+    "10": [
+      124267
+    ]
+  },
+  "name": "Volcanic vent",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 4
+}

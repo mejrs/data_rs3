@@ -6,11 +6,24 @@
       85305
     ]
   },
-  "dim_x": 3,
-  "unknown_17": false,
-  "unknown_19": 0,
+  "name": "Altar",
   "ambient": 0,
+  "actions": [
+    "Pray-at",
+    "Offer Bones",
+    "Offer Ashes",
+    null,
+    null
+  ],
   "model": false,
+  "is_members": true,
   "occludes_2": false,
-  "unknown_186": 2
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

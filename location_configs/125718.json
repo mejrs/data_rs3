@@ -1,0 +1,21 @@
+{
+  "id": 125718,
+  "models": {
+    "10": [
+      128618
+    ]
+  },
+  "name": "Fletching workbench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Ammo",
+    "Fletch",
+    "String",
+    "Toggle Wisdom of Anima",
+    "Check Wisdom of Anima"
+  ],
+  "unknown_69": 13,
+  "occludes_2": false
+}

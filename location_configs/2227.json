@@ -2,16 +2,10 @@
   "id": 2227,
   "models": {
     "10": [
-      37461
+      1844
     ]
   },
-  "name": "Crude raft",
-  "actions": [
-    null,
-    "Disembark",
-    null,
-    null,
-    null
-  ],
+  "unknown_19": 0,
+  "unknown_22": true,
   "occludes_2": false
 }

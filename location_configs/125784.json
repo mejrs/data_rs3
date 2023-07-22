@@ -1,0 +1,46 @@
+{
+  "id": 125784,
+  "models": {
+    "10": [
+      125769
+    ]
+  },
+  "name": "Dim light",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 32061,
+    "unknown_2": 7
+  },
+  "occludes_2": false,
+  "unknown_104": 40,
+  "unknown_1": 15984,
+  "unknown_2": 15784,
+  "unknown_3": 15984,
+  "unknown_4": 16784,
+  "unknown_5": 16784,
+  "unknown_6": 16784,
+  "unknown_204": [
+    {
+      "id": 62,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 125236,
+  "models": {
+    "10": [
+      127702
+    ]
+  },
+  "name": "Trap Door",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Climb",
+    null,
+    "Descend",
+    null,
+    "Bottom floor"
+  ],
+  "mapscene": 7,
+  "occludes_2": false,
+  "cursors": [
+    54,
+    null,
+    53,
+    null,
+    53,
+    null
+  ]
+}

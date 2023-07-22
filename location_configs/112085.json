@@ -1,0 +1,15 @@
+{
+  "id": 112085,
+  "models": {
+    "10": [
+      127591
+    ]
+  },
+  "name": "Stack of planks",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

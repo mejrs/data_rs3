@@ -2,10 +2,16 @@
   "id": 2976,
   "models": {
     "10": [
-      1676
+      119491
     ]
   },
   "name": "Leafy Palm Tree",
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
   "mapscene": 0,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 4
 }

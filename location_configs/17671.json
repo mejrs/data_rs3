@@ -8,7 +8,7 @@
   },
   "name": "Locker",
   "unknown_27": false,
-  "ambient": 10,
+  "ambient": 35,
   "actions": [
     "Search",
     null,

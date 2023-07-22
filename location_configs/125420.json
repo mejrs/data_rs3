@@ -1,0 +1,20 @@
+{
+  "id": 125420,
+  "models": {
+    "10": [
+      118519
+    ]
+  },
+  "name": "Tree stump",
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "mapscene": 5,
+  "occludes_2": false,
+  "unknown_196": 4
+}

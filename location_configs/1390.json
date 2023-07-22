@@ -2,12 +2,14 @@
   "id": 1390,
   "models": {
     "10": [
-      1618
+      121899
     ]
   },
   "name": "Jungle plant",
-  "dim_x": 2,
   "unknown_17": false,
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
   "mapscene": 5,
   "occludes_2": false,
   "unknown_196": 1

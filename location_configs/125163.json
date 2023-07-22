@@ -1,0 +1,45 @@
+{
+  "id": 125163,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Canopic jar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "actions": [
+    "Return",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "model": false,
+  "scale_x": 30,
+  "scale_y": 15,
+  "scale_z": 30,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_203": true,
+  "unknown_204": [
+    {
+      "id": 69,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        1112014848,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

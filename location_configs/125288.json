@@ -1,0 +1,62 @@
+{
+  "id": 125288,
+  "models": {
+    "10": [
+      100430,
+      81362
+    ]
+  },
+  "name": "Wax seal",
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      56208,
+      21
+    ],
+    [
+      56216,
+      34
+    ],
+    [
+      56097,
+      62
+    ],
+    [
+      6698,
+      7
+    ]
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 300,
+  "scale_y": 300,
+  "scale_z": 300,
+  "translate_y": 65535,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16184,
+  "unknown_2": 16184,
+  "unknown_3": 16184,
+  "unknown_4": 16584,
+  "unknown_5": 16584,
+  "unknown_6": 16584
+}

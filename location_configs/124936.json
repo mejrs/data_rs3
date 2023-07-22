@@ -1,0 +1,27 @@
+{
+  "id": 124936,
+  "models": {
+    "10": [
+      126593,
+      126584
+    ]
+  },
+  "name": "Dead Tree",
+  "unknown_19": 1,
+  "colours": [
+    [
+      15,
+      4486
+    ]
+  ],
+  "textures": {
+    "11921": 15240,
+    "13104": 15230,
+    "15238": 15239
+  },
+  "unknown_81": 40,
+  "is_members": true,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_196": 2
+}

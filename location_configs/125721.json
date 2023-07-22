@@ -1,0 +1,30 @@
+{
+  "id": 125721,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Spin",
+    null,
+    null,
+    null
+  ],
+  "morphs_1": {
+    "varbit": 53028,
+    "ids": [
+      null,
+      125722,
+      125722,
+      125722
+    ]
+  },
+  "cursors": [
+    null,
+    62,
+    null,
+    null,
+    null,
+    null
+  ]
+}

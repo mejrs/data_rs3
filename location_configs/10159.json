@@ -2,7 +2,7 @@
   "id": 10159,
   "models": {
     "10": [
-      7699
+      74103
     ]
   },
   "name": "Crate",
@@ -14,6 +14,9 @@
     null,
     null
   ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
   "occludes_2": false,
   "cursors": [
     56,

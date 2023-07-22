@@ -1,0 +1,40 @@
+{
+  "id": 125250,
+  "models": {
+    "10": [
+      128032
+    ]
+  },
+  "name": "Duke's meal",
+  "unknown_19": 1,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 64,
+  "unknown_2": 15884,
+  "unknown_3": 15684,
+  "unknown_4": 16784,
+  "unknown_5": 16284,
+  "unknown_6": 16084
+}

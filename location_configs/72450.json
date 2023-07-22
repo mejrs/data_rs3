@@ -2,13 +2,13 @@
   "id": 72450,
   "models": {
     "10": [
-      69777
+      128330
     ]
   },
   "name": "Cave entrance",
+  "dim_x": 2,
   "dim_y": 3,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Enter",
     null,
@@ -16,9 +16,12 @@
     null,
     null
   ],
-  "contrast": 15,
   "model": false,
-  "translate_y": 120,
+  "scale_x": 128,
+  "scale_y": 200,
+  "scale_z": 200,
+  "translate_x": 65486,
+  "translate_y": 65326,
   "unknown_88": false,
   "occludes_2": false,
   "cursors": [

@@ -1,0 +1,31 @@
+{
+  "id": 112134,
+  "models": {
+    "10": [
+      127621,
+      127622
+    ]
+  },
+  "name": "Chapel Burner",
+  "unknown_17": false,
+  "actions": [
+    "Burn Herbs",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      39708,
+      51984
+    ],
+    [
+      7073,
+      10251
+    ]
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

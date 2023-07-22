@@ -2,17 +2,13 @@
   "id": 1398,
   "models": {
     "10": [
-      1618
+      121899
     ]
   },
   "name": "Jungle plant",
-  "dim_x": 2,
   "is_transparent": true,
-  "colours": [
-    [
-      17304,
-      17197
-    ]
-  ],
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
   "occludes_2": false
 }

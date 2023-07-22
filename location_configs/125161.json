@@ -1,0 +1,17 @@
+{
+  "id": 125161,
+  "models": {
+    "22": [
+      66743
+    ]
+  },
+  "name": "Pitfall",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "scale_y": 200,
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -2,10 +2,13 @@
   "id": 1204,
   "models": {
     "10": [
-      1679
+      121900
     ]
   },
   "name": "Jungle plant",
   "is_transparent": true,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
   "occludes_2": false
 }

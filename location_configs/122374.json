@@ -1,12 +1,27 @@
 {
   "id": 122374,
   "models": {
-    "22": [
-      1105
+    "10": [
+      19929
     ]
   },
-  "unknown_73": true,
+  "name": "Chaos altar",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    "Pray at",
+    "Offer",
+    null,
+    null,
+    null
+  ],
   "occludes_2": false,
-  "mapfunction": 5024,
-  "unknown_198": true
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

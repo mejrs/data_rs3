@@ -20,6 +20,9 @@
     null
   ],
   "contrast": 15,
+  "textures": {
+    "1841": 15070
+  },
   "occludes_2": false,
   "cursors": [
     57,

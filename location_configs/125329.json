@@ -1,0 +1,14 @@
+{
+  "id": 125329,
+  "models": {
+    "10": [
+      128247
+    ]
+  },
+  "name": "Broken bridge",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false,
+  "unknown_188": true
+}

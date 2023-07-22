@@ -1,0 +1,15 @@
+{
+  "id": 125036,
+  "models": {
+    "10": [
+      89360
+    ]
+  },
+  "name": "Dirt",
+  "unknown_19": 1,
+  "textures": {
+    "7568": 13419
+  },
+  "is_members": true,
+  "occludes_2": false
+}

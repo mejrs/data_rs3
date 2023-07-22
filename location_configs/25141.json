@@ -2,10 +2,15 @@
   "id": 25141,
   "models": {
     "22": [
-      26520
+      123033
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
+  "ambient": -20,
+  "scale_x": 90,
+  "scale_y": 150,
+  "scale_z": 90,
+  "translate_y": 10,
   "occludes_2": false
 }

@@ -1,0 +1,18 @@
+{
+  "id": 125560,
+  "models": {
+    "10": [
+      121250,
+      121251
+    ]
+  },
+  "name": "Oak's bookcase",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "11110": 15574
+  },
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": 125033,
+  "models": {
+    "10": [
+      89359
+    ]
+  },
+  "name": "Mound",
+  "textures": {
+    "7568": 13419
+  },
+  "is_members": true,
+  "occludes_2": false
+}

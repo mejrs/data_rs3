@@ -2,14 +2,14 @@
   "id": 38430,
   "models": {
     "10": [
-      64348
+      127792,
+      127797
     ]
   },
   "name": "Unlit beacon",
   "dim_x": 3,
   "dim_y": 3,
   "unknown_21": true,
-  "ambient": 25,
   "actions": [
     "Light",
     null,
@@ -17,7 +17,12 @@
     null,
     null
   ],
-  "contrast": 25,
+  "textures": {
+    "12159": 11800,
+    "12160": 11802,
+    "12161": 11803,
+    "12162": 11804
+  },
   "occludes_2": false,
   "cursors": [
     65,

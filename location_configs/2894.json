@@ -2,17 +2,15 @@
   "id": 2894,
   "models": {
     "10": [
-      1613
+      128291
     ]
   },
   "name": "Slashed bush",
   "unknown_17": false,
-  "colours": [
-    [
-      17304,
-      22447
-    ]
-  ],
+  "model": false,
+  "scale_x": 170,
+  "scale_y": 170,
+  "scale_z": 170,
   "mapscene": 5,
   "occludes_2": false
 }

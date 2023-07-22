@@ -2,7 +2,8 @@
   "id": 82334,
   "models": {
     "10": [
-      83471
+      127792,
+      127796
     ]
   },
   "name": "Emergency beacon",
@@ -10,26 +11,6 @@
   "dim_y": 3,
   "unknown_21": true,
   "unknown_24": 10237,
-  "ambient": 25,
-  "contrast": 25,
-  "colours": [
-    [
-      5043,
-      65181
-    ],
-    [
-      7105,
-      65209
-    ],
-    [
-      8137,
-      65485
-    ],
-    [
-      7130,
-      65234
-    ]
-  ],
   "mapscene": 87,
   "occludes_2": false
 }

@@ -1,0 +1,31 @@
+{
+  "id": 125385,
+  "models": {
+    "4": [
+      89332,
+      89329
+    ]
+  },
+  "unknown_19": 0,
+  "model": false,
+  "scale_x": 72,
+  "scale_y": 72,
+  "scale_z": 72,
+  "occludes_2": false,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": true,
+      "vec_1": [
+        1125974016,
+        1149698048,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

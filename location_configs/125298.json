@@ -1,0 +1,36 @@
+{
+  "id": 125298,
+  "models": {
+    "10": [
+      101923
+    ]
+  },
+  "name": "Revolver",
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      490
+    ]
+  },
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16184,
+  "unknown_2": 16184,
+  "unknown_3": 16084,
+  "unknown_4": 16484,
+  "unknown_5": 16584,
+  "unknown_6": 16584
+}

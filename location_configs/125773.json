@@ -1,0 +1,27 @@
+{
+  "id": 125773,
+  "models": {
+    "10": [
+      128611,
+      128612
+    ]
+  },
+  "name": "Grave",
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

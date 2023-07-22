@@ -2,14 +2,16 @@
   "id": 37394,
   "models": {
     "10": [
-      40704
+      118516
     ]
   },
   "name": "Palm tree",
   "unknown_19": 1,
-  "unknown_22": true,
-  "ambient": 10,
-  "contrast": 10,
-  "unknown_81": 70,
-  "occludes_2": false
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
 }

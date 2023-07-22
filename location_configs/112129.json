@@ -1,0 +1,20 @@
+{
+  "id": 112129,
+  "models": {
+    "10": [
+      127619
+    ]
+  },
+  "name": "Chapel Burner",
+  "unknown_17": false,
+  "actions": [
+    "Burn Herbs",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

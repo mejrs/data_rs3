@@ -2,16 +2,12 @@
   "id": 664,
   "models": {
     "10": [
-      1078
+      86691
     ]
   },
   "name": "Corpse",
   "is_transparent": true,
-  "colours": [
-    [
-      6241,
-      28
-    ]
-  ],
+  "ambient": -30,
+  "model": false,
   "occludes_2": false
 }

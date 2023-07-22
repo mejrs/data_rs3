@@ -1,0 +1,14 @@
+{
+  "id": 125342,
+  "models": {
+    "10": [
+      128239
+    ]
+  },
+  "name": "Planks",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "is_members": true,
+  "occludes_2": false
+}
