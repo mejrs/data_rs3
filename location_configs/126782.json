@@ -1,0 +1,25 @@
+{
+  "id": 126782,
+  "models": {
+    "1": [
+      127935
+    ],
+    "10": [
+      127934
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        35404,
+        200
+      ]
+    ]
+  },
+  "unknown_196": 0
+}

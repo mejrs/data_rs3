@@ -1,0 +1,47 @@
+{
+  "id": 127278,
+  "models": {
+    "10": [
+      130204,
+      130030
+    ]
+  },
+  "name": "Shrine",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 192,
+  "scale_y": 192,
+  "scale_z": 192,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_204": [
+    {
+      "id": 71,
+      "some_bool": false,
+      "vec_1": [
+        3212810020,
+        1132953652,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

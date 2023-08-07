@@ -1,0 +1,43 @@
+{
+  "id": 127279,
+  "models": {
+    "10": [
+      27564
+    ]
+  },
+  "name": "Spinning wheel",
+  "ambient": 25,
+  "actions": [
+    null,
+    "Spin",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      5413,
+      5404
+    ],
+    [
+      5537,
+      5400
+    ],
+    [
+      5532,
+      5392
+    ]
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    null,
+    62,
+    null,
+    null,
+    null,
+    null
+  ]
+}

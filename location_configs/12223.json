@@ -8,6 +8,9 @@
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 0,
+  "textures": {
+    "10467": 16768
+  },
   "unknown_73": true,
   "unknown_75": 0,
   "occludes_2": false,

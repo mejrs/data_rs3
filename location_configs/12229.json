@@ -7,15 +7,18 @@
       66424
     ]
   },
-  "name": "Compost Bin",
+  "name": "Compost bin",
   "unknown_27": false,
   "ambient": 0,
   "actions": [
-    "Take Compost",
-    "Check Contents",
+    "Take compost",
+    "Check contents",
     "Add all weeds",
     null,
     null
   ],
+  "textures": {
+    "10467": 16768
+  },
   "occludes_2": false
 }

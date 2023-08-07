@@ -1,0 +1,17 @@
+{
+  "id": 126041,
+  "models": {
+    "10": [
+      129534
+    ]
+  },
+  "name": "ph",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 3
+}

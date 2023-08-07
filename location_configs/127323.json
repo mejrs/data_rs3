@@ -1,0 +1,25 @@
+{
+  "id": 127323,
+  "models": {
+    "10": [
+      129508,
+      129485
+    ]
+  },
+  "name": "Pedestal (lesser essence)",
+  "unknown_19": 1,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "colours": [
+    [
+      61,
+      78
+    ]
+  ],
+  "occludes_2": false
+}

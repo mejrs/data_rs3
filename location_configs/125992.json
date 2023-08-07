@@ -1,0 +1,20 @@
+{
+  "id": 125992,
+  "models": {
+    "10": [
+      129425
+    ]
+  },
+  "name": "ph",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "colours": [
+    [
+      53277,
+      53946
+    ]
+  ],
+  "model": false,
+  "occludes_2": false
+}

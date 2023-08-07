@@ -1,0 +1,19 @@
+{
+  "id": 127166,
+  "models": {
+    "10": [
+      129509,
+      129485
+    ]
+  },
+  "name": "Pedestal (empower vessel)",
+  "unknown_19": 1,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "occludes_2": false
+}

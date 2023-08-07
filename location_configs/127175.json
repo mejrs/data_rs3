@@ -1,0 +1,31 @@
+{
+  "id": 127175,
+  "models": {
+    "10": [
+      5272
+    ]
+  },
+  "name": "Locked chest",
+  "is_transparent": true,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      495
+    ]
+  },
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

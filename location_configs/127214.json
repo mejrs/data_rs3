@@ -1,0 +1,15 @@
+{
+  "id": 127214,
+  "models": {
+    "10": [
+      62071
+    ]
+  },
+  "name": "Runecrafting altar",
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_24": 13664,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

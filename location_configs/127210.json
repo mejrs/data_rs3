@@ -1,0 +1,19 @@
+{
+  "id": 127210,
+  "models": {
+    "10": [
+      129451,
+      129457
+    ]
+  },
+  "name": "Greater ritual candle",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      498
+    ]
+  }
+}

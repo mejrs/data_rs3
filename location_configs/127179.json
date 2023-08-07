@@ -1,0 +1,46 @@
+{
+  "id": 127179,
+  "models": {
+    "10": [
+      30384
+    ]
+  },
+  "name": "Century egg",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      21706,
+      16677
+    ],
+    [
+      21702,
+      16801
+    ],
+    [
+      21693,
+      16796
+    ],
+    [
+      21685,
+      16920
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

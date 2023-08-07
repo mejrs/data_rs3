@@ -1,0 +1,16 @@
+{
+  "id": 127183,
+  "models": {
+    "10": [
+      53738
+    ]
+  },
+  "name": "Door",
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 10,
+  "breakroutefinding": true,
+  "occludes_2": false
+}

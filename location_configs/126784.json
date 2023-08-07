@@ -1,0 +1,18 @@
+{
+  "id": 126784,
+  "models": {
+    "10": [
+      130123,
+      130125,
+      130126,
+      130124
+    ]
+  },
+  "name": "Bar",
+  "dim_x": 7,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 1
+}

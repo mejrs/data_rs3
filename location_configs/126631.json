@@ -1,0 +1,16 @@
+{
+  "id": 126631,
+  "models": {
+    "4": [
+      130065
+    ]
+  },
+  "name": "Map",
+  "unknown_19": 1,
+  "textures": {
+    "11049": 16771
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

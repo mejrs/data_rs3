@@ -1,0 +1,16 @@
+{
+  "id": 126966,
+  "models": {
+    "0": [
+      130319
+    ]
+  },
+  "name": "Large door",
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": 126705,
+  "models": {
+    "4": [
+      130100
+    ]
+  },
+  "name": "Mounted deer",
+  "unknown_19": 1,
+  "ambient": 0,
+  "textures": {
+    "13214": 16437
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

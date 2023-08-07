@@ -1,0 +1,41 @@
+{
+  "id": 127352,
+  "models": {
+    "10": [
+      129502,
+      129485
+    ]
+  },
+  "name": "Pedestal (ensoul material)",
+  "unknown_19": 1,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "colours": [
+    [
+      41531,
+      50467
+    ],
+    [
+      41528,
+      50464
+    ],
+    [
+      36681,
+      45376
+    ],
+    [
+      37708,
+      46391
+    ],
+    [
+      37443,
+      46252
+    ]
+  ],
+  "occludes_2": false
+}

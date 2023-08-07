@@ -1,0 +1,18 @@
+{
+  "id": 126644,
+  "models": {
+    "4": [
+      130073
+    ]
+  },
+  "name": "Fish",
+  "unknown_19": 1,
+  "textures": {
+    "5617": 15796,
+    "5621": 15796,
+    "5625": 15796
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

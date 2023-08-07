@@ -1,0 +1,43 @@
+{
+  "id": 127150,
+  "models": {
+    "10": [
+      128796
+    ]
+  },
+  "name": "The Spirit of Rhythm",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Talk to",
+    null,
+    "Listen to",
+    "Stop/start playing",
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        35441,
+        255
+      ]
+    ]
+  },
+  "unknown_160": {
+    "values": [
+      501
+    ]
+  },
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

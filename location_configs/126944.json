@@ -1,0 +1,41 @@
+{
+  "id": 126944,
+  "models": {
+    "10": [
+      128883
+    ]
+  },
+  "name": "Blacksmith sign",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_79": {
+    "unknown_1": 0,
+    "unknown_2": 250,
+    "unknown_3": 6,
+    "values": [
+      56372,
+      56373,
+      56374,
+      56375
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 80,
+  "headmodels": {
+    "headmodels": [
+      [
+        35421,
+        200
+      ],
+      [
+        35422,
+        10
+      ]
+    ]
+  },
+  "unknown_1": 230,
+  "unknown_2": 256,
+  "unknown_178": 4,
+  "unknown_196": 4
+}

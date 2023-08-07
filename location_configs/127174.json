@@ -1,0 +1,11 @@
+{
+  "id": 127174,
+  "models": {
+    "10": [
+      5272
+    ]
+  },
+  "name": "Locked chest",
+  "is_transparent": true,
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 127211,
+  "models": {
+    "10": [
+      62076
+    ]
+  },
+  "name": "Group gatestone portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14278,
+  "unknown_27": false,
+  "ambient": 20,
+  "contrast": 25,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "unknown_196": 3
+}

@@ -1,0 +1,20 @@
+{
+  "id": 126632,
+  "models": {
+    "10": [
+      129285,
+      130060
+    ]
+  },
+  "name": "Bookcase",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "11110": 15574,
+    "11729": 11727
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

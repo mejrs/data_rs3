@@ -1,0 +1,30 @@
+{
+  "id": 126814,
+  "models": {
+    "10": [
+      130175
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 0,
+  "unknown_204": [
+    {
+      "id": 71,
+      "some_bool": false,
+      "vec_1": [
+        3281219622,
+        1142090944,
+        1076240958
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

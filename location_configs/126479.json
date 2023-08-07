@@ -1,0 +1,25 @@
+{
+  "id": 126479,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Dock",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Disembark",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

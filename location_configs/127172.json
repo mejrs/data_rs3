@@ -1,0 +1,23 @@
+{
+  "id": 127172,
+  "models": {
+    "10": [
+      34229
+    ]
+  },
+  "name": "Pile of letters",
+  "unknown_17": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      495
+    ]
+  }
+}

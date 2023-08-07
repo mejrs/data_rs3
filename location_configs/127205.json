@@ -1,0 +1,25 @@
+{
+  "id": 127205,
+  "models": {
+    "10": [
+      129455
+    ]
+  },
+  "name": "Glyph spot",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Draw glyph",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      498
+    ]
+  }
+}

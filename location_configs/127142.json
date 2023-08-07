@@ -1,0 +1,28 @@
+{
+  "id": 127142,
+  "models": {
+    "10": [
+      129615
+    ]
+  },
+  "name": "Chamber doorway",
+  "dim_x": 7,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    "Join instance",
+    "Rejoin last instance",
+    null,
+    null
+  ],
+  "unknown_98": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

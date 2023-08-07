@@ -1,0 +1,24 @@
+{
+  "id": 126965,
+  "models": {
+    "0": [
+      130319
+    ]
+  },
+  "name": "Large door",
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

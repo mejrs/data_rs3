@@ -1,0 +1,15 @@
+{
+  "id": 127145,
+  "models": {
+    "10": [
+      127068
+    ]
+  },
+  "name": "Bench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

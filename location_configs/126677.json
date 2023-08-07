@@ -1,0 +1,18 @@
+{
+  "id": 126677,
+  "models": {
+    "4": [
+      130089
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 35444,
+  "ambient": 0,
+  "textures": {
+    "14488": 16724,
+    "14490": 16726
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

@@ -1,0 +1,19 @@
+{
+  "id": 127224,
+  "models": {
+    "10": [
+      129514
+    ]
+  },
+  "name": "Platform",
+  "unknown_17": false,
+  "actions": [
+    "Start ritual",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_167": 128
+}

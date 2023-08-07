@@ -1,0 +1,34 @@
+{
+  "id": 126968,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Stairs",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "model": false,
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2,
+  "unknown_203": true
+}

@@ -16660,14 +16660,14 @@
     "rotation": 1
   },
   {
-    "plane": 1,
+    "plane": 0,
     "i": 48,
     "j": 51,
     "x": 32,
-    "y": 46,
+    "y": 48,
     "id": 113635,
     "type": 22,
-    "rotation": 0
+    "rotation": 1
   },
   {
     "plane": 0,

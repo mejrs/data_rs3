@@ -1,0 +1,15 @@
+{
+  "id": 126770,
+  "models": {
+    "4": [
+      124833
+    ]
+  },
+  "name": "Medical jars",
+  "unknown_19": 1,
+  "textures": {
+    "11729": 11727
+  },
+  "occludes_2": false,
+  "unknown_196": 0
+}

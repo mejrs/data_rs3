@@ -1,0 +1,18 @@
+{
+  "id": 127204,
+  "models": {
+    "10": [
+      69056
+    ]
+  },
+  "name": "Lord Yudura's corpse",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      498
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 126568,
+  "models": {
+    "10": [
+      130028
+    ]
+  },
+  "name": "Candle",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 0,
+  "unknown_204": [
+    {
+      "id": 71,
+      "some_bool": false,
+      "vec_1": [
+        3212810020,
+        1125253246,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

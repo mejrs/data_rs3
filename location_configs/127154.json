@@ -1,0 +1,20 @@
+{
+  "id": 127154,
+  "models": {
+    "10": [
+      130219
+    ]
+  },
+  "name": "Zommy's piano",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      501
+    ]
+  },
+  "unknown_196": 1
+}

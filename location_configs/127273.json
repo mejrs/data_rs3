@@ -1,0 +1,20 @@
+{
+  "id": 127273,
+  "models": {
+    "10": [
+      129534
+    ]
+  },
+  "name": "Well of Souls",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Manage",
+    "Inspect",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": 127374,
+  "models": {
+    "10": [
+      129458
+    ]
+  },
+  "name": "Mound of dust",
+  "unknown_17": false,
+  "actions": [
+    "Clear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

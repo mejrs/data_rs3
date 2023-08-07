@@ -1,0 +1,27 @@
+{
+  "id": 125809,
+  "models": {
+    "22": [
+      129297
+    ]
+  },
+  "name": "Ouija board",
+  "unknown_17": false,
+  "actions": [
+    "Talk to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    44,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -1,0 +1,24 @@
+{
+  "id": 127169,
+  "models": {
+    "10": [
+      4305
+    ]
+  },
+  "name": "Bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      495
+    ]
+  }
+}

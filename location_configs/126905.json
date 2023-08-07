@@ -1,0 +1,16 @@
+{
+  "id": 126905,
+  "models": {
+    "4": [
+      130213
+    ]
+  },
+  "name": "Shelf of mini gondolas",
+  "unknown_19": 1,
+  "model": false,
+  "translate_x": 15,
+  "translate_y": 80,
+  "translate_z": 65496,
+  "occludes_2": false,
+  "unknown_196": 0
+}

@@ -1,0 +1,20 @@
+{
+  "id": 126200,
+  "models": {
+    "10": [
+      128844
+    ]
+  },
+  "name": "Gondola",
+  "dim_y": 10,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 35420,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_z": 65386,
+  "occludes_2": false,
+  "unknown_196": 2
+}

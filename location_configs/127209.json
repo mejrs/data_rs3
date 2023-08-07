@@ -1,0 +1,19 @@
+{
+  "id": 127209,
+  "models": {
+    "10": [
+      129422,
+      129455
+    ]
+  },
+  "name": "Change II",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      498
+    ]
+  }
+}
