@@ -2,13 +2,11 @@
   "id": 34466,
   "models": {
     "10": [
-      12447
+      128386
     ]
   },
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "colours": [
     [
       5545,
@@ -23,5 +21,8 @@
       2595
     ]
   ],
+  "textures": {
+    "12075": 15607
+  },
   "occludes_2": false
 }

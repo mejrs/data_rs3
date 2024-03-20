@@ -2,7 +2,7 @@
   "id": 104349,
   "models": {
     "10": [
-      114109
+      124540
     ]
   },
   "name": "Evergreen",
@@ -11,7 +11,6 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Chop down",
     null,
@@ -19,8 +18,10 @@
     null,
     null
   ],
-  "contrast": 15,
   "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "unknown_81": 42,
   "mapscene": 0,
   "occludes_2": false,

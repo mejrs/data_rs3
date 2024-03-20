@@ -2,15 +2,13 @@
   "id": 36731,
   "models": {
     "10": [
-      38618
+      47549
     ]
   },
   "name": "Table",
   "dim_y": 2,
   "is_transparent": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "colours": [
     [
       7454,

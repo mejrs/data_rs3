@@ -1,0 +1,34 @@
+{
+  "id": 128799,
+  "models": {
+    "10": [
+      132123
+    ]
+  },
+  "name": "Sleigh",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

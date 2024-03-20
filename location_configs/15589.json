@@ -2,13 +2,11 @@
   "id": 15589,
   "models": {
     "0": [
-      25030
+      65427
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
   "colours": [
     [
       7587,
@@ -30,5 +28,6 @@
       7954,
       7440
     ]
-  ]
+  ],
+  "scale_x": 135
 }

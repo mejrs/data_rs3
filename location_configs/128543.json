@@ -1,0 +1,15 @@
+{
+  "id": 128543,
+  "models": {
+    "10": [
+      127690
+    ]
+  },
+  "name": "Fort tower",
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

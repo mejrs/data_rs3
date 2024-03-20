@@ -10,7 +10,7 @@
     "Open",
     null,
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "unknown_69": 11,
@@ -18,8 +18,8 @@
   "cursors": [
     49,
     null,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ]

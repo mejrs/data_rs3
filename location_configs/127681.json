@@ -1,0 +1,32 @@
+{
+  "id": 127681,
+  "models": {
+    "10": [
+      117344,
+      117388,
+      96039,
+      95735
+    ]
+  },
+  "name": "Dragonkin artefact",
+  "unknown_21": true,
+  "ambient": 32,
+  "actions": [
+    "Collect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12338": 12335
+  },
+  "unknown_78": {
+    "unknown_1": 56735,
+    "unknown_2": 10
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 90,
+  "unknown_178": 7
+}

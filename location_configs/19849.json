@@ -2,12 +2,11 @@
   "id": 19849,
   "models": {
     "22": [
-      20044
+      1784
     ]
   },
   "name": "Rocks",
   "unknown_19": 1,
-  "unknown_21": true,
   "unknown_27": false,
   "actions": [
     "Climb",

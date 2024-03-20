@@ -8,7 +8,7 @@
   "name": "The Tears of Seren",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 64,
+  "ambient": 0,
   "actions": [
     "Recharge",
     null,

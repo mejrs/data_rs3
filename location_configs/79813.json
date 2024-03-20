@@ -9,7 +9,7 @@
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 7,
+  "ambient": 5,
   "actions": [
     "Chop down",
     null,

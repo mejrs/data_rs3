@@ -6,8 +6,8 @@
     ]
   },
   "occludes_1": false,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "contrast": 0,
   "colours": [
     [
       7448,
@@ -34,5 +34,9 @@
       10406
     ]
   ],
-  "unknown_170": 960
+  "textures": {
+    "10504": 17581,
+    "17579": 17581
+  },
+  "unknown_170": 959
 }

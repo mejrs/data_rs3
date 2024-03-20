@@ -10,10 +10,10 @@
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
+    null,
     "Use",
     "Collect",
-    null,
-    null,
+    "Load Last Preset from",
     null
   ],
   "contrast": 15,
@@ -23,10 +23,10 @@
   "mapfunction": 560,
   "unknown_186": 0,
   "cursors": [
+    null,
     46,
-    null,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ]

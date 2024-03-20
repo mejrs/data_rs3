@@ -9,8 +9,8 @@
   "dim_y": 2,
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 20,
-  "contrast": 25,
+  "ambient": 5,
+  "contrast": 15,
   "textures": {
     "2453": 1472,
     "2470": 1511,

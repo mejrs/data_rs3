@@ -2,7 +2,8 @@
   "id": 2724,
   "models": {
     "10": [
-      2249
+      128358,
+      127988
     ]
   },
   "name": "Fireplace",
@@ -14,6 +15,9 @@
     null,
     null
   ],
+  "scale_x": 105,
+  "scale_y": 105,
+  "scale_z": 100,
   "unknown_78": {
     "unknown_1": 4989,
     "unknown_2": 3
@@ -27,5 +31,21 @@
     null,
     null,
     null
+  ],
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        3265527808,
+        1113587712,
+        3262382080
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
   ]
 }

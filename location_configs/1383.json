@@ -6,6 +6,7 @@
     ]
   },
   "name": "Dead tree",
+  "ambient": 20,
   "actions": [
     "Chop down",
     null,

@@ -2,37 +2,18 @@
   "id": 14964,
   "models": {
     "10": [
-      8232,
-      9530
+      67892,
+      131995
     ]
   },
   "name": "Barrel",
   "is_transparent": true,
-  "ambient": 15,
   "actions": [
     "Take-from",
     null,
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      5541,
-      8472
-    ],
-    [
-      5665,
-      8596
-    ],
-    [
-      5660,
-      8720
-    ],
-    [
-      5784,
-      8844
-    ]
   ],
   "occludes_2": false
 }

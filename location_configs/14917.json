@@ -2,12 +2,11 @@
   "id": 14917,
   "models": {
     "10": [
-      13220,
-      13215
+      80997
     ]
   },
   "name": "Sink",
-  "dim_y": 2,
+  "dim_x": 2,
   "is_transparent": true,
   "actions": [
     "Fill",
@@ -16,6 +15,6 @@
     null,
     null
   ],
-  "unknown_69": 7,
+  "unknown_69": 11,
   "occludes_2": false
 }

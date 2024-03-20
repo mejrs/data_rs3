@@ -2,7 +2,8 @@
   "id": 10639,
   "models": {
     "10": [
-      1152,
+      85306,
+      85305,
       10386
     ]
   },
@@ -10,29 +11,11 @@
   "dim_x": 2,
   "is_transparent": true,
   "actions": [
-    "Pray-at",
+    "Pray at",
     null,
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      7223,
-      3261
-    ],
-    [
-      7467,
-      5553
-    ],
-    [
-      6430,
-      4517
-    ],
-    [
-      6798,
-      4882
-    ]
   ],
   "occludes_2": false,
   "cursors": [

@@ -5,8 +5,9 @@
       88437
     ]
   },
-  "unknown_17": false,
+  "is_transparent": true,
   "unknown_19": 0,
+  "unknown_27": false,
   "ambient": 0,
   "model": false,
   "occludes_2": false,

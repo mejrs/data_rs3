@@ -1,0 +1,22 @@
+{
+  "id": 127592,
+  "models": {
+    "10": [
+      131137
+    ]
+  },
+  "name": "Imposing Statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -6,7 +6,7 @@
     ]
   },
   "name": "Crystal chest",
-  "ambient": 37,
+  "ambient": 0,
   "actions": [
     "Open",
     null,

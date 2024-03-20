@@ -1,0 +1,30 @@
+{
+  "id": 128801,
+  "models": {
+    "10": [
+      132118
+    ]
+  },
+  "name": "Santa's request",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

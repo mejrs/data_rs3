@@ -10,12 +10,20 @@
   "is_transparent": true,
   "unknown_27": false,
   "actions": [
+    "Use",
     "Ammo",
     "Fletch",
     "String",
-    "Toggle Wisdom of Anima",
-    "Check Wisdom of Anima"
+    "Wisdom of Anima"
   ],
   "unknown_69": 13,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    205,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

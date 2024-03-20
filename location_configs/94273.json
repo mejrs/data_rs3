@@ -7,7 +7,7 @@
   },
   "name": "Motherlode Maw",
   "unknown_19": 1,
-  "ambient": 37,
+  "ambient": 0,
   "actions": [
     "Reach inside",
     null,

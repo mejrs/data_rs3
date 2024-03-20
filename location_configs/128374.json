@@ -1,0 +1,46 @@
+{
+  "id": 128374,
+  "models": {
+    "10": [
+      131733
+    ]
+  },
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 37,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 192,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

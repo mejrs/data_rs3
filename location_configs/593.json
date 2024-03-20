@@ -2,12 +2,15 @@
   "id": 593,
   "models": {
     "10": [
-      1250
+      47550
     ]
   },
   "name": "Table",
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
+  "scale_x": 100,
+  "scale_y": 140,
+  "scale_z": 100,
   "occludes_2": false
 }

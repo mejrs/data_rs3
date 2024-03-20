@@ -11,10 +11,10 @@
   "unknown_19": 1,
   "ambient": 25,
   "actions": [
+    null,
     "Bank",
-    null,
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "contrast": 15,
@@ -23,11 +23,14 @@
   "unknown_98": true,
   "occludes_2": false,
   "cursors": [
+    null,
     5,
-    null,
-    null,
-    null,
+    5,
+    51,
     null,
     null
-  ]
+  ],
+  "params": {
+    "9049": 3283
+  }
 }

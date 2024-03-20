@@ -9,7 +9,7 @@
   "dim_x": 2,
   "dim_y": 3,
   "unknown_22": true,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Climb-up",
     null,
@@ -17,7 +17,7 @@
     null,
     null
   ],
-  "contrast": 15,
+  "contrast": 0,
   "colours": [
     [
       7582,

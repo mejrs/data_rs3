@@ -1,0 +1,18 @@
+{
+  "id": 129152,
+  "models": {
+    "4": [
+      21471
+    ]
+  },
+  "name": "Cobweb",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "unknown_81": 15,
+  "occludes_2": false,
+  "unknown_196": 1
+}

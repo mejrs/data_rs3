@@ -6,7 +6,7 @@
     ]
   },
   "name": "Teak chest",
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     null,
     "Search",
@@ -14,7 +14,7 @@
     null,
     null
   ],
-  "contrast": 15,
+  "contrast": 0,
   "colours": [
     [
       6443,

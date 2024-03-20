@@ -8,7 +8,6 @@
   },
   "name": "Pillar",
   "unknown_19": 1,
-  "ambient": 64,
   "actions": [
     "Inspect",
     null,
@@ -16,5 +15,8 @@
     null,
     null
   ],
+  "textures": {
+    "1741": 11172
+  },
   "occludes_2": false
 }

@@ -1,0 +1,32 @@
+{
+  "id": 128059,
+  "models": {
+    "10": [
+      87345
+    ]
+  },
+  "unknown_19": 0,
+  "ambient": 25,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 115,
+  "unknown_69": 11,
+  "unknown_93": 8224,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

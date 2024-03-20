@@ -1,0 +1,19 @@
+{
+  "id": 127396,
+  "models": {
+    "10": [
+      81362
+    ]
+  },
+  "name": "[ph]",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "model": false,
+  "scale_x": 640,
+  "scale_y": 640,
+  "scale_z": 640,
+  "occludes_2": false,
+  "unknown_196": 4,
+  "unknown_203": true
+}

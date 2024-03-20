@@ -2,13 +2,12 @@
   "id": 29360,
   "models": {
     "0": [
-      37579
+      78084
     ]
   },
   "name": "Odd-looking wall",
   "unknown_19": 1,
   "unknown_21": true,
-  "occludes_1": false,
   "unknown_27": false,
   "ambient": 10,
   "actions": [
@@ -20,6 +19,5 @@
   ],
   "contrast": 15,
   "unknown_75": 0,
-  "unknown_170": 609,
   "unknown_196": 1
 }

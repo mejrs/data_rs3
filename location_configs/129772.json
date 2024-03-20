@@ -1,0 +1,23 @@
+{
+  "id": 129772,
+  "models": {
+    "10": [
+      132619
+    ]
+  },
+  "name": "Foiling station",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Foil",
+    "Foil pink",
+    "Foil blue",
+    "Foil yellow",
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "mapfunction": 4168,
+  "unknown_196": 4
+}

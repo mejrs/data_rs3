@@ -10,8 +10,8 @@
   "dim_y": 3,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 20,
-  "contrast": 20,
+  "ambient": 0,
+  "contrast": 0,
   "model": false,
   "occludes_2": false,
   "unknown_196": 2

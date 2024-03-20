@@ -2,14 +2,14 @@
   "id": 34376,
   "models": {
     "10": [
-      1480
+      65887
     ]
   },
   "name": "Cart",
   "dim_x": 2,
   "dim_y": 3,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "contrast": 0,
   "colours": [
     [
       7830,

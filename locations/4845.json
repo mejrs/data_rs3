@@ -1226,8 +1226,8 @@
     "x": 26,
     "y": 44,
     "id": 4845,
-    "type": 10,
-    "rotation": 1
+    "type": 11,
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -1236,7 +1236,7 @@
     "x": 28,
     "y": 30,
     "id": 4845,
-    "type": 10,
+    "type": 11,
     "rotation": 1
   },
   {
@@ -1256,8 +1256,8 @@
     "x": 31,
     "y": 29,
     "id": 4845,
-    "type": 10,
-    "rotation": 1
+    "type": 11,
+    "rotation": 3
   },
   {
     "plane": 0,
@@ -1287,7 +1287,7 @@
     "y": 24,
     "id": 4845,
     "type": 10,
-    "rotation": 1
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -1387,7 +1387,7 @@
     "y": 29,
     "id": 4845,
     "type": 10,
-    "rotation": 1
+    "rotation": 3
   },
   {
     "plane": 0,
@@ -1396,8 +1396,8 @@
     "x": 39,
     "y": 36,
     "id": 4845,
-    "type": 10,
-    "rotation": 1
+    "type": 11,
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -1416,7 +1416,7 @@
     "x": 42,
     "y": 30,
     "id": 4845,
-    "type": 10,
+    "type": 11,
     "rotation": 1
   },
   {
@@ -1427,7 +1427,7 @@
     "y": 36,
     "id": 4845,
     "type": 10,
-    "rotation": 1
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -1436,8 +1436,8 @@
     "x": 43,
     "y": 18,
     "id": 4845,
-    "type": 10,
-    "rotation": 1
+    "type": 11,
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -1507,7 +1507,7 @@
     "y": 35,
     "id": 4845,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -1516,8 +1516,8 @@
     "x": 48,
     "y": 19,
     "id": 4845,
-    "type": 10,
-    "rotation": 1
+    "type": 11,
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -1557,7 +1557,7 @@
     "y": 42,
     "id": 4845,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -1596,8 +1596,8 @@
     "x": 52,
     "y": 25,
     "id": 4845,
-    "type": 10,
-    "rotation": 1
+    "type": 11,
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -1606,7 +1606,7 @@
     "x": 52,
     "y": 32,
     "id": 4845,
-    "type": 10,
+    "type": 11,
     "rotation": 1
   },
   {

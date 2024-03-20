@@ -1,0 +1,19 @@
+{
+  "id": 129415,
+  "models": {
+    "10": [
+      87737,
+      87738
+    ]
+  },
+  "name": "Mineshaft",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "11109": 17998
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

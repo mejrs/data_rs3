@@ -10,8 +10,8 @@
   "actions": [
     null,
     "Use",
-    null,
-    null,
+    "Collect",
+    "Load Last Preset from",
     null
   ],
   "colours": [
@@ -29,8 +29,8 @@
   "cursors": [
     null,
     46,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ],

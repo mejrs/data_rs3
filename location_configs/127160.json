@@ -6,9 +6,10 @@
       129279
     ]
   },
+  "name": "Water trough",
   "dim_x": 3,
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
   "model": false,
   "scale_x": 180,

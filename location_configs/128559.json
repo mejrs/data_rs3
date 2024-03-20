@@ -1,0 +1,19 @@
+{
+  "id": 128559,
+  "models": {
+    "10": [
+      127651,
+      127661,
+      127655
+    ]
+  },
+  "name": "Table",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "model": false,
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false
+}

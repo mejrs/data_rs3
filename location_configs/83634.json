@@ -8,19 +8,19 @@
   "name": "Bank chest",
   "ambient": 25,
   "actions": [
+    null,
     "Use",
-    null,
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "contrast": 15,
   "occludes_2": false,
   "cursors": [
+    null,
     46,
-    null,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ]

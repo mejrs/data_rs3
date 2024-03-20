@@ -5,9 +5,10 @@
       64314
     ]
   },
+  "name": "Pillar",
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 25,

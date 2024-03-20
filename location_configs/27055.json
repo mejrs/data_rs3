@@ -3,11 +3,11 @@
   "models": {
     "10": [
       29010,
-      29009
+      129320
     ]
   },
   "name": "Smelly package",
-  "dim_x": 2,
+  "dim_y": 2,
   "unknown_27": false,
   "ambient": 0,
   "actions": [

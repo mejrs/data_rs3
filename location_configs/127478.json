@@ -1,0 +1,23 @@
+{
+  "id": 127478,
+  "models": {
+    "10": [
+      130993
+    ]
+  },
+  "name": "Tower entrance",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "colours": [
+    [
+      42106,
+      36038
+    ]
+  ],
+  "textures": {
+    "11924": 17151
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -6,7 +6,7 @@
     ]
   },
   "name": "Chest",
-  "ambient": 20,
+  "ambient": 0,
   "actions": [
     "Open",
     null,

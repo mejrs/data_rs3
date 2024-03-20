@@ -5,8 +5,10 @@
       110540
     ]
   },
+  "name": "Pile of Easter eggs",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 2
 }

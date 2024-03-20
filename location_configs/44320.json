@@ -2,14 +2,15 @@
   "id": 44320,
   "models": {
     "10": [
-      48127,
-      48128
+      132233,
+      132232
     ]
   },
   "name": "Table",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 15,
+  "scale_x": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

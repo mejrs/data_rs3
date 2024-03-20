@@ -8,8 +8,8 @@
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 0,
-  "ambient": 20,
-  "contrast": 25,
+  "ambient": 5,
+  "contrast": 15,
   "model": false,
   "translate_y": 65511,
   "occludes_2": false

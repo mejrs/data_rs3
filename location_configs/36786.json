@@ -12,7 +12,7 @@
     null,
     "Bank",
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "contrast": 15,
@@ -50,8 +50,8 @@
   "cursors": [
     null,
     5,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ]

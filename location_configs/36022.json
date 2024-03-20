@@ -8,7 +8,7 @@
   "name": "Door",
   "unknown_19": 1,
   "occludes_1": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Open",
     null,
@@ -16,7 +16,7 @@
     null,
     null
   ],
-  "contrast": 15,
+  "contrast": 0,
   "unknown_75": 0,
   "unknown_170": 960,
   "cursors": [

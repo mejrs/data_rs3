@@ -1,0 +1,21 @@
+{
+  "id": 128071,
+  "models": {
+    "10": [
+      131428
+    ]
+  },
+  "dim_x": 6,
+  "dim_y": 6,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "2242": 2253,
+    "2261": 2239,
+    "2262": 2257
+  },
+  "model": false,
+  "occludes_2": false
+}

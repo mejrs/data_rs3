@@ -8,7 +8,7 @@
   "name": "Drawers",
   "is_transparent": true,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Search",
     "Shut",
@@ -16,7 +16,7 @@
     null,
     null
   ],
-  "contrast": 15,
+  "contrast": 0,
   "colours": [
     [
       7706,

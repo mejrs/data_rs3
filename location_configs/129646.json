@@ -1,0 +1,36 @@
+{
+  "id": 129646,
+  "models": {
+    "10": [
+      121482,
+      132905
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "textures": {
+    "13436": 18093,
+    "13437": 18092
+  },
+  "translate_y": 10,
+  "unknown_81": 80,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 255,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

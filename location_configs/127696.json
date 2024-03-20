@@ -1,0 +1,19 @@
+{
+  "id": 127696,
+  "models": {
+    "10": [
+      130993
+    ]
+  },
+  "name": "Tower entrance",
+  "unknown_19": 1,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

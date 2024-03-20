@@ -26,8 +26,8 @@
     "x": 34,
     "y": 37,
     "id": 11589,
-    "type": 10,
-    "rotation": 3
+    "type": 11,
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -36,8 +36,8 @@
     "x": 39,
     "y": 39,
     "id": 11589,
-    "type": 10,
-    "rotation": 3
+    "type": 11,
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -76,8 +76,8 @@
     "x": 41,
     "y": 47,
     "id": 11589,
-    "type": 10,
-    "rotation": 0
+    "type": 11,
+    "rotation": 3
   },
   {
     "plane": 0,

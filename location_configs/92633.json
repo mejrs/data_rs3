@@ -6,7 +6,7 @@
     ]
   },
   "name": "Armour stand",
-  "ambient": 37,
+  "ambient": 0,
   "textures": {
     "4840": 4842
   },

@@ -2,12 +2,11 @@
   "id": 1393,
   "models": {
     "10": [
-      1643
+      125389
     ]
   },
   "name": "Plant",
   "is_transparent": true,
-  "ambient": 40,
   "colours": [
     [
       61,
@@ -30,6 +29,9 @@
       3470
     ]
   ],
+  "textures": {
+    "14711": 14825
+  },
   "unknown_44": 59,
   "mapscene": 5,
   "occludes_2": false

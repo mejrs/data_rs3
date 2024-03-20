@@ -1,0 +1,33 @@
+{
+  "id": 127699,
+  "models": {
+    "10": [
+      131065
+    ]
+  },
+  "name": "Ruined pillar",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      42106,
+      37977
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

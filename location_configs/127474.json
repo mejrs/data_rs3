@@ -1,0 +1,20 @@
+{
+  "id": 127474,
+  "models": {
+    "10": [
+      130993
+    ]
+  },
+  "name": "Doorway",
+  "colours": [
+    [
+      42106,
+      36038
+    ]
+  ],
+  "textures": {
+    "11924": 17151
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": 127740,
+  "models": {
+    "10": [
+      128441,
+      131201
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "textures": {
+    "13435": 15241
+  },
+  "unknown_81": 80,
+  "occludes_2": false,
+  "unknown_186": 2
+}

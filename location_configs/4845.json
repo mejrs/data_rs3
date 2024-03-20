@@ -2,7 +2,7 @@
   "id": 4845,
   "models": {
     "10": [
-      1676
+      118512
     ]
   },
   "name": "Tropical tree",
@@ -20,6 +20,10 @@
       14876
     ]
   ],
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
   "unknown_81": 70,
   "mapscene": 0,
   "occludes_2": false,

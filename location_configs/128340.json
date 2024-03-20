@@ -1,0 +1,26 @@
+{
+  "id": 128340,
+  "models": {
+    "0": [
+      131299
+    ]
+  },
+  "name": "Grate door",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

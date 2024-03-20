@@ -1,0 +1,21 @@
+{
+  "id": 129764,
+  "models": {
+    "10": [
+      132717
+    ]
+  },
+  "name": "Soft metal anvil",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Flatten",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

@@ -1,0 +1,25 @@
+{
+  "id": 128575,
+  "models": {
+    "10": [
+      131696
+    ]
+  },
+  "name": "Commemorative statue",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    "Join instance",
+    "Rejoin last instance",
+    "Claim loot",
+    null
+  ],
+  "textures": {
+    "17399": 17400
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

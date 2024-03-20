@@ -1,0 +1,16 @@
+{
+  "id": 129767,
+  "models": {
+    "10": [
+      132619
+    ]
+  },
+  "name": "Mixing station",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "mapfunction": 4189,
+  "unknown_196": 4
+}

@@ -1,0 +1,56 @@
+{
+  "id": 129758,
+  "models": {
+    "10": [
+      132704,
+      132705
+    ]
+  },
+  "name": "Chocolate rock",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    "Prospect"
+  ],
+  "colours": [
+    [
+      2116,
+      1056
+    ],
+    [
+      3135,
+      2075
+    ],
+    [
+      3127,
+      3098
+    ],
+    [
+      2109,
+      4115
+    ],
+    [
+      3143,
+      3100
+    ]
+  ],
+  "textures": {
+    "322": 10872
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    56,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -1,0 +1,23 @@
+{
+  "id": 129766,
+  "models": {
+    "10": [
+      132619
+    ]
+  },
+  "name": "Mixing station",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Mix",
+    "Mix fruit & nut",
+    "Mix banoffee",
+    "Mix rocky road",
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "mapfunction": 4189,
+  "unknown_196": 4
+}

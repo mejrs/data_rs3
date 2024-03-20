@@ -2,31 +2,16 @@
   "id": 4818,
   "models": {
     "10": [
-      1701
+      132244
     ]
   },
   "name": "Jungle Tree",
-  "ambient": 40,
   "actions": [
     "Chop-down",
     null,
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      61,
-      16916
-    ],
-    [
-      49,
-      13840
-    ],
-    [
-      41,
-      4626
-    ]
   ],
   "mapscene": 5,
   "occludes_2": false,

@@ -1,0 +1,17 @@
+{
+  "id": 128539,
+  "models": {
+    "10": [
+      127733,
+      127736
+    ]
+  },
+  "name": "Fort wall",
+  "dim_x": 2,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "mirror": true,
+  "occludes_2": false
+}

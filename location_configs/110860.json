@@ -15,10 +15,10 @@
   "ambient": 40,
   "actions": [
     null,
-    "Use",
+    "Bank",
     "Collect",
-    "Deposit all fish",
-    null
+    "Load Last Preset from",
+    "Deposit all fish"
   ],
   "model": false,
   "unknown_79": {
@@ -38,10 +38,10 @@
   "unknown_104": 110,
   "cursors": [
     null,
-    46,
-    null,
-    null,
-    null,
+    5,
+    5,
+    51,
+    60,
     null
   ],
   "unknown_196": 3

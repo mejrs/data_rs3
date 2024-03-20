@@ -2,12 +2,13 @@
   "id": 14920,
   "models": {
     "10": [
-      12491
+      47553
     ]
   },
   "name": "Table",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
+  "model": false,
   "occludes_2": false
 }

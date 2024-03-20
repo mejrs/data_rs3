@@ -1,0 +1,46 @@
+{
+  "id": 129199,
+  "models": {
+    "10": [
+      128794
+    ]
+  },
+  "name": "Athena",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 16,
+  "actions": [
+    null,
+    "Talk to",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        35435,
+        200
+      ],
+      [
+        35436,
+        20
+      ],
+      [
+        35437,
+        30
+      ]
+    ]
+  },
+  "cursors": [
+    null,
+    44,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1
+}

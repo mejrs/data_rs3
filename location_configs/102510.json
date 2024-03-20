@@ -8,17 +8,17 @@
   "name": "Bank chest",
   "actions": [
     null,
-    "Bank",
+    "Use",
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "occludes_2": false,
   "cursors": [
     null,
+    46,
     5,
-    null,
-    null,
+    51,
     null,
     null
   ]

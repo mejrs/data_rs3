@@ -1,0 +1,30 @@
+{
+  "id": 129849,
+  "models": {
+    "10": [
+      132691,
+      132692,
+      132693,
+      132694
+    ]
+  },
+  "name": "Chocolate tasting stall",
+  "dim_x": 5,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Hand out chocolate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      510
+    ]
+  }
+}

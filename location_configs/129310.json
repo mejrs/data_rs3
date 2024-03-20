@@ -1,0 +1,16 @@
+{
+  "id": 129310,
+  "models": {
+    "10": [
+      132617
+    ]
+  },
+  "name": "Conveyor belt",
+  "dim_x": 3,
+  "dim_y": 8,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

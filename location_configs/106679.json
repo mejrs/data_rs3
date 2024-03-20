@@ -8,11 +8,11 @@
   "name": "Bank chest",
   "ambient": 25,
   "actions": [
-    "Use",
     null,
+    "Use",
     "Collect",
-    "Search",
-    null
+    "Load Last Preset from",
+    "Search"
   ],
   "contrast": 15,
   "colours": [
@@ -29,11 +29,11 @@
   "unknown_73": true,
   "occludes_2": false,
   "cursors": [
+    null,
     46,
-    null,
-    null,
+    5,
+    51,
     56,
-    null,
     null
   ],
   "params": {

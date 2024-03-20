@@ -1,0 +1,13 @@
+{
+  "id": 128564,
+  "models": {
+    "10": [
+      128618
+    ]
+  },
+  "name": "Fletching workbench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "occludes_2": false
+}

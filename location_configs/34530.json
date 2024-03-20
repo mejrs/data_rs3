@@ -2,13 +2,12 @@
   "id": 34530,
   "models": {
     "10": [
-      36497
+      88423
     ]
   },
   "name": "Drawers",
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Open",
     null,
@@ -16,28 +15,6 @@
     null,
     null
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      8487,
-      7456
-    ],
-    [
-      8478,
-      7452
-    ],
-    [
-      8483,
-      7448
-    ],
-    [
-      8598,
-      7444
-    ]
-  ],
-  "scale_x": 100,
-  "scale_y": 100,
-  "scale_z": 100,
   "occludes_2": false,
   "cursors": [
     49,

@@ -14,9 +14,9 @@
   "unknown_24": 31436,
   "ambient": 40,
   "actions": [
-    null,
     "Bank",
     "Collect",
+    "Load Last Preset from",
     "Deposit all fish",
     "Leave"
   ],
@@ -36,10 +36,10 @@
   "occludes_2": false,
   "unknown_104": 110,
   "cursors": [
-    null,
     5,
-    null,
-    null,
+    5,
+    51,
+    60,
     57,
     null
   ],

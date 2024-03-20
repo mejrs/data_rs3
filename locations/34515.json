@@ -7,7 +7,7 @@
     "y": 55,
     "id": 34515,
     "type": 11,
-    "rotation": 1
+    "rotation": 3
   },
   {
     "plane": 0,
@@ -17,7 +17,7 @@
     "y": 49,
     "id": 34515,
     "type": 11,
-    "rotation": 0
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -27,7 +27,7 @@
     "y": 51,
     "id": 34515,
     "type": 10,
-    "rotation": 2
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -37,7 +37,7 @@
     "y": 49,
     "id": 34515,
     "type": 10,
-    "rotation": 0
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -47,7 +47,7 @@
     "y": 51,
     "id": 34515,
     "type": 10,
-    "rotation": 2
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -57,7 +57,7 @@
     "y": 49,
     "id": 34515,
     "type": 10,
-    "rotation": 0
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -66,8 +66,8 @@
     "x": 41,
     "y": 51,
     "id": 34515,
-    "type": 11,
-    "rotation": 2
+    "type": 10,
+    "rotation": 0
   },
   {
     "plane": 1,
@@ -77,7 +77,7 @@
     "y": 47,
     "id": 34515,
     "type": 11,
-    "rotation": 0
+    "rotation": 2
   },
   {
     "plane": 1,
@@ -87,7 +87,7 @@
     "y": 52,
     "id": 34515,
     "type": 11,
-    "rotation": 1
+    "rotation": 3
   },
   {
     "plane": 1,
@@ -97,7 +97,7 @@
     "y": 55,
     "id": 34515,
     "type": 11,
-    "rotation": 1
+    "rotation": 3
   },
   {
     "plane": 1,
@@ -107,7 +107,7 @@
     "y": 45,
     "id": 34515,
     "type": 10,
-    "rotation": 2
+    "rotation": 0
   },
   {
     "plane": 1,
@@ -117,7 +117,7 @@
     "y": 45,
     "id": 34515,
     "type": 10,
-    "rotation": 2
+    "rotation": 0
   },
   {
     "plane": 1,
@@ -127,7 +127,7 @@
     "y": 55,
     "id": 34515,
     "type": 11,
-    "rotation": 2
+    "rotation": 0
   },
   {
     "plane": 1,
@@ -136,8 +136,8 @@
     "x": 38,
     "y": 47,
     "id": 34515,
-    "type": 11,
-    "rotation": 0
+    "type": 10,
+    "rotation": 2
   },
   {
     "plane": 1,
@@ -147,7 +147,7 @@
     "y": 47,
     "id": 34515,
     "type": 11,
-    "rotation": 3
+    "rotation": 1
   },
   {
     "plane": 0,
@@ -157,7 +157,7 @@
     "y": 55,
     "id": 34515,
     "type": 10,
-    "rotation": 0
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -167,7 +167,7 @@
     "y": 58,
     "id": 34515,
     "type": 10,
-    "rotation": 2
+    "rotation": 0
   },
   {
     "plane": 1,
@@ -177,6 +177,6 @@
     "y": 45,
     "id": 34515,
     "type": 10,
-    "rotation": 3
+    "rotation": 1
   }
 ]

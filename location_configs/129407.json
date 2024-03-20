@@ -1,0 +1,17 @@
+{
+  "id": 129407,
+  "models": {
+    "10": [
+      132696,
+      132697
+    ]
+  },
+  "name": "The Grand Eggs-change",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

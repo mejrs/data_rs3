@@ -1,0 +1,19 @@
+{
+  "id": 128056,
+  "models": {
+    "10": [
+      131574,
+      71634
+    ]
+  },
+  "name": "Boat",
+  "dim_x": 2,
+  "dim_y": 7,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_24": 17034,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "occludes_2": false
+}

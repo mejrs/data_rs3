@@ -5,10 +5,17 @@
       111696
     ]
   },
+  "name": "Copper (Regular)",
   "dim_x": 3,
   "dim_y": 3,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
+  "colours": [
+    [
+      7767,
+      4691
+    ]
+  ],
   "textures": {
     "12656": 12677,
     "12658": 12680,

@@ -1,0 +1,22 @@
+{
+  "id": 127632,
+  "models": {
+    "10": [
+      127354
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "textures": {
+    "11805": 17153,
+    "11806": 17154,
+    "11807": 17155,
+    "11808": 17156
+  },
+  "scale_x": 800,
+  "scale_y": 800,
+  "scale_z": 800,
+  "occludes_2": false,
+  "unknown_196": 4
+}

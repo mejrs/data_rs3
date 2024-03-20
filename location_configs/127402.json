@@ -1,0 +1,23 @@
+{
+  "id": 127402,
+  "models": {
+    "10": [
+      130616
+    ]
+  },
+  "name": "Player Clone Anim Test",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Test anims",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 13,
+  "occludes_2": false,
+  "unknown_196": 4
+}

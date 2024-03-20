@@ -1,0 +1,25 @@
+{
+  "id": 128778,
+  "models": {
+    "10": [
+      132122,
+      132130,
+      132129
+    ]
+  },
+  "name": "Pile of Santa's Presents",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Take present",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

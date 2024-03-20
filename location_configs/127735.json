@@ -1,0 +1,23 @@
+{
+  "id": 127735,
+  "models": {
+    "10": [
+      87868,
+      124679
+    ]
+  },
+  "name": "Pete's wheelbarrow",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      12698,
+      4379
+    ]
+  ],
+  "textures": {
+    "14100": 10467
+  },
+  "occludes_2": false
+}

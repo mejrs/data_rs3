@@ -8,8 +8,8 @@
   "name": "Cart",
   "dim_x": 2,
   "dim_y": 3,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "contrast": 0,
   "colours": [
     [
       9098,

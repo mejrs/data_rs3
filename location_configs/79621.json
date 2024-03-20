@@ -6,7 +6,7 @@
     ]
   },
   "name": "Barrels",
-  "ambient": 7,
+  "ambient": 5,
   "contrast": 15,
   "occludes_2": false
 }

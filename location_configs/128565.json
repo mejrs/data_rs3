@@ -1,0 +1,13 @@
+{
+  "id": 128565,
+  "models": {
+    "10": [
+      128619
+    ]
+  },
+  "name": "Spinning wheel",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

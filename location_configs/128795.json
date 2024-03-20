@@ -1,0 +1,17 @@
+{
+  "id": 128795,
+  "models": {
+    "10": [
+      132123,
+      132124
+    ]
+  },
+  "name": "Sleigh",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false
+}

@@ -7,5 +7,12 @@
   },
   "name": "Trough",
   "dim_x": 2,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
   "occludes_2": false
 }

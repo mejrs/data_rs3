@@ -1,0 +1,15 @@
+{
+  "id": 127597,
+  "models": {
+    "10": [
+      131141
+    ]
+  },
+  "name": "Barrels",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 4
+}

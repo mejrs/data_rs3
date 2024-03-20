@@ -2,11 +2,10 @@
   "id": 14918,
   "models": {
     "10": [
-      5936
+      113413
     ]
   },
   "name": "Washbasin",
-  "dim_y": 2,
   "actions": [
     "Fill",
     null,

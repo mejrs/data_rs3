@@ -1,0 +1,21 @@
+{
+  "id": 129762,
+  "models": {
+    "10": [
+      127195,
+      127196
+    ]
+  },
+  "name": "Foil storage",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

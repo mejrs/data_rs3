@@ -2,42 +2,15 @@
   "id": 19810,
   "models": {
     "10": [
-      19359
+      91828
     ]
   },
-  "name": "Large cave",
-  "dim_x": 2,
+  "name": "Vegetable stalls",
+  "dim_x": 5,
   "dim_y": 2,
-  "unknown_21": true,
-  "unknown_22": true,
-  "colours": [
-    [
-      6483,
-      37945
-    ],
-    [
-      6460,
-      49
-    ],
-    [
-      6470,
-      49
-    ],
-    [
-      6425,
-      28
-    ],
-    [
-      6435,
-      28
-    ],
-    [
-      6288,
-      12
-    ]
-  ],
-  "textures": {
-    "1819": 1892
-  },
+  "unknown_27": false,
+  "model": false,
+  "unknown_75": 0,
+  "unknown_93": 8224,
   "occludes_2": false
 }

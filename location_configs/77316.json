@@ -2,14 +2,23 @@
   "id": 77316,
   "models": {
     "10": [
-      77487
+      8019
     ]
   },
-  "dim_x": 3,
-  "unknown_17": false,
-  "unknown_19": 0,
-  "unknown_22": true,
-  "ambient": 25,
-  "contrast": 15,
+  "name": "Christmas Tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "2216": 2189,
+    "2217": 2189,
+    "2218": 2189,
+    "2219": 2189,
+    "2222": 2189
+  },
+  "model": false,
+  "unknown_88": false,
+  "unknown_98": true,
   "occludes_2": false
 }

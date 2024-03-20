@@ -2,12 +2,10 @@
   "id": 44291,
   "models": {
     "0": [
-      48159
+      132251
     ]
   },
   "unknown_19": 0,
   "occludes_1": false,
-  "ambient": 25,
-  "contrast": 15,
-  "unknown_170": 533
+  "unknown_170": 441
 }

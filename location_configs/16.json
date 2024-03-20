@@ -1,21 +1,23 @@
 {
   "id": 16,
   "models": {
-    "0": [
-      15396
+    "10": [
+      132253
     ]
   },
-  "name": "Railing",
-  "is_transparent": true,
-  "unknown_19": 1,
-  "unknown_21": true,
-  "ambient": 10,
-  "actions": [
-    "Inspect",
-    null,
-    null,
-    null,
-    null
+  "name": "Silk stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "colours": [
+    [
+      435,
+      7852
+    ],
+    [
+      430,
+      7835
+    ]
   ],
-  "contrast": 5
+  "mirror": true,
+  "occludes_2": false
 }

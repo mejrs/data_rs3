@@ -10,10 +10,10 @@
   "ambient": 25,
   "actions": [
     null,
-    "Use",
+    "Bank",
     "Collect",
-    "Deposit all fish",
-    null
+    "Load Last Preset from",
+    "Deposit all fish"
   ],
   "contrast": 15,
   "colours": [
@@ -54,10 +54,10 @@
   "mapfunction": 560,
   "cursors": [
     null,
-    46,
-    null,
-    null,
-    null,
+    5,
+    5,
+    51,
+    60,
     null
   ]
 }

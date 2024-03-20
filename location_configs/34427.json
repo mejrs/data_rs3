@@ -8,8 +8,8 @@
   "name": "Broken door",
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "contrast": 0,
   "colours": [
     [
       6674,

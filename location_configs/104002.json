@@ -12,7 +12,7 @@
     null,
     "Use",
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "textures": {
@@ -28,8 +28,8 @@
   "cursors": [
     null,
     46,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ],

@@ -2,23 +2,11 @@
   "id": 34555,
   "models": {
     "10": [
-      10089
+      47547
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      7952,
-      7452
-    ],
-    [
-      6707,
-      7468
-    ]
-  ],
   "occludes_2": false
 }

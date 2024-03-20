@@ -1,0 +1,22 @@
+{
+  "id": 128390,
+  "models": {
+    "10": [
+      131682
+    ]
+  },
+  "name": "Fort Forinthry Gate",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Leave Fort",
+    "Exit Instance",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

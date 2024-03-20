@@ -1,0 +1,14 @@
+{
+  "id": 128532,
+  "models": {
+    "10": [
+      127588
+    ]
+  },
+  "name": "Repair hotspot",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 25,
+  "occludes_2": false
+}

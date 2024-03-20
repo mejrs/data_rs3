@@ -8,7 +8,7 @@
   "name": "Cave entrance",
   "dim_x": 3,
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 15,
   "actions": [
     "Enter",
     null,
@@ -17,6 +17,10 @@
     null
   ],
   "contrast": 25,
+  "textures": {
+    "1743": 11172,
+    "1764": 11042
+  },
   "unknown_69": 11,
   "translate_y": 15,
   "unknown_88": false,

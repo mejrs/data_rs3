@@ -10,6 +10,12 @@
   "unknown_19": 0,
   "unknown_27": false,
   "ambient": 0,
+  "colours": [
+    [
+      42106,
+      37977
+    ]
+  ],
   "model": false,
   "scale_x": 80,
   "scale_y": 80,

@@ -1,0 +1,17 @@
+{
+  "id": 129349,
+  "models": {
+    "10": [
+      125455,
+      129279
+    ]
+  },
+  "name": "Trough",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

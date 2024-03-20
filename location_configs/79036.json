@@ -7,23 +7,24 @@
   },
   "name": "Bank chest",
   "actions": [
+    null,
     "Use",
-    null,
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "unknown_73": true,
   "occludes_2": false,
   "cursors": [
+    null,
     46,
-    null,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ],
   "params": {
-    "5239": 1
+    "5239": 1,
+    "9049": 3078
   }
 }

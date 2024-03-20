@@ -1,0 +1,25 @@
+{
+  "id": 127426,
+  "models": {
+    "10": [
+      111696
+    ]
+  },
+  "name": "Black Steel (Regular)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      7767,
+      49202
+    ]
+  ],
+  "textures": {
+    "12656": 16842,
+    "12658": 16843,
+    "12660": 16844
+  },
+  "occludes_2": false
+}

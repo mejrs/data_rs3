@@ -14,7 +14,7 @@
     null,
     "Bank",
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "model": false,
@@ -24,9 +24,12 @@
   "cursors": [
     null,
     5,
-    null,
-    null,
+    5,
+    51,
     null,
     null
-  ]
+  ],
+  "params": {
+    "9049": 3079
+  }
 }

@@ -1,0 +1,16 @@
+{
+  "id": 129395,
+  "models": {
+    "10": [
+      132689
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 0
+}

@@ -2,16 +2,32 @@
   "id": 38147,
   "models": {
     "10": [
-      64858
+      110601
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 60,
+  "colours": [
+    [
+      22654,
+      19995
+    ],
+    [
+      42067,
+      20367
+    ],
+    [
+      42173,
+      20365
+    ]
+  ],
   "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false,
   "unknown_196": 1
 }

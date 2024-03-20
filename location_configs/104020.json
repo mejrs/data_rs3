@@ -12,18 +12,18 @@
   "unknown_24": 29067,
   "actions": [
     "Use",
-    "Leave",
     "Bank",
     "Collect",
-    null
+    "Load Last Preset from",
+    "Leave"
   ],
   "occludes_2": false,
   "cursors": [
     46,
-    57,
     5,
-    null,
-    null,
+    5,
+    51,
+    57,
     null
   ],
   "params": {

@@ -2,18 +2,11 @@
   "id": 77350,
   "models": {
     "10": [
-      77511,
-      77521,
-      77516
+      131708
     ]
   },
-  "dim_x": 3,
-  "dim_y": 4,
+  "dim_x": 5,
+  "unknown_17": false,
   "unknown_19": 0,
-  "unknown_21": true,
-  "ambient": 25,
-  "contrast": 15,
-  "model": false,
-  "unknown_88": false,
   "occludes_2": false
 }

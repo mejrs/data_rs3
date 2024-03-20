@@ -6,6 +6,6 @@
     ]
   },
   "name": "Lectern",
-  "ambient": 20,
+  "ambient": 0,
   "occludes_2": false
 }

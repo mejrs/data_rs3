@@ -12,8 +12,8 @@
     "Deposit",
     "Deposit-All",
     null,
-    "Deposit all fish",
-    null
+    null,
+    "Deposit all fish"
   ],
   "model": false,
   "unknown_73": true,

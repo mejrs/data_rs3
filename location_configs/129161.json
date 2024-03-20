@@ -1,0 +1,14 @@
+{
+  "id": 129161,
+  "models": {
+    "10": [
+      93716
+    ]
+  },
+  "name": "Toolbox",
+  "unknown_19": 1,
+  "ambient": 25,
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false
+}

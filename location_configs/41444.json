@@ -5,8 +5,8 @@
       43923
     ]
   },
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "contrast": 0,
   "translate_x": 4,
   "occludes_2": false
 }

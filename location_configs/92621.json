@@ -8,6 +8,6 @@
   },
   "name": "Wardrobe",
   "dim_x": 2,
-  "ambient": 37,
+  "ambient": 0,
   "occludes_2": false
 }

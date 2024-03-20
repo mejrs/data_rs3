@@ -2,24 +2,17 @@
   "id": 14923,
   "models": {
     "0": [
-      5189
+      132265
     ]
   },
   "name": "Door",
   "unknown_19": 1,
-  "ambient": -30,
   "actions": [
     "Open",
     null,
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      6550,
-      5404
-    ]
   ],
   "cursors": [
     49,

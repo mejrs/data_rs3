@@ -6,7 +6,7 @@
     ]
   },
   "name": "Crystal chest",
-  "ambient": 37,
+  "ambient": 0,
   "unknown_69": 11,
   "is_members": true,
   "occludes_2": false

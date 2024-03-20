@@ -7,7 +7,7 @@
   },
   "name": "Spinning wheel",
   "unknown_27": false,
-  "ambient": 37,
+  "ambient": 0,
   "actions": [
     null,
     "Spin",

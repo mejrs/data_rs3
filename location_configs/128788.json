@@ -1,0 +1,21 @@
+{
+  "id": 128788,
+  "models": {
+    "10": [
+      110446,
+      110454
+    ]
+  },
+  "name": "Crate of finished decorations",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Deposit all",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -2,11 +2,14 @@
   "id": 4841,
   "models": {
     "22": [
-      4806
+      128300
     ]
   },
   "unknown_21": true,
   "unknown_22": true,
+  "textures": {
+    "14202": 15843
+  },
   "unknown_73": true,
   "occludes_2": false
 }

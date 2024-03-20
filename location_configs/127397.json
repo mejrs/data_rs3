@@ -1,0 +1,30 @@
+{
+  "id": 127397,
+  "models": {
+    "10": [
+      130610
+    ]
+  },
+  "name": "Bank Dummy",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    "Load Last Preset from",
+    null
+  ],
+  "model": false,
+  "breakroutefinding": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    5,
+    51,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

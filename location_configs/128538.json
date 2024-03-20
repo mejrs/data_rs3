@@ -1,0 +1,19 @@
+{
+  "id": 128538,
+  "models": {
+    "10": [
+      131701
+    ]
+  },
+  "name": "Destroyed fort wall",
+  "dim_x": 2,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "12007": 13419
+  },
+  "mirror": true,
+  "occludes_2": false
+}

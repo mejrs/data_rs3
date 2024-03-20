@@ -1,0 +1,21 @@
+{
+  "id": 129640,
+  "models": {
+    "10": [
+      121481
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_27": false,
+  "textures": {
+    "13436": 13573,
+    "13437": 13572
+  },
+  "translate_y": 10,
+  "unknown_81": 80,
+  "mapscene": 1,
+  "occludes_2": false,
+  "unknown_188": true,
+  "unknown_189": true,
+  "unknown_196": 4
+}

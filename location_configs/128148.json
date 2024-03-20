@@ -1,0 +1,14 @@
+{
+  "id": 128148,
+  "models": {
+    "10": [
+      64245
+    ]
+  },
+  "name": "Grave",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 15,
+  "contrast": 15,
+  "occludes_2": false
+}

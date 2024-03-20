@@ -1,0 +1,20 @@
+{
+  "id": 128780,
+  "models": {
+    "10": [
+      132068,
+      132069
+    ]
+  },
+  "name": "Coal store",
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    "Transmog",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

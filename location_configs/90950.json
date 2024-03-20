@@ -10,9 +10,9 @@
   "ambient": 64,
   "actions": [
     "Search",
-    "Bank",
+    "Use",
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "colours": [
@@ -33,9 +33,9 @@
   "occludes_2": false,
   "cursors": [
     56,
+    46,
     5,
-    null,
-    null,
+    51,
     null,
     null
   ]

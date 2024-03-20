@@ -2,7 +2,8 @@
   "id": 104355,
   "models": {
     "10": [
-      114109
+      124542,
+      124543
     ]
   },
   "name": "Evergreen",
@@ -11,7 +12,6 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Chop down",
     null,
@@ -19,7 +19,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "colours": [
     [
       15629,

@@ -2,9 +2,9 @@
   "id": 1022,
   "models": {
     "4": [
-      2058
+      81003,
+      81002
     ]
   },
-  "ambient": 50,
   "occludes_2": false
 }

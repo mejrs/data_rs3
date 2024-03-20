@@ -1,0 +1,35 @@
+{
+  "id": 129765,
+  "models": {
+    "10": [
+      132637
+    ]
+  },
+  "name": "Chocolate burrow",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
+  "occludes_2": false,
+  "mapfunction": 4192,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

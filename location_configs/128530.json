@@ -1,0 +1,28 @@
+{
+  "id": 128530,
+  "models": {
+    "10": [
+      127741
+    ]
+  },
+  "name": "Pile of stone",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_27": false,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

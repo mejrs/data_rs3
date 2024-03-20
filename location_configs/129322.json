@@ -1,0 +1,16 @@
+{
+  "id": 129322,
+  "models": {
+    "10": [
+      103320
+    ]
+  },
+  "name": "Milk churn",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 64,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 1
+}

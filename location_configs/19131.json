@@ -2,13 +2,15 @@
   "id": 19131,
   "models": {
     "10": [
-      19503
+      84363
     ]
   },
   "name": "Rock",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
+  "scale_x": 175,
+  "scale_y": 175,
+  "scale_z": 175,
   "occludes_2": false
 }

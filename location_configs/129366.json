@@ -1,0 +1,19 @@
+{
+  "id": 129366,
+  "models": {
+    "10": [
+      131986
+    ]
+  },
+  "name": "Carrot",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 800,
+  "scale_y": 800,
+  "scale_z": 800,
+  "occludes_2": false,
+  "unknown_196": 3
+}

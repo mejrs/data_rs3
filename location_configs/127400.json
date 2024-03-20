@@ -1,0 +1,30 @@
+{
+  "id": 127400,
+  "models": {
+    "10": [
+      130639
+    ]
+  },
+  "name": "Woodcutting",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -2,12 +2,13 @@
   "id": 119218,
   "models": {
     "10": [
-      37727
+      131255,
+      131256
     ]
   },
   "name": "Pipe",
   "dim_x": 2,
-  "unknown_27": false,
+  "unknown_17": false,
   "ambient": 10,
   "actions": [
     "Squeeze-through",
@@ -19,16 +20,8 @@
   "contrast": 15,
   "colours": [
     [
-      5392,
-      10512
-    ],
-    [
-      5276,
-      10396
-    ],
-    [
-      5281,
-      10401
+      28058,
+      0
     ]
   ],
   "unknown_69": 13,

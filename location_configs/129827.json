@@ -1,0 +1,52 @@
+{
+  "id": 129827,
+  "models": {
+    "10": [
+      121481
+    ]
+  },
+  "name": "Tree trunk",
+  "unknown_21": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6938,
+      7587
+    ],
+    [
+      7062,
+      7582
+    ],
+    [
+      7054,
+      7706
+    ],
+    [
+      4750,
+      7830
+    ],
+    [
+      5002,
+      7954
+    ],
+    [
+      922,
+      15787
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

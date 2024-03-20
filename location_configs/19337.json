@@ -7,6 +7,7 @@
   },
   "name": "Rabbit hole",
   "unknown_21": true,
+  "ambient": -30,
   "actions": [
     "Flush",
     null,

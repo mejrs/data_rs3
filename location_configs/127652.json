@@ -1,0 +1,25 @@
+{
+  "id": 127652,
+  "models": {
+    "10": [
+      123546
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "colours": [
+    [
+      37425,
+      33821
+    ]
+  ],
+  "textures": {
+    "14105": 17157
+  },
+  "scale_x": 400,
+  "scale_y": 400,
+  "scale_z": 400,
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4
+}

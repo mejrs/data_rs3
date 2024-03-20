@@ -1,0 +1,15 @@
+{
+  "id": 128542,
+  "models": {
+    "10": [
+      131692
+    ]
+  },
+  "name": "Destroyed fort tower",
+  "dim_x": 5,
+  "dim_y": 5,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

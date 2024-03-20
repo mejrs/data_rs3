@@ -12,7 +12,9 @@
   "ambient": 25,
   "contrast": 15,
   "textures": {
-    "1412": 2403
+    "1412": 2403,
+    "1764": 11042,
+    "1833": 11093
   },
   "model": false,
   "unknown_88": false,

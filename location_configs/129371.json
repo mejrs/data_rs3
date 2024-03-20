@@ -1,0 +1,18 @@
+{
+  "id": 129371,
+  "models": {
+    "10": [
+      132715
+    ]
+  },
+  "name": "Farm sign",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "18043": 18042
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

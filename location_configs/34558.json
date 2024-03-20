@@ -2,15 +2,14 @@
   "id": 34558,
   "models": {
     "10": [
-      20389
+      87939,
+      87944
     ]
   },
   "name": "Bunk bed",
   "dim_y": 2,
   "is_transparent": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "colours": [
     [
       7954,
@@ -33,5 +32,8 @@
       2590
     ]
   ],
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
   "occludes_2": false
 }

@@ -13,7 +13,7 @@
     "Toggle auto-collect",
     "Teleport",
     "Bank",
-    null
+    "Load Last Preset from"
   ],
   "is_members": true,
   "occludes_2": false,
@@ -22,7 +22,7 @@
     null,
     null,
     5,
-    null,
+    51,
     null
   ]
 }

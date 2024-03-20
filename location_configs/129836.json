@@ -1,0 +1,24 @@
+{
+  "id": 129836,
+  "models": {
+    "22": [
+      95226
+    ]
+  },
+  "name": "Fruit and nut chocolate recipe",
+  "unknown_19": 1,
+  "actions": [
+    "Eavesdrop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 920,
+  "unknown_160": {
+    "values": [
+      510
+    ]
+  }
+}

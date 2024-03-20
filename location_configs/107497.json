@@ -13,8 +13,8 @@
     null,
     "Use",
     "Collect",
-    "Deposit all fish",
-    null
+    "Load Last Preset from",
+    "Deposit all fish"
   ],
   "model": false,
   "unknown_73": true,
@@ -23,8 +23,8 @@
   "cursors": [
     null,
     46,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ]

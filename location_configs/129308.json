@@ -1,0 +1,16 @@
+{
+  "id": 129308,
+  "models": {
+    "10": [
+      132615
+    ]
+  },
+  "name": "Chocolate bin",
+  "dim_x": 5,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

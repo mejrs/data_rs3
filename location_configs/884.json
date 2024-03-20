@@ -2,14 +2,13 @@
   "id": 884,
   "models": {
     "10": [
-      1410
+      65700
     ]
   },
   "name": "Well",
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
-  "ambient": 20,
   "actions": [
     "Fill",
     null,
@@ -17,9 +16,9 @@
     null,
     null
   ],
-  "scale_x": 90,
-  "scale_y": 100,
-  "scale_z": 90,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
   "occludes_2": false,
   "unknown_196": 1
 }

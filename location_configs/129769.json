@@ -1,0 +1,23 @@
+{
+  "id": 129769,
+  "models": {
+    "10": [
+      132619
+    ]
+  },
+  "name": "Moulding station",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Mould",
+    "Mould egg",
+    "Mould bar",
+    "Mould bunny",
+    null
+  ],
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "mapfunction": 4165,
+  "unknown_196": 4
+}

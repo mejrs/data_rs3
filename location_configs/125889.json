@@ -2,20 +2,39 @@
   "id": 125889,
   "models": {
     "10": [
-      127354
+      127617
     ]
   },
-  "is_transparent": true,
-  "unknown_19": 0,
-  "unknown_21": true,
+  "name": "Altar",
+  "ambient": 0,
+  "actions": [
+    "Pray-at",
+    "Offer Bones",
+    "Offer Ashes",
+    "Swap Prayers",
+    null
+  ],
+  "colours": [
+    [
+      39708,
+      1820
+    ],
+    [
+      7073,
+      8759
+    ]
+  ],
   "textures": {
-    "11805": 12163,
-    "11806": 12164,
-    "11807": 12165,
-    "11808": 12166
+    "11923": 17218
   },
-  "scale_x": 400,
-  "scale_y": 400,
-  "scale_z": 400,
-  "occludes_2": false
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

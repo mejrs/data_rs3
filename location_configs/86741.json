@@ -9,20 +9,20 @@
   "unknown_19": 1,
   "ambient": -25,
   "actions": [
+    null,
     "Use",
-    null,
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "contrast": 15,
   "occludes_2": false,
   "mapfunction": 560,
   "cursors": [
+    null,
     46,
-    null,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ]

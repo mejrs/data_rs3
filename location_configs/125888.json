@@ -2,20 +2,23 @@
   "id": 125888,
   "models": {
     "10": [
-      127353
+      127639,
+      127631
     ]
   },
-  "is_transparent": true,
+  "dim_x": 11,
+  "dim_y": 7,
+  "unknown_17": false,
   "unknown_19": 0,
-  "unknown_21": true,
+  "colours": [
+    [
+      28058,
+      0
+    ]
+  ],
   "textures": {
-    "11805": 12163,
-    "11806": 12164,
-    "11807": 12165,
-    "11808": 12166
+    "15595": 17219
   },
-  "scale_x": 400,
-  "scale_y": 400,
-  "scale_z": 400,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_186": 2
 }

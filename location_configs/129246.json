@@ -1,0 +1,22 @@
+{
+  "id": 129246,
+  "models": {
+    "10": [
+      132578,
+      132579,
+      132589
+    ]
+  },
+  "name": "Burrow door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      24760,
+      63672
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

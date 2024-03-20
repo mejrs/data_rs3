@@ -2,7 +2,8 @@
   "id": 14921,
   "models": {
     "10": [
-      3912
+      72639,
+      72648
     ]
   },
   "name": "Small furnace",
@@ -13,7 +14,7 @@
     null,
     null
   ],
-  "unknown_69": 14,
+  "unknown_69": 11,
   "unknown_78": {
     "unknown_1": 3474,
     "unknown_2": 3

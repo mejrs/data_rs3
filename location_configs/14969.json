@@ -2,11 +2,11 @@
   "id": 14969,
   "models": {
     "10": [
-      14873,
-      14874
+      87868,
+      132229
     ]
   },
   "name": "Barrow",
-  "dim_x": 2,
+  "dim_y": 2,
   "occludes_2": false
 }

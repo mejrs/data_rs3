@@ -8,7 +8,10 @@
   "name": "Mysterious statue",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 20,
+  "ambient": 10,
+  "textures": {
+    "1742": 11172
+  },
   "translate_y": 65529,
   "mapscene": 12,
   "occludes_2": false,

@@ -5,10 +5,26 @@
       129274
     ]
   },
+  "name": "Cleaning supplies",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
   "model": false,
   "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
   "unknown_196": 1
 }

@@ -1,0 +1,26 @@
+{
+  "id": 128793,
+  "models": {
+    "10": [
+      132066,
+      132067
+    ]
+  },
+  "name": "Decoration bench",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Create",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

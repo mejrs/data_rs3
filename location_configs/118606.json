@@ -1,11 +1,26 @@
 {
   "id": 118606,
   "models": {
-    "22": [
-      120968
+    "10": [
+      132198
     ]
   },
-  "unknown_19": 0,
-  "unknown_73": true,
-  "occludes_2": false
+  "name": "Bank chest",
+  "actions": [
+    null,
+    "Use",
+    "Collect",
+    "Load Last Preset from",
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    null,
+    46,
+    5,
+    51,
+    null,
+    null
+  ]
 }

@@ -9,7 +9,13 @@
   "dim_y": 10,
   "unknown_17": false,
   "unknown_19": 0,
-  "ambient": 37,
+  "ambient": 0,
+  "colours": [
+    [
+      40957,
+      42104
+    ]
+  ],
   "textures": {
     "3943": 5155
   },

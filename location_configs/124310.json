@@ -18,7 +18,7 @@
     "Bank",
     null,
     null,
-    null
+    "Load Last Preset from"
   ],
   "scale_x": 160,
   "scale_y": 160,
@@ -30,7 +30,7 @@
     5,
     null,
     null,
-    null,
+    51,
     null
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": 127433,
+  "models": {
+    "10": [
+      111696
+    ]
+  },
+  "name": "Wood (Regular)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      7767,
+      5301
+    ]
+  ],
+  "textures": {
+    "12656": 16861,
+    "12658": 16862,
+    "12660": 16863
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 128787,
+  "models": {
+    "10": [
+      110446,
+      110454
+    ]
+  },
+  "name": "Crate of unfinished decorations",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

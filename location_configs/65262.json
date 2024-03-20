@@ -24,5 +24,6 @@
   "scale_z": 170,
   "unknown_81": 40,
   "mapscene": 6,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_188": true
 }

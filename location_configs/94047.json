@@ -9,7 +9,7 @@
   "dim_x": 3,
   "is_transparent": true,
   "unknown_27": false,
-  "ambient": 37,
+  "ambient": 0,
   "actions": [
     "Pray at",
     null,

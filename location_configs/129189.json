@@ -1,0 +1,38 @@
+{
+  "id": 129189,
+  "models": {
+    "10": [
+      128794
+    ]
+  },
+  "name": "Screech",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 16,
+  "actions": [
+    "Track",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "headmodels": {
+    "headmodels": [
+      [
+        35435,
+        200
+      ],
+      [
+        35436,
+        20
+      ],
+      [
+        35437,
+        30
+      ]
+    ]
+  },
+  "unknown_196": 1
+}

@@ -13,7 +13,7 @@
     null,
     "Use",
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "contrast": 15,
@@ -28,8 +28,8 @@
   "cursors": [
     null,
     46,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ],

@@ -6,10 +6,11 @@
     ]
   },
   "name": "Hedge",
-  "unknown_17": false,
+  "is_transparent": true,
   "unknown_19": 1,
+  "unknown_27": false,
   "model": false,
   "mapscene": 9,
   "occludes_2": false,
-  "unknown_196": 3
+  "unknown_196": 0
 }

@@ -6,6 +6,6 @@
     ]
   },
   "ambient": 60,
-  "contrast": 20,
+  "contrast": 0,
   "occludes_2": false
 }

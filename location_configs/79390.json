@@ -9,8 +9,8 @@
   "dim_x": 4,
   "dim_y": 4,
   "unknown_19": 0,
-  "ambient": 20,
-  "contrast": 25,
+  "ambient": 5,
+  "contrast": 15,
   "model": false,
   "occludes_2": false
 }

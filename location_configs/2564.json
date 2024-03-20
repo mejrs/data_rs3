@@ -9,7 +9,7 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 64,
+  "ambient": 0,
   "actions": [
     "Spellbook and Prayer Swap",
     "Swap prayers",

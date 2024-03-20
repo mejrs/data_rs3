@@ -1,0 +1,53 @@
+{
+  "id": 128377,
+  "models": {
+    "10": [
+      131735
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      19356,
+      50073
+    ]
+  ],
+  "textures": {
+    "17403": 17407
+  },
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 37,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 191,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

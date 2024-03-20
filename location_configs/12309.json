@@ -13,7 +13,7 @@
     "Buy-food",
     "Buy-items",
     "Collect",
-    null
+    "Load Last Preset from"
   ],
   "contrast": 15,
   "colours": [
@@ -48,8 +48,8 @@
     5,
     null,
     null,
-    null,
-    null,
+    5,
+    51,
     null
   ]
 }

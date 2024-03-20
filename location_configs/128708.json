@@ -1,0 +1,23 @@
+{
+  "id": 128708,
+  "models": {
+    "10": [
+      132104
+    ]
+  },
+  "name": "Wintumber Postbox",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Post letter",
+    "Check progress",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

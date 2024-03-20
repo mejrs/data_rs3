@@ -1,0 +1,16 @@
+{
+  "id": 128650,
+  "models": {
+    "10": [
+      132050
+    ]
+  },
+  "name": "Bookcase",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

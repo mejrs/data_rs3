@@ -1,0 +1,34 @@
+{
+  "id": 127964,
+  "models": {
+    "22": [
+      131479
+    ]
+  },
+  "name": "Stepping Stone",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "1512": 1492,
+    "1529": 1470
+  },
+  "translate_y": 70,
+  "translate_z": 120,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

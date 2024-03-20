@@ -1,0 +1,19 @@
+{
+  "id": 129562,
+  "models": {
+    "10": [
+      132834
+    ]
+  },
+  "name": "Hedge",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "mapscene": 9,
+  "occludes_2": false,
+  "unknown_196": 0
+}

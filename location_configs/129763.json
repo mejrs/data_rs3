@@ -1,0 +1,29 @@
+{
+  "id": 129763,
+  "models": {
+    "10": [
+      132718,
+      132719
+    ]
+  },
+  "name": "Soft metal forge",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take from",
+    "Take all from",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

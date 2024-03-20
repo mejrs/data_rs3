@@ -1,0 +1,20 @@
+{
+  "id": 128085,
+  "models": {
+    "0": [
+      131538,
+      131541
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "1512": 1517,
+    "1529": 1470
+  },
+  "model": false,
+  "unknown_88": false
+}

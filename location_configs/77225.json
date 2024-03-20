@@ -2,15 +2,13 @@
   "id": 77225,
   "models": {
     "10": [
-      77713
+      67768
     ]
   },
   "name": "Rope and bucket",
   "dim_x": 3,
   "dim_y": 3,
   "unknown_17": false,
-  "unknown_24": 17805,
-  "ambient": 25,
   "actions": [
     "Climb up",
     null,
@@ -18,9 +16,13 @@
     null,
     null
   ],
-  "contrast": 15,
+  "textures": {
+    "8868": 11042
+  },
   "model": false,
-  "unknown_81": 80,
+  "scale_x": 384,
+  "scale_y": 512,
+  "scale_z": 384,
   "unknown_88": false,
   "occludes_2": false,
   "cursors": [

@@ -9,8 +9,8 @@
   "name": "Rowboat",
   "dim_x": 4,
   "dim_y": 5,
-  "ambient": 20,
-  "contrast": 20,
+  "ambient": 0,
+  "contrast": 0,
   "colours": [
     [
       27844,

@@ -1,33 +1,21 @@
 {
   "id": 9296,
-  "models": {
-    "22": [
-      9237
-    ]
-  },
-  "name": "Rocks",
-  "unknown_21": true,
-  "unknown_27": false,
-  "actions": [
-    "Climb",
-    null,
-    null,
-    null,
-    null
-  ],
-  "colours": [
-    [
-      6689,
-      7952
-    ]
-  ],
-  "occludes_2": false,
-  "cursors": [
-    181,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_19": 1,
+  "morphs_2": {
+    "varbit": 54642,
+    "ids": [
+      9297,
+      9297,
+      9297,
+      9297,
+      9297,
+      9297,
+      9297,
+      9297,
+      9297,
+      9297,
+      127161
+    ],
+    "default": 9297
+  }
 }

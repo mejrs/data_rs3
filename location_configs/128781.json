@@ -1,0 +1,19 @@
+{
+  "id": 128781,
+  "models": {
+    "10": [
+      65217
+    ]
+  },
+  "name": "Snowman",
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    "Transmog",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false
+}

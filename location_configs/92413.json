@@ -8,7 +8,7 @@
   "name": "Clan portal",
   "unknown_17": false,
   "unknown_24": 10882,
-  "ambient": 64,
+  "ambient": 20,
   "actions": [
     "Teleport",
     "Quick Teleport",

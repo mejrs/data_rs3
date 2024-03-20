@@ -5,17 +5,17 @@
       84948
     ]
   },
-  "name": "Fateful portal (The Zamorakian Undercity)",
+  "name": "Fateful portal (Zemouregal & Vorkath)",
   "ambient": 0,
   "actions": [
     "Enter",
     null,
-    "Set arrival point",
+    null,
     null,
     null
   ],
   "textures": {
-    "11897": 15144,
+    "11897": 17410,
     "11899": 11905,
     "11900": 11904
   },

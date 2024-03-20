@@ -1,0 +1,13 @@
+{
+  "id": 128568,
+  "models": {
+    "10": [
+      80997
+    ]
+  },
+  "name": "Sink",
+  "dim_x": 2,
+  "unknown_17": false,
+  "is_members": true,
+  "occludes_2": false
+}

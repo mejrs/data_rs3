@@ -1,0 +1,29 @@
+{
+  "id": 129160,
+  "models": {
+    "10": [
+      93716
+    ]
+  },
+  "name": "Toolbox",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

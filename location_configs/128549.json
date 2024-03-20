@@ -1,0 +1,15 @@
+{
+  "id": 128549,
+  "models": {
+    "10": [
+      127685
+    ]
+  },
+  "name": "Gates",
+  "dim_x": 2,
+  "dim_y": 8,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

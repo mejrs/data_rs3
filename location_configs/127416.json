@@ -1,0 +1,25 @@
+{
+  "id": 127416,
+  "models": {
+    "10": [
+      111696
+    ]
+  },
+  "name": "Ice (Stylized)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      7767,
+      34010
+    ]
+  ],
+  "textures": {
+    "12656": 16836,
+    "12658": 16837,
+    "12660": 16838
+  },
+  "occludes_2": false
+}
