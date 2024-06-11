@@ -6,17 +6,17 @@
     "x": 3,
     "y": 19,
     "id": 52848,
-    "type": 18,
+    "type": 0,
     "rotation": 2
   },
   {
     "plane": 0,
     "i": 54,
     "j": 58,
-    "x": 3,
+    "x": 5,
     "y": 19,
     "id": 52848,
-    "type": 18,
-    "rotation": 2
+    "type": 0,
+    "rotation": 0
   }
 ]

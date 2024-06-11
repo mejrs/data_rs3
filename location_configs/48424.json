@@ -23,6 +23,9 @@
       10275
     ]
   ],
+  "textures": {
+    "1894": 15081
+  },
   "scale_y": 135,
   "unknown_73": true,
   "occludes_2": false

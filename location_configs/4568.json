@@ -2,7 +2,7 @@
   "id": 4568,
   "models": {
     "10": [
-      4545
+      133164
     ]
   },
   "name": "Staircase",
@@ -15,6 +15,7 @@
     null,
     null
   ],
+  "scale_y": 150,
   "mapscene": 7,
   "occludes_2": false,
   "cursors": [

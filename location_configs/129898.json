@@ -1,0 +1,19 @@
+{
+  "id": 129898,
+  "models": {
+    "10": [
+      132982,
+      133028
+    ]
+  },
+  "name": "Pedestal (manifest ectoplasm)",
+  "unknown_19": 1,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": 129017,
+  "models": {
+    "10": [
+      96040
+    ]
+  },
+  "name": "Material storage container",
+  "unknown_27": false,
+  "actions": [
+    "Store",
+    "Deposit all",
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      511
+    ]
+  }
+}

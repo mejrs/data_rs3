@@ -2,12 +2,37 @@
   "id": 3940,
   "models": {
     "10": [
-      97123
+      733
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
+  "colours": [
+    [
+      8656,
+      7595
+    ],
+    [
+      8644,
+      6569
+    ],
+    [
+      8631,
+      6439
+    ],
+    [
+      8747,
+      6558
+    ],
+    [
+      8862,
+      7954
+    ]
+  ],
   "model": false,
+  "scale_x": 64,
+  "scale_y": 34,
+  "scale_z": 64,
   "unknown_88": false,
   "occludes_2": false
 }

@@ -10,7 +10,8 @@
   "unknown_21": true,
   "ambient": 0,
   "textures": {
-    "7387": 10701
+    "7387": 10701,
+    "7576": 14066
   },
   "scale_x": 70,
   "scale_y": 70,

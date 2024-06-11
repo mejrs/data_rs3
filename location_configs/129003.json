@@ -1,0 +1,16 @@
+{
+  "id": 129003,
+  "models": {
+    "10": [
+      130982,
+      130983
+    ]
+  },
+  "name": "Vorkath",
+  "unknown_24": 35611,
+  "ambient": 32,
+  "contrast": 25,
+  "occludes_2": false,
+  "unknown_196": 4,
+  "unknown_202": 3
+}

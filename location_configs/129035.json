@@ -1,0 +1,18 @@
+{
+  "id": 129035,
+  "models": {
+    "10": [
+      133028
+    ]
+  },
+  "name": "Pedestal",
+  "unknown_19": 1,
+  "actions": [
+    "Place focus",
+    null,
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "occludes_2": false
+}

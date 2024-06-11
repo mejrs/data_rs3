@@ -2,11 +2,10 @@
   "id": 19421,
   "models": {
     "10": [
-      19993
+      19356
     ]
   },
   "name": "Tunnel",
-  "unknown_21": true,
   "unknown_22": true,
   "ambient": 30,
   "actions": [
@@ -35,6 +34,11 @@
       43082
     ]
   ],
-  "scale_y": 64,
+  "textures": {
+    "1830": 15081
+  },
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
   "occludes_2": false
 }

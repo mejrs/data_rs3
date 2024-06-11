@@ -1,0 +1,32 @@
+{
+  "id": 129971,
+  "models": {
+    "10": [
+      133219
+    ]
+  },
+  "name": "Gate",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Pass Through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      512
+    ]
+  },
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -22,7 +22,6 @@
   "textures": {
     "8868": 11042
   },
-  "scale_x": 1536,
   "unknown_69": 7,
   "is_members": true,
   "occludes_2": false,
@@ -34,5 +33,11 @@
     null,
     null
   ],
+  "unknown_1": 16284,
+  "unknown_2": 16284,
+  "unknown_3": 16284,
+  "unknown_4": 16784,
+  "unknown_5": 16484,
+  "unknown_6": 16484,
   "unknown_203": true
 }

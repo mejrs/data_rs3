@@ -13,5 +13,8 @@
   "occludes_1": false,
   "ambient": 15,
   "contrast": 10,
+  "textures": {
+    "1894": 15081
+  },
   "unknown_170": 1021
 }

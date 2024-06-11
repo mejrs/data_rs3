@@ -2,7 +2,7 @@
   "id": 350,
   "models": {
     "10": [
-      1155
+      88436
     ]
   },
   "name": "Drawers",
@@ -13,7 +13,7 @@
     null,
     null
   ],
-  "unknown_69": 13,
+  "unknown_69": 11,
   "occludes_2": false,
   "cursors": [
     49,

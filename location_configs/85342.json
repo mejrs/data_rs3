@@ -11,10 +11,10 @@
   "unknown_22": true,
   "ambient": -15,
   "actions": [
+    null,
     "Use",
-    null,
     "Collect",
-    null,
+    "Load Last Preset from",
     null
   ],
   "contrast": 15,
@@ -25,10 +25,10 @@
   "unknown_88": false,
   "occludes_2": false,
   "cursors": [
+    null,
     46,
-    null,
-    null,
-    null,
+    5,
+    51,
     null,
     null
   ]

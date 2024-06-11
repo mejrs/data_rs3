@@ -17,6 +17,10 @@
     null,
     null
   ],
+  "textures": {
+    "1892": 14066,
+    "1894": 14066
+  },
   "unknown_69": 13,
   "mapscene": 71,
   "occludes_2": false,

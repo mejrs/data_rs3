@@ -8,7 +8,7 @@
   "name": "Dead tree",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 40,
   "actions": [
     "Chop down",
     null,

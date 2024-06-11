@@ -1,0 +1,15 @@
+{
+  "id": 129980,
+  "models": {
+    "10": [
+      133220
+    ]
+  },
+  "name": "Archaeologist hat",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "occludes_2": false
+}

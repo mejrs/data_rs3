@@ -1,0 +1,13 @@
+{
+  "id": 130295,
+  "models": {
+    "10": [
+      116075,
+      116107
+    ]
+  },
+  "name": "Research tables",
+  "dim_x": 2,
+  "dim_y": 3,
+  "occludes_2": false
+}

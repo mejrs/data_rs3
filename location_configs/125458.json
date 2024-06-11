@@ -22,5 +22,6 @@
   "scale_x": 300,
   "scale_y": 300,
   "scale_z": 300,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 4
 }

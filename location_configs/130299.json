@@ -1,0 +1,55 @@
+{
+  "id": 130299,
+  "models": {
+    "10": [
+      120582
+    ]
+  },
+  "name": "Mysterious engine",
+  "unknown_17": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 57272,
+    "unknown_2": 25
+  },
+  "unknown_79": {
+    "unknown_1": 0,
+    "unknown_2": 125,
+    "unknown_3": 25,
+    "values": [
+      57273,
+      57274,
+      57275,
+      57276,
+      57277,
+      57278
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 210,
+  "unknown_1": 245,
+  "unknown_2": 265,
+  "unknown_178": 20,
+  "unknown_204": [
+    {
+      "id": 281,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        1148403712,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

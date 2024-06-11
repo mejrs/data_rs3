@@ -2,10 +2,13 @@
   "id": 653,
   "models": {
     "22": [
-      1070
+      120897
     ]
   },
   "unknown_21": true,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
   "unknown_88": false,
   "occludes_2": false
 }

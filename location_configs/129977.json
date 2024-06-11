@@ -1,0 +1,39 @@
+{
+  "id": 129977,
+  "models": {
+    "10": [
+      96039,
+      89811,
+      95735
+    ]
+  },
+  "name": "Crystallised rubble",
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    "Survey",
+    null
+  ],
+  "textures": {
+    "12338": 12331
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      512
+    ]
+  },
+  "cursors": [
+    2,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "params": {
+    "6659": 13535
+  }
+}

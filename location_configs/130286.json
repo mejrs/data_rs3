@@ -1,0 +1,51 @@
+{
+  "id": 130286,
+  "models": {
+    "10": [
+      133319
+    ]
+  },
+  "name": "Remnants of a meeting space",
+  "dim_x": 6,
+  "dim_y": 4,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64692,
+      32948
+    ],
+    [
+      64809,
+      31916
+    ],
+    [
+      64799,
+      31910
+    ]
+  ],
+  "textures": {
+    "11300": 12858,
+    "11302": 12863,
+    "11304": 12866,
+    "11305": 12865
+  },
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

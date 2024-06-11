@@ -2,15 +2,12 @@
   "id": 48408,
   "models": {
     "10": [
-      52090
+      133307
     ]
   },
   "dim_x": 4,
   "dim_y": 3,
   "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_24": 13409,
-  "ambient": 15,
-  "contrast": 10,
+  "ambient": 0,
   "occludes_2": false
 }

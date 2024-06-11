@@ -5,7 +5,7 @@
       84948
     ]
   },
-  "name": "Fateful portal (Zemouregal & Vorkath)",
+  "name": "Fateful portal (Osseous)",
   "ambient": 0,
   "actions": [
     "Enter",
@@ -15,7 +15,7 @@
     null
   ],
   "textures": {
-    "11897": 17410,
+    "11897": 18233,
     "11899": 11905,
     "11900": 11904
   },

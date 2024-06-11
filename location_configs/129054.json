@@ -1,0 +1,22 @@
+{
+  "id": 129054,
+  "models": {
+    "10": [
+      129492,
+      133028
+    ]
+  },
+  "name": "Pedestal (greater communion)",
+  "unknown_19": 1,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "textures": {
+    "16573": 16572
+  },
+  "occludes_2": false
+}

@@ -2,11 +2,12 @@
   "id": 4617,
   "models": {
     "10": [
-      1263
+      121250,
+      121251
     ]
   },
   "name": "Bookcase",
-  "dim_y": 2,
+  "dim_x": 2,
   "actions": [
     "Search",
     null,

@@ -2,7 +2,7 @@
   "id": 104350,
   "models": {
     "10": [
-      124542
+      133209
     ]
   },
   "name": "Evergreen",
@@ -19,9 +19,6 @@
     null
   ],
   "model": false,
-  "scale_x": 100,
-  "scale_y": 100,
-  "scale_z": 100,
   "unknown_81": 42,
   "mapscene": 0,
   "occludes_2": false,
@@ -34,5 +31,6 @@
     null,
     null
   ],
-  "unknown_196": 2
+  "unknown_196": 2,
+  "unknown_203": true
 }

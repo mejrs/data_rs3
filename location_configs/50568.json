@@ -2,12 +2,13 @@
   "id": 50568,
   "models": {
     "10": [
-      52070
+      133312
     ]
   },
   "name": "Staircase",
+  "dim_x": 3,
+  "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
   "actions": [
     "Climb-down",
     null,
@@ -15,7 +16,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "model": false,
   "unknown_88": false,
   "occludes_2": false,

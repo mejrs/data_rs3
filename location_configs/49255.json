@@ -1,30 +1,23 @@
 {
   "id": 49255,
   "models": {
-    "18": [
-      52157
+    "0": [
+      2214
+    ],
+    "2": [
+      4873
+    ],
+    "3": [
+      71602
+    ],
+    "9": [
+      2215
     ]
   },
-  "name": "Free-for-all barrier",
+  "unknown_17": false,
+  "unknown_19": 0,
   "unknown_21": true,
-  "unknown_27": false,
   "ambient": 20,
-  "actions": [
-    "Pass-through",
-    null,
-    null,
-    null,
-    null
-  ],
   "contrast": 25,
-  "unknown_75": 0,
-  "occludes_2": false,
-  "cursors": [
-    57,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_75": 0
 }

@@ -11,6 +11,9 @@
   "unknown_19": 0,
   "ambient": 25,
   "contrast": 15,
+  "textures": {
+    "1892": 15081
+  },
   "mirror": true,
   "model": false,
   "translate_y": 240,

@@ -1,0 +1,28 @@
+{
+  "id": 130292,
+  "models": {
+    "10": [
+      102236
+    ]
+  },
+  "name": "Imposing door",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

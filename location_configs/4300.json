@@ -2,12 +2,11 @@
   "id": 4300,
   "models": {
     "10": [
-      2143
+      74102
     ]
   },
   "name": "Crate",
   "is_transparent": true,
-  "ambient": 25,
   "actions": [
     "Search",
     null,
@@ -15,7 +14,9 @@
     null,
     null
   ],
-  "contrast": 25,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
   "occludes_2": false,
   "cursors": [
     56,

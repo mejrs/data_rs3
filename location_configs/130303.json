@@ -1,0 +1,45 @@
+{
+  "id": 130303,
+  "models": {
+    "10": [
+      4770
+    ]
+  },
+  "name": "Aged journal",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5018,
+      56724
+    ],
+    [
+      61,
+      3858
+    ],
+    [
+      10351,
+      61
+    ]
+  ],
+  "model": false,
+  "translate_y": 65510,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

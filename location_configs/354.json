@@ -2,9 +2,12 @@
   "id": 354,
   "models": {
     "10": [
-      2141
+      74103
     ]
   },
   "name": "Crate",
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
   "occludes_2": false
 }

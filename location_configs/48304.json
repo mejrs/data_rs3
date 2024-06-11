@@ -37,6 +37,9 @@
       25
     ]
   ],
+  "textures": {
+    "1892": 15081
+  },
   "mapscene": 71,
   "occludes_2": false
 }

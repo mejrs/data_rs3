@@ -2,7 +2,7 @@
   "id": 30061,
   "models": {
     "10": [
-      32772
+      133171
     ]
   },
   "name": "Cave entrance",
@@ -17,6 +17,12 @@
     null,
     null,
     null
+  ],
+  "colours": [
+    [
+      28058,
+      38292
+    ]
   ],
   "model": false,
   "unknown_69": 11,

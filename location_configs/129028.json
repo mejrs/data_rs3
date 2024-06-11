@@ -1,0 +1,20 @@
+{
+  "id": 129028,
+  "models": {
+    "10": [
+      131029,
+      131030
+    ]
+  },
+  "name": "Ancient ritual platform",
+  "unknown_19": 1,
+  "actions": [
+    "Repair platform",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

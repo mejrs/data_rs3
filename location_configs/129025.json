@@ -1,0 +1,19 @@
+{
+  "id": 129025,
+  "models": {
+    "10": [
+      131068
+    ]
+  },
+  "name": "Ancient ritual pedestal",
+  "unknown_19": 1,
+  "actions": [
+    "Repair pedestal",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

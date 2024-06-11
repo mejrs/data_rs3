@@ -6,7 +6,7 @@
     ]
   },
   "name": "Hole",
-  "ambient": 30,
+  "ambient": 15,
   "actions": [
     "Inspect",
     null,
@@ -14,7 +14,7 @@
     null,
     null
   ],
-  "contrast": 30,
+  "contrast": 10,
   "colours": [
     [
       8656,
@@ -38,7 +38,7 @@
     ]
   ],
   "textures": {
-    "1830": 1890
+    "1830": 15081
   },
   "occludes_2": false
 }

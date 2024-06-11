@@ -1,0 +1,54 @@
+{
+  "id": 129007,
+  "models": {
+    "10": [
+      133017
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 4,
+  "dim_y": 9,
+  "unknown_17": false,
+  "ambient": 0,
+  "actions": [
+    "Climb down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      64692,
+      32948
+    ],
+    [
+      64809,
+      31916
+    ],
+    [
+      64799,
+      31910
+    ]
+  ],
+  "textures": {
+    "11309": 17143,
+    "11310": 12871,
+    "11314": 12875
+  },
+  "model": false,
+  "scale_x": 65,
+  "scale_y": 65,
+  "scale_z": 65,
+  "translate_y": 126,
+  "occludes_2": false,
+  "cursors": [
+    53,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

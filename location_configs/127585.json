@@ -7,7 +7,6 @@
   },
   "name": "Mysterious device",
   "unknown_17": false,
-  "unknown_19": 1,
   "ambient": 0,
   "actions": [
     "Inspect",

@@ -10,7 +10,7 @@
   "name": "Rowboat",
   "unknown_24": 31436,
   "actions": [
-    "Interact",
+    "Leave",
     null,
     null,
     null,
@@ -35,5 +35,13 @@
   },
   "occludes_2": false,
   "unknown_104": 110,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
   "unknown_196": 3
 }

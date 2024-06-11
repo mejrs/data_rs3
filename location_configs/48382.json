@@ -7,10 +7,16 @@
   },
   "is_transparent": true,
   "unknown_19": 0,
-  "unknown_21": true,
   "unknown_24": 13390,
   "ambient": 15,
   "contrast": 10,
+  "unknown_78": {
+    "unknown_1": 3551,
+    "unknown_2": 3
+  },
   "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_1": 235,
+  "unknown_2": 265,
   "unknown_196": 0
 }

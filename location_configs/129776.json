@@ -15,7 +15,21 @@
     null,
     null
   ],
+  "unknown_79": {
+    "unknown_1": 400,
+    "unknown_2": 500,
+    "unknown_3": 6,
+    "values": [
+      57169,
+      57170,
+      57171,
+      57172
+    ]
+  },
   "occludes_2": false,
+  "unknown_104": 120,
+  "unknown_1": 245,
+  "unknown_2": 265,
   "cursors": [
     45,
     null,
@@ -24,5 +38,21 @@
     null,
     null
   ],
-  "unknown_196": 2
+  "unknown_196": 2,
+  "unknown_204": [
+    {
+      "id": 61,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        1117126656,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

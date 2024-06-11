@@ -1,0 +1,23 @@
+{
+  "id": 129955,
+  "models": {
+    "10": [
+      133171
+    ]
+  },
+  "name": "Hole",
+  "dim_x": 4,
+  "dim_y": 2,
+  "ambient": 20,
+  "colours": [
+    [
+      28058,
+      38292
+    ]
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_88": false,
+  "occludes_2": false
+}

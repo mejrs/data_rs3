@@ -2,13 +2,21 @@
   "id": 119684,
   "models": {
     "10": [
-      121842
+      131070,
+      131074
     ]
   },
-  "name": "Teleportation device",
   "unknown_17": false,
-  "unknown_19": 1,
+  "unknown_19": 0,
   "ambient": 0,
+  "colours": [
+    [
+      42106,
+      37977
+    ]
+  ],
   "model": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4
 }

@@ -7,6 +7,16 @@
   },
   "unknown_19": 0,
   "unknown_22": true,
+  "colours": [
+    [
+      5413,
+      5166
+    ],
+    [
+      5396,
+      5166
+    ]
+  ],
   "mirror": true,
   "occludes_2": false
 }

@@ -2,34 +2,15 @@
   "id": 45284,
   "models": {
     "10": [
-      8232,
-      9530
+      113426
     ]
   },
   "name": "Barrel of fish",
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      5784,
-      5392
-    ],
-    [
-      5660,
-      5396
-    ],
-    [
-      5665,
-      5394
-    ],
-    [
-      5541,
-      5400
-    ]
-  ],
-  "unknown_44": 60,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

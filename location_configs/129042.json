@@ -1,0 +1,19 @@
+{
+  "id": 129042,
+  "models": {
+    "10": [
+      129486,
+      133028
+    ]
+  },
+  "name": "Pedestal (lesser communion)",
+  "unknown_19": 1,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "occludes_2": false
+}

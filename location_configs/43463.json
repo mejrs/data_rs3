@@ -9,6 +9,10 @@
   "dim_x": 2,
   "is_transparent": true,
   "unknown_24": 5686,
+  "textures": {
+    "1892": 14066,
+    "1894": 14066
+  },
   "unknown_69": 13,
   "mapscene": 71,
   "occludes_2": false,

@@ -9,7 +9,7 @@
   "is_transparent": true,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 30,
+  "ambient": 15,
   "actions": [
     "Search",
     "Attack",
@@ -17,13 +17,16 @@
     null,
     null
   ],
-  "contrast": 30,
+  "contrast": 10,
   "colours": [
     [
       6798,
       43131
     ]
   ],
+  "textures": {
+    "2367": 15081
+  },
   "scale_x": 76,
   "scale_y": 48,
   "scale_z": 76,

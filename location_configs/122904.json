@@ -15,5 +15,6 @@
   "scale_x": 200,
   "scale_y": 200,
   "scale_z": 200,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 4
 }

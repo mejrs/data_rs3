@@ -2,10 +2,13 @@
   "id": 602,
   "models": {
     "10": [
-      1289
+      47555
     ]
   },
   "name": "Table",
   "is_transparent": true,
+  "scale_x": 100,
+  "scale_y": 155,
+  "scale_z": 100,
   "occludes_2": false
 }

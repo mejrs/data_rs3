@@ -2,12 +2,15 @@
   "id": 4328,
   "models": {
     "10": [
-      64860
+      128439
     ]
   },
   "name": "Tree stump",
   "is_transparent": true,
   "unknown_21": true,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "mapscene": 6,
   "occludes_2": false,
   "unknown_196": 1

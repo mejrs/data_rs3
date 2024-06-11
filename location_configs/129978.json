@@ -1,0 +1,33 @@
+{
+  "id": 129978,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Roots",
+  "dim_y": 6,
+  "actions": [
+    "Cross",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 600,
+  "scale_y": 70,
+  "scale_z": 120,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

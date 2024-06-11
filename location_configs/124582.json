@@ -7,6 +7,21 @@
   },
   "name": "Agility shortcut",
   "dim_y": 6,
+  "actions": [
+    "Use",
+    null,
+    null,
+    null,
+    null
+  ],
   "unknown_69": 10,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

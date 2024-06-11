@@ -1,0 +1,19 @@
+{
+  "id": 129056,
+  "models": {
+    "10": [
+      129488,
+      133028
+    ]
+  },
+  "name": "Pedestal (powerful communion)",
+  "unknown_19": 1,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "occludes_2": false
+}
