@@ -1,0 +1,30 @@
+{
+  "id": 130327,
+  "models": {
+    "10": [
+      133560
+    ]
+  },
+  "name": "Deck chair",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Sit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      34478,
+      23215
+    ]
+  ],
+  "textures": {
+    "18394": 18395
+  },
+  "model": false,
+  "occludes_2": false
+}

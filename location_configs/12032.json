@@ -2,13 +2,16 @@
   "id": 12032,
   "models": {
     "10": [
-      9299
+      128282,
+      133599
     ]
   },
   "name": "Rock wall",
+  "dim_x": 4,
+  "dim_y": 4,
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15,
-  "translate_y": 120,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
   "occludes_2": false
 }

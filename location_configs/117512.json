@@ -17,6 +17,10 @@
     null,
     null
   ],
+  "textures": {
+    "8897": 14485,
+    "8906": 14495
+  },
   "model": false,
   "unknown_81": 80,
   "occludes_2": false

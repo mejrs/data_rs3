@@ -2,16 +2,16 @@
   "id": 97388,
   "models": {
     "10": [
-      104220
+      133558
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
-  "textures": {
-    "5424": 11180
-  },
   "model": false,
+  "scale_x": 50,
+  "scale_y": 50,
+  "scale_z": 50,
   "unknown_88": false,
   "occludes_2": false
 }

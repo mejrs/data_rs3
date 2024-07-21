@@ -2,16 +2,16 @@
   "id": 117499,
   "models": {
     "10": [
-      104415,
-      104416,
+      133561,
+      133562,
+      133563,
       115137
     ]
   },
   "name": "Archaeology portal",
   "dim_y": 2,
-  "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Enter",
     null,
@@ -30,5 +30,6 @@
     null,
     null,
     null
-  ]
+  ],
+  "unknown_196": 4
 }

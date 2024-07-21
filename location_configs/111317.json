@@ -19,6 +19,7 @@
   ],
   "model": false,
   "scale_x": 230,
+  "scale_y": 230,
   "scale_z": 230,
   "unknown_88": false,
   "occludes_2": false
