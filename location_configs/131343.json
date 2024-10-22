@@ -1,0 +1,19 @@
+{
+  "id": 131343,
+  "models": {
+    "10": [
+      85098,
+      134773
+    ]
+  },
+  "name": "Dead tree",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 55,
+  "scale_y": 55,
+  "scale_z": 55,
+  "mapscene": 6,
+  "occludes_2": false,
+  "unknown_196": 4
+}

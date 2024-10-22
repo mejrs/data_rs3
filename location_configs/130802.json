@@ -1,0 +1,76 @@
+{
+  "id": 130802,
+  "models": {
+    "10": [
+      74154,
+      74198,
+      73986
+    ]
+  },
+  "name": "Bathus rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32536,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      17
+    ],
+    [
+      3135,
+      17
+    ],
+    [
+      3127,
+      23
+    ],
+    [
+      2109,
+      11
+    ],
+    [
+      3143,
+      19
+    ],
+    [
+      54994,
+      34866
+    ],
+    [
+      54858,
+      34854
+    ],
+    [
+      54991,
+      34857
+    ],
+    [
+      54856,
+      35862
+    ]
+  ],
+  "textures": {
+    "322": 10867,
+    "1304": 19026
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

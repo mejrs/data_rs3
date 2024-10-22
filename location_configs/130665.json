@@ -1,0 +1,28 @@
+{
+  "id": 130665,
+  "models": {
+    "10": [
+      133886
+    ]
+  },
+  "name": "Stairs",
+  "dim_x": 6,
+  "dim_y": 8,
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Exit",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    null,
+    57,
+    null,
+    null,
+    null,
+    null
+  ]
+}

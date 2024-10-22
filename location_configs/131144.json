@@ -1,0 +1,16 @@
+{
+  "id": 131144,
+  "models": {
+    "10": [
+      87868
+    ]
+  },
+  "name": "Wheelbarrow",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

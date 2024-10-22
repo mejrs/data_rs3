@@ -1,0 +1,74 @@
+{
+  "id": 130786,
+  "models": {
+    "10": [
+      73994,
+      74054,
+      73987
+    ]
+  },
+  "name": "Argonite rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      2346
+    ],
+    [
+      3135,
+      3366
+    ],
+    [
+      3127,
+      3359
+    ],
+    [
+      2109,
+      2341
+    ],
+    [
+      3143,
+      2221
+    ],
+    [
+      54994,
+      42270
+    ],
+    [
+      54858,
+      42263
+    ],
+    [
+      54991,
+      42268
+    ],
+    [
+      54856,
+      42255
+    ]
+  ],
+  "textures": {
+    "322": 10865,
+    "1304": 19024
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

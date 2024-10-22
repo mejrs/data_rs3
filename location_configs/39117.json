@@ -2,40 +2,18 @@
   "id": 39117,
   "models": {
     "10": [
-      42425
+      128330
     ]
   },
   "name": "Entrance",
   "dim_x": 3,
   "dim_y": 2,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 15,
-  "contrast": 15,
+  "unknown_19": 1,
+  "unknown_27": false,
   "colours": [
     [
-      35980,
-      8464
-    ],
-    [
-      35985,
-      8470
-    ],
-    [
-      35988,
-      8476
-    ],
-    [
-      35992,
-      8475
-    ],
-    [
-      1027,
-      8196
-    ],
-    [
-      13317,
-      8334
+      65408,
+      100
     ]
   ],
   "occludes_2": false

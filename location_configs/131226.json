@@ -1,0 +1,22 @@
+{
+  "id": 131226,
+  "models": {
+    "10": [
+      134672,
+      134674,
+      134675
+    ]
+  },
+  "name": "Fountain",
+  "dim_x": 9,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "12605": 19817,
+    "14479": 19762
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

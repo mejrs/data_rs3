@@ -1,0 +1,37 @@
+{
+  "id": 130989,
+  "models": {
+    "10": [
+      134245
+    ]
+  },
+  "name": "Cleansed shard of Elidinis",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      65471,
+      40896
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

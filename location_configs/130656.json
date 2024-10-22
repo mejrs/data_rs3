@@ -1,0 +1,23 @@
+{
+  "id": 130656,
+  "models": {
+    "10": [
+      106495
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "colours": [
+    [
+      28058,
+      26539
+    ]
+  ],
+  "model": false,
+  "scale_x": 800,
+  "scale_y": 300,
+  "scale_z": 800,
+  "occludes_2": false,
+  "unknown_186": 2,
+  "unknown_196": 4
+}

@@ -1,0 +1,47 @@
+{
+  "id": 131000,
+  "models": {
+    "10": [
+      134239,
+      134240
+    ]
+  },
+  "name": "Pillar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      22464,
+      16061
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_188": true,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4,
+  "unknown_1": 15872,
+  "unknown_2": 13360,
+  "unknown_3": 15872,
+  "unknown_4": 16896,
+  "unknown_5": 15884,
+  "unknown_6": 16896,
+  "unknown_203": true
+}

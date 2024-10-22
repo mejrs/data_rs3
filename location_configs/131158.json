@@ -1,0 +1,31 @@
+{
+  "id": 131158,
+  "models": {
+    "10": [
+      134537
+    ]
+  },
+  "name": "Haybale",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Sit on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6598,
+      6320
+    ]
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

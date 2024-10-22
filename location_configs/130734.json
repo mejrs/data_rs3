@@ -1,0 +1,26 @@
+{
+  "id": 130734,
+  "models": {
+    "10": [
+      15619
+    ]
+  },
+  "name": "Slab",
+  "unknown_19": 1,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

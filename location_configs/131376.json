@@ -1,0 +1,30 @@
+{
+  "id": 131376,
+  "models": {
+    "10": [
+      134658
+    ]
+  },
+  "name": "Gate obstacle",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump over",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

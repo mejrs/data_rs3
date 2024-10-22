@@ -1,0 +1,23 @@
+{
+  "id": 131360,
+  "models": {
+    "10": [
+      134618
+    ]
+  },
+  "name": "Summoning circle",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Summon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 4210
+}

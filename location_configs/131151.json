@@ -1,0 +1,23 @@
+{
+  "id": 131151,
+  "models": {
+    "10": [
+      132641
+    ]
+  },
+  "name": "Haybales",
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "colours": [
+    [
+      9658,
+      6320
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

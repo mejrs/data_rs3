@@ -1,0 +1,74 @@
+{
+  "id": 130803,
+  "models": {
+    "10": [
+      73989,
+      74113,
+      73987
+    ]
+  },
+  "name": "Marmaros rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      17
+    ],
+    [
+      3135,
+      17
+    ],
+    [
+      3127,
+      23
+    ],
+    [
+      2109,
+      11
+    ],
+    [
+      3143,
+      19
+    ],
+    [
+      54994,
+      5692
+    ],
+    [
+      54858,
+      5659
+    ],
+    [
+      54991,
+      5678
+    ],
+    [
+      54856,
+      5651
+    ]
+  ],
+  "textures": {
+    "322": 10867,
+    "1304": 19029
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

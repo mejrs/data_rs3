@@ -1,0 +1,19 @@
+{
+  "id": 131011,
+  "models": {
+    "10": [
+      76130
+    ]
+  },
+  "name": "Steps",
+  "dim_x": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_22": true,
+  "ambient": 25,
+  "contrast": 15,
+  "mirror": true,
+  "model": false,
+  "mapscene": 7,
+  "occludes_2": false
+}

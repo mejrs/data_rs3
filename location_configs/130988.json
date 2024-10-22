@@ -1,0 +1,51 @@
+{
+  "id": 130988,
+  "models": {
+    "10": [
+      134245
+    ]
+  },
+  "name": "Corrupt shard of Elidinis",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Transmute",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 57526,
+    "unknown_2": 8
+  },
+  "unknown_79": {
+    "unknown_1": 300,
+    "unknown_2": 1000,
+    "unknown_3": 8,
+    "values": [
+      57527,
+      57528,
+      57529,
+      57530,
+      57531,
+      57532
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 45,
+  "unknown_1": 245,
+  "unknown_2": 265,
+  "cursors": [
+    200,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

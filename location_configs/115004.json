@@ -9,7 +9,22 @@
   "unknown_19": 0,
   "ambient": 0,
   "model": false,
-  "unknown_98": true,
   "occludes_2": false,
-  "unknown_186": 2
+  "unknown_186": 2,
+  "unknown_204": [
+    {
+      "id": 27,
+      "some_bool": false,
+      "vec_1": [
+        1073741824,
+        1130823680,
+        3212836864
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

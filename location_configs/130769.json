@@ -1,0 +1,76 @@
+{
+  "id": 130769,
+  "models": {
+    "10": [
+      74154,
+      74198,
+      73986
+    ]
+  },
+  "name": "Novite rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32536,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      2346
+    ],
+    [
+      3135,
+      3366
+    ],
+    [
+      3127,
+      3359
+    ],
+    [
+      2109,
+      2341
+    ],
+    [
+      3143,
+      2221
+    ],
+    [
+      54994,
+      51504
+    ],
+    [
+      54858,
+      51478
+    ],
+    [
+      54991,
+      51495
+    ],
+    [
+      54856,
+      51343
+    ]
+  ],
+  "textures": {
+    "322": 10865,
+    "1304": 19030
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

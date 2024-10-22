@@ -1,0 +1,19 @@
+{
+  "id": 130880,
+  "models": {
+    "10": [
+      133455
+    ]
+  },
+  "name": "Plant vase",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      16335,
+      60312
+    ]
+  ],
+  "occludes_2": false
+}

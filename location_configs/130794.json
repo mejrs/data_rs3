@@ -1,0 +1,74 @@
+{
+  "id": 130794,
+  "models": {
+    "10": [
+      73989,
+      73999,
+      73987
+    ]
+  },
+  "name": "Promethium rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      2346
+    ],
+    [
+      3135,
+      3366
+    ],
+    [
+      3127,
+      3359
+    ],
+    [
+      2109,
+      2341
+    ],
+    [
+      3143,
+      2221
+    ],
+    [
+      54994,
+      304
+    ],
+    [
+      54858,
+      283
+    ],
+    [
+      54991,
+      295
+    ],
+    [
+      54856,
+      275
+    ]
+  ],
+  "textures": {
+    "322": 10865,
+    "1304": 19023
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

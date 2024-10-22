@@ -1,0 +1,21 @@
+{
+  "id": 131152,
+  "models": {
+    "10": [
+      132643
+    ]
+  },
+  "name": "Haybale",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "colours": [
+    [
+      9658,
+      6320
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -2,16 +2,16 @@
   "id": 123743,
   "models": {
     "10": [
-      104415,
-      104416,
+      133561,
+      133562,
+      133563,
       115137
     ]
   },
   "name": "Senntisten portal",
   "dim_y": 2,
-  "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Enter",
     null,
@@ -20,7 +20,8 @@
     null
   ],
   "textures": {
-    "1304": 6704
+    "1304": 6704,
+    "8906": 14495
   },
   "occludes_2": false,
   "cursors": [
@@ -30,5 +31,6 @@
     null,
     null,
     null
-  ]
+  ],
+  "unknown_196": 4
 }

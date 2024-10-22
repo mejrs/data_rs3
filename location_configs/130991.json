@@ -1,0 +1,37 @@
+{
+  "id": 130991,
+  "models": {
+    "10": [
+      134225
+    ]
+  },
+  "name": "Moonstone",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Gather",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      64,
+      33746
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

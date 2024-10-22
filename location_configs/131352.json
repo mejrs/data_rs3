@@ -1,0 +1,26 @@
+{
+  "id": 131352,
+  "models": {
+    "10": [
+      134602
+    ]
+  },
+  "name": "Mausoleum",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      31528,
+      55081
+    ]
+  ],
+  "textures": {
+    "16682": 19799
+  },
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 4213,
+  "unknown_196": 4
+}

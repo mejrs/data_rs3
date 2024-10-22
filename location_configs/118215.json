@@ -2,15 +2,14 @@
   "id": 118215,
   "models": {
     "10": [
-      114014,
-      113998,
-      120675
+      120162
     ]
   },
   "name": "Event noticeboard",
   "unknown_19": 1,
   "unknown_24": 29617,
   "unknown_27": false,
+  "ambient": 25,
   "actions": [
     "View",
     "Teleport",
@@ -18,8 +17,31 @@
     null,
     null
   ],
-  "occludes_2": false,
-  "params": {
-    "6136": "Something spooky is happening at the grounds of Draynor Manor! Go there to find out what Death is up to!"
-  }
+  "contrast": 15,
+  "colours": [
+    [
+      9428,
+      20399
+    ],
+    [
+      12248,
+      65469
+    ],
+    [
+      8768,
+      20399
+    ],
+    [
+      8112,
+      65469
+    ],
+    [
+      4028,
+      20399
+    ]
+  ],
+  "textures": {
+    "9178": 9479
+  },
+  "occludes_2": false
 }

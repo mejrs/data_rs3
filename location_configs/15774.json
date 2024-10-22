@@ -1,10 +1,13 @@
 {
   "id": 15774,
-  "models": {
-    "10": [
-      15619
-    ]
-  },
-  "name": "Slab",
-  "occludes_2": false
+  "unknown_19": 1,
+  "morphs_2": {
+    "varbit": 55912,
+    "ids": [
+      130732,
+      130733,
+      130734
+    ],
+    "default": 130732
+  }
 }

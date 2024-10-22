@@ -1,0 +1,60 @@
+{
+  "id": 131351,
+  "models": {
+    "10": [
+      134603,
+      134604
+    ]
+  },
+  "name": "Mausoleum",
+  "dim_x": 5,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Loot",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      31528,
+      25385
+    ],
+    [
+      28058,
+      27943
+    ]
+  ],
+  "textures": {
+    "1304": 1424,
+    "16682": 16683
+  },
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 976,
+    "unknown_2": 20
+  },
+  "occludes_2": false,
+  "unknown_104": 210,
+  "mapfunction": 4213,
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 23,
+      "some_bool": false,
+      "vec_1": [
+        1145569280,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

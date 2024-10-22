@@ -1,0 +1,19 @@
+{
+  "id": 130706,
+  "models": {
+    "10": [
+      133840
+    ]
+  },
+  "name": "Hieroglyph (Tumeken)",
+  "unknown_17": false,
+  "colours": [
+    [
+      27584,
+      26714
+    ]
+  ],
+  "translate_y": 65408,
+  "occludes_2": false,
+  "unknown_196": 4
+}

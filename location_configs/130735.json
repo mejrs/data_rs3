@@ -1,0 +1,27 @@
+{
+  "id": 130735,
+  "models": {
+    "10": [
+      72591
+    ]
+  },
+  "name": "Imcando anvil",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Smith",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    63,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

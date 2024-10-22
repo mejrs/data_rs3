@@ -27,14 +27,14 @@
   "unknown_88": false,
   "is_members": true,
   "occludes_2": false,
-  "unknown_104": 64,
+  "unknown_104": 200,
   "unknown_160": {
     "values": [
       489
     ]
   },
-  "unknown_1": 240,
-  "unknown_2": 260,
+  "unknown_1": 400,
+  "unknown_2": 401,
   "unknown_188": true,
   "unknown_204": [
     {

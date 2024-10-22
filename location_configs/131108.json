@@ -1,0 +1,18 @@
+{
+  "id": 131108,
+  "models": {
+    "10": [
+      134553,
+      134554
+    ]
+  },
+  "name": "Frank's caravan",
+  "dim_x": 4,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

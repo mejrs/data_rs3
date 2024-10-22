@@ -1,0 +1,34 @@
+{
+  "id": 131107,
+  "models": {
+    "10": [
+      134556
+    ]
+  },
+  "name": "Cauldron",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "11663": 19750
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

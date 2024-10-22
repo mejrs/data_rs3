@@ -1,0 +1,30 @@
+{
+  "id": 130981,
+  "models": {
+    "10": [
+      134244
+    ]
+  },
+  "name": "Depleted shard of Elidinis",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": -20,
+  "colours": [
+    [
+      65471,
+      46127
+    ]
+  ],
+  "textures": {
+    "19345": 16680
+  },
+  "model": false,
+  "scale_x": 176,
+  "scale_y": 176,
+  "scale_z": 176,
+  "translate_z": 25,
+  "occludes_2": false,
+  "unknown_196": 4
+}

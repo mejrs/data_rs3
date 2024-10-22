@@ -1,0 +1,30 @@
+{
+  "id": 131176,
+  "models": {
+    "10": [
+      133463,
+      133464,
+      133467
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "textures": {
+    "11404": 19818,
+    "12605": 19816,
+    "12607": 19816,
+    "14479": 19760,
+    "18350": 19751
+  },
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 4062,
+    "unknown_2": 4
+  },
+  "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_1": 245,
+  "unknown_2": 265,
+  "unknown_178": 3,
+  "unknown_186": 2
+}

@@ -1,0 +1,34 @@
+{
+  "id": 131349,
+  "models": {
+    "10": [
+      87832,
+      87824
+    ]
+  },
+  "name": "Bench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Sit on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      23313,
+      52758
+    ]
+  ],
+  "textures": {
+    "12075": 19749
+  },
+  "model": false,
+  "unknown_69": 11,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

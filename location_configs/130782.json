@@ -1,0 +1,74 @@
+{
+  "id": 130782,
+  "models": {
+    "10": [
+      73989,
+      73999,
+      73987
+    ]
+  },
+  "name": "Zephyrium rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_24": 32535,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      2116,
+      2346
+    ],
+    [
+      3135,
+      3366
+    ],
+    [
+      3127,
+      3359
+    ],
+    [
+      2109,
+      2341
+    ],
+    [
+      3143,
+      2221
+    ],
+    [
+      54994,
+      10678
+    ],
+    [
+      54858,
+      10664
+    ],
+    [
+      54991,
+      10672
+    ],
+    [
+      54856,
+      10658
+    ]
+  ],
+  "textures": {
+    "322": 10865,
+    "1304": 19022
+  },
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

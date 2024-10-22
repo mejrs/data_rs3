@@ -8,6 +8,7 @@
   },
   "name": "Material cache (goldrune)",
   "unknown_21": true,
+  "ambient": 32,
   "actions": [
     "Excavate",
     null,
@@ -15,6 +16,9 @@
     "Survey",
     null
   ],
+  "textures": {
+    "12338": 12345
+  },
   "occludes_2": false,
   "cursors": [
     2,
