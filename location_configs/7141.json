@@ -2,13 +2,12 @@
   "id": 7141,
   "models": {
     "4": [
-      7457
+      135829
     ]
   },
   "name": "Blood rift",
   "unknown_19": 1,
   "unknown_24": 2178,
-  "ambient": 50,
   "actions": [
     "Exit-through",
     null,
@@ -16,12 +15,8 @@
     null,
     null
   ],
-  "contrast": 50,
-  "colours": [
-    [
-      38848,
-      65474
-    ]
-  ],
+  "textures": {
+    "20812": 20813
+  },
   "occludes_2": false
 }

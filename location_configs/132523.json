@@ -1,0 +1,22 @@
+{
+  "id": 132523,
+  "models": {
+    "4": [
+      135840
+    ]
+  },
+  "name": "Time rift (unanchored)",
+  "unknown_19": 1,
+  "unknown_24": 2178,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "20812": 20813
+  },
+  "occludes_2": false
+}

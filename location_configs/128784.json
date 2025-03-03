@@ -1,12 +1,12 @@
 {
   "id": 128784,
-  "models": {
-    "22": [
-      1105
+  "unknown_19": 1,
+  "unknown_27": false,
+  "morphs_1": {
+    "varbit": 56939,
+    "ids": [
+      null,
+      128786
     ]
-  },
-  "unknown_73": true,
-  "occludes_2": false,
-  "mapfunction": 4168,
-  "unknown_198": true
+  }
 }

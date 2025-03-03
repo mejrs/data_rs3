@@ -1,0 +1,28 @@
+{
+  "id": 131507,
+  "models": {
+    "10": [
+      134937
+    ]
+  },
+  "name": "Log Bench",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Sit on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 7,
+  "translate_x": 10,
+  "translate_y": 0,
+  "translate_z": 0,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

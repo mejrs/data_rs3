@@ -1,0 +1,18 @@
+{
+  "id": 132069,
+  "models": {
+    "10": [
+      118385
+    ]
+  },
+  "name": "Acadia tree",
+  "unknown_19": 1,
+  "unknown_24": 5773,
+  "unknown_27": false,
+  "ambient": 10,
+  "contrast": 10,
+  "unknown_81": 40,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_189": true
+}

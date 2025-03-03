@@ -8,7 +8,6 @@
   "unknown_19": 0,
   "unknown_21": true,
   "ambient": 25,
-  "contrast": 15,
   "colours": [
     [
       21530,
@@ -30,5 +29,8 @@
       21547,
       1806
     ]
-  ]
+  ],
+  "textures": {
+    "2343": 2367
+  }
 }

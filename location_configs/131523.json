@@ -1,0 +1,43 @@
+{
+  "id": 131523,
+  "models": {
+    "10": [
+      134977
+    ]
+  },
+  "name": "Tree",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17691,
+      3887
+    ]
+  ],
+  "textures": {
+    "9236": 9235,
+    "9256": 9257
+  },
+  "model": false,
+  "unknown_81": 80,
+  "is_members": true,
+  "mapscene": 0,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

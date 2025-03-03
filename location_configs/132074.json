@@ -1,0 +1,12 @@
+{
+  "id": 132074,
+  "models": {
+    "10": [
+      122937
+    ]
+  },
+  "name": "Barricade",
+  "dim_x": 2,
+  "dim_y": 6,
+  "occludes_2": false
+}

@@ -2,14 +2,13 @@
   "id": 66847,
   "models": {
     "10": [
-      35892
+      135348
     ]
   },
   "name": "Pottery Oven",
   "dim_y": 3,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Use",
     null,
@@ -17,7 +16,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "unknown_78": {
     "unknown_1": 4969,
     "unknown_2": 5

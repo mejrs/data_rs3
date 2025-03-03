@@ -1,0 +1,15 @@
+{
+  "id": 131497,
+  "models": {
+    "10": [
+      134935
+    ]
+  },
+  "name": "Empty armour stand",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "12727": 12806
+  },
+  "occludes_2": false
+}

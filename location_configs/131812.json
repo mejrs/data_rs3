@@ -1,0 +1,38 @@
+{
+  "id": 131812,
+  "models": {
+    "10": [
+      135264,
+      135265
+    ]
+  },
+  "name": "Log splitting stump",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Split logs",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      64,
+      36537
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

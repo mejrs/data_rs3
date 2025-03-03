@@ -1,0 +1,29 @@
+{
+  "id": 131811,
+  "models": {
+    "10": [
+      135271
+    ]
+  },
+  "name": "Fir",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "textures": {
+    "2637": 12356,
+    "2653": 12356,
+    "2665": 12356
+  },
+  "scale_x": 110,
+  "scale_y": 110,
+  "scale_z": 110,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "unknown_196": 4
+}

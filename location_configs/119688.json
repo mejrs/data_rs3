@@ -11,10 +11,10 @@
   "unknown_22": true,
   "actions": [
     "Climb down",
-    "Uninstanced encounter",
-    "Instanced encounter",
-    "Join instance",
-    "Rejoin last instance"
+    "Public encounter",
+    "Private encounter",
+    "Join private encounter",
+    "Rejoin last private encounter"
   ],
   "model": false,
   "mapscene": 7,

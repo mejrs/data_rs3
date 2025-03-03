@@ -13,9 +13,9 @@
   "unknown_27": false,
   "ambient": 20,
   "actions": [
-    "Craft-rune",
+    "Craft",
     null,
-    null,
+    "Configure",
     null,
     null
   ],
@@ -27,7 +27,7 @@
   "unknown_88": false,
   "occludes_2": false,
   "cursors": [
-    66,
+    62,
     null,
     null,
     null,

@@ -1,12 +1,16 @@
 {
   "id": 128786,
   "models": {
-    "22": [
-      1105
+    "10": [
+      120996
     ]
   },
-  "unknown_73": true,
+  "name": "Christmas tree",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
   "occludes_2": false,
-  "mapfunction": 4162,
-  "unknown_198": true
+  "unknown_196": 2
 }

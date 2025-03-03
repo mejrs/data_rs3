@@ -31,5 +31,8 @@
       901
     ]
   ],
+  "textures": {
+    "1444": 14226
+  },
   "occludes_2": false
 }

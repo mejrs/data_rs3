@@ -1,0 +1,14 @@
+{
+  "id": 131591,
+  "models": {
+    "10": [
+      86691
+    ]
+  },
+  "name": "Dead smuggler",
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "occludes_2": false
+}

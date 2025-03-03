@@ -18,5 +18,13 @@
   ],
   "model": false,
   "unknown_89": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    205,
+    205,
+    null,
+    null,
+    null,
+    null
+  ]
 }

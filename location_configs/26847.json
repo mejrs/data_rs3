@@ -2,25 +2,31 @@
   "id": 26847,
   "models": {
     "10": [
-      69575
+      135720,
+      135722
     ]
   },
   "name": "Runecrafting altar",
   "dim_x": 3,
   "dim_y": 3,
   "unknown_19": 1,
-  "ambient": 15,
   "actions": [
-    "Craft-rune",
+    "Use",
     null,
-    null,
-    null,
-    null
+    "Craft runes",
+    "Ascend weapons",
+    "Configure"
+  ],
+  "colours": [
+    [
+      22464,
+      39884
+    ]
   ],
   "unknown_73": true,
   "occludes_2": false,
   "cursors": [
-    66,
+    46,
     null,
     null,
     null,

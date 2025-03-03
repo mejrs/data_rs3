@@ -1,0 +1,16 @@
+{
+  "id": 132407,
+  "models": {
+    "10": [
+      135779
+    ]
+  },
+  "name": "Campsite",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

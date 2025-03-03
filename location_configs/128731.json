@@ -4,7 +4,7 @@
     "10": [
       132125,
       132126,
-      132127
+      135194
     ]
   },
   "name": "Christmas Spirit Shop stock",
@@ -15,5 +15,35 @@
   "ambient": 0,
   "model": false,
   "occludes_2": false,
-  "unknown_196": 4
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 557,
+      "some_bool": false,
+      "vec_1": [
+        1122214556,
+        1125797499,
+        1135808128
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 556,
+      "some_bool": false,
+      "vec_1": [
+        1095085127,
+        1133125619,
+        1131385989
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

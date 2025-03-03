@@ -2,17 +2,16 @@
   "id": 112904,
   "models": {
     "10": [
-      42160,
-      42167
+      135405,
+      135415
     ]
   },
   "name": "Crashed star",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "unknown_24": 10351,
+  "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Mine",
     null,
@@ -20,8 +19,6 @@
     "Prospect",
     null
   ],
-  "contrast": 15,
-  "model": false,
   "unknown_89": false,
   "mapscene": 12,
   "occludes_2": false,

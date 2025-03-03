@@ -1,0 +1,14 @@
+{
+  "id": 131441,
+  "models": {
+    "10": [
+      134933,
+      134934
+    ]
+  },
+  "name": "Chicken coop",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false
+}

@@ -12,9 +12,9 @@
   "unknown_27": false,
   "actions": [
     "Take from",
-    null,
-    null,
-    null,
+    "Take 5",
+    "Take 10",
+    "Take all",
     null
   ],
   "occludes_2": false,

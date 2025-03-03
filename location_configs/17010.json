@@ -11,16 +11,16 @@
   "unknown_24": 503,
   "ambient": 40,
   "actions": [
-    "Craft-rune",
+    "Use",
     "Pray",
-    null,
-    null,
-    null
+    "Craft runes",
+    "Imbue weapons",
+    "Configure"
   ],
   "contrast": 40,
   "occludes_2": false,
   "cursors": [
-    66,
+    46,
     61,
     null,
     null,

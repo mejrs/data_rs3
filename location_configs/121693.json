@@ -12,9 +12,9 @@
   "actions": [
     "Enter",
     "Public encounter",
-    "Instanced encounter",
-    "Join instance",
-    "Rejoin last instance"
+    "Private encounter",
+    "Join private encounter",
+    "Rejoin last private encounter"
   ],
   "model": false,
   "scale_x": 120,

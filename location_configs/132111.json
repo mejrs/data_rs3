@@ -1,0 +1,20 @@
+{
+  "id": 132111,
+  "models": {
+    "10": [
+      125861
+    ]
+  },
+  "name": "War's Grimoire",
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Spellbook and Prayer Swap",
+    "Swap prayers",
+    "Swap spellbook",
+    null,
+    null
+  ],
+  "occludes_2": false
+}

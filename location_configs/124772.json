@@ -2,15 +2,13 @@
   "id": 124772,
   "models": {
     "10": [
-      42165,
-      42167
+      135411
     ]
   },
   "name": "Infernal star",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "unknown_24": 10351,
   "unknown_27": false,
   "ambient": 25,
   "actions": [
@@ -21,6 +19,27 @@
     null
   ],
   "contrast": 15,
+  "colours": [
+    [
+      44056,
+      63651
+    ],
+    [
+      54301,
+      46109
+    ],
+    [
+      44078,
+      40993
+    ],
+    [
+      36917,
+      59440
+    ]
+  ],
+  "textures": {
+    "20250": 20262
+  },
   "model": false,
   "unknown_89": false,
   "is_members": true,

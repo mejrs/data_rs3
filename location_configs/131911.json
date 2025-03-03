@@ -1,0 +1,21 @@
+{
+  "id": 131911,
+  "models": {
+    "10": [
+      87868,
+      124679
+    ]
+  },
+  "name": "Heedi's wheelbarrow",
+  "unknown_17": false,
+  "colours": [
+    [
+      12698,
+      4379
+    ]
+  ],
+  "textures": {
+    "14100": 10467
+  },
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 131428,
+  "models": {
+    "10": [
+      134923
+    ]
+  },
+  "name": "Outhouse",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

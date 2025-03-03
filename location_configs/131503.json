@@ -1,0 +1,26 @@
+{
+  "id": 131503,
+  "models": {
+    "10": [
+      134938
+    ]
+  },
+  "name": "Stool",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Sit on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 7,
+  "translate_x": 65506,
+  "translate_y": 0,
+  "translate_z": 0,
+  "unknown_75": 0,
+  "occludes_2": false
+}

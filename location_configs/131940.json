@@ -1,0 +1,33 @@
+{
+  "id": 131940,
+  "models": {
+    "10": [
+      135412,
+      135415
+    ]
+  },
+  "name": "Crashed star",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "unknown_89": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -10,10 +10,10 @@
   "ambient": 25,
   "actions": [
     "Open",
-    "Uninstanced encounter",
-    "Instanced encounter",
-    "Join instance",
-    "Rejoin last instance"
+    "Public encounter",
+    "Private encounter",
+    "Join private encounter",
+    "Rejoin last private encounter"
   ],
   "contrast": 15,
   "model": false,

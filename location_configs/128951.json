@@ -31,5 +31,10 @@
   },
   "unknown_98": true,
   "occludes_2": false,
-  "unknown_104": 40
+  "unknown_104": 40,
+  "unknown_160": {
+    "values": [
+      508
+    ]
+  }
 }

@@ -20,5 +20,21 @@
   },
   "unknown_98": true,
   "occludes_2": false,
-  "unknown_104": 100
+  "unknown_104": 100,
+  "unknown_204": [
+    {
+      "id": 65,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

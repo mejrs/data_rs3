@@ -1,0 +1,32 @@
+{
+  "id": 131498,
+  "models": {
+    "10": [
+      134935,
+      134939
+    ]
+  },
+  "name": "Group Ironman armour stand",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "12727": 12806,
+    "19877": 19873
+  },
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -14,10 +14,10 @@
   "ambient": 25,
   "actions": [
     "Enter lair",
-    "Uninstanced encounter",
-    "Instanced encounter",
-    "Join instance",
-    "Rejoin last instance"
+    "Public encounter",
+    "Private encounter",
+    "Join private encounter",
+    "Rejoin last private encounter"
   ],
   "translate_z": 65472,
   "occludes_2": false

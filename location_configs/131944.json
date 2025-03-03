@@ -1,0 +1,22 @@
+{
+  "id": 131944,
+  "models": {
+    "10": [
+      80282
+    ]
+  },
+  "name": "Telescope",
+  "dim_x": 4,
+  "dim_y": 3,
+  "ambient": 5,
+  "actions": [
+    "Observe",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_69": 14,
+  "occludes_2": false
+}

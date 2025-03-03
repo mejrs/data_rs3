@@ -1,0 +1,27 @@
+{
+  "id": 131897,
+  "models": {
+    "10": [
+      135359,
+      135360
+    ]
+  },
+  "name": "95% of 100% Luke's leg",
+  "unknown_19": 1,
+  "actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

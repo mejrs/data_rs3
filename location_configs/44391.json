@@ -2,13 +2,11 @@
   "id": 44391,
   "models": {
     "10": [
-      48243
+      135574
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "occludes_2": false
 }

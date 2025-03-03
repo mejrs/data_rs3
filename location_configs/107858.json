@@ -6,6 +6,7 @@
     ]
   },
   "name": "Stool",
+  "is_transparent": true,
   "unknown_27": false,
   "ambient": 0,
   "model": false,

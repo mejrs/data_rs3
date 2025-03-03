@@ -1,0 +1,27 @@
+{
+  "id": 132581,
+  "models": {
+    "10": [
+      125769
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_204": [
+    {
+      "id": 70,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

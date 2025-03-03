@@ -1,0 +1,35 @@
+{
+  "id": 132085,
+  "models": {
+    "10": [
+      135527,
+      135528
+    ]
+  },
+  "name": "Cavern dwellberry bush",
+  "actions": [
+    "Pick from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      14872,
+      22034
+    ],
+    [
+      8722,
+      8844
+    ],
+    [
+      6364,
+      41401
+    ]
+  ],
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "occludes_2": false
+}

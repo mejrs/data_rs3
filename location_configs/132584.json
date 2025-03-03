@@ -1,0 +1,63 @@
+{
+  "id": 132584,
+  "models": {
+    "10": [
+      135723,
+      135741
+    ]
+  },
+  "name": "Time altar",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_24": 503,
+  "unknown_27": false,
+  "actions": [
+    "Use",
+    null,
+    "Craft runes",
+    "Imbue weapons",
+    "Configure"
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    46,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 674,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 673,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

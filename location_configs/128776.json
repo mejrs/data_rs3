@@ -18,6 +18,10 @@
     null,
     null
   ],
+  "unknown_78": {
+    "unknown_1": 38056,
+    "unknown_2": 8
+  },
   "unknown_79": {
     "unknown_1": 250,
     "unknown_2": 750,
@@ -32,7 +36,8 @@
   },
   "unknown_98": true,
   "occludes_2": false,
-  "unknown_104": 150,
+  "unknown_104": 130,
+  "mapfunction": 5509,
   "unknown_1": 230,
   "unknown_2": 270,
   "unknown_178": 4,

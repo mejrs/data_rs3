@@ -1,0 +1,29 @@
+{
+  "id": 131454,
+  "models": {
+    "10": [
+      134956
+    ]
+  },
+  "name": "Plaque",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    "Group Ironman",
+    "Ironman",
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

@@ -5,9 +5,9 @@
       132136
     ]
   },
+  "name": "Snowman",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
-  "occludes_2": false,
-  "unknown_186": 2
+  "occludes_2": false
 }

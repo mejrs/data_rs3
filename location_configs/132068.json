@@ -1,0 +1,29 @@
+{
+  "id": 132068,
+  "models": {
+    "10": [
+      119015
+    ]
+  },
+  "name": "Torch",
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false,
+  "unknown_204": [
+    {
+      "id": 30,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        1147142144,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

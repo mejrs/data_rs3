@@ -18,11 +18,12 @@
   ],
   "unknown_69": 13,
   "occludes_2": false,
+  "mapfunction": 5531,
   "cursors": [
     205,
     null,
-    null,
-    null,
+    205,
+    205,
     null,
     null
   ]

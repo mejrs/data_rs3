@@ -6,7 +6,11 @@
     ]
   },
   "unknown_19": 0,
+  "unknown_21": true,
   "unknown_24": 2174,
   "ambient": 15,
+  "scale_x": 210,
+  "scale_y": 150,
+  "scale_z": 210,
   "occludes_2": false
 }

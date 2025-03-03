@@ -1,43 +1,21 @@
 {
   "id": 26844,
   "models": {
-    "9": [
-      28858
+    "10": [
+      135686
     ]
   },
   "name": "Crack",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
   "unknown_19": 1,
-  "unknown_21": true,
-  "ambient": 25,
   "actions": [
     "Squeeze-through",
     null,
     null,
     null,
     null
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      21530,
-      7054
-    ],
-    [
-      21534,
-      6930
-    ],
-    [
-      21539,
-      6806
-    ],
-    [
-      21543,
-      6682
-    ],
-    [
-      21547,
-      6558
-    ]
   ],
   "occludes_2": false,
   "cursors": [

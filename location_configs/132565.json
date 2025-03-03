@@ -1,0 +1,29 @@
+{
+  "id": 132565,
+  "models": {
+    "10": [
+      135721
+    ]
+  },
+  "name": "Time ruins",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Interact",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_78": {
+    "unknown_1": 10151,
+    "unknown_2": 5
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "unknown_196": 4
+}

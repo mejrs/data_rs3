@@ -1,0 +1,76 @@
+{
+  "id": 131907,
+  "models": {
+    "10": [
+      135354,
+      135355,
+      135356
+    ]
+  },
+  "name": "Eternal magic tree",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 30,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    "Identify"
+  ],
+  "contrast": 100,
+  "model": false,
+  "scale_x": 55,
+  "scale_y": 55,
+  "scale_z": 55,
+  "translate_y": 10,
+  "unknown_79": {
+    "unknown_1": 750,
+    "unknown_2": 2000,
+    "unknown_3": 7,
+    "values": [
+      57745,
+      57746,
+      57747,
+      57748,
+      57749,
+      57750,
+      57751,
+      57752,
+      57753,
+      57754
+    ]
+  },
+  "unknown_81": 64,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_104": 50,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3,
+  "unknown_204": [
+    {
+      "id": 564,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        1153138688,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

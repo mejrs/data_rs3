@@ -12,7 +12,7 @@
   "unknown_27": false,
   "ambient": 0,
   "actions": [
-    "Use",
+    "Exit",
     null,
     null,
     null,
@@ -23,8 +23,9 @@
   "translate_x": 65531,
   "translate_z": 65533,
   "occludes_2": false,
+  "mapfunction": 5512,
   "cursors": [
-    46,
+    57,
     null,
     null,
     null,

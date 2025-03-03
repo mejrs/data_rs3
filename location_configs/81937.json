@@ -1,16 +1,22 @@
 {
   "id": 81937,
   "models": {
-    "22": [
-      1105
+    "10": [
+      25735
     ]
   },
-  "unknown_17": false,
-  "unknown_19": 0,
-  "unknown_73": true,
-  "is_members": true,
+  "name": "Food trough",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Fill",
+    "Check",
+    null,
+    null,
+    null
+  ],
   "occludes_2": false,
-  "mapfunction": 635,
-  "unknown_188": true,
-  "unknown_198": true
+  "unknown_196": 1
 }

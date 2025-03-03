@@ -1,0 +1,35 @@
+{
+  "id": 132582,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Portal",
+  "unknown_21": true,
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 300,
+  "scale_y": 300,
+  "scale_z": 25,
+  "translate_y": 40,
+  "unknown_88": false,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

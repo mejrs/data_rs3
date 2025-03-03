@@ -1,0 +1,16 @@
+{
+  "id": 131953,
+  "models": {
+    "10": [
+      47674
+    ]
+  },
+  "dim_x": 4,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "scale_x": 400,
+  "scale_y": 400,
+  "scale_z": 400,
+  "occludes_2": false
+}

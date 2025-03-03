@@ -1,0 +1,27 @@
+{
+  "id": 131938,
+  "models": {
+    "4": [
+      130208
+    ]
+  },
+  "name": "Shooting Star noticeboard",
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

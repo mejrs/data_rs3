@@ -6,12 +6,12 @@
       87878
     ]
   },
+  "name": "Fancy bed",
   "dim_x": 2,
   "dim_y": 3,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "ambient": 0,
   "model": false,
-  "occludes_2": false,
-  "unknown_186": 2
+  "occludes_2": false
 }

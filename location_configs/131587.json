@@ -1,0 +1,33 @@
+{
+  "id": 131587,
+  "models": {
+    "10": [
+      135008
+    ]
+  },
+  "name": "Cave exit",
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Exit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 11,
+  "translate_z": 127,
+  "unknown_88": false,
+  "occludes_2": false,
+  "mapfunction": 5508,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

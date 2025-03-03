@@ -1,0 +1,19 @@
+{
+  "id": 132083,
+  "models": {
+    "10": [
+      47533
+    ]
+  },
+  "name": "Pile of debris",
+  "unknown_27": false,
+  "actions": [
+    "Scavenge",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

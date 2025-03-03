@@ -16,5 +16,7 @@
     null,
     null
   ],
-  "contrast": 15
+  "textures": {
+    "2343": 2367
+  }
 }

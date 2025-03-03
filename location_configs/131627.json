@@ -1,0 +1,25 @@
+{
+  "id": 131627,
+  "models": {
+    "22": [
+      29899
+    ]
+  },
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "ambient": 25,
+  "contrast": 15,
+  "colours": [
+    [
+      10367,
+      1959
+    ]
+  ],
+  "model": false,
+  "scale_x": 256,
+  "scale_y": 256,
+  "scale_z": 256,
+  "unknown_88": false,
+  "occludes_2": false
+}

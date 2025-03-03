@@ -1,0 +1,32 @@
+{
+  "id": 131835,
+  "models": {
+    "10": [
+      4128
+    ]
+  },
+  "name": "Pile of planks",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      516
+    ]
+  },
+  "unknown_196": 1
+}

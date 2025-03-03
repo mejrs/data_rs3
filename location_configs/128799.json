@@ -23,6 +23,11 @@
   "scale_y": 100,
   "scale_z": 100,
   "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      508
+    ]
+  },
   "cursors": [
     56,
     null,

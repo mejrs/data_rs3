@@ -1,0 +1,20 @@
+{
+  "id": 132112,
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "morphs_1": {
+    "varp": 12121,
+    "ids": [
+      null,
+      132113,
+      132113,
+      132113,
+      132113
+    ]
+  },
+  "unknown_88": false,
+  "is_members": true
+}

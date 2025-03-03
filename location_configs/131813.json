@@ -1,0 +1,30 @@
+{
+  "id": 131813,
+  "models": {
+    "10": [
+      135269,
+      135270
+    ]
+  },
+  "name": "Split log stockpile",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Deposit all",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      64,
+      36537
+    ]
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

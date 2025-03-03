@@ -1,0 +1,13 @@
+{
+  "id": 132077,
+  "models": {
+    "10": [
+      118504
+    ]
+  },
+  "name": "Grand Library",
+  "dim_y": 2,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

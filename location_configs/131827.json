@@ -1,0 +1,24 @@
+{
+  "id": 131827,
+  "models": {
+    "22": [
+      132164
+    ]
+  },
+  "name": "Pink Santa hat",
+  "unknown_19": 1,
+  "ambient": 0,
+  "colours": [
+    [
+      940,
+      47781
+    ]
+  ],
+  "textures": {
+    "11777": 20045
+  },
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

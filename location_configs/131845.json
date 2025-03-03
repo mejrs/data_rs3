@@ -1,0 +1,23 @@
+{
+  "id": 131845,
+  "models": {
+    "10": [
+      135172
+    ]
+  },
+  "name": "Biscuit storage",
+  "actions": [
+    "Add biscuits",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_y": 100,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      516
+    ]
+  }
+}

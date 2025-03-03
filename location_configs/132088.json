@@ -1,0 +1,22 @@
+{
+  "id": 132088,
+  "models": {
+    "10": [
+      104220
+    ]
+  },
+  "name": "Scorched sand",
+  "actions": [
+    "Gather",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      517
+    ]
+  }
+}

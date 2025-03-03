@@ -1,0 +1,20 @@
+{
+  "id": 132385,
+  "dim_x": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "model": false,
+  "morphs_1": {
+    "varbit": 57695,
+    "ids": [
+      132386,
+      132386,
+      132386,
+      132386,
+      132386,
+      132386
+    ]
+  },
+  "unknown_188": true,
+  "unknown_196": 4
+}

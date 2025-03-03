@@ -1,0 +1,29 @@
+{
+  "id": 131810,
+  "models": {
+    "10": [
+      135274
+    ]
+  },
+  "name": "Fir",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_81": 80,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}
