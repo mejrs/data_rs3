@@ -1,0 +1,20 @@
+{
+  "id": 134604,
+  "models": {
+    "10": [
+      122250,
+      122465
+    ]
+  },
+  "name": "Shadow crystal",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

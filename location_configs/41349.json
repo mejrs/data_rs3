@@ -11,9 +11,9 @@
   "ambient": 15,
   "actions": [
     null,
-    null,
-    null,
     "Dismantle",
+    null,
+    null,
     null
   ],
   "contrast": 25,

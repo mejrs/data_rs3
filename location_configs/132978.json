@@ -1,0 +1,32 @@
+{
+  "id": 132978,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Arbuck",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      6053
+    ],
+    [
+      19988,
+      6053
+    ],
+    [
+      19992,
+      6053
+    ]
+  ],
+  "occludes_2": false
+}

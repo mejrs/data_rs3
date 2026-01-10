@@ -1,0 +1,32 @@
+{
+  "id": 133078,
+  "models": {
+    "10": [
+      7871,
+      7766
+    ]
+  },
+  "name": "Lantadyme",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      30366
+    ],
+    [
+      19988,
+      30366
+    ],
+    [
+      19992,
+      30366
+    ]
+  ],
+  "occludes_2": false
+}

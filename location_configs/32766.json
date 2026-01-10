@@ -11,5 +11,11 @@
   "ambient": 25,
   "contrast": 15,
   "model": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_1": 16128,
+  "unknown_2": 16128,
+  "unknown_3": 16128,
+  "unknown_4": 16896,
+  "unknown_5": 16640,
+  "unknown_6": 16640
 }

@@ -1,0 +1,45 @@
+{
+  "id": 132985,
+  "models": {
+    "10": [
+      19148,
+      19152,
+      19140
+    ]
+  },
+  "name": "Arbuck",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      6053
+    ],
+    [
+      19988,
+      6053
+    ],
+    [
+      19992,
+      6053
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

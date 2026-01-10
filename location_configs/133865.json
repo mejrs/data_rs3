@@ -1,0 +1,48 @@
+{
+  "id": 133865,
+  "models": {
+    "10": [
+      64642
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "unknown_79": {
+    "unknown_1": 1,
+    "unknown_2": 1,
+    "unknown_3": 3,
+    "values": [
+      4702,
+      4701,
+      4700,
+      4705,
+      4698,
+      4703,
+      4706,
+      4704,
+      4699
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 64,
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "unknown_204": [
+    {
+      "id": 708,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

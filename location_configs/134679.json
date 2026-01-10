@@ -1,0 +1,25 @@
+{
+  "id": 134679,
+  "models": {
+    "10": [
+      1249
+    ]
+  },
+  "name": "Chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Pick lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      11173
+    ]
+  ],
+  "occludes_2": false
+}

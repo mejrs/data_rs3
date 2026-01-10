@@ -21,5 +21,26 @@
   "scale_z": 200,
   "unknown_81": 80,
   "occludes_2": false,
-  "unknown_189": true
+  "unknown_189": true,
+  "model_morphs": {
+    "unk0": 18,
+    "varbit": 57011,
+    "multi_model": null,
+    "multi_head_model": [
+      {
+        "value": 1,
+        "models": [
+          {
+            "unk1": 2,
+            "unk2": 2,
+            "unk3": 120729
+          }
+        ]
+      }
+    ],
+    "multi_retex": null,
+    "multi_recol": null,
+    "multi_ret_int": null,
+    "default": 1
+  }
 }

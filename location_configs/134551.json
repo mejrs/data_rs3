@@ -1,0 +1,32 @@
+{
+  "id": 134551,
+  "models": {
+    "10": [
+      137873
+    ]
+  },
+  "name": "Rubble",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "23": 75
+  }
+}

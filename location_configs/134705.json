@@ -1,0 +1,15 @@
+{
+  "id": 134705,
+  "models": {
+    "10": [
+      132197
+    ]
+  },
+  "name": "Snowballs",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

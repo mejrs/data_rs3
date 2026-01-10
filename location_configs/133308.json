@@ -1,0 +1,26 @@
+{
+  "id": 133308,
+  "models": {
+    "10": [
+      136517,
+      136518
+    ]
+  },
+  "name": "Painting table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "colours": [
+    [
+      16335,
+      9522
+    ]
+  ],
+  "textures": {
+    "18352": 21312
+  },
+  "occludes_2": false,
+  "unknown_196": 2
+}

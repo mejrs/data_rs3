@@ -1,0 +1,32 @@
+{
+  "id": 132846,
+  "models": {
+    "10": [
+      132614,
+      125769
+    ]
+  },
+  "name": "Frozen giant golden egg",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 700,
+  "scale_y": 700,
+  "scale_z": 700,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

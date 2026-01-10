@@ -2,12 +2,15 @@
   "id": 107344,
   "models": {
     "10": [
-      117582
+      117657
     ]
   },
   "name": "Shattered Worlds portal",
   "dim_x": 2,
-  "ambient": 80,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
   "actions": [
     "Enter",
     null,
@@ -15,6 +18,7 @@
     null,
     null
   ],
+  "contrast": 25,
   "textures": {
     "4311": 13975
   },
@@ -31,5 +35,6 @@
     null,
     null,
     null
-  ]
+  ],
+  "unknown_196": 3
 }

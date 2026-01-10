@@ -1,0 +1,25 @@
+{
+  "id": 133904,
+  "models": {
+    "10": [
+      137281,
+      132579,
+      137282,
+      137283
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      3378,
+      43180
+    ]
+  ],
+  "textures": {
+    "18096": 22479
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

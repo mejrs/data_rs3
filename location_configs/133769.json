@@ -1,0 +1,21 @@
+{
+  "id": 133769,
+  "models": {
+    "10": [
+      118503
+    ]
+  },
+  "name": "Scabaras statue",
+  "actions": [
+    "Toggle Boon",
+    "Quick Toggle",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 280,
+  "scale_y": 280,
+  "scale_z": 280,
+  "occludes_2": false,
+  "unknown_196": 4
+}

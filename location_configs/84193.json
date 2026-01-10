@@ -1,18 +1,27 @@
 {
   "id": 84193,
   "models": {
-    "22": [
-      85669
+    "10": [
+      115738
     ]
   },
-  "unknown_17": false,
-  "unknown_19": 0,
-  "unknown_21": true,
-  "ambient": 20,
-  "contrast": 25,
+  "name": "Dragonkin pylon",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 33509,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
   "model": false,
-  "unknown_73": true,
+  "scale_x": 104,
+  "scale_y": 104,
+  "scale_z": 104,
   "occludes_2": false,
-  "unknown_167": 70,
-  "unknown_186": 0
+  "unknown_196": 4
 }

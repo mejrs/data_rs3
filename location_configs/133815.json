@@ -1,0 +1,15 @@
+{
+  "id": 133815,
+  "models": {
+    "10": [
+      124951,
+      7767
+    ]
+  },
+  "name": "Iris bush (bare)",
+  "textures": {
+    "13632": 14491
+  },
+  "is_members": true,
+  "occludes_2": false
+}

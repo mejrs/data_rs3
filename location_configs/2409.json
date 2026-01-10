@@ -9,7 +9,6 @@
   "name": "Swamp Tree",
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "actions": [
@@ -23,6 +22,11 @@
   "scale_y": 200,
   "scale_z": 200,
   "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      262
+    ]
+  },
   "cursors": [
     59,
     null,

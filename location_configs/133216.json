@@ -1,0 +1,23 @@
+{
+  "id": 133216,
+  "models": {
+    "10": [
+      136436,
+      7767,
+      136442
+    ]
+  },
+  "name": "Diseased starbloom flower plant",
+  "actions": [
+    "Cure",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "21288": 21290
+  },
+  "model": false,
+  "occludes_2": false
+}

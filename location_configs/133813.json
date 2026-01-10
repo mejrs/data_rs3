@@ -1,0 +1,15 @@
+{
+  "id": 133813,
+  "models": {
+    "10": [
+      124959,
+      7767
+    ]
+  },
+  "name": "Rose bush (bare)",
+  "textures": {
+    "13633": 14494
+  },
+  "is_members": true,
+  "occludes_2": false
+}

@@ -9,6 +9,7 @@
     ]
   },
   "name": "Kharid-et chapel debris",
+  "unknown_17": false,
   "unknown_21": true,
   "ambient": 32,
   "textures": {

@@ -1,0 +1,32 @@
+{
+  "id": 133106,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Ranarr",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      13760
+    ],
+    [
+      19988,
+      13760
+    ],
+    [
+      19992,
+      13760
+    ]
+  ],
+  "occludes_2": false
+}

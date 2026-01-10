@@ -1,0 +1,15 @@
+{
+  "id": 134086,
+  "models": {
+    "10": [
+      135411,
+      135415
+    ]
+  },
+  "name": "Crashed star",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "is_members": true,
+  "occludes_2": false
+}

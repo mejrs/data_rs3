@@ -1,31 +1,24 @@
 {
   "id": 112436,
-  "models": {
-    "10": [
-      67456,
-      67466
-    ]
-  },
-  "name": "Crater",
-  "dim_x": 5,
-  "dim_y": 5,
-  "unknown_17": false,
+  "is_transparent": true,
   "unknown_19": 1,
-  "ambient": 0,
-  "actions": [
-    "Investigate",
-    null,
-    null,
-    null,
-    null
-  ],
-  "textures": {
-    "7386": 10573,
-    "7387": 10574
+  "unknown_27": false,
+  "unknown_69": 11,
+  "morphs_2": {
+    "varbit": 60171,
+    "ids": [
+      134526,
+      134525,
+      134525,
+      134525,
+      134525,
+      134525,
+      134525,
+      134525
+    ],
+    "default": 134526
   },
-  "model": false,
-  "translate_y": 65521,
-  "unknown_88": false,
-  "occludes_2": false,
-  "unknown_186": 0
+  "params": {
+    "23": 114
+  }
 }

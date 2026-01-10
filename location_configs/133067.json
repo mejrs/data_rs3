@@ -1,0 +1,32 @@
+{
+  "id": 133067,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Kwuarm",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      6040
+    ],
+    [
+      19988,
+      6040
+    ],
+    [
+      19992,
+      6040
+    ]
+  ],
+  "occludes_2": false
+}

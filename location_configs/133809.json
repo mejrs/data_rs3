@@ -1,0 +1,15 @@
+{
+  "id": 133809,
+  "models": {
+    "10": [
+      117760
+    ]
+  },
+  "name": "Mineral deposit",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false
+}

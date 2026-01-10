@@ -34,6 +34,11 @@
     ]
   ],
   "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      27
+    ]
+  },
   "cursors": [
     56,
     null,

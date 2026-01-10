@@ -1,0 +1,49 @@
+{
+  "id": 133360,
+  "models": {
+    "10": [
+      81362
+    ]
+  },
+  "name": "Clay pot",
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 75,
+  "scale_z": 75,
+  "translate_x": 65511,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_203": true,
+  "unknown_204": [
+    {
+      "id": 61,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

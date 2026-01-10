@@ -1,0 +1,43 @@
+{
+  "id": 132911,
+  "models": {
+    "10": [
+      7314,
+      82844
+    ]
+  },
+  "name": "Peas",
+  "unknown_17": false,
+  "unknown_21": true,
+  "unknown_24": 19433,
+  "ambient": 25,
+  "actions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "colours": [
+    [
+      6986,
+      18974
+    ]
+  ],
+  "occludes_2": false,
+  "mapfunction": 920,
+  "unknown_160": {
+    "values": [
+      520
+    ]
+  },
+  "cursors": [
+    47,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

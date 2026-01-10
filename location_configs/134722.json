@@ -1,0 +1,44 @@
+{
+  "id": 134722,
+  "models": {
+    "10": [
+      138062,
+      138061
+    ]
+  },
+  "name": "Blooming Burrow portal",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Teleport",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17329,
+      56147
+    ],
+    [
+      17313,
+      55741
+    ],
+    [
+      14661,
+      53578
+    ]
+  ],
+  "textures": {
+    "23091": 23090
+  },
+  "scale_x": 105,
+  "scale_y": 105,
+  "scale_z": 105,
+  "occludes_2": false,
+  "mapfunction": 5557,
+  "unknown_196": 4
+}

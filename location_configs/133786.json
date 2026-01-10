@@ -1,0 +1,16 @@
+{
+  "id": 133786,
+  "models": {
+    "10": [
+      88196
+    ]
+  },
+  "name": "Crondis",
+  "unknown_19": 1,
+  "scale_x": 108,
+  "scale_y": 108,
+  "scale_z": 108,
+  "translate_y": 250,
+  "translate_z": 100,
+  "occludes_2": false
+}

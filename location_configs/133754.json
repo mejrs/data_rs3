@@ -1,0 +1,27 @@
+{
+  "id": 133754,
+  "models": {
+    "10": [
+      118502,
+      136996
+    ]
+  },
+  "name": "Altar of Crondis (corrupted)",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Cleanse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 280,
+  "scale_y": 280,
+  "scale_z": 280,
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

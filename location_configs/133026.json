@@ -1,0 +1,32 @@
+{
+  "id": 133026,
+  "models": {
+    "10": [
+      7874,
+      7766
+    ]
+  },
+  "name": "Dwarf weed",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      22410
+    ],
+    [
+      19988,
+      22410
+    ],
+    [
+      19992,
+      22410
+    ]
+  ],
+  "occludes_2": false
+}

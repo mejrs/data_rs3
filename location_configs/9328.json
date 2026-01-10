@@ -9,7 +9,7 @@
   "name": "Gnome on a rack",
   "dim_x": 3,
   "actions": [
-    "Talk-to",
+    "Talk to",
     "Release",
     null,
     null,

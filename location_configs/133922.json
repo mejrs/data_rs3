@@ -1,0 +1,17 @@
+{
+  "id": 133922,
+  "models": {
+    "4": [
+      137302
+    ]
+  },
+  "name": "Rocky shelves",
+  "unknown_19": 1,
+  "ambient": 10,
+  "textures": {
+    "18007": 16596,
+    "18008": 16597
+  },
+  "occludes_2": false,
+  "unknown_196": 2
+}

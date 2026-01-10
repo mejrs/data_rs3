@@ -1,0 +1,27 @@
+{
+  "id": 134154,
+  "models": {
+    "10": [
+      137340,
+      137341,
+      137342,
+      137343
+    ]
+  },
+  "name": "Harvest cart",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Deposit",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

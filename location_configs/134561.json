@@ -1,0 +1,24 @@
+{
+  "id": 134561,
+  "models": {
+    "10": [
+      68884
+    ]
+  },
+  "name": "Rare chest",
+  "unknown_19": 1,
+  "actions": [
+    "Pick lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11375": 14478
+  },
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

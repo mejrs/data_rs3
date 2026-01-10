@@ -1,0 +1,20 @@
+{
+  "id": 134743,
+  "models": {
+    "10": [
+      138070
+    ]
+  },
+  "name": "Warped Seeker",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 3320,
+  "ambient": -20,
+  "scale_x": 156,
+  "scale_y": 156,
+  "scale_z": 156,
+  "occludes_2": false,
+  "unknown_196": 4
+}

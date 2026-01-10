@@ -1,0 +1,48 @@
+{
+  "id": 132885,
+  "models": {
+    "10": [
+      5124,
+      82844
+    ]
+  },
+  "name": "Nest debris",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 19433,
+  "ambient": 25,
+  "actions": [
+    "Pick up",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_78": {
+    "unknown_1": 52808,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 80,
+  "mapfunction": 920,
+  "unknown_160": {
+    "values": [
+      520
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 16192,
+  "unknown_2": 16192,
+  "unknown_3": 16192,
+  "unknown_4": 16576,
+  "unknown_5": 16576,
+  "unknown_6": 16576
+}

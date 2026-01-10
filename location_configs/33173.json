@@ -2,13 +2,12 @@
   "id": 33173,
   "models": {
     "10": [
-      37300
+      133171
     ]
   },
   "name": "Cave",
   "dim_x": 3,
   "dim_y": 2,
-  "ambient": 25,
   "actions": [
     "Enter",
     null,
@@ -16,7 +15,12 @@
     null,
     null
   ],
-  "contrast": 20,
+  "colours": [
+    [
+      28058,
+      38292
+    ]
+  ],
   "textures": {
     "1155": 1892
   },

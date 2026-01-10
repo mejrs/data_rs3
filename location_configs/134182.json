@@ -1,0 +1,33 @@
+{
+  "id": 134182,
+  "models": {
+    "10": [
+      137333,
+      137338,
+      131217
+    ]
+  },
+  "name": "Red logs",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Burn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_98": true,
+  "occludes_2": false,
+  "mapfunction": 4180,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

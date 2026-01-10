@@ -1,0 +1,32 @@
+{
+  "id": 133132,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Spirit weed",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      26941
+    ],
+    [
+      19988,
+      26941
+    ],
+    [
+      19992,
+      26941
+    ]
+  ],
+  "occludes_2": false
+}

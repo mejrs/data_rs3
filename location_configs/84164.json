@@ -1,34 +1,27 @@
 {
   "id": 84164,
   "models": {
-    "10": [
-      85670
+    "4": [
+      34351
     ]
   },
-  "dim_x": 5,
-  "dim_y": 7,
   "unknown_17": false,
   "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 20,
-  "contrast": 25,
-  "colours": [
-    [
-      26735,
-      37422
+  "model": false,
+  "unknown_79": {
+    "unknown_1": 250,
+    "unknown_2": 720,
+    "unknown_3": 18,
+    "values": [
+      37069,
+      37112,
+      37123,
+      37047
     ]
-  ],
-  "unknown_78": {
-    "unknown_1": 3593,
-    "unknown_2": 10
   },
-  "unknown_88": false,
-  "unknown_98": true,
   "occludes_2": false,
-  "unknown_104": 30,
-  "unknown_1": 230,
+  "unknown_104": 125,
+  "unknown_1": 240,
   "unknown_2": 270,
-  "unknown_186": 0,
-  "unknown_188": true
+  "unknown_198": true
 }

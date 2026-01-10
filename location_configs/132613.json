@@ -1,0 +1,22 @@
+{
+  "id": 132613,
+  "models": {
+    "4": [
+      135828
+    ]
+  },
+  "name": "Astral rift",
+  "unknown_19": 1,
+  "unknown_24": 2178,
+  "actions": [
+    "Exit-through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "20812": 20813
+  },
+  "occludes_2": false
+}

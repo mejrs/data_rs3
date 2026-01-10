@@ -1,0 +1,53 @@
+{
+  "id": 133408,
+  "models": {
+    "10": [
+      74154,
+      74198
+    ]
+  },
+  "name": "Porcelain clay rock",
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    "Prospect",
+    null
+  ],
+  "colours": [
+    [
+      54994,
+      10364
+    ],
+    [
+      54858,
+      11368
+    ],
+    [
+      54991,
+      11365
+    ],
+    [
+      54856,
+      11358
+    ]
+  ],
+  "textures": {
+    "322": 10886,
+    "1304": 21293
+  },
+  "unknown_44": 480,
+  "model": false,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    56,
+    null,
+    null
+  ]
+}

@@ -1,14 +1,29 @@
 {
   "id": 100915,
-  "dim_y": 2,
+  "models": {
+    "10": [
+      126265
+    ]
+  },
+  "name": "Cave",
+  "dim_x": 3,
+  "dim_y": 3,
   "unknown_19": 1,
   "unknown_27": false,
-  "morphs_2": {
-    "varbit": 30298,
-    "ids": [
-      100924,
-      100925
-    ],
-    "default": 100924
-  }
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

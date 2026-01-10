@@ -1,0 +1,28 @@
+{
+  "id": 132936,
+  "models": {
+    "10": [
+      84432
+    ]
+  },
+  "name": "Waterslide",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Slide down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 134562,
+  "models": {
+    "10": [
+      70769
+    ]
+  },
+  "name": "Rare chest",
+  "unknown_19": 1,
+  "actions": [
+    "End Heist",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11375": 14478
+  },
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false
+}

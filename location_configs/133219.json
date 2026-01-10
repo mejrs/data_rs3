@@ -1,0 +1,23 @@
+{
+  "id": 133219,
+  "models": {
+    "10": [
+      136437,
+      7767,
+      136442
+    ]
+  },
+  "name": "Dead starbloom flower plant",
+  "actions": [
+    "Clear",
+    "Inspect",
+    "Revive",
+    "Guide",
+    null
+  ],
+  "textures": {
+    "21288": 21289
+  },
+  "model": false,
+  "occludes_2": false
+}

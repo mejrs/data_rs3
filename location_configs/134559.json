@@ -1,0 +1,26 @@
+{
+  "id": 134559,
+  "models": {
+    "10": [
+      47644
+    ]
+  },
+  "name": "Exit",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Escape",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "translate_y": 126,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "unknown_196": 4
+}

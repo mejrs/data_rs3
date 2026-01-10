@@ -13,8 +13,8 @@
   "unknown_22": true,
   "unknown_27": false,
   "actions": [
-    "Look-at",
     "Search",
+    "Investigate",
     null,
     null,
     null
@@ -25,8 +25,8 @@
   },
   "occludes_2": false,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

@@ -1,0 +1,33 @@
+{
+  "id": 134468,
+  "models": {
+    "10": [
+      126598,
+      126579
+    ]
+  },
+  "name": "Gnarled tree",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11921": 15240,
+    "13104": 15230,
+    "15238": 15239
+  },
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  },
+  "unknown_196": 4
+}

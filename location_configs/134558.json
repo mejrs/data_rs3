@@ -1,0 +1,24 @@
+{
+  "id": 134558,
+  "models": {
+    "10": [
+      96550,
+      96631
+    ]
+  },
+  "name": "Vault door",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 180,
+  "scale_y": 180,
+  "scale_z": 180,
+  "is_members": true,
+  "occludes_2": false
+}

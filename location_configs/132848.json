@@ -1,0 +1,14 @@
+{
+  "id": 132848,
+  "models": {
+    "10": [
+      135995
+    ]
+  },
+  "name": "Ice block",
+  "unknown_19": 1,
+  "textures": {
+    "21096": 21097
+  },
+  "occludes_2": false
+}

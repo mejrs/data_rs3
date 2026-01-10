@@ -1,0 +1,22 @@
+{
+  "id": 134088,
+  "models": {
+    "10": [
+      135403,
+      135415
+    ]
+  },
+  "name": "Hollowed-out star",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

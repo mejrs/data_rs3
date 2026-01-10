@@ -1,0 +1,32 @@
+{
+  "id": 132989,
+  "models": {
+    "10": [
+      7871,
+      7766
+    ]
+  },
+  "name": "Avantoe",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      28345
+    ],
+    [
+      19988,
+      28345
+    ],
+    [
+      19992,
+      28345
+    ]
+  ],
+  "occludes_2": false
+}

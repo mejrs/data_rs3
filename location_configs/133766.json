@@ -1,0 +1,21 @@
+{
+  "id": 133766,
+  "models": {
+    "10": [
+      118502
+    ]
+  },
+  "name": "Crondis statue",
+  "actions": [
+    "Toggle Boon",
+    "Quick Toggle",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 280,
+  "scale_y": 280,
+  "scale_z": 280,
+  "occludes_2": false,
+  "unknown_196": 4
+}

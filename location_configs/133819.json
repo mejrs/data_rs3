@@ -1,0 +1,25 @@
+{
+  "id": 133819,
+  "models": {
+    "10": [
+      124949,
+      7767
+    ]
+  },
+  "name": "Hydrangea bush (bare)",
+  "colours": [
+    [
+      14872,
+      21033
+    ],
+    [
+      8722,
+      21272
+    ]
+  ],
+  "textures": {
+    "14489": 14490
+  },
+  "is_members": true,
+  "occludes_2": false
+}

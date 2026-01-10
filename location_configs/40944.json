@@ -9,8 +9,8 @@
   "unknown_27": false,
   "ambient": 20,
   "actions": [
-    "Look-at",
     "Pick-up",
+    "Investigate",
     null,
     null,
     null
@@ -36,8 +36,8 @@
   ],
   "occludes_2": false,
   "cursors": [
-    null,
     45,
+    null,
     null,
     null,
     null,

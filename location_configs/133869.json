@@ -1,0 +1,51 @@
+{
+  "id": 133869,
+  "models": {
+    "10": [
+      137188
+    ]
+  },
+  "name": "Leagues Plaque",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "View League hiscores",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4,
+  "unknown_204": [
+    {
+      "id": 876,
+      "some_bool": false,
+      "vec_1": [
+        1138326724,
+        1136298190,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 876,
+      "some_bool": false,
+      "vec_1": [
+        3285747289,
+        1136298190,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -2,12 +2,10 @@
   "id": 15566,
   "models": {
     "10": [
-      14651,
-      14652
+      79577
     ]
   },
   "name": "Warning sign",
-  "ambient": 10,
   "actions": [
     "Read",
     null,
@@ -15,7 +13,6 @@
     null,
     null
   ],
-  "contrast": 17,
   "occludes_2": false,
   "cursors": [
     50,

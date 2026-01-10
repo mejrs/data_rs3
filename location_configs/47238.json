@@ -2,13 +2,13 @@
   "id": 47238,
   "models": {
     "10": [
-      50920
+      137673
     ]
   },
   "name": "Sick man",
   "dim_y": 2,
   "actions": [
-    "Talk-to",
+    "Talk to",
     null,
     null,
     null,

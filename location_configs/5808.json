@@ -10,20 +10,20 @@
   "unknown_21": true,
   "ambient": 20,
   "actions": [
-    "Look",
+    "Search",
+    "Investigate",
     null,
     null,
-    null,
-    "Search"
+    null
   ],
   "contrast": 80,
   "occludes_2": false,
   "cursors": [
-    null,
-    null,
-    null,
-    null,
     56,
+    null,
+    null,
+    null,
+    null,
     null
   ]
 }

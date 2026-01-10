@@ -2,7 +2,7 @@
   "id": 97441,
   "models": {
     "10": [
-      104662
+      131252
     ]
   },
   "name": "Rock formation",
@@ -10,7 +10,7 @@
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 25,
+  "ambient": -25,
   "actions": [
     "Investigate",
     null,
@@ -19,6 +19,9 @@
     null
   ],
   "contrast": 15,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
   "occludes_2": false,
   "unknown_160": {
     "values": [

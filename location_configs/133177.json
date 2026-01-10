@@ -1,0 +1,36 @@
+{
+  "id": 133177,
+  "models": {
+    "10": [
+      19148,
+      19152,
+      19149
+    ]
+  },
+  "name": "Torstol",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      15238
+    ],
+    [
+      19988,
+      15238
+    ],
+    [
+      19992,
+      15238
+    ]
+  ],
+  "occludes_2": false
+}

@@ -1,0 +1,29 @@
+{
+  "id": 132745,
+  "models": {
+    "10": [
+      136105
+    ]
+  },
+  "name": "Bucket of gloves",
+  "unknown_17": false,
+  "ambient": 0,
+  "actions": [
+    "Take from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

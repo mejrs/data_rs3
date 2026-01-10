@@ -1,0 +1,24 @@
+{
+  "id": 132934,
+  "models": {
+    "10": [
+      136210
+    ]
+  },
+  "name": "Floor button",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Press",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      520
+    ]
+  }
+}

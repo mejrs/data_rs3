@@ -46,7 +46,7 @@
   "mapscene": 0,
   "occludes_2": false,
   "member_actions": [
-    "Talk-to",
+    "Talk to",
     "Teleport",
     null,
     null,

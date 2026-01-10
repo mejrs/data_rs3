@@ -2,7 +2,7 @@
   "id": 16700,
   "models": {
     "10": [
-      11208
+      137635
     ]
   },
   "name": "Bank booth",
@@ -13,28 +13,6 @@
     "Collect",
     "Load Last Preset from",
     null
-  ],
-  "colours": [
-    [
-      6684,
-      6806
-    ],
-    [
-      5665,
-      6558
-    ],
-    [
-      5545,
-      6439
-    ],
-    [
-      5547,
-      6563
-    ],
-    [
-      5549,
-      6563
-    ]
   ],
   "unknown_69": 11,
   "breakroutefinding": true,

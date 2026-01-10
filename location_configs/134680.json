@@ -1,0 +1,33 @@
+{
+  "id": 134680,
+  "models": {
+    "10": [
+      1226
+    ]
+  },
+  "name": "Chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      41,
+      11173
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

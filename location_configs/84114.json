@@ -1,16 +1,15 @@
 {
   "id": 84114,
-  "dim_x": 2,
-  "dim_y": 5,
-  "unknown_17": false,
-  "unknown_19": 0,
-  "morphs_1": {
-    "varbit": 18405,
-    "ids": [
-      84170,
-      84168
+  "models": {
+    "10": [
+      47696
     ]
   },
-  "unknown_188": true,
-  "unknown_196": 3
+  "dim_x": 6,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "scale_x": 400,
+  "scale_y": 400,
+  "scale_z": 400,
+  "occludes_2": false
 }

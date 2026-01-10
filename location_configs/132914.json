@@ -1,0 +1,32 @@
+{
+  "id": 132914,
+  "models": {
+    "10": [
+      136223
+    ]
+  },
+  "name": "Relaxing spot",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Sit down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "14708": 15839,
+    "14709": 15840,
+    "14718": 14830
+  },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      520
+    ]
+  }
+}

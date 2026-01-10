@@ -1,0 +1,36 @@
+{
+  "id": 133164,
+  "models": {
+    "10": [
+      19148,
+      19152,
+      19149
+    ]
+  },
+  "name": "Toadflax",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      20382
+    ],
+    [
+      19988,
+      20382
+    ],
+    [
+      19992,
+      20382
+    ]
+  ],
+  "occludes_2": false
+}

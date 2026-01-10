@@ -12,7 +12,7 @@
   "ambient": 25,
   "actions": [
     "Search",
-    null,
+    "Investigate",
     null,
     null,
     null

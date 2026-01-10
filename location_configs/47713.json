@@ -3,7 +3,6 @@
   "dim_x": 2,
   "dim_y": 2,
   "unknown_21": true,
-  "ambient": 15,
   "actions": [
     "Search",
     null,
@@ -11,17 +10,11 @@
     null,
     null
   ],
-  "contrast": 15,
   "morphs_1": {
     "varbit": 10791,
     "ids": [
       47714,
       47715
-    ]
-  },
-  "unknown_160": {
-    "values": [
-      27
     ]
   },
   "cursors": [

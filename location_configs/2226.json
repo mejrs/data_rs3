@@ -6,20 +6,5 @@
     ]
   },
   "name": "Smashed table",
-  "actions": [
-    "Craft",
-    null,
-    null,
-    null,
-    null
-  ],
-  "occludes_2": false,
-  "cursors": [
-    62,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

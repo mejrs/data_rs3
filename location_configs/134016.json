@@ -1,0 +1,16 @@
+{
+  "id": 134016,
+  "models": {
+    "10": [
+      137323,
+      137318
+    ]
+  },
+  "name": "Tree",
+  "unknown_19": 1,
+  "unknown_24": 22138,
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

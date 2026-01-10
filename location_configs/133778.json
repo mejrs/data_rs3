@@ -1,0 +1,17 @@
+{
+  "id": 133778,
+  "models": {
+    "22": [
+      133774
+    ]
+  },
+  "name": "Tile",
+  "actions": [
+    "Move here",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

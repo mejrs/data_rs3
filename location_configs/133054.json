@@ -1,0 +1,32 @@
+{
+  "id": 133054,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Irit",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      16311
+    ],
+    [
+      19988,
+      16311
+    ],
+    [
+      19992,
+      16311
+    ]
+  ],
+  "occludes_2": false
+}

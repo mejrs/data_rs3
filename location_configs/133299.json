@@ -1,0 +1,15 @@
+{
+  "id": 133299,
+  "models": {
+    "10": [
+      136512
+    ]
+  },
+  "name": "Chimney",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

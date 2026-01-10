@@ -1,0 +1,18 @@
+{
+  "id": 133909,
+  "models": {
+    "10": [
+      137288
+    ]
+  },
+  "name": "Window",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "22466": 22467
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

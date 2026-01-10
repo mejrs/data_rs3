@@ -1,28 +1,16 @@
 {
   "id": 5491,
   "models": {
-    "22": [
-      49030
+    "10": [
+      116053,
+      137851
     ]
   },
-  "name": "Trapdoor",
-  "unknown_19": 1,
-  "unknown_27": false,
-  "unknown_75": 0,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "model": false,
   "occludes_2": false,
-  "member_actions": [
-    "Climb-down",
-    "Close",
-    null,
-    null,
-    null
-  ],
-  "cursors": [
-    53,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_186": 2,
+  "unknown_196": 4
 }

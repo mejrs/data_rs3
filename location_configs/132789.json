@@ -1,0 +1,14 @@
+{
+  "id": 132789,
+  "models": {
+    "10": [
+      136150
+    ]
+  },
+  "name": "Barrier",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "unknown_24": 31433,
+  "unknown_27": false,
+  "occludes_2": false
+}

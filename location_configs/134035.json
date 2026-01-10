@@ -1,0 +1,32 @@
+{
+  "id": 134035,
+  "models": {
+    "10": [
+      71215
+    ]
+  },
+  "name": "Bank chest",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    null,
+    "Use",
+    "Collect",
+    "Load Last Preset from",
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 560,
+  "cursors": [
+    null,
+    46,
+    5,
+    51,
+    null,
+    null
+  ],
+  "params": {
+    "9049": 3198
+  }
+}

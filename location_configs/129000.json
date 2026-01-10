@@ -9,11 +9,31 @@
   "name": "Soul beacon",
   "unknown_19": 1,
   "unknown_24": 35819,
+  "actions": [
+    "Take beacon",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      10395,
+      43019
+    ],
+    [
+      35523,
+      44600
+    ]
+  ],
+  "textures": {
+    "18194": 22106
+  },
   "occludes_2": false,
-  "unknown_1": 16128,
-  "unknown_2": 14784,
-  "unknown_3": 16128,
-  "unknown_4": 16640,
-  "unknown_5": 16640,
-  "unknown_6": 16640
+  "unknown_1": 14,
+  "unknown_2": 14534,
+  "unknown_3": 14,
+  "unknown_4": 114,
+  "unknown_5": 15584,
+  "unknown_6": 114
 }

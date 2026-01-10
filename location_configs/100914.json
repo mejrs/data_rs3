@@ -1,14 +1,14 @@
 {
   "id": 100914,
-  "dim_y": 2,
+  "models": {
+    "10": [
+      136225
+    ]
+  },
+  "name": "Nest",
   "unknown_19": 1,
-  "unknown_27": false,
-  "morphs_2": {
-    "varbit": 30297,
-    "ids": [
-      100924,
-      100925
-    ],
-    "default": 100924
-  }
+  "textures": {
+    "14708": 15839
+  },
+  "occludes_2": false
 }

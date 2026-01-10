@@ -1,0 +1,32 @@
+{
+  "id": 132747,
+  "models": {
+    "10": [
+      87868,
+      136107
+    ]
+  },
+  "name": "Flower food sacks",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Take from",
+    "Take 5",
+    "Take X",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

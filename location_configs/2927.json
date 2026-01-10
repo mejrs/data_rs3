@@ -11,16 +11,16 @@
   "occludes_1": false,
   "ambient": 25,
   "actions": [
-    "Use",
     "Search",
+    "Use",
     null,
     null,
     null
   ],
   "contrast": 15,
   "cursors": [
-    46,
     56,
+    46,
     null,
     null,
     null,

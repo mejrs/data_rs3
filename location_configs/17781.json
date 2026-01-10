@@ -6,27 +6,26 @@
       7766
     ]
   },
-  "name": "Herbs",
-  "ambient": 100,
+  "name": "Fellstalk",
   "actions": [
     "Pick",
     "Inspect",
-    null,
+    "Clear",
     "Guide",
     null
   ],
   "colours": [
     [
       20364,
-      19986
+      14511
     ],
     [
       19988,
-      21660
+      14511
     ],
     [
       19992,
-      21662
+      14511
     ]
   ],
   "occludes_2": false,

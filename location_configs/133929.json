@@ -1,0 +1,19 @@
+{
+  "id": 133929,
+  "models": {
+    "10": [
+      137298
+    ]
+  },
+  "name": "Flowers",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "textures": {
+    "13632": 16727,
+    "18008": 16597
+  },
+  "occludes_2": false,
+  "unknown_196": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 134168,
+  "models": {
+    "10": [
+      137356,
+      134641
+    ]
+  },
+  "name": "Grim fairytale pumpkin",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 4177,
+  "unknown_196": 4
+}

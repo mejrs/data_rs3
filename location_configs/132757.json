@@ -1,0 +1,25 @@
+{
+  "id": 132757,
+  "models": {
+    "10": [
+      136097
+    ]
+  },
+  "name": "Dock",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Dock boat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 5371,
+  "unknown_196": 4
+}

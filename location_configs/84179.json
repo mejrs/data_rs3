@@ -2,27 +2,37 @@
   "id": 84179,
   "models": {
     "10": [
-      85674,
-      85688
+      137062
     ]
   },
-  "dim_x": 5,
-  "dim_y": 2,
-  "unknown_17": false,
-  "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 20,
-  "contrast": 25,
-  "colours": [
-    [
-      26735,
-      2977
-    ]
+  "name": "Barrier",
+  "unknown_19": 1,
+  "actions": [
+    "Pass through",
+    null,
+    null,
+    null,
+    null
   ],
+  "model": false,
+  "scale_x": 192,
+  "unknown_78": {
+    "unknown_1": 38004,
+    "unknown_2": 9
+  },
   "unknown_88": false,
-  "unknown_98": true,
   "occludes_2": false,
-  "unknown_186": 0,
-  "unknown_188": true
+  "unknown_104": 230,
+  "unknown_1": 280,
+  "unknown_2": 290,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 1,
+  "unknown_203": true
 }

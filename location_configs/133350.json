@@ -1,0 +1,14 @@
+{
+  "id": 133350,
+  "models": {
+    "10": [
+      127195,
+      127196
+    ]
+  },
+  "name": "Storage bin",
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

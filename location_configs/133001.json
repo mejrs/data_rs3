@@ -1,0 +1,33 @@
+{
+  "id": 133001,
+  "models": {
+    "10": [
+      7874,
+      7766
+    ]
+  },
+  "name": "Avantoe (diseased)",
+  "ambient": 25,
+  "actions": [
+    "Cure",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      11148
+    ],
+    [
+      19988,
+      11026
+    ],
+    [
+      19992,
+      10902
+    ]
+  ],
+  "occludes_2": false
+}

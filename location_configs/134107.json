@@ -1,0 +1,21 @@
+{
+  "id": 134107,
+  "models": {
+    "10": [
+      137308
+    ]
+  },
+  "name": "Fresh grass",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 0,
+  "textures": {
+    "13104": 20160
+  },
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_196": 4
+}

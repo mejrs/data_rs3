@@ -1,0 +1,45 @@
+{
+  "id": 132998,
+  "models": {
+    "10": [
+      19148,
+      19152,
+      19140
+    ]
+  },
+  "name": "Avantoe",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    "Pick",
+    "Inspect",
+    "Clear",
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      28345
+    ],
+    [
+      19988,
+      28345
+    ],
+    [
+      19992,
+      28345
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 133015,
+  "models": {
+    "10": [
+      19148,
+      19152,
+      19144
+    ]
+  },
+  "name": "Cadantine",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      12219
+    ],
+    [
+      19988,
+      12219
+    ],
+    [
+      19992,
+      12219
+    ]
+  ],
+  "occludes_2": false
+}

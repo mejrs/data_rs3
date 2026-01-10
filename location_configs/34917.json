@@ -10,8 +10,8 @@
   "unknown_22": true,
   "ambient": 25,
   "actions": [
-    "Look",
     "Jump-over",
+    "Look",
     null,
     null,
     null
@@ -19,8 +19,8 @@
   "contrast": 15,
   "mirror": true,
   "cursors": [
-    null,
     181,
+    null,
     null,
     null,
     null,

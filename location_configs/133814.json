@@ -1,0 +1,22 @@
+{
+  "id": 133814,
+  "models": {
+    "10": [
+      121914
+    ]
+  },
+  "name": "Perfect iris bush",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13632": 14491
+  },
+  "occludes_2": false
+}

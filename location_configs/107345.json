@@ -2,18 +2,27 @@
   "id": 107345,
   "models": {
     "10": [
-      117581
+      117658
     ]
   },
   "name": "Shattered Worlds challenger portal",
   "dim_x": 2,
-  "ambient": 80,
+  "dim_y": 2,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 10,
   "actions": [
     "Enter",
     null,
     null,
     null,
     null
+  ],
+  "colours": [
+    [
+      21036,
+      681
+    ]
   ],
   "textures": {
     "4311": 13975
@@ -31,5 +40,6 @@
     null,
     null,
     null
-  ]
+  ],
+  "unknown_196": 4
 }

@@ -1,0 +1,19 @@
+{
+  "id": 133357,
+  "models": {
+    "10": [
+      127598
+    ]
+  },
+  "name": "Bank deposit box",
+  "actions": [
+    "Deposit",
+    "Deposit-All",
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

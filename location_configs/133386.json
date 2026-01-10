@@ -1,0 +1,24 @@
+{
+  "id": 133386,
+  "models": {
+    "10": [
+      136592
+    ]
+  },
+  "name": "Sand pit",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Get sand from",
+    null,
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 628,
+  "unknown_196": 4
+}

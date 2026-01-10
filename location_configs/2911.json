@@ -8,8 +8,8 @@
   "name": "Bookcase",
   "dim_y": 2,
   "actions": [
-    "Look",
     "Search",
+    "Look",
     null,
     null,
     null
@@ -17,8 +17,8 @@
   "unknown_69": 13,
   "occludes_2": false,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

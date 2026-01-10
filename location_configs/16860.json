@@ -2,10 +2,12 @@
   "id": 16860,
   "models": {
     "10": [
-      16527
+      68739,
+      137742
     ]
   },
   "name": "Tar barrel",
+  "unknown_17": false,
   "unknown_19": 1,
   "actions": [
     "Take-from",

@@ -2,14 +2,13 @@
   "id": 33174,
   "models": {
     "10": [
-      37300
+      133171
     ]
   },
   "name": "Icy Cavern",
   "dim_x": 3,
   "dim_y": 2,
   "unknown_22": true,
-  "ambient": 25,
   "actions": [
     "Exit",
     null,
@@ -17,7 +16,12 @@
     null,
     null
   ],
-  "contrast": 20,
+  "colours": [
+    [
+      28058,
+      38292
+    ]
+  ],
   "textures": {
     "1155": 1892
   },

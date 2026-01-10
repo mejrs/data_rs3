@@ -1,0 +1,26 @@
+{
+  "id": 132807,
+  "models": {
+    "10": [
+      136155,
+      136156,
+      136166
+    ]
+  },
+  "name": "Tagged race marker",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 31433,
+  "unknown_27": false,
+  "colours": [
+    [
+      919,
+      18327
+    ]
+  ],
+  "textures": {
+    "15262": 21099
+  },
+  "occludes_2": false
+}

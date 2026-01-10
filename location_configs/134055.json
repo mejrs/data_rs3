@@ -1,0 +1,19 @@
+{
+  "id": 134055,
+  "models": {
+    "10": [
+      137274,
+      137275,
+      127673
+    ]
+  },
+  "name": "Research table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "is_members": true,
+  "unknown_98": true,
+  "occludes_2": false
+}

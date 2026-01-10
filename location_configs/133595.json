@@ -1,0 +1,21 @@
+{
+  "id": 133595,
+  "models": {
+    "10": [
+      133454
+    ]
+  },
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "colours": [
+    [
+      16335,
+      5691
+    ]
+  ],
+  "scale_x": 300,
+  "scale_y": 300,
+  "scale_z": 300,
+  "occludes_2": false
+}

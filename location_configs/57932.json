@@ -2,35 +2,20 @@
   "id": 57932,
   "models": {
     "10": [
-      21829
+      47656
     ]
   },
-  "name": "Evergreen",
-  "dim_x": 2,
-  "dim_y": 2,
-  "is_transparent": true,
-  "unknown_19": 1,
-  "unknown_27": false,
-  "ambient": 25,
-  "actions": [
-    "Chop down",
-    null,
-    null,
-    null,
-    null
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "colours": [
+    [
+      42106,
+      37977
+    ]
   ],
-  "contrast": 15,
   "model": false,
-  "unknown_81": 42,
-  "mapscene": 0,
   "occludes_2": false,
-  "unknown_189": true,
-  "cursors": [
-    59,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_186": 2,
+  "unknown_196": 4
 }

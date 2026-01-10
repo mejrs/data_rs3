@@ -1,0 +1,28 @@
+{
+  "id": 134100,
+  "models": {
+    "10": [
+      137289
+    ]
+  },
+  "name": "Rocky bed",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "14202": 22476,
+    "18007": 16596
+  },
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_196": 2
+}

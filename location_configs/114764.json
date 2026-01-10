@@ -5,7 +5,7 @@
       84948
     ]
   },
-  "name": "Fateful portal (The Gate of Elidinis)",
+  "name": "Fateful portal (Flesh-hatcher Mhekarnahz)",
   "ambient": 0,
   "actions": [
     "Enter",
@@ -15,7 +15,7 @@
     null
   ],
   "textures": {
-    "11897": 19357,
+    "11897": 23135,
     "11899": 11905,
     "11900": 11904
   },
@@ -25,7 +25,10 @@
     "unknown_2": 5
   },
   "occludes_2": false,
+  "unknown_104": 180,
   "mapfunction": 612,
+  "unknown_1": 240,
+  "unknown_2": 270,
   "cursors": [
     57,
     null,

@@ -1,0 +1,15 @@
+{
+  "id": 134165,
+  "models": {
+    "10": [
+      134641
+    ]
+  },
+  "name": "Pumpkin patch",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -1,0 +1,27 @@
+{
+  "id": 132806,
+  "models": {
+    "10": [
+      136155,
+      136156,
+      136166
+    ]
+  },
+  "name": "Race marker",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 31433,
+  "unknown_27": false,
+  "actions": [
+    "Tag",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "15262": 21100
+  },
+  "occludes_2": false
+}

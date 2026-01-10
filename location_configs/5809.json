@@ -7,11 +7,11 @@
   },
   "name": "Weathervane",
   "actions": [
-    "Look",
+    "Search",
+    "Investigate",
     null,
     null,
-    null,
-    "Search"
+    null
   ],
   "colours": [
     [
@@ -29,11 +29,11 @@
   ],
   "occludes_2": false,
   "cursors": [
-    null,
-    null,
-    null,
-    null,
     56,
+    null,
+    null,
+    null,
+    null,
     null
   ]
 }

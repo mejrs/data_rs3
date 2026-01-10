@@ -9,16 +9,16 @@
   "unknown_24": 1097,
   "unknown_27": false,
   "actions": [
-    null,
     "Pick",
+    null,
     null,
     null,
     null
   ],
   "occludes_2": false,
   "cursors": [
-    null,
     45,
+    null,
     null,
     null,
     null,

@@ -1,0 +1,44 @@
+{
+  "id": 132816,
+  "models": {
+    "10": [
+      51689
+    ]
+  },
+  "name": "Hollow log",
+  "dim_x": 2,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_204": [
+    {
+      "id": 61,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        1106247680,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

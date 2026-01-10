@@ -1,13 +1,24 @@
 {
   "id": 84206,
-  "dim_x": 3,
-  "dim_y": 3,
-  "unknown_19": 0,
-  "morphs_1": {
-    "varbit": 18405,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_69": 11,
+  "morphs_2": {
+    "varbit": 60154,
     "ids": [
-      84207
-    ]
+      84215,
+      84214,
+      84214,
+      84214,
+      84214,
+      84214,
+      84214,
+      84214
+    ],
+    "default": 84215
   },
-  "unknown_188": true
+  "params": {
+    "23": 108
+  }
 }

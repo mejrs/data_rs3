@@ -1,0 +1,30 @@
+{
+  "id": 134467,
+  "models": {
+    "10": [
+      24503,
+      24504,
+      24510
+    ]
+  },
+  "name": "Fishing boat",
+  "dim_x": 2,
+  "dim_y": 4,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      377
+    ]
+  }
+}

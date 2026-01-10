@@ -1,0 +1,17 @@
+{
+  "id": 134769,
+  "models": {
+    "10": [
+      138217,
+      138219
+    ]
+  },
+  "name": "Party table",
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 3
+}

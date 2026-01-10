@@ -6,8 +6,7 @@
       7766
     ]
   },
-  "name": "Herbs",
-  "ambient": 25,
+  "name": "Guam",
   "actions": [
     "Pick",
     "Inspect",

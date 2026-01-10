@@ -7,15 +7,15 @@
       19140
     ]
   },
-  "name": "Herbs",
+  "name": "Guam",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 40,
   "actions": [
     "Pick",
     "Inspect",
-    null,
+    "Clear",
     "Guide",
     null
   ],

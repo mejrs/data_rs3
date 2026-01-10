@@ -13,11 +13,11 @@
   "unknown_27": false,
   "ambient": 20,
   "actions": [
-    "Craft",
+    "Use",
     null,
-    "Configure",
-    null,
-    null
+    "Craft runes",
+    "Imbue weapons",
+    "Configure"
   ],
   "contrast": 10,
   "textures": {
@@ -27,7 +27,7 @@
   "unknown_88": false,
   "occludes_2": false,
   "cursors": [
-    62,
+    46,
     null,
     null,
     null,

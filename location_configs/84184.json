@@ -1,28 +1,23 @@
 {
   "id": 84184,
-  "models": {
-    "10": [
-      85682,
-      85672
+  "unknown_19": 0,
+  "ambient": 0,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "translate_y": 65496,
+  "morphs_1": {
+    "varbit": 60113,
+    "ids": [
+      117684,
+      117685,
+      117686,
+      117687,
+      117688,
+      117689,
+      117690,
+      117691
     ]
   },
-  "dim_x": 2,
-  "dim_y": 5,
-  "unknown_17": false,
-  "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 20,
-  "contrast": 25,
-  "colours": [
-    [
-      26735,
-      47672
-    ]
-  ],
-  "unknown_88": false,
-  "unknown_98": true,
-  "occludes_2": false,
-  "unknown_186": 0,
-  "unknown_188": true
+  "unknown_196": 4
 }

@@ -1,0 +1,25 @@
+{
+  "id": 134685,
+  "models": {
+    "10": [
+      137918
+    ]
+  },
+  "name": "Zanaris Market spirit stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    null,
+    "Steal from",
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "unknown_75": 0,
+  "unknown_98": true,
+  "occludes_2": false
+}

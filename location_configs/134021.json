@@ -1,0 +1,31 @@
+{
+  "id": 134021,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Rocky edge",
+  "unknown_27": false,
+  "actions": [
+    "Jump",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "unknown_69": 10,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    55,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

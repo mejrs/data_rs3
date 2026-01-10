@@ -1,0 +1,21 @@
+{
+  "id": 132787,
+  "models": {
+    "10": [
+      135994
+    ]
+  },
+  "name": "Bunny flipper",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Travel upwards",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

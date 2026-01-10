@@ -1,0 +1,37 @@
+{
+  "id": 133411,
+  "models": {
+    "10": [
+      136591
+    ]
+  },
+  "name": "Mudfall",
+  "dim_x": 3,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "actions": [
+    "Mine",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "322": 10886,
+    "1304": 21293
+  },
+  "model": false,
+  "translate_y": 25,
+  "is_members": true,
+  "mapscene": 12,
+  "occludes_2": false,
+  "cursors": [
+    58,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 134325,
+  "models": {
+    "10": [
+      134953
+    ]
+  },
+  "name": "Iron Enclave portal",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Teleport",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 612,
+  "unknown_196": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": 134703,
+  "models": {
+    "10": [
+      132119
+    ]
+  },
+  "name": "Sign",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "textures": {
+    "17553": 23098
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

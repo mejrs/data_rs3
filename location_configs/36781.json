@@ -2,13 +2,15 @@
   "id": 36781,
   "models": {
     "10": [
-      87411
+      133460,
+      133461,
+      133462
     ]
   },
   "name": "Fountain",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Fill",
     null,
@@ -16,12 +18,10 @@
     null,
     null
   ],
-  "contrast": 15,
   "unknown_78": {
     "unknown_1": 4064,
     "unknown_2": 8
   },
-  "unknown_98": true,
   "occludes_2": false,
   "unknown_104": 150,
   "unknown_1": 230,

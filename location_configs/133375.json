@@ -1,0 +1,28 @@
+{
+  "id": 133375,
+  "models": {
+    "0": [
+      136505
+    ]
+  },
+  "name": "Guild door",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_75": 0,
+  "occludes_2": false,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

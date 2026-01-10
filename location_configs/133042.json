@@ -1,0 +1,32 @@
+{
+  "id": 133042,
+  "models": {
+    "10": [
+      7874,
+      7766
+    ]
+  },
+  "name": "Harralander",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      21941
+    ],
+    [
+      19988,
+      21941
+    ],
+    [
+      19992,
+      21941
+    ]
+  ],
+  "occludes_2": false
+}

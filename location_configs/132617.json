@@ -1,0 +1,19 @@
+{
+  "id": 132617,
+  "models": {
+    "10": [
+      118558
+    ]
+  },
+  "name": "Golden Palace",
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_27": false,
+  "ambient": 0,
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_196": 4
+}

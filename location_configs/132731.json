@@ -1,0 +1,60 @@
+{
+  "id": 132731,
+  "models": {
+    "10": [
+      136103
+    ]
+  },
+  "name": "Beehive",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Tend to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "unknown_79": {
+    "unknown_1": 25,
+    "unknown_2": 65,
+    "unknown_3": 5,
+    "values": [
+      4702,
+      4701,
+      4700,
+      4705,
+      4698,
+      4703,
+      4706,
+      4704,
+      4699
+    ]
+  },
+  "occludes_2": false,
+  "unknown_104": 60,
+  "unknown_1": 240,
+  "unknown_2": 260,
+  "unknown_196": 2,
+  "unknown_204": [
+    {
+      "id": 708,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

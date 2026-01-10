@@ -11,7 +11,7 @@
   "ambient": 100,
   "actions": [
     "Jump-through",
-    "Talk-to",
+    "Talk to",
     null,
     null,
     null

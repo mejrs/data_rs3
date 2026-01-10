@@ -1,0 +1,45 @@
+{
+  "id": 132813,
+  "models": {
+    "10": [
+      18562
+    ]
+  },
+  "name": "Crypt",
+  "dim_x": 2,
+  "unknown_27": false,
+  "ambient": 25,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_204": [
+    {
+      "id": 61,
+      "some_bool": false,
+      "vec_1": [
+        1125515264,
+        1141800960,
+        3274964992
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

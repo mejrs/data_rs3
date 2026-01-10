@@ -1,0 +1,19 @@
+{
+  "id": 132908,
+  "models": {
+    "10": [
+      136220
+    ]
+  },
+  "name": "Waddle Willow",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

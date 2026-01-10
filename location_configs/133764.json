@@ -1,0 +1,29 @@
+{
+  "id": 133764,
+  "models": {
+    "10": [
+      118501,
+      137004
+    ]
+  },
+  "name": "Apmeken statue (active)",
+  "actions": [
+    "Toggle Boon",
+    "Quick Toggle",
+    null,
+    null,
+    null
+  ],
+  "scale_x": 280,
+  "scale_y": 280,
+  "scale_z": 280,
+  "unknown_78": {
+    "unknown_1": 58611,
+    "unknown_2": 12
+  },
+  "unknown_98": true,
+  "occludes_2": false,
+  "unknown_104": 20,
+  "unknown_178": 6,
+  "unknown_196": 4
+}

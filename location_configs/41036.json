@@ -10,8 +10,8 @@
   "unknown_24": 21271,
   "unknown_27": false,
   "actions": [
-    "Look-at",
     "Search",
+    "Investigate",
     null,
     null,
     null
@@ -24,8 +24,8 @@
   "occludes_2": false,
   "unknown_104": 30,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

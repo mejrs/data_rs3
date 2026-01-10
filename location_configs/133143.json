@@ -1,0 +1,32 @@
+{
+  "id": 133143,
+  "models": {
+    "10": [
+      7871,
+      7766
+    ]
+  },
+  "name": "Tarromin",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      23353
+    ],
+    [
+      19988,
+      23353
+    ],
+    [
+      19992,
+      23353
+    ]
+  ],
+  "occludes_2": false
+}

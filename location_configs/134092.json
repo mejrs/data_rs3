@@ -1,0 +1,21 @@
+{
+  "id": 134092,
+  "models": {
+    "10": [
+      133704
+    ]
+  },
+  "name": "Glowing crystal",
+  "unknown_19": 1,
+  "colours": [
+    [
+      64631,
+      44132
+    ]
+  ],
+  "textures": {
+    "18943": 22459
+  },
+  "is_members": true,
+  "occludes_2": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": 132921,
+  "models": {
+    "10": [
+      136218
+    ]
+  },
+  "name": "Sanctuary entrance",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "11401": 18096
+  },
+  "occludes_2": false
+}

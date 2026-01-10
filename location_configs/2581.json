@@ -11,8 +11,8 @@
   "unknown_21": true,
   "unknown_24": 32535,
   "actions": [
-    null,
     "Search",
+    null,
     null,
     null,
     null
@@ -45,8 +45,8 @@
   "mapscene": 12,
   "occludes_2": false,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

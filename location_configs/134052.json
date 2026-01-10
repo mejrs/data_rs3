@@ -1,0 +1,17 @@
+{
+  "id": 134052,
+  "models": {
+    "10": [
+      137131
+    ]
+  },
+  "name": "Awning",
+  "dim_x": 3,
+  "dim_y": 3,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_196": 3
+}

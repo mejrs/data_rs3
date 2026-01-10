@@ -1,0 +1,32 @@
+{
+  "id": 134184,
+  "models": {
+    "10": [
+      137333,
+      137336
+    ]
+  },
+  "name": "Green logs",
+  "unknown_19": 1,
+  "unknown_24": 22684,
+  "unknown_27": false,
+  "actions": [
+    "Burn",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 4180,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

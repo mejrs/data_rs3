@@ -2,27 +2,20 @@
   "id": 84177,
   "models": {
     "10": [
-      85674,
-      85685
+      70769
     ]
   },
-  "dim_x": 5,
-  "dim_y": 2,
-  "unknown_17": false,
-  "unknown_19": 0,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 20,
-  "contrast": 25,
-  "colours": [
-    [
-      26735,
-      801
-    ]
+  "name": "Rare chest",
+  "unknown_19": 1,
+  "actions": [
+    "End Heist",
+    null,
+    null,
+    null,
+    null
   ],
-  "unknown_88": false,
-  "unknown_98": true,
-  "occludes_2": false,
-  "unknown_186": 0,
-  "unknown_188": true
+  "textures": {
+    "11375": 14478
+  },
+  "occludes_2": false
 }

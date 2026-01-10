@@ -1,0 +1,24 @@
+{
+  "id": 134166,
+  "models": {
+    "10": [
+      137354,
+      134641
+    ]
+  },
+  "name": "Black kat pumpkin",
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Harvest",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 4177,
+  "unknown_196": 4
+}

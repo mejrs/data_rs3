@@ -13,5 +13,26 @@
   "occludes_2": false,
   "unknown_186": 2,
   "unknown_188": true,
-  "unknown_196": 4
+  "unknown_196": 4,
+  "model_morphs": {
+    "unk0": 18,
+    "varbit": 57011,
+    "multi_model": null,
+    "multi_head_model": [
+      {
+        "value": 2,
+        "models": [
+          {
+            "unk1": 3,
+            "unk2": 3,
+            "unk3": 124732
+          }
+        ]
+      }
+    ],
+    "multi_retex": null,
+    "multi_recol": null,
+    "multi_ret_int": null,
+    "default": 2
+  }
 }

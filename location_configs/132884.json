@@ -1,0 +1,34 @@
+{
+  "id": 132884,
+  "models": {
+    "10": [
+      121700,
+      136211
+    ]
+  },
+  "name": "Fishing spot?",
+  "unknown_19": 1,
+  "unknown_24": 9645,
+  "unknown_27": false,
+  "actions": [
+    "Fish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      520
+    ]
+  },
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

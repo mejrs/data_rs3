@@ -11,7 +11,7 @@
   "unknown_27": false,
   "ambient": 20,
   "actions": [
-    "Take duck food",
+    "Take from",
     null,
     null,
     null,
@@ -19,5 +19,13 @@
   ],
   "contrast": 15,
   "model": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

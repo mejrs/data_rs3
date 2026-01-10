@@ -15,8 +15,8 @@
   "unknown_27": false,
   "ambient": 25,
   "actions": [
-    "Look-at",
     "Search",
+    "Investigate",
     null,
     null,
     null
@@ -25,8 +25,8 @@
   "unknown_69": 14,
   "occludes_2": false,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

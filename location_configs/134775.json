@@ -1,0 +1,16 @@
+{
+  "id": 134775,
+  "models": {
+    "10": [
+      138207
+    ]
+  },
+  "name": "Beer kegs",
+  "dim_x": 2,
+  "dim_y": 4,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false,
+  "unknown_196": 3
+}

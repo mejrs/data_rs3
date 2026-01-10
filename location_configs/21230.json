@@ -7,22 +7,22 @@
       19140
     ]
   },
-  "name": "Herbs",
+  "name": "Wergali",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 40,
   "actions": [
     "Pick",
     "Inspect",
-    null,
-    null,
+    "Clear",
+    "Guide",
     null
   ],
   "colours": [
     [
       20364,
-      670
+      551
     ],
     [
       19988,
@@ -30,7 +30,7 @@
     ],
     [
       19992,
-      431
+      551
     ]
   ],
   "occludes_2": false,

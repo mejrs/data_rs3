@@ -2,36 +2,18 @@
   "id": 86429,
   "models": {
     "10": [
-      88372,
-      88371
+      68840
     ]
   },
-  "name": "Old mine entrance",
-  "dim_x": 3,
-  "dim_y": 3,
+  "name": "Ornate Chest",
+  "is_transparent": true,
   "unknown_19": 1,
-  "unknown_27": false,
   "actions": [
-    "Open",
+    "Pick lock",
     null,
     null,
     null,
     null
   ],
-  "occludes_2": false,
-  "member_actions": [
-    null,
-    null,
-    null,
-    null,
-    "Pick-lock"
-  ],
-  "cursors": [
-    49,
-    null,
-    null,
-    null,
-    195,
-    null
-  ]
+  "occludes_2": false
 }

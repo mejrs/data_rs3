@@ -1,0 +1,37 @@
+{
+  "id": 133046,
+  "models": {
+    "10": [
+      19148,
+      19152,
+      19143
+    ]
+  },
+  "name": "Harralander",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "ambient": 40,
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      21941
+    ],
+    [
+      19988,
+      21941
+    ],
+    [
+      19992,
+      21941
+    ]
+  ],
+  "occludes_2": false
+}

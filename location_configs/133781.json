@@ -1,0 +1,13 @@
+{
+  "id": 133781,
+  "models": {
+    "10": [
+      136893
+    ]
+  },
+  "name": "Sarcophagus",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_27": false,
+  "occludes_2": false
+}

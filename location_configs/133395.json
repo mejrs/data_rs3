@@ -1,0 +1,46 @@
+{
+  "id": 133395,
+  "models": {
+    "10": [
+      119814,
+      136480,
+      121648
+    ]
+  },
+  "name": "Tailor's display",
+  "unknown_27": false,
+  "actions": [
+    "Craft",
+    "Design",
+    "Adorn",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      305,
+      5429
+    ],
+    [
+      290,
+      5413
+    ],
+    [
+      292,
+      5415
+    ]
+  ],
+  "textures": {
+    "12727": 12806
+  },
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    62,
+    50,
+    62,
+    null,
+    null,
+    null
+  ]
+}

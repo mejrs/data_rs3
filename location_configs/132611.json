@@ -1,0 +1,33 @@
+{
+  "id": 132611,
+  "models": {
+    "10": [
+      104494
+    ]
+  },
+  "name": "Albert's podium",
+  "unknown_19": 1,
+  "ambient": 25,
+  "actions": [
+    "Ride",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "textures": {
+    "7166": 20998
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_186": 0,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

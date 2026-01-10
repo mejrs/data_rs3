@@ -5,8 +5,9 @@
       65002
     ]
   },
+  "name": "Cauldron",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_24": 10884,
   "unknown_27": false,
   "ambient": 25,

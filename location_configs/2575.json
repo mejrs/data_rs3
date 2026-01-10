@@ -8,8 +8,8 @@
   "name": "Marshy jungle vine",
   "unknown_21": true,
   "actions": [
-    null,
     "Search",
+    null,
     null,
     null,
     null
@@ -27,8 +27,8 @@
   "unknown_75": 0,
   "occludes_2": false,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

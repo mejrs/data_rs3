@@ -1,0 +1,32 @@
+{
+  "id": 133158,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Toadflax",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      20382
+    ],
+    [
+      19988,
+      20382
+    ],
+    [
+      19992,
+      20382
+    ]
+  ],
+  "occludes_2": false
+}

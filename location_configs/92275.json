@@ -13,7 +13,7 @@
   "actions": [
     "Enter",
     "Retune",
-    null,
+    "Set arrival point",
     null,
     null
   ],

@@ -1,0 +1,14 @@
+{
+  "id": 133300,
+  "models": {
+    "10": [
+      136513
+    ]
+  },
+  "name": "Crafting table",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

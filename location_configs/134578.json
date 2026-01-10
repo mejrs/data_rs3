@@ -1,0 +1,22 @@
+{
+  "id": 134578,
+  "models": {
+    "10": [
+      68840
+    ]
+  },
+  "name": "Shadow chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11375": 22971
+  },
+  "occludes_2": false
+}

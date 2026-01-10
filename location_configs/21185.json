@@ -6,19 +6,18 @@
       7766
     ]
   },
-  "name": "Herbs",
-  "ambient": 100,
+  "name": "Wergali",
   "actions": [
     "Pick",
     "Inspect",
-    null,
+    "Clear",
     "Guide",
     null
   ],
   "colours": [
     [
       20364,
-      670
+      551
     ],
     [
       19988,
@@ -26,7 +25,7 @@
     ],
     [
       19992,
-      431
+      551
     ]
   ],
   "occludes_2": false,

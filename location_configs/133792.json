@@ -1,0 +1,40 @@
+{
+  "id": 133792,
+  "models": {
+    "10": [
+      132988,
+      133028
+    ]
+  },
+  "name": "Pedestal (Ensoul beacon)",
+  "unknown_19": 1,
+  "unknown_24": 35819,
+  "actions": [
+    "Replace focus",
+    "Remove focus",
+    "Repair all",
+    "Check durability all",
+    "Clear site"
+  ],
+  "colours": [
+    [
+      10395,
+      43019
+    ],
+    [
+      35523,
+      44600
+    ]
+  ],
+  "textures": {
+    "18194": 22106
+  },
+  "unknown_78": {
+    "unknown_1": 58705,
+    "unknown_2": 6
+  },
+  "occludes_2": false,
+  "unknown_104": 150,
+  "unknown_1": 255,
+  "unknown_2": 260
+}

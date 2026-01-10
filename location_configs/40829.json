@@ -13,10 +13,10 @@
   "unknown_27": false,
   "ambient": 25,
   "actions": [
-    null,
-    null,
-    null,
     "Check-bowl",
+    null,
+    null,
+    null,
     null
   ],
   "contrast": 15,

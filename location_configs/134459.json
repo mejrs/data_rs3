@@ -1,0 +1,27 @@
+{
+  "id": 134459,
+  "models": {
+    "10": [
+      47543
+    ]
+  },
+  "name": "Bench",
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Sit on",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_69": 14,
+  "translate_x": 0,
+  "translate_y": 0,
+  "translate_z": 30,
+  "unknown_75": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

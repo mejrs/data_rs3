@@ -2,14 +2,14 @@
   "id": 17010,
   "models": {
     "10": [
-      40650
+      137725,
+      137753
     ]
   },
   "name": "Astral altar",
   "dim_x": 3,
   "dim_y": 3,
-  "unknown_24": 503,
-  "ambient": 40,
+  "unknown_24": 6493,
   "actions": [
     "Use",
     "Pray",
@@ -17,7 +17,6 @@
     "Imbue weapons",
     "Configure"
   ],
-  "contrast": 40,
   "occludes_2": false,
   "cursors": [
     46,

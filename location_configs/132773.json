@@ -1,0 +1,32 @@
+{
+  "id": 132773,
+  "models": {
+    "10": [
+      136148
+    ]
+  },
+  "name": "Slalom poles",
+  "dim_x": 3,
+  "dim_y": 7,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Navigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4,
+  "unknown_203": true
+}

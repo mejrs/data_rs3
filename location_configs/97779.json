@@ -27,5 +27,26 @@
     null,
     null,
     null
-  ]
+  ],
+  "model_morphs": {
+    "unk0": 18,
+    "varbit": 57011,
+    "multi_model": null,
+    "multi_head_model": [
+      {
+        "value": 1,
+        "models": [
+          {
+            "unk1": 3,
+            "unk2": 3,
+            "unk3": 116288
+          }
+        ]
+      }
+    ],
+    "multi_retex": null,
+    "multi_recol": null,
+    "multi_ret_int": null,
+    "default": 2
+  }
 }

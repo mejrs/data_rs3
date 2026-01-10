@@ -5,9 +5,14 @@
       128434
     ]
   },
+  "dim_x": 2,
+  "dim_y": 2,
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
+  "scale_x": 74,
+  "scale_y": 74,
+  "scale_z": 74,
   "unknown_81": 80,
   "occludes_2": false,
   "unknown_186": 2

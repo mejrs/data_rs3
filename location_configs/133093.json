@@ -1,0 +1,32 @@
+{
+  "id": 133093,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Marrentill",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      23754
+    ],
+    [
+      19988,
+      23754
+    ],
+    [
+      19992,
+      23754
+    ]
+  ],
+  "occludes_2": false
+}

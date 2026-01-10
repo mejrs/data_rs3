@@ -7,19 +7,19 @@
   },
   "name": "Smashed table",
   "actions": [
+    "Search",
     null,
     null,
     null,
-    null,
-    "Search"
+    null
   ],
   "occludes_2": false,
   "cursors": [
-    null,
-    null,
-    null,
-    null,
     56,
+    null,
+    null,
+    null,
+    null,
     null
   ]
 }

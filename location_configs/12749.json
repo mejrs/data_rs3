@@ -9,8 +9,8 @@
   "dim_x": 2,
   "dim_y": 2,
   "actions": [
-    null,
     "Search",
+    null,
     null,
     null,
     null
@@ -20,8 +20,8 @@
   "scale_z": 242,
   "occludes_2": false,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

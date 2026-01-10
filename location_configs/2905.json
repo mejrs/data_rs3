@@ -8,8 +8,8 @@
   "name": "Crate",
   "ambient": 25,
   "actions": [
-    "Look",
     "Search",
+    "Look",
     null,
     null,
     null
@@ -31,8 +31,8 @@
   ],
   "occludes_2": false,
   "cursors": [
-    null,
     56,
+    null,
     null,
     null,
     null,

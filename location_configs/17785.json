@@ -7,30 +7,29 @@
       19150
     ]
   },
-  "name": "Herb patch",
+  "name": "Fellstalk",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
   "actions": [
     null,
     "Inspect",
     null,
-    null,
+    "Guide",
     null
   ],
   "colours": [
     [
       20364,
-      19986
+      14511
     ],
     [
       19988,
-      21660
+      14511
     ],
     [
       19992,
-      21662
+      14511
     ]
   ],
   "occludes_2": false

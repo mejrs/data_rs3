@@ -7,11 +7,10 @@
       19150
     ]
   },
-  "name": "Herb patch",
+  "name": "Guam",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
   "actions": [
     null,
     "Inspect",

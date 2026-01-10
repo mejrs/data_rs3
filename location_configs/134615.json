@@ -1,0 +1,28 @@
+{
+  "id": 134615,
+  "models": {
+    "10": [
+      71264
+    ]
+  },
+  "name": "Heist storage",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": 132826,
+  "models": {
+    "10": [
+      1455
+    ]
+  },
+  "name": "Haystack",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_204": [
+    {
+      "id": 61,
+      "some_bool": false,
+      "vec_1": [
+        3281387520,
+        1125515264,
+        1125515264
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

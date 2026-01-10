@@ -8,6 +8,12 @@
   "dim_x": 2,
   "unknown_17": false,
   "unknown_19": 0,
+  "colours": [
+    [
+      4154,
+      40227
+    ]
+  ],
   "textures": {
     "11813": 16565
   },

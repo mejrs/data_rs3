@@ -1,0 +1,21 @@
+{
+  "id": 133214,
+  "models": {
+    "10": [
+      136438,
+      7767,
+      7783,
+      136442
+    ]
+  },
+  "name": "Starbloom flower plant",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "model": false,
+  "occludes_2": false
+}

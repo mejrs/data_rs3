@@ -8,7 +8,7 @@
   "name": "Kalphite Queen head",
   "ambient": 25,
   "actions": [
-    "Talk-to",
+    "Talk to",
     null,
     null,
     null,

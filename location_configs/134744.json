@@ -1,0 +1,33 @@
+{
+  "id": 134744,
+  "models": {
+    "10": [
+      93899
+    ]
+  },
+  "name": "Mysterious entrance (Flesh-hatcher Mhekarnahz)",
+  "dim_x": 2,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_24": 14281,
+  "ambient": 15,
+  "actions": [
+    "Enter",
+    "Public encounter",
+    "Private encounter",
+    "Join private encounter",
+    "Rejoin last private encounter"
+  ],
+  "contrast": 10,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

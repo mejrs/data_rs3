@@ -1,0 +1,29 @@
+{
+  "id": 132746,
+  "models": {
+    "10": [
+      136113
+    ]
+  },
+  "name": "Hanging wasp traps",
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Take from",
+    "Take 5",
+    "Take X",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

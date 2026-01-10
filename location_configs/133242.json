@@ -1,0 +1,14 @@
+{
+  "id": 133242,
+  "models": {
+    "10": [
+      136504
+    ]
+  },
+  "name": "Crafting guild entrance",
+  "dim_x": 3,
+  "unknown_17": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 4
+}

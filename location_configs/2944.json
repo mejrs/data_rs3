@@ -8,9 +8,9 @@
   "name": "Tall Reeds",
   "unknown_17": false,
   "actions": [
-    "Look",
-    "Search",
     "Cut-Reed",
+    "Search",
+    null,
     null,
     null
   ],

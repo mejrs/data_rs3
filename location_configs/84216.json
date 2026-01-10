@@ -2,11 +2,28 @@
   "id": 84216,
   "models": {
     "22": [
-      1105
+      80114
     ]
   },
+  "name": "Astromancer's log",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
   "unknown_73": true,
-  "is_members": true,
   "occludes_2": false,
-  "mapfunction": 1275
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

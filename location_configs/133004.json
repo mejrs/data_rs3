@@ -1,0 +1,32 @@
+{
+  "id": 133004,
+  "models": {
+    "10": [
+      7873,
+      7766
+    ]
+  },
+  "name": "Bloodweed",
+  "actions": [
+    null,
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      20364,
+      924
+    ],
+    [
+      19988,
+      924
+    ],
+    [
+      19992,
+      924
+    ]
+  ],
+  "occludes_2": false
+}
