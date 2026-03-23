@@ -16,5 +16,11 @@
     null,
     null
   ],
+  "colours": [
+    [
+      9412,
+      9386
+    ]
+  ],
   "occludes_2": false
 }

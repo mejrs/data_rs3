@@ -2,11 +2,10 @@
   "id": 47594,
   "models": {
     "10": [
-      50185
+      139096
     ]
   },
   "name": "Dead tree",
-  "ambient": 25,
   "actions": [
     "Chop down",
     null,
@@ -14,25 +13,9 @@
     null,
     null
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      6028,
-      5388
-    ],
-    [
-      6026,
-      5386
-    ],
-    [
-      6024,
-      5384
-    ],
-    [
-      6022,
-      5382
-    ]
-  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
   "unknown_81": 42,
   "mapscene": 6,
   "occludes_2": false,

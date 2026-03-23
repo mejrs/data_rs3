@@ -1,12 +1,18 @@
 {
   "id": 26497,
   "models": {
+    "10": [
+      121883
+    ],
     "22": [
-      35900
+      139104
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
+  "scale_x": 27,
+  "scale_y": 40,
+  "scale_z": 27,
   "unknown_73": true,
   "unknown_88": false,
   "occludes_2": false

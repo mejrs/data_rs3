@@ -1,0 +1,19 @@
+{
+  "id": 136257,
+  "models": {
+    "10": [
+      139947,
+      139949
+    ]
+  },
+  "name": "Meat table",
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

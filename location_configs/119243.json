@@ -2,12 +2,10 @@
   "id": 119243,
   "models": {
     "10": [
-      82170
+      136513
     ]
   },
   "name": "Workbench",
-  "dim_y": 2,
-  "ambient": 25,
-  "contrast": 15,
+  "dim_x": 2,
   "occludes_2": false
 }

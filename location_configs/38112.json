@@ -2,12 +2,17 @@
   "id": 38112,
   "models": {
     "10": [
-      41266
+      133456
     ]
   },
   "name": "Pots",
   "is_transparent": true,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "colours": [
+    [
+      16335,
+      5691
+    ]
+  ],
   "occludes_2": false
 }

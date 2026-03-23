@@ -10,14 +10,26 @@
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "colours": [
+    [
+      25650,
+      5170
+    ],
+    [
+      25657,
+      5176
+    ],
+    [
+      25633,
+      5165
+    ],
+    [
+      25642,
+      5167
+    ]
+  ],
   "mirror": true,
-  "unknown_88": false,
-  "unknown_163": {
-    "unknown_1": -1,
-    "unknown_2": -1,
-    "unknown_3": 0,
-    "unknown_4": 42
-  }
+  "scale_z": 120,
+  "unknown_88": false
 }

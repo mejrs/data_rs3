@@ -6,7 +6,8 @@
       89329
     ]
   },
-  "unknown_19": 0,
+  "name": "Wall torch",
+  "unknown_19": 1,
   "ambient": 0,
   "model": false,
   "occludes_2": false,

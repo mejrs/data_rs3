@@ -1,0 +1,19 @@
+{
+  "id": 135726,
+  "models": {
+    "10": [
+      23367
+    ]
+  },
+  "name": "Secure chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Pick lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

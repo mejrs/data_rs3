@@ -1,0 +1,59 @@
+{
+  "id": 136867,
+  "models": {
+    "10": [
+      139961,
+      139957,
+      139962,
+      139958
+    ]
+  },
+  "name": "Acadia birdhouse",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    "Empty",
+    "Check seed"
+  ],
+  "colours": [
+    [
+      1547,
+      50336
+    ],
+    [
+      1544,
+      50325
+    ],
+    [
+      1540,
+      50316
+    ],
+    [
+      1428,
+      50222
+    ],
+    [
+      1563,
+      46226
+    ],
+    [
+      1449,
+      46235
+    ],
+    [
+      1556,
+      47244
+    ]
+  ],
+  "textures": {
+    "23590": 11042
+  },
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

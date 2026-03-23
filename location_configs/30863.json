@@ -2,12 +2,12 @@
   "id": 30863,
   "models": {
     "10": [
-      9504
+      81053
     ]
   },
   "name": "Ladder",
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Climb-down",
     null,
@@ -15,7 +15,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "unknown_69": 11,
   "mapscene": 7,
   "occludes_2": false,

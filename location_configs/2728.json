@@ -2,28 +2,26 @@
   "id": 2728,
   "models": {
     "10": [
-      1219
+      138886
     ]
   },
   "name": "Range",
   "dim_y": 2,
   "actions": [
-    "Cook-at",
+    "Cook at",
     null,
     null,
     null,
     null
   ],
-  "textures": {
-    "1571": 1562
-  },
   "unknown_69": 13,
   "unknown_78": {
-    "unknown_1": 4979,
-    "unknown_2": 4
+    "unknown_1": 4985,
+    "unknown_2": 3
   },
   "occludes_2": false,
   "unknown_104": 50,
+  "mapfunction": 596,
   "cursors": [
     64,
     null,

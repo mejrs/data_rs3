@@ -2,7 +2,11 @@
   "id": 82059,
   "models": {
     "10": [
-      70327
+      81055,
+      81053
+    ],
+    "22": [
+      139044
     ]
   },
   "name": "Trapdoor",
@@ -13,7 +17,7 @@
     null,
     null
   ],
-  "unknown_69": 7,
+  "unknown_69": 14,
   "occludes_2": false,
   "cursors": [
     53,

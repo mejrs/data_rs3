@@ -9,8 +9,8 @@
   "unknown_19": 1,
   "actions": [
     "Climb",
-    "Climb-up",
-    "Climb-down",
+    "Climb up",
+    "Climb down",
     null,
     null
   ],

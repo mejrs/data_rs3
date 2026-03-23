@@ -5,8 +5,9 @@
       64787
     ]
   },
+  "name": "Log",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "ambient": 25,

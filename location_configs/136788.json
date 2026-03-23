@@ -1,0 +1,33 @@
+{
+  "id": 136788,
+  "models": {
+    "10": [
+      8208,
+      7766
+    ]
+  },
+  "name": "Dead onions",
+  "ambient": 25,
+  "actions": [
+    "Grieve",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17701,
+      5268
+    ],
+    [
+      17709,
+      5276
+    ],
+    [
+      13508,
+      10295
+    ]
+  ],
+  "occludes_2": false
+}

@@ -21,5 +21,13 @@
   "model": false,
   "unknown_69": 7,
   "unknown_88": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    196,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

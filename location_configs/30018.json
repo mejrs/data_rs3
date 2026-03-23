@@ -3,13 +3,11 @@
   "models": {
     "10": [
       32760,
-      25342,
-      25343
+      138857
     ]
   },
   "name": "Display case",
   "unknown_27": false,
-  "ambient": 20,
   "actions": [
     "Study",
     null,

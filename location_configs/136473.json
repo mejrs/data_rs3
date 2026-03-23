@@ -1,0 +1,24 @@
+{
+  "id": 136473,
+  "models": {
+    "10": [
+      139804,
+      89361
+    ]
+  },
+  "name": "Primeval slabs",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Break through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "is_members": true,
+  "occludes_2": false
+}

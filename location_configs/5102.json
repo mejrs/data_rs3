@@ -2,15 +2,17 @@
   "id": 5102,
   "models": {
     "10": [
-      24726,
-      63543
+      87927,
+      138782
     ]
   },
   "name": "Bed",
   "dim_y": 2,
-  "ambient": 20,
-  "contrast": 15,
-  "scale_x": 110,
-  "scale_y": 110,
+  "colours": [
+    [
+      6203,
+      6960
+    ]
+  ],
   "occludes_2": false
 }

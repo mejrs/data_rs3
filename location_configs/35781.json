@@ -2,13 +2,12 @@
   "id": 35781,
   "models": {
     "10": [
-      36271
+      127763
     ]
   },
   "name": "Staircase",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 20,
   "actions": [
     "Climb-up",
     null,
@@ -16,7 +15,7 @@
     null,
     null
   ],
-  "contrast": 15,
+  "mirror": true,
   "unknown_69": 11,
   "mapscene": 7,
   "occludes_2": false,

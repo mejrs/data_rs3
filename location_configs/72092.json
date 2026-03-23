@@ -5,9 +5,10 @@
       7749
     ]
   },
+  "name": "Winch",
   "dim_x": 2,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_22": true,
   "model": false,
   "occludes_2": false,

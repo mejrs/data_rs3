@@ -13,7 +13,7 @@
   "actions": [
     "Harvest",
     "Chop down",
-    null,
+    "Check Blossoms",
     null,
     null
   ],

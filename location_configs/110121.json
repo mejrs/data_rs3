@@ -2,15 +2,11 @@
   "id": 110121,
   "models": {
     "0": [
-      9476
-    ],
-    "9": [
-      9477
+      138381
     ]
   },
   "name": "Door",
   "unknown_19": 1,
-  "occludes_1": false,
   "ambient": 25,
   "contrast": 15,
   "colours": [
@@ -40,5 +36,5 @@
     ]
   ],
   "unknown_75": 0,
-  "unknown_170": 948
+  "occludes_2": false
 }

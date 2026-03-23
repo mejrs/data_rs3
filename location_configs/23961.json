@@ -9,8 +9,9 @@
   "name": "Lathe",
   "dim_x": 2,
   "unknown_24": 5744,
-  "ambient": 20,
-  "contrast": 20,
+  "textures": {
+    "22968": 23172
+  },
   "scale_x": 64,
   "scale_y": 64,
   "scale_z": 64,

@@ -1,0 +1,24 @@
+{
+  "id": 136735,
+  "models": {
+    "10": [
+      139865,
+      139866
+    ]
+  },
+  "name": "Obelisk",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 8510,
+  "unknown_27": false,
+  "actions": [
+    "Infuse pouch",
+    "Renew points",
+    null,
+    null,
+    null
+  ],
+  "is_members": true,
+  "occludes_2": false
+}

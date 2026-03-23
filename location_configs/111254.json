@@ -2,13 +2,12 @@
   "id": 111254,
   "models": {
     "10": [
-      64862
+      140079
     ]
   },
   "name": "Tree",
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 64,
   "actions": [
     "Chop down",
     null,

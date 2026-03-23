@@ -2,13 +2,11 @@
   "id": 17451,
   "models": {
     "10": [
-      17475,
-      17474,
-      17473
+      89005,
+      138892
     ]
   },
   "name": "Chess",
-  "ambient": 25,
-  "contrast": 25,
+  "ambient": 0,
   "occludes_2": false
 }

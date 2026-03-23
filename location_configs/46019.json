@@ -2,13 +2,14 @@
   "id": 46019,
   "models": {
     "10": [
-      49090
+      89136,
+      125458
     ]
   },
   "name": "Water barrel",
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Fill",
     null,
@@ -16,6 +17,5 @@
     null,
     null
   ],
-  "contrast": 15,
   "occludes_2": false
 }

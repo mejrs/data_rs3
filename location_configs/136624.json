@@ -1,0 +1,28 @@
+{
+  "id": 136624,
+  "models": {
+    "10": [
+      139790,
+      139789
+    ]
+  },
+  "name": "Table",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Press ingredient",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      527
+    ]
+  },
+  "unknown_196": 2
+}

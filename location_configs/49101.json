@@ -2,13 +2,13 @@
   "id": 49101,
   "models": {
     "10": [
-      52798
+      80875,
+      127761
     ]
   },
   "name": "Bookcase",
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Search",
     null,
@@ -16,7 +16,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "textures": {
     "2094": 3171,
     "2106": 3179

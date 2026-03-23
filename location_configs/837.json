@@ -2,10 +2,12 @@
   "id": 837,
   "models": {
     "10": [
-      1160
+      139062,
+      139063
     ]
   },
   "name": "Axe cabinet",
   "dim_y": 2,
+  "ambient": 0,
   "occludes_2": false
 }

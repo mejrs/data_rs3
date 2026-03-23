@@ -2,7 +2,7 @@
   "id": 43754,
   "models": {
     "10": [
-      49426
+      138894
     ]
   },
   "name": "Table",
@@ -10,25 +10,8 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      6443,
-      5400
-    ],
-    [
-      6451,
-      5398
-    ],
-    [
-      6563,
-      5390
-    ],
-    [
-      6439,
-      5394
-    ]
-  ],
+  "scale_x": 100,
+  "scale_y": 128,
+  "scale_z": 100,
   "occludes_2": false
 }

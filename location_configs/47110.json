@@ -11,8 +11,24 @@
   "unknown_19": 0,
   "unknown_22": true,
   "unknown_24": 1216,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      25650,
+      5170
+    ],
+    [
+      25657,
+      5176
+    ],
+    [
+      25633,
+      5165
+    ],
+    [
+      25642,
+      5167
+    ]
+  ],
   "mirror": true,
   "occludes_2": false,
   "unknown_196": 4

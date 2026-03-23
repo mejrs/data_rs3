@@ -1,0 +1,16 @@
+{
+  "id": 135504,
+  "models": {
+    "4": [
+      139019
+    ]
+  },
+  "name": "Lantern",
+  "unknown_19": 1,
+  "ambient": 0,
+  "textures": {
+    "13116": 11690
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

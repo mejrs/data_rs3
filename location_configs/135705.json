@@ -1,0 +1,24 @@
+{
+  "id": 135705,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "unknown_69": 14,
+  "morphs_2": {
+    "varbit": 56259,
+    "ids": [
+      135729,
+      135728,
+      135728,
+      135728,
+      135728,
+      135728,
+      135728
+    ],
+    "default": 135729
+  },
+  "mapfunction": 4129,
+  "params": {
+    "23": 78
+  }
+}

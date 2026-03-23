@@ -2,15 +2,14 @@
   "id": 15699,
   "models": {
     "10": [
-      49094,
-      49418
+      139060,
+      139061
     ]
   },
   "name": "Box cart",
   "dim_x": 3,
   "dim_y": 2,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
   "occludes_2": false,
   "unknown_196": 2
 }

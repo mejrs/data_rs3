@@ -2,18 +2,15 @@
   "id": 112279,
   "models": {
     "10": [
-      65887
+      89336
     ]
   },
   "name": "Cart",
-  "dim_x": 2,
-  "dim_y": 3,
+  "dim_x": 3,
+  "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "model": false,
-  "scale_x": 150,
-  "scale_y": 150,
-  "scale_z": 150,
   "occludes_2": false
 }

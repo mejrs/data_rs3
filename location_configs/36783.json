@@ -2,16 +2,14 @@
   "id": 36783,
   "models": {
     "10": [
-      36469
+      138839
     ]
   },
   "name": "Chair",
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "textures": {
-    "2073": 3171,
-    "2093": 3179
-  },
+  "ambient": 0,
+  "scale_x": 135,
+  "scale_y": 140,
+  "scale_z": 135,
   "occludes_2": false
 }

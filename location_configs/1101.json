@@ -2,20 +2,10 @@
   "id": 1101,
   "models": {
     "10": [
-      1161
+      47547
     ]
   },
   "name": "Chair",
   "is_transparent": true,
-  "colours": [
-    [
-      933,
-      43105
-    ],
-    [
-      3986,
-      9096
-    ]
-  ],
   "occludes_2": false
 }

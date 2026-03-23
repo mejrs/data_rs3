@@ -1,0 +1,24 @@
+{
+  "id": 136948,
+  "models": {
+    "10": [
+      86505,
+      139808
+    ]
+  },
+  "dim_x": 2,
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "unknown_27": false,
+  "textures": {
+    "11948": 23611,
+    "11949": 23612,
+    "12338": 23594
+  },
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "occludes_2": false,
+  "unknown_186": 2
+}

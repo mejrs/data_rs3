@@ -2,13 +2,17 @@
   "id": 33049,
   "models": {
     "10": [
-      60603
+      139250
     ]
   },
   "name": "Rubble",
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false,
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  },
   "occludes_2": false,
   "member_actions": [
     "Search",

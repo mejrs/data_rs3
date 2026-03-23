@@ -1,0 +1,19 @@
+{
+  "id": 136595,
+  "models": {
+    "22": [
+      120897
+    ]
+  },
+  "unknown_21": true,
+  "scale_x": 48,
+  "scale_y": 48,
+  "scale_z": 48,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      527
+    ]
+  }
+}

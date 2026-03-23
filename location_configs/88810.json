@@ -2,23 +2,25 @@
   "id": 88810,
   "models": {
     "10": [
-      92465
+      91883
     ]
   },
-  "name": "Stairs",
+  "name": "Armadyl's tower",
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_17": false,
-  "ambient": 25,
+  "unknown_19": 1,
+  "unknown_27": false,
   "actions": [
-    "Climb up",
+    "Teleport up to",
     null,
     null,
     null,
     null
   ],
-  "contrast": 15,
-  "mapscene": 7,
+  "scale_x": 260,
+  "scale_y": 260,
+  "scale_z": 260,
+  "mapscene": 69,
   "occludes_2": false,
   "cursors": [
     52,

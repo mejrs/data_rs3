@@ -2,9 +2,11 @@
   "id": 208,
   "models": {
     "10": [
-      1941
+      127757,
+      127758
     ]
   },
   "name": "Candles",
+  "unknown_98": true,
   "occludes_2": false
 }

@@ -1,0 +1,30 @@
+{
+  "id": 135559,
+  "models": {
+    "10": [
+      134540
+    ]
+  },
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "ambient": 0,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

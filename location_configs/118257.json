@@ -2,7 +2,7 @@
   "id": 118257,
   "models": {
     "10": [
-      12646
+      139132
     ]
   },
   "name": "Altar space",
@@ -13,6 +13,9 @@
     null,
     null
   ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false,
   "cursors": [
     174,

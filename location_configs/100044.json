@@ -2,12 +2,11 @@
   "id": 100044,
   "models": {
     "10": [
-      97101
+      132235
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 30,
   "occludes_2": false
 }

@@ -1,0 +1,17 @@
+{
+  "id": 136535,
+  "models": {
+    "10": [
+      84229
+    ]
+  },
+  "name": "Stone table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "11797": 12176
+  },
+  "occludes_2": false
+}

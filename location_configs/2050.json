@@ -2,12 +2,11 @@
   "id": 2050,
   "models": {
     "0": [
-      25029
+      139009
     ]
   },
   "name": "Gate",
   "is_transparent": true,
-  "ambient": 25,
   "actions": [
     "Open",
     null,

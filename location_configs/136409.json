@@ -1,0 +1,47 @@
+{
+  "id": 136409,
+  "models": {
+    "10": [
+      128452,
+      120415
+    ]
+  },
+  "name": "Oak",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_24": 22429,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      17691,
+      3887
+    ]
+  ],
+  "textures": {
+    "9236": 9235,
+    "9256": 9257,
+    "13435": 23242
+  },
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 0,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

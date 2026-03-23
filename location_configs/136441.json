@@ -1,0 +1,26 @@
+{
+  "id": 136441,
+  "models": {
+    "10": [
+      134924,
+      139869
+    ]
+  },
+  "name": "Canoe station",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Travel",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 612,
+  "unknown_196": 4
+}

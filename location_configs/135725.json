@@ -1,0 +1,53 @@
+{
+  "id": 135725,
+  "models": {
+    "10": [
+      32139
+    ]
+  },
+  "name": "Simple Chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6554,
+      6439
+    ],
+    [
+      5400,
+      6434
+    ],
+    [
+      8596,
+      6429
+    ],
+    [
+      5648,
+      6424
+    ],
+    [
+      10401,
+      28
+    ],
+    [
+      10508,
+      23
+    ]
+  ],
+  "occludes_2": false,
+  "cursors": [
+    56,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

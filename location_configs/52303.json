@@ -5,7 +5,23 @@
       27252
     ]
   },
-  "unknown_19": 0,
+  "name": "Door",
+  "unknown_19": 1,
   "ambient": -25,
-  "contrast": 15
+  "actions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 15,
+  "cursors": [
+    49,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

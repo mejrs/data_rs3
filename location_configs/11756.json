@@ -2,11 +2,10 @@
   "id": 11756,
   "models": {
     "4": [
-      107746
+      138359
     ]
   },
   "name": "Noticeboard",
-  "ambient": 25,
   "actions": [
     "Read",
     null,
@@ -14,7 +13,9 @@
     null,
     null
   ],
-  "contrast": 15,
+  "scale_x": 75,
+  "scale_y": 75,
+  "scale_z": 75,
   "occludes_2": false,
   "cursors": [
     50,

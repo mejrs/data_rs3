@@ -14,6 +14,7 @@
   "scale_y": 100,
   "scale_z": 90,
   "occludes_2": false,
+  "mapfunction": 595,
   "member_actions": [
     "Inspect",
     null,

@@ -2,30 +2,11 @@
   "id": 45318,
   "models": {
     "4": [
-      5973
+      138754
     ]
   },
   "name": "Hanging meat",
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      5404,
-      5400
-    ],
-    [
-      6697,
-      5394
-    ],
-    [
-      41,
-      78
-    ]
-  ],
-  "textures": {
-    "2108": 3171
-  },
-  "scale_y": 110,
+  "ambient": 0,
   "occludes_2": false
 }

@@ -2,15 +2,16 @@
   "id": 45246,
   "models": {
     "10": [
-      9501
+      138828,
+      138829
     ]
   },
   "name": "Bookcase",
-  "dim_y": 2,
+  "dim_x": 2,
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Search",
     null,
@@ -18,26 +19,7 @@
     null,
     null
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      5784,
-      5400
-    ],
-    [
-      5660,
-      5390
-    ],
-    [
-      5665,
-      5394
-    ]
-  ],
-  "textures": {
-    "2073": 3171,
-    "2093": 3179
-  },
-  "unknown_69": 13,
+  "unknown_69": 11,
   "occludes_2": false,
   "cursors": [
     56,

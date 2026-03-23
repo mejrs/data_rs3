@@ -4,12 +4,15 @@
     "10": [
       81055,
       81053
+    ],
+    "22": [
+      139044
     ]
   },
   "name": "Ladder",
   "unknown_19": 1,
   "actions": [
-    "Climb-down",
+    "Climb down",
     null,
     null,
     null,

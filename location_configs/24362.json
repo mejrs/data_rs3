@@ -2,12 +2,12 @@
   "id": 24362,
   "models": {
     "10": [
-      25032
+      81053
     ]
   },
   "name": "Ladder",
   "unknown_22": true,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Climb-down",
     null,

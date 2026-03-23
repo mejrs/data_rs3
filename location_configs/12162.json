@@ -8,6 +8,12 @@
   "name": "A sinking canoe",
   "dim_x": 3,
   "unknown_24": 3305,
+  "colours": [
+    [
+      9412,
+      9386
+    ]
+  ],
   "model": false,
   "unknown_88": false,
   "occludes_2": false

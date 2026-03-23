@@ -2,15 +2,14 @@
   "id": 110247,
   "models": {
     "10": [
-      86930,
-      7067
+      138905,
+      138907
     ]
   },
   "name": "Table",
   "dim_x": 2,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 25,
   "actions": [
     "Chop vegetables",
     null,
@@ -18,7 +17,6 @@
     null,
     null
   ],
-  "contrast": 20,
   "occludes_2": false,
   "unknown_160": {
     "values": [

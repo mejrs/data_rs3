@@ -1,0 +1,24 @@
+{
+  "id": 136014,
+  "models": {
+    "10": [
+      139825
+    ]
+  },
+  "name": "Well",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 595,
+  "unknown_196": 4
+}

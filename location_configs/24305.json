@@ -2,22 +2,14 @@
   "id": 24305,
   "models": {
     "10": [
-      12460
+      138891
     ]
   },
   "name": "Teak table",
   "dim_x": 4,
   "dim_y": 2,
-  "ambient": 25,
-  "colours": [
-    [
-      6443,
-      7587
-    ],
-    [
-      6682,
-      7830
-    ]
-  ],
+  "scale_x": 200,
+  "scale_y": 128,
+  "scale_z": 200,
   "occludes_2": false
 }

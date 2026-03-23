@@ -2,13 +2,12 @@
   "id": 31026,
   "models": {
     "10": [
-      33861
+      97124,
+      112868
     ]
   },
   "name": "Cart",
   "dim_x": 2,
   "dim_y": 3,
-  "ambient": 25,
-  "contrast": 15,
   "occludes_2": false
 }

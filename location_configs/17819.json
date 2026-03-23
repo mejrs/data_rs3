@@ -2,7 +2,7 @@
   "id": 17819,
   "models": {
     "10": [
-      78355
+      134529
     ]
   },
   "name": "Cave entrance",
@@ -10,7 +10,6 @@
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 7,
   "actions": [
     "Enter",
     "Public encounter",
@@ -18,31 +17,11 @@
     "Join private encounter",
     "Rejoin last private encounter"
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      8587,
-      6541
-    ],
-    [
-      8585,
-      6539
-    ],
-    [
-      11784,
-      6541
-    ],
-    [
-      11783,
-      6539
-    ]
-  ],
-  "textures": {
-    "1742": 11172,
-    "2350": 2358
-  },
   "model": false,
-  "unknown_69": 7,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_69": 14,
   "unknown_88": false,
   "occludes_2": false,
   "cursors": [
@@ -53,5 +32,5 @@
     null,
     null
   ],
-  "unknown_196": 2
+  "unknown_196": 1
 }

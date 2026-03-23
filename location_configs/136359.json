@@ -1,0 +1,36 @@
+{
+  "id": 136359,
+  "models": {
+    "10": [
+      134974
+    ]
+  },
+  "name": "Oak",
+  "unknown_19": 1,
+  "unknown_24": 22138,
+  "unknown_27": false,
+  "ambient": 10,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "13435": 23242
+  },
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 0,
+  "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

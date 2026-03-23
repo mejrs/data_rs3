@@ -1,0 +1,22 @@
+{
+  "id": 135588,
+  "models": {
+    "10": [
+      139212,
+      139213
+    ]
+  },
+  "name": "Willow",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "scale_x": 95,
+  "scale_y": 95,
+  "scale_z": 95,
+  "unknown_81": 80,
+  "mapscene": 3,
+  "occludes_2": false,
+  "unknown_189": true,
+  "unknown_196": 2
+}

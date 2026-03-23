@@ -2,23 +2,36 @@
   "id": 61,
   "models": {
     "10": [
-      1216
+      127617
     ]
   },
   "name": "Chaos altar",
   "dim_x": 2,
   "unknown_19": 1,
   "actions": [
-    "Pray-at",
+    "Pray at",
+    "Offer",
     "Check",
-    null,
     null,
     null
   ],
+  "colours": [
+    [
+      39708,
+      1820
+    ],
+    [
+      7073,
+      8759
+    ]
+  ],
+  "textures": {
+    "11923": 17218
+  },
   "occludes_2": false,
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,

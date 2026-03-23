@@ -1,27 +1,22 @@
 {
   "id": 2569,
   "models": {
-    "10": [
-      32110
+    "0": [
+      99718,
+      99717
     ]
   },
-  "name": "Chest",
+  "name": "Raw memory",
+  "unknown_17": false,
   "unknown_19": 1,
+  "unknown_21": true,
+  "ambient": 25,
   "actions": [
-    "Open",
-    "Search for traps",
+    "Take memory",
+    null,
     null,
     null,
     null
   ],
-  "unknown_69": 14,
-  "occludes_2": false,
-  "cursors": [
-    49,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "contrast": 15
 }

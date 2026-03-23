@@ -5,11 +5,19 @@
       91746
     ]
   },
+  "name": "Tree",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_24": 22429,
   "unknown_27": false,
   "ambient": 10,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
   "colours": [
     [
       4301,
@@ -17,12 +25,20 @@
     ]
   ],
   "textures": {
-    "4107": 6395,
-    "4108": 6396
+    "4107": 23238,
+    "4108": 23239
   },
   "model": false,
   "unknown_81": 30,
   "unknown_89": false,
   "occludes_2": false,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
   "unknown_196": 4
 }

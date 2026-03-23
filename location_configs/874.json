@@ -9,6 +9,14 @@
   "dim_y": 2,
   "is_transparent": true,
   "ambient": 25,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
   "contrast": 25,
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 595
 }

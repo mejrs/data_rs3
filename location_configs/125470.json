@@ -5,11 +5,12 @@
       128433
     ]
   },
-  "name": "Hydrangea bush",
+  "name": "Hydrangeas",
   "unknown_17": false,
   "unknown_19": 1,
   "textures": {
     "14489": 14490
   },
+  "mapscene": 147,
   "occludes_2": false
 }

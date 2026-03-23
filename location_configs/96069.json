@@ -2,12 +2,13 @@
   "id": 96069,
   "models": {
     "10": [
-      93955
+      121240
+    ],
+    "22": [
+      138722
     ]
   },
   "unknown_19": 0,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "occludes_2": false
 }

@@ -5,17 +5,19 @@
       91742
     ]
   },
+  "name": "Tree",
   "dim_x": 3,
   "dim_y": 3,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_24": 22430,
-  "ambient": 10,
+  "textures": {
+    "4116": 4569
+  },
   "model": false,
   "unknown_75": 0,
   "unknown_88": false,
   "unknown_89": false,
   "occludes_2": false,
-  "unknown_186": 2,
   "unknown_196": 4
 }

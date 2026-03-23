@@ -2,7 +2,7 @@
   "id": 38739,
   "models": {
     "10": [
-      64794
+      140084
     ]
   },
   "name": "Oak",
@@ -14,11 +14,12 @@
     "2653": 12356
   },
   "model": false,
-  "scale_x": 110,
-  "scale_y": 110,
-  "scale_z": 110,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
   "occludes_2": false,
   "unknown_189": true,
+  "unknown_196": 2,
   "model_morphs": {
     "unk0": 18,
     "varbit": 57011,

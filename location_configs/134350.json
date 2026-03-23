@@ -5,10 +5,20 @@
       137688
     ]
   },
+  "name": "Well",
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
-  "occludes_2": false
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 595,
+  "unknown_196": 4
 }

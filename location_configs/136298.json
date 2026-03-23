@@ -1,0 +1,18 @@
+{
+  "id": 136298,
+  "models": {
+    "10": [
+      139920
+    ]
+  },
+  "name": "Tall grass",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "textures": {
+    "11362": 23587
+  },
+  "unknown_93": 2056,
+  "occludes_2": false,
+  "unknown_177": true,
+  "unknown_196": 4
+}

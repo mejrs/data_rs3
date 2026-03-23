@@ -11,7 +11,7 @@
   "is_transparent": true,
   "actions": [
     "Pray at",
-    null,
+    "Offer",
     null,
     null,
     null
@@ -19,7 +19,7 @@
   "occludes_2": false,
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,

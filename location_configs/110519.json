@@ -2,13 +2,12 @@
   "id": 110519,
   "models": {
     "10": [
-      5494,
-      17398
+      81047
     ]
   },
   "name": "Sack of items (hidey-hole)",
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Take items",
     null,
@@ -16,28 +15,12 @@
     null,
     null
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      6430,
-      7347
-    ],
-    [
-      6674,
-      7339
-    ],
-    [
-      6554,
-      7333
-    ],
-    [
-      6550,
-      7327
-    ]
-  ],
   "textures": {
     "2720": 9705
   },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false,
   "params": {
     "6896": 10

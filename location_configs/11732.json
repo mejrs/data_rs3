@@ -2,26 +2,27 @@
   "id": 11732,
   "models": {
     "10": [
-      11567
+      127763
     ]
   },
-  "name": "Staircase",
+  "name": "Regular Stairs",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 20,
   "actions": [
-    "Climb-up",
-    null,
+    "Climb",
+    "Descend",
     null,
     null,
     null
   ],
-  "contrast": 15,
-  "unknown_69": 11,
+  "mirror": true,
+  "scale_x": 90,
+  "scale_y": 85,
+  "scale_z": 90,
   "mapscene": 7,
   "occludes_2": false,
   "cursors": [
-    52,
+    181,
     null,
     null,
     null,

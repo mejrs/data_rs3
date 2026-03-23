@@ -1,0 +1,37 @@
+{
+  "id": 137014,
+  "models": {
+    "4": [
+      96286
+    ],
+    "10": [
+      139986
+    ]
+  },
+  "name": "Creeping ivy",
+  "unknown_19": 1,
+  "textures": {
+    "12350": 23597,
+    "12352": 23596,
+    "12353": 23598,
+    "12354": 23599
+  },
+  "mirror": true,
+  "occludes_2": false,
+  "member_actions": [
+    "Chop",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

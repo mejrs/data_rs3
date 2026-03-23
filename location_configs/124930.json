@@ -2,13 +2,17 @@
   "id": 124930,
   "models": {
     "10": [
-      127642
+      127642,
+      121252
     ]
   },
   "dim_x": 3,
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
+  "textures": {
+    "11110": 15574
+  },
   "model": false,
   "is_members": true,
   "occludes_2": false

@@ -1,0 +1,19 @@
+{
+  "id": 136740,
+  "models": {
+    "10": [
+      7775
+    ]
+  },
+  "name": "Mead",
+  "is_transparent": true,
+  "ambient": 15,
+  "actions": [
+    "Drain",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -2,7 +2,7 @@
   "id": 2306,
   "models": {
     "0": [
-      48988
+      139009
     ]
   },
   "name": "Gate",
@@ -10,36 +10,13 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Open",
     null,
     null,
     null,
     null
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      5400,
-      8464
-    ],
-    [
-      5396,
-      8460
-    ],
-    [
-      5392,
-      8458
-    ],
-    [
-      5390,
-      8456
-    ],
-    [
-      5388,
-      8454
-    ]
   ],
   "unknown_73": true,
   "cursors": [

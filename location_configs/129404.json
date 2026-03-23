@@ -6,14 +6,14 @@
       132676
     ]
   },
+  "name": "Flower planter",
   "dim_x": 2,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "textures": {
     "14781": 16768
   },
   "model": false,
   "occludes_2": false,
-  "unknown_186": 2,
   "unknown_196": 1
 }

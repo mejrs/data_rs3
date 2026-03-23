@@ -26,36 +26,5 @@
   "mapscene": 1,
   "occludes_2": false,
   "unknown_189": true,
-  "unknown_196": 3,
-  "model_morphs": {
-    "unk0": 34,
-    "varbit": 57011,
-    "multi_model": null,
-    "multi_head_model": [
-      {
-        "value": 1,
-        "models": [
-          {
-            "unk1": 1,
-            "unk2": 1,
-            "unk3": 110677
-          },
-          {
-            "unk1": 2,
-            "unk2": 2,
-            "unk3": 120723
-          },
-          {
-            "unk1": 3,
-            "unk2": 3,
-            "unk3": 124744
-          }
-        ]
-      }
-    ],
-    "multi_retex": null,
-    "multi_recol": null,
-    "multi_ret_int": null,
-    "default": 0
-  }
+  "unknown_196": 1
 }

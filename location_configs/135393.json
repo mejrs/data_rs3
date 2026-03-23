@@ -1,0 +1,29 @@
+{
+  "id": 135393,
+  "models": {
+    "10": [
+      138779
+    ]
+  },
+  "name": "Bank booth",
+  "dim_x": 2,
+  "is_transparent": true,
+  "actions": [
+    null,
+    "Bank",
+    "Collect",
+    "Load Last Preset from",
+    null
+  ],
+  "unknown_69": 11,
+  "breakroutefinding": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    5,
+    5,
+    51,
+    null,
+    null
+  ]
+}

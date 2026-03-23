@@ -2,14 +2,15 @@
   "id": 24161,
   "models": {
     "10": [
-      24520
+      133460,
+      133461,
+      133462
     ]
   },
   "name": "Fountain",
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_24": 6023,
-  "ambient": 20,
+  "ambient": 0,
   "actions": [
     "Fill",
     null,

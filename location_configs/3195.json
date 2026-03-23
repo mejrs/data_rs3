@@ -2,12 +2,11 @@
   "id": 3195,
   "models": {
     "4": [
-      858
+      139059
     ]
   },
   "name": "Ship's wheel",
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
   "occludes_2": false
 }

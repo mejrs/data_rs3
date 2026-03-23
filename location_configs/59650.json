@@ -1,13 +1,17 @@
 {
   "id": 59650,
   "models": {
+    "10": [
+      132748
+    ],
     "22": [
-      64814
+      139175
     ]
   },
   "unknown_19": 0,
   "unknown_21": true,
-  "ambient": 25,
-  "contrast": 15,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
   "occludes_2": false
 }

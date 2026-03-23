@@ -2,16 +2,12 @@
   "id": 29609,
   "models": {
     "4": [
-      2122
+      81003
     ]
   },
-  "ambient": 15,
-  "colours": [
-    [
-      6028,
-      6554
-    ]
-  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "translate_y": 24,
   "occludes_2": false
 }

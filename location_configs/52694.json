@@ -2,12 +2,12 @@
   "id": 52694,
   "models": {
     "10": [
-      24741
+      87939,
+      87944
     ]
   },
   "name": "Bunkbed",
   "dim_x": 2,
-  "ambient": 20,
   "actions": [
     "Search",
     null,
@@ -15,6 +15,7 @@
     null,
     null
   ],
+  "mirror": true,
   "occludes_2": false,
   "cursors": [
     56,

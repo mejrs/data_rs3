@@ -2,7 +2,8 @@
   "id": 12966,
   "models": {
     "10": [
-      51101
+      51101,
+      139242
     ]
   },
   "name": "Clive Dresdon",
@@ -10,6 +11,5 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 12036,
-  "ambient": 15,
   "occludes_2": false
 }

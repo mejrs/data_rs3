@@ -1,0 +1,33 @@
+{
+  "id": 136440,
+  "models": {
+    "10": [
+      139614
+    ]
+  },
+  "name": "Dilapidated canoe station",
+  "dim_x": 3,
+  "dim_y": 6,
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 612,
+  "cursors": [
+    174,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

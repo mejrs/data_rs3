@@ -1,0 +1,33 @@
+{
+  "id": 136769,
+  "models": {
+    "10": [
+      8203,
+      7766
+    ]
+  },
+  "name": "Wendlewick Hops",
+  "ambient": 25,
+  "actions": [
+    "Water",
+    "Inspect",
+    null,
+    "Guide",
+    null
+  ],
+  "colours": [
+    [
+      13095,
+      24084
+    ],
+    [
+      13214,
+      24084
+    ],
+    [
+      13210,
+      24084
+    ]
+  ],
+  "occludes_2": false
+}

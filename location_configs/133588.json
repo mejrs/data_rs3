@@ -5,8 +5,9 @@
       135452
     ]
   },
+  "name": "Vase",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
   "scale_x": 300,
   "scale_y": 300,

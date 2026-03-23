@@ -2,13 +2,12 @@
   "id": 45476,
   "models": {
     "0": [
-      87461
+      138381
     ]
   },
   "name": "Door",
   "unknown_19": 1,
-  "occludes_1": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Open",
     null,
@@ -16,9 +15,38 @@
     null,
     null
   ],
-  "contrast": 15,
+  "colours": [
+    [
+      25650,
+      5170
+    ],
+    [
+      25657,
+      5176
+    ],
+    [
+      25633,
+      5165
+    ],
+    [
+      25642,
+      5167
+    ],
+    [
+      4368,
+      4378
+    ],
+    [
+      4396,
+      4386
+    ],
+    [
+      6227,
+      13395
+    ]
+  ],
   "unknown_75": 0,
-  "unknown_170": 960,
+  "occludes_2": false,
   "cursors": [
     49,
     null,

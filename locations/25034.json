@@ -2,6 +2,26 @@
   {
     "plane": 0,
     "i": 46,
+    "j": 11,
+    "x": 25,
+    "y": 47,
+    "id": 25034,
+    "type": 10,
+    "rotation": 0
+  },
+  {
+    "plane": 0,
+    "i": 46,
+    "j": 11,
+    "x": 25,
+    "y": 48,
+    "id": 25034,
+    "type": 10,
+    "rotation": 0
+  },
+  {
+    "plane": 0,
+    "i": 46,
     "j": 51,
     "x": 25,
     "y": 47,
@@ -27,7 +47,7 @@
     "y": 58,
     "id": 25034,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -47,7 +67,7 @@
     "y": 37,
     "id": 25034,
     "type": 10,
-    "rotation": 2
+    "rotation": 1
   },
   {
     "plane": 0,
@@ -57,7 +77,7 @@
     "y": 39,
     "id": 25034,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -67,7 +87,7 @@
     "y": 39,
     "id": 25034,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -77,7 +97,7 @@
     "y": 51,
     "id": 25034,
     "type": 10,
-    "rotation": 0
+    "rotation": 3
   },
   {
     "plane": 1,
@@ -87,7 +107,7 @@
     "y": 33,
     "id": 25034,
     "type": 10,
-    "rotation": 0
+    "rotation": 3
   },
   {
     "plane": 0,

@@ -2,12 +2,16 @@
   "id": 64094,
   "models": {
     "10": [
-      19108
+      138637
     ]
   },
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      6226,
+      7223
+    ]
+  ],
   "mirror": true,
   "unknown_75": 0,
   "occludes_2": false,

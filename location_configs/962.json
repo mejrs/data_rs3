@@ -2,11 +2,13 @@
   "id": 962,
   "models": {
     "4": [
-      2040
+      138360
     ]
   },
   "name": "Noticeboard",
   "unknown_19": 1,
-  "ambient": 50,
+  "scale_x": 75,
+  "scale_y": 75,
+  "scale_z": 75,
   "occludes_2": false
 }

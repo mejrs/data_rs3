@@ -2,28 +2,17 @@
   "id": 131592,
   "models": {
     "10": [
-      73943
+      7754
     ]
   },
-  "name": "Chest",
-  "is_transparent": true,
-  "unknown_19": 1,
-  "unknown_27": false,
-  "actions": [
-    "Open",
-    null,
-    null,
-    null,
-    null
-  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "textures": {
+    "11109": 15574
+  },
   "model": false,
   "occludes_2": false,
-  "cursors": [
-    49,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_186": 2,
+  "unknown_196": 4
 }

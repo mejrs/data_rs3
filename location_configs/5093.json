@@ -2,10 +2,11 @@
   "id": 5093,
   "models": {
     "10": [
-      63575
+      130115
     ]
   },
-  "name": "Potter's Wheel",
+  "name": "Pottery wheel",
+  "unknown_27": false,
   "actions": [
     "Form",
     null,
@@ -13,6 +14,16 @@
     null,
     null
   ],
+  "model": false,
   "unknown_69": 13,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 0
 }

@@ -5,13 +5,13 @@
       88377
     ]
   },
+  "name": "Desk",
   "dim_x": 3,
   "dim_y": 2,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "ambient": 0,
   "model": false,
   "unknown_75": 1,
-  "occludes_2": false,
-  "unknown_186": 2
+  "occludes_2": false
 }

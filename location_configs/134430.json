@@ -2,11 +2,13 @@
   "id": 134430,
   "models": {
     "10": [
+      67893,
       137684
     ]
   },
+  "name": "Barrel of water",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
   "model": false,
   "occludes_2": false

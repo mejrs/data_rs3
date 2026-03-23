@@ -2,12 +2,13 @@
   "id": 30827,
   "models": {
     "10": [
-      11461
+      47555
     ]
   },
   "name": "Table",
   "is_transparent": true,
-  "ambient": 25,
-  "contrast": 15,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

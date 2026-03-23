@@ -2,7 +2,7 @@
   "id": 25214,
   "models": {
     "10": [
-      20791
+      127702
     ]
   },
   "name": "Trapdoor",
@@ -25,6 +25,9 @@
     ]
   ],
   "unknown_44": 9,
+  "scale_x": 75,
+  "scale_y": 75,
+  "scale_z": 75,
   "occludes_2": false,
   "cursors": [
     49,

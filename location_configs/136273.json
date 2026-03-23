@@ -1,0 +1,15 @@
+{
+  "id": 136273,
+  "models": {
+    "10": [
+      67893,
+      139148
+    ]
+  },
+  "name": "Barrel of swords",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false
+}

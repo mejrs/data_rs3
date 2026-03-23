@@ -2,22 +2,10 @@
   "id": 36871,
   "models": {
     "10": [
-      5521
+      6923
     ]
   },
   "name": "Water wheel",
-  "unknown_24": 1729,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      6689,
-      5404
-    ],
-    [
-      6684,
-      5400
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

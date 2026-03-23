@@ -2,13 +2,12 @@
   "id": 46266,
   "models": {
     "10": [
-      7685,
-      16950
+      74103,
+      139155
     ]
   },
   "name": "Crate",
   "unknown_19": 1,
-  "ambient": 20,
   "actions": [
     "Search",
     null,

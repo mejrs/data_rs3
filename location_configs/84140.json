@@ -8,10 +8,12 @@
       137900
     ]
   },
+  "name": "Mushrooms",
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "textures": {
     "22972": 22973
   },
+  "mapscene": 139,
   "occludes_2": false
 }

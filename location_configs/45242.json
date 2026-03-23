@@ -2,7 +2,7 @@
   "id": 45242,
   "models": {
     "10": [
-      23959
+      47545
     ]
   },
   "name": "Chair",
@@ -10,8 +10,6 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "colours": [
     [
       7954,

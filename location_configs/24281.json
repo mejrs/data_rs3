@@ -2,27 +2,17 @@
   "id": 24281,
   "models": {
     "10": [
-      15207
+      138790,
+      138791
     ]
   },
   "name": "Bookcase",
-  "ambient": 25,
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      6707,
-      7587
-    ],
-    [
-      7952,
-      7830
-    ]
   ],
   "translate_x": 28,
   "translate_y": 0,

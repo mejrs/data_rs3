@@ -2,7 +2,10 @@
   "id": 16154,
   "models": {
     "10": [
-      15589
+      121883
+    ],
+    "22": [
+      139104
     ]
   },
   "name": "Entrance",
@@ -14,6 +17,9 @@
     null,
     null
   ],
+  "scale_x": 32,
+  "scale_y": 32,
+  "scale_z": 32,
   "occludes_2": false,
   "cursors": [
     53,

@@ -2,11 +2,10 @@
   "id": 35751,
   "models": {
     "10": [
-      35910
+      138797,
+      138800
     ]
   },
   "name": "Bookcase",
-  "ambient": 20,
-  "contrast": 15,
   "occludes_2": false
 }

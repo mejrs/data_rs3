@@ -9,7 +9,7 @@
   "dim_x": 2,
   "ambient": 25,
   "actions": [
-    "Investigate",
+    "Fill",
     null,
     null,
     null,

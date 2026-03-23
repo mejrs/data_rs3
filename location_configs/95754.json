@@ -8,6 +8,9 @@
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_27": false,
+  "textures": {
+    "3997": 23072
+  },
   "model": false,
   "occludes_2": false
 }

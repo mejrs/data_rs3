@@ -2,13 +2,12 @@
   "id": 5086,
   "models": {
     "10": [
-      63457
+      132689
     ]
   },
   "name": "Well",
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 20,
   "actions": [
     "Fill",
     null,
@@ -16,5 +15,8 @@
     null,
     null
   ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
   "occludes_2": false
 }

@@ -7,6 +7,7 @@
   },
   "name": "Fly trap",
   "is_transparent": true,
+  "unknown_19": 1,
   "unknown_24": 492,
   "occludes_2": false
 }

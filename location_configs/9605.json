@@ -2,12 +2,14 @@
   "id": 9605,
   "models": {
     "10": [
-      1642
+      132750
+    ],
+    "22": [
+      139177
     ]
   },
   "name": "Plant",
   "is_transparent": true,
-  "ambient": 40,
   "colours": [
     [
       61,

@@ -1,0 +1,35 @@
+{
+  "id": 135576,
+  "models": {
+    "10": [
+      139208,
+      139210
+    ]
+  },
+  "name": "Willow",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_24": 22138,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 3,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

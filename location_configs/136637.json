@@ -1,0 +1,22 @@
+{
+  "id": 136637,
+  "models": {
+    "10": [
+      124687
+    ]
+  },
+  "name": "Onion",
+  "unknown_17": false,
+  "scale_x": 280,
+  "scale_y": 320,
+  "scale_z": 280,
+  "translate_y": 10,
+  "is_members": true,
+  "mapscene": 33,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      529
+    ]
+  }
+}

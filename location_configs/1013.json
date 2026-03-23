@@ -2,11 +2,10 @@
   "id": 1013,
   "models": {
     "10": [
-      1271
+      138797,
+      138807
     ]
   },
   "name": "Cooking shelves",
-  "ambient": 25,
-  "contrast": 25,
   "occludes_2": false
 }

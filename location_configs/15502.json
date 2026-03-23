@@ -2,14 +2,10 @@
   "id": 15502,
   "models": {
     "0": [
-      9476
-    ],
-    "9": [
-      9477
+      138382
     ]
   },
   "unknown_19": 0,
-  "occludes_1": false,
   "ambient": 25,
   "colours": [
     [
@@ -38,5 +34,5 @@
     ]
   ],
   "unknown_75": 0,
-  "unknown_170": 948
+  "occludes_2": false
 }

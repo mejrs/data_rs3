@@ -1,0 +1,60 @@
+{
+  "id": 136955,
+  "models": {
+    "10": [
+      139409,
+      139411
+    ]
+  },
+  "name": "Dead giant diseased kebbit",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 37762,
+  "actions": [
+    "Skin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6459,
+      3889
+    ],
+    [
+      65408,
+      3889
+    ],
+    [
+      80,
+      3269
+    ],
+    [
+      3127,
+      3227
+    ],
+    [
+      5206,
+      5171
+    ]
+  ],
+  "textures": {
+    "23422": 23424
+  },
+  "model": false,
+  "scale_x": 250,
+  "scale_y": 250,
+  "scale_z": 250,
+  "occludes_2": false,
+  "cursors": [
+    167,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

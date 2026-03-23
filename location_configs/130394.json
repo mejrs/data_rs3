@@ -5,8 +5,9 @@
       133703
     ]
   },
+  "name": "Campfire",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
   "model": false,
@@ -16,7 +17,6 @@
   },
   "occludes_2": false,
   "unknown_104": 110,
-  "unknown_186": 2,
   "unknown_204": [
     {
       "id": 532,

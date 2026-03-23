@@ -2,15 +2,13 @@
   "id": 91688,
   "models": {
     "10": [
-      97051
+      67186
     ]
   },
   "name": "Noticeboard",
-  "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Read",
     "Administrate",
@@ -18,7 +16,9 @@
     "Clan List",
     null
   ],
-  "contrast": 15,
+  "textures": {
+    "4580": 11042
+  },
   "unknown_81": 20,
   "occludes_2": false,
   "cursors": [

@@ -1,0 +1,41 @@
+{
+  "id": 136629,
+  "models": {
+    "22": [
+      139893
+    ]
+  },
+  "name": "Flowers",
+  "unknown_19": 1,
+  "actions": [
+    "Take",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      48596,
+      7097
+    ],
+    [
+      37196,
+      7097
+    ],
+    [
+      53167,
+      7097
+    ]
+  ],
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

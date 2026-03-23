@@ -2,13 +2,21 @@
   "id": 36842,
   "models": {
     "0": [
-      87426
+      138381
     ]
   },
   "unknown_19": 0,
-  "occludes_1": false,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "colours": [
+    [
+      4368,
+      4378
+    ],
+    [
+      4396,
+      4386
+    ]
+  ],
   "unknown_75": 0,
-  "unknown_170": 945
+  "occludes_2": false
 }

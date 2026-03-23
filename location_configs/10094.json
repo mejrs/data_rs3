@@ -2,14 +2,13 @@
   "id": 10094,
   "models": {
     "10": [
-      57892
+      138845
     ]
   },
   "name": "Dairy churn",
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 15,
   "actions": [
     "Churn",
     null,
@@ -17,7 +16,6 @@
     null,
     null
   ],
-  "contrast": 10,
   "unknown_69": 11,
   "occludes_2": false,
   "cursors": [

@@ -1,0 +1,29 @@
+{
+  "id": 136558,
+  "models": {
+    "10": [
+      71264
+    ]
+  },
+  "name": "Locked chest",
+  "actions": [
+    "Unlock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_69": 10,
+  "occludes_2": false,
+  "cursors": [
+    195,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

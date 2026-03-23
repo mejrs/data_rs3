@@ -2,16 +2,17 @@
   "id": 54648,
   "models": {
     "10": [
-      64780,
-      64781
+      89336
     ]
   },
   "name": "Cart",
-  "dim_x": 2,
+  "dim_x": 3,
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

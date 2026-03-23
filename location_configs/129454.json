@@ -3,10 +3,14 @@
   "models": {
     "10": [
       132749
+    ],
+    "22": [
+      139176
     ]
   },
-  "unknown_17": false,
-  "unknown_19": 0,
-  "occludes_2": false,
-  "unknown_186": 2
+  "name": "Fern",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
 }

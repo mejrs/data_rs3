@@ -2,16 +2,12 @@
   "id": 136,
   "models": {
     "10": [
-      51086,
-      22174,
-      25134,
-      25148
+      138797,
+      138810
     ]
   },
   "name": "Bar",
   "is_transparent": true,
   "unknown_19": 1,
-  "unknown_22": true,
-  "mirror": true,
   "occludes_2": false
 }

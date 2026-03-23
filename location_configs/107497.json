@@ -11,7 +11,7 @@
   "ambient": 0,
   "actions": [
     null,
-    "Use",
+    "Bank",
     "Collect",
     "Load Last Preset from",
     "Deposit all fish"
@@ -22,10 +22,10 @@
   "mapfunction": 560,
   "cursors": [
     null,
-    46,
+    5,
     5,
     51,
-    null,
+    60,
     null
   ]
 }

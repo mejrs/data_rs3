@@ -2,22 +2,15 @@
   "id": 24344,
   "models": {
     "10": [
-      25060
+      87832,
+      87824
     ]
   },
   "name": "Church pew",
   "dim_x": 2,
-  "ambient": 25,
-  "contrast": 5,
-  "colours": [
-    [
-      5943,
-      8115
-    ],
-    [
-      6067,
-      8111
-    ]
-  ],
+  "ambient": 0,
+  "textures": {
+    "12075": 15608
+  },
   "occludes_2": false
 }

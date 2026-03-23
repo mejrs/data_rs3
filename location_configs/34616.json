@@ -10,8 +10,8 @@
   "dim_x": 2,
   "ambient": 25,
   "actions": [
-    "Pray",
-    null,
+    "Pray at",
+    "Offer",
     null,
     null,
     null
@@ -31,7 +31,7 @@
   "occludes_2": false,
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,

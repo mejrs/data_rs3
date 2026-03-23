@@ -1,0 +1,19 @@
+{
+  "id": 135728,
+  "models": {
+    "10": [
+      23369
+    ]
+  },
+  "name": "Reinforced chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Pick lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

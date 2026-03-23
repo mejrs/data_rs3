@@ -2,11 +2,11 @@
   "id": 24259,
   "models": {
     "10": [
-      25025
+      116699
     ]
   },
   "name": "Cannon",
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 0,
   "occludes_2": false
 }

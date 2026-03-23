@@ -2,10 +2,9 @@
   "id": 24340,
   "models": {
     "10": [
-      25056
+      71264
     ]
   },
   "name": "Trunk",
-  "ambient": 25,
   "occludes_2": false
 }

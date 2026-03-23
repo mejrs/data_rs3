@@ -2,14 +2,13 @@
   "id": 19230,
   "models": {
     "10": [
-      28558
+      138779
     ]
   },
   "name": "Bank booth",
   "dim_x": 2,
   "is_transparent": true,
   "unknown_19": 1,
-  "ambient": 20,
   "actions": [
     null,
     "Bank",
@@ -17,7 +16,6 @@
     "Load Last Preset from",
     null
   ],
-  "contrast": 20,
   "unknown_69": 10,
   "occludes_2": false,
   "cursors": [

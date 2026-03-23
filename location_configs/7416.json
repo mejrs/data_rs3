@@ -10,7 +10,7 @@
   "ambient": 15,
   "actions": [
     "Drain",
-    "Level",
+    "Check",
     null,
     null,
     null

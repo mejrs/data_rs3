@@ -5,9 +5,10 @@
       133421
     ]
   },
+  "name": "Sofa",
   "dim_x": 2,
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
   "colours": [
     [
@@ -15,6 +16,5 @@
       64625
     ]
   ],
-  "occludes_2": false,
-  "unknown_186": 2
+  "occludes_2": false
 }

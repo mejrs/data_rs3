@@ -7,7 +7,7 @@
   },
   "name": "Artefact",
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Activate",
     "Public encounter",
@@ -15,7 +15,10 @@
     "Join private encounter",
     "Rejoin last private encounter"
   ],
-  "contrast": 15,
+  "textures": {
+    "1470": 17927,
+    "1848": 17927
+  },
   "model": false,
   "unknown_88": false,
   "occludes_2": false,

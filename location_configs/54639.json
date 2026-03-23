@@ -2,7 +2,7 @@
   "id": 54639,
   "models": {
     "10": [
-      64263
+      138357
     ]
   },
   "name": "Well",
@@ -17,5 +17,8 @@
     null,
     null
   ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

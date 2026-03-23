@@ -1,0 +1,73 @@
+{
+  "id": 136958,
+  "models": {
+    "10": [
+      140015
+    ]
+  },
+  "name": "Dead giant carnivorous chinchompa",
+  "dim_x": 5,
+  "dim_y": 5,
+  "unknown_17": false,
+  "unknown_24": 37719,
+  "actions": [
+    "Skin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      29720,
+      1440
+    ],
+    [
+      28726,
+      1451
+    ],
+    [
+      29738,
+      1441
+    ],
+    [
+      23828,
+      30372
+    ],
+    [
+      23983,
+      30383
+    ],
+    [
+      23636,
+      9299
+    ],
+    [
+      29713,
+      1434
+    ],
+    [
+      23610,
+      1451
+    ],
+    [
+      29764,
+      9299
+    ],
+    [
+      64532,
+      49
+    ]
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    167,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

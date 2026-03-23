@@ -1,0 +1,23 @@
+{
+  "id": 135358,
+  "models": {
+    "10": [
+      121873
+    ]
+  },
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_21": true,
+  "colours": [
+    [
+      30773,
+      3125
+    ]
+  ],
+  "textures": {
+    "13621": 23193
+  },
+  "occludes_2": false,
+  "unknown_186": 2
+}

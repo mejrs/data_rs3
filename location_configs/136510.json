@@ -1,0 +1,33 @@
+{
+  "id": 136510,
+  "models": {
+    "10": [
+      139588,
+      127988,
+      139589
+    ]
+  },
+  "name": "Fireplace",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false,
+  "unknown_196": 2,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

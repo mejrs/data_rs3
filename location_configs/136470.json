@@ -1,0 +1,31 @@
+{
+  "id": 136470,
+  "models": {
+    "10": [
+      139831
+    ]
+  },
+  "name": "Cave entrance",
+  "actions": [
+    "Enter",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 15384,
+  "unknown_2": 15684,
+  "unknown_3": 15384,
+  "unknown_4": 17384,
+  "unknown_5": 15884,
+  "unknown_6": 17384
+}

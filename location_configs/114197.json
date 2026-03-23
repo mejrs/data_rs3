@@ -5,7 +5,8 @@
       80114
     ]
   },
-  "unknown_19": 0,
+  "name": "Book",
+  "unknown_19": 1,
   "ambient": 0,
   "model": false,
   "unknown_73": true,

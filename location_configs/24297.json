@@ -2,20 +2,10 @@
   "id": 24297,
   "models": {
     "10": [
-      11125
+      89067
     ]
   },
   "name": "Wardrobe",
-  "ambient": 25,
-  "colours": [
-    [
-      4502,
-      7954
-    ],
-    [
-      4510,
-      7582
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

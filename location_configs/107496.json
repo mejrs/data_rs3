@@ -10,7 +10,7 @@
   "ambient": 0,
   "actions": [
     "Deposit",
-    "Deposit-All",
+    "Deposit all",
     null,
     null,
     "Deposit all fish"
@@ -18,5 +18,13 @@
   "model": false,
   "unknown_73": true,
   "occludes_2": false,
-  "mapfunction": 3651
+  "mapfunction": 3651,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    60,
+    null
+  ]
 }

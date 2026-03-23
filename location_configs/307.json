@@ -2,12 +2,15 @@
   "id": 307,
   "models": {
     "10": [
-      1480
+      89336
     ]
   },
   "name": "Cart",
-  "dim_x": 2,
-  "dim_y": 3,
+  "dim_x": 3,
+  "dim_y": 2,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
   "occludes_2": false,
   "unknown_196": 2
 }

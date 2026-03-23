@@ -2,33 +2,13 @@
   "id": 19338,
   "models": {
     "10": [
-      19356
+      121386
     ]
   },
-  "name": "Rabbitless hole",
-  "unknown_21": true,
-  "colours": [
-    [
-      8656,
-      7595
-    ],
-    [
-      8644,
-      6569
-    ],
-    [
-      8631,
-      6439
-    ],
-    [
-      8747,
-      6558
-    ],
-    [
-      8862,
-      7954
-    ]
-  ],
-  "unknown_69": 11,
-  "occludes_2": false
+  "is_transparent": true,
+  "unknown_19": 0,
+  "unknown_27": false,
+  "ambient": 0,
+  "occludes_2": false,
+  "unknown_196": 4
 }

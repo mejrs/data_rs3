@@ -1,14 +1,17 @@
 {
   "id": 114264,
   "models": {
+    "0": [
+      139013
+    ],
     "10": [
       81052
     ]
   },
+  "name": "Stile",
   "dim_y": 2,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_21": true,
-  "model": false,
-  "occludes_2": false
+  "model": false
 }

@@ -2,15 +2,13 @@
   "id": 45245,
   "models": {
     "10": [
-      49370
+      89110
     ]
   },
   "name": "Wardrobe",
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "textures": {
     "2067": 3172,
     "2075": 3171,

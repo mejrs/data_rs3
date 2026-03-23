@@ -2,12 +2,11 @@
   "id": 11616,
   "models": {
     "0": [
-      60409
+      138260
     ]
   },
   "name": "Door",
   "unknown_19": 1,
-  "ambient": 10,
   "actions": [
     "Open",
     null,

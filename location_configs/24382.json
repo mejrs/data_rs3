@@ -2,11 +2,9 @@
   "id": 24382,
   "models": {
     "0": [
-      24754
+      20643
     ]
   },
   "name": "Door",
-  "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15
+  "unknown_19": 1
 }

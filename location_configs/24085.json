@@ -2,28 +2,17 @@
   "id": 24085,
   "models": {
     "10": [
-      7392,
-      7677
+      138797,
+      138798
     ]
   },
   "name": "Shelves",
-  "ambient": 10,
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      6430,
-      7587
-    ],
-    [
-      5400,
-      7582
-    ]
   ],
   "occludes_2": false,
   "cursors": [

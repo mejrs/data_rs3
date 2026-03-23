@@ -2,43 +2,60 @@
   "id": 36972,
   "models": {
     "10": [
-      12372,
-      12379
+      133387
     ]
   },
   "name": "Altar",
   "dim_x": 2,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
-    "Pray",
-    null,
+    "Pray at",
+    "Offer",
     null,
     null,
     null
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      4510,
-      5392
-    ],
-    [
-      4502,
-      5404
-    ]
-  ],
-  "textures": {
-    "2076": 3179,
-    "2094": 3171
-  },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "unknown_69": 11,
   "occludes_2": false,
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,
     null
+  ],
+  "unknown_204": [
+    {
+      "id": 27,
+      "some_bool": false,
+      "vec_1": [
+        1138342830,
+        1145959182,
+        3219179994
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 27,
+      "some_bool": false,
+      "vec_1": [
+        3285826478,
+        1145959182,
+        3219179994
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
   ]
 }

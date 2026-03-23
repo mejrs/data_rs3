@@ -1,0 +1,17 @@
+{
+  "id": 135941,
+  "models": {
+    "10": [
+      121660,
+      139788
+    ]
+  },
+  "name": "Table",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "13334": 13407
+  },
+  "occludes_2": false
+}

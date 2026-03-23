@@ -2,15 +2,14 @@
   "id": 36878,
   "models": {
     "10": [
-      49380,
-      25311
+      138685,
+      138686
     ]
   },
   "name": "Flour bin",
   "dim_x": 2,
   "dim_y": 2,
   "unknown_19": 1,
-  "ambient": 25,
   "actions": [
     "Take-flour",
     null,
@@ -18,6 +17,5 @@
     null,
     null
   ],
-  "contrast": 15,
   "occludes_2": false
 }

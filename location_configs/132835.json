@@ -2,7 +2,7 @@
   "id": 132835,
   "models": {
     "10": [
-      1482
+      132238
     ]
   },
   "name": "Sacks",
@@ -10,20 +10,13 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      8094,
-      7347
-    ]
   ],
   "occludes_2": false,
   "cursors": [

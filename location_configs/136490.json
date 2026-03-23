@@ -1,0 +1,20 @@
+{
+  "id": 136490,
+  "models": {
+    "10": [
+      135454
+    ]
+  },
+  "name": "Maya's boat",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 3
+}

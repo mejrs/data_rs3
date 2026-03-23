@@ -2,11 +2,10 @@
   "id": 36929,
   "models": {
     "10": [
-      1482
+      126576
     ]
   },
   "name": "Sacks",
-  "ambient": 25,
   "actions": [
     "Search",
     null,
@@ -14,7 +13,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "colours": [
     [
       8094,

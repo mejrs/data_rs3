@@ -1,0 +1,62 @@
+{
+  "id": 136880,
+  "models": {
+    "10": [
+      139963,
+      139958
+    ]
+  },
+  "name": "Eternal birdhouse (empty)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Add seed",
+    "Check seed",
+    "Dismantle",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37169,
+      37050
+    ],
+    [
+      37161,
+      37029
+    ],
+    [
+      37143,
+      37012
+    ],
+    [
+      37182,
+      37061
+    ],
+    [
+      37150,
+      37021
+    ],
+    [
+      4377,
+      65076
+    ],
+    [
+      4264,
+      64964
+    ],
+    [
+      64597,
+      64936
+    ],
+    [
+      64623,
+      64944
+    ]
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

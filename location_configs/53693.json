@@ -2,7 +2,12 @@
   "id": 53693,
   "models": {
     "10": [
-      58628
+      81055,
+      89230,
+      81054
+    ],
+    "22": [
+      139044
     ]
   },
   "name": "Hatchway",
@@ -11,8 +16,6 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "occludes_2": false,
   "member_actions": [
     "Enter",

@@ -5,12 +5,12 @@
       130348
     ]
   },
-  "unknown_19": 0,
+  "name": "Tree",
+  "unknown_19": 1,
   "unknown_27": false,
   "model": false,
   "unknown_81": 80,
   "mapscene": 1,
   "occludes_2": false,
-  "unknown_188": true,
   "unknown_196": 3
 }

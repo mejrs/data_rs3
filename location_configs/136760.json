@@ -1,0 +1,28 @@
+{
+  "id": 136760,
+  "models": {
+    "10": [
+      136596
+    ]
+  },
+  "name": "Drafting table",
+  "dim_x": 3,
+  "dim_y": 2,
+  "actions": [
+    "Draft",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

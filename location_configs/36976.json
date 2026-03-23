@@ -2,14 +2,14 @@
   "id": 36976,
   "models": {
     "10": [
-      36756
+      138697
     ]
   },
   "name": "Bell",
   "dim_x": 2,
   "dim_y": 3,
   "unknown_27": false,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Ring",
     null,
@@ -17,11 +17,8 @@
     null,
     null
   ],
-  "contrast": 15,
   "textures": {
-    "2090": 3171,
-    "2108": 3171
+    "12076": 15604
   },
-  "unknown_69": 11,
   "occludes_2": false
 }

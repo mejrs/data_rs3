@@ -2,13 +2,13 @@
   "id": 9208,
   "models": {
     "10": [
-      9159,
+      138943,
       9160,
       9157
     ]
   },
   "name": "Yellow orchids",
-  "ambient": 25,
+  "ambient": 0,
   "colours": [
     [
       53080,
@@ -31,5 +31,8 @@
       7766
     ]
   ],
+  "textures": {
+    "1859": 11179
+  },
   "occludes_2": false
 }

@@ -2,17 +2,20 @@
   "id": 24342,
   "models": {
     "4": [
-      25175
+      138734
+    ],
+    "10": [
+      138733
     ]
   },
   "name": "Saradomin star",
   "unknown_19": 1,
-  "ambient": 25,
-  "colours": [
-    [
-      6067,
-      8115
-    ]
-  ],
+  "ambient": 0,
+  "textures": {
+    "23196": 23197
+  },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

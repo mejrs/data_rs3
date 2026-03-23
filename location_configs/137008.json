@@ -1,0 +1,25 @@
+{
+  "id": 137008,
+  "models": {
+    "10": [
+      89361
+    ]
+  },
+  "name": "Empty tree plot",
+  "actions": [
+    null,
+    null,
+    "Plant sapling",
+    null,
+    null
+  ],
+  "textures": {
+    "12007": 13419
+  },
+  "scale_x": 175,
+  "scale_y": 175,
+  "scale_z": 175,
+  "unknown_81": 32,
+  "occludes_2": false,
+  "unknown_196": 4
+}

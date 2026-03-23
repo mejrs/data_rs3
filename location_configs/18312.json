@@ -2,20 +2,10 @@
   "id": 18312,
   "models": {
     "10": [
-      10089
+      47547
     ]
   },
   "name": "Stool",
-  "ambient": 25,
-  "colours": [
-    [
-      6707,
-      7582
-    ],
-    [
-      7952,
-      7706
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

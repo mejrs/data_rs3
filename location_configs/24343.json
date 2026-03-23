@@ -2,42 +2,23 @@
   "id": 24343,
   "models": {
     "10": [
-      12370,
-      12379
+      133387
     ]
   },
   "name": "Altar",
   "dim_x": 2,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
-    "Pray-at",
-    null,
+    "Pray at",
+    "Offer",
     null,
     null,
     null
   ],
-  "colours": [
-    [
-      6682,
-      7954
-    ],
-    [
-      6443,
-      7706
-    ],
-    [
-      24,
-      78
-    ],
-    [
-      43094,
-      9436
-    ]
-  ],
   "occludes_2": false,
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,

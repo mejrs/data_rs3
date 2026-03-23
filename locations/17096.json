@@ -7,7 +7,7 @@
     "y": 54,
     "id": 17096,
     "type": 10,
-    "rotation": 3
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -17,7 +17,7 @@
     "y": 59,
     "id": 17096,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -27,7 +27,7 @@
     "y": 57,
     "id": 17096,
     "type": 10,
-    "rotation": 0
+    "rotation": 3
   },
   {
     "plane": 1,
@@ -40,21 +40,11 @@
     "rotation": 0
   },
   {
-    "plane": 1,
+    "plane": 0,
     "i": 49,
-    "j": 52,
-    "x": 52,
-    "y": 34,
-    "id": 17096,
-    "type": 10,
-    "rotation": 0
-  },
-  {
-    "plane": 1,
-    "i": 50,
-    "j": 52,
-    "x": 51,
-    "y": 54,
+    "j": 53,
+    "x": 56,
+    "y": 3,
     "id": 17096,
     "type": 10,
     "rotation": 3
@@ -64,20 +54,10 @@
     "i": 49,
     "j": 53,
     "x": 56,
-    "y": 3,
-    "id": 17096,
-    "type": 10,
-    "rotation": 0
-  },
-  {
-    "plane": 0,
-    "i": 49,
-    "j": 53,
-    "x": 56,
     "y": 6,
     "id": 17096,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -87,7 +67,7 @@
     "y": 3,
     "id": 17096,
     "type": 10,
-    "rotation": 0
+    "rotation": 1
   },
   {
     "plane": 0,
@@ -187,7 +167,7 @@
     "y": 59,
     "id": 17096,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -207,7 +187,7 @@
     "y": 61,
     "id": 17096,
     "type": 10,
-    "rotation": 0
+    "rotation": 3
   },
   {
     "plane": 1,
@@ -217,7 +197,7 @@
     "y": 54,
     "id": 17096,
     "type": 10,
-    "rotation": 3
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -227,7 +207,7 @@
     "y": 3,
     "id": 17096,
     "type": 10,
-    "rotation": 0
+    "rotation": 3
   },
   {
     "plane": 0,
@@ -237,7 +217,7 @@
     "y": 6,
     "id": 17096,
     "type": 10,
-    "rotation": 1
+    "rotation": 0
   },
   {
     "plane": 0,
@@ -247,7 +227,7 @@
     "y": 3,
     "id": 17096,
     "type": 10,
-    "rotation": 0
+    "rotation": 1
   },
   {
     "plane": 0,
@@ -257,7 +237,7 @@
     "y": 22,
     "id": 17096,
     "type": 10,
-    "rotation": 2
+    "rotation": 1
   },
   {
     "plane": 0,
@@ -267,7 +247,7 @@
     "y": 25,
     "id": 17096,
     "type": 10,
-    "rotation": 2
+    "rotation": 1
   },
   {
     "plane": 0,

@@ -2,19 +2,13 @@
   "id": 54737,
   "models": {
     "10": [
-      64784
+      84432
     ]
   },
   "unknown_19": 0,
-  "unknown_21": true,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      15629,
-      17962
-    ]
-  ],
+  "scale_x": 70,
+  "scale_y": 70,
+  "scale_z": 70,
   "mapscene": 6,
   "occludes_2": false
 }

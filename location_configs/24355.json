@@ -2,7 +2,7 @@
   "id": 24355,
   "models": {
     "10": [
-      11539
+      138662
     ]
   },
   "name": "Ladder",
@@ -14,21 +14,6 @@
     null,
     null
   ],
-  "colours": [
-    [
-      7836,
-      7587
-    ],
-    [
-      7834,
-      7582
-    ],
-    [
-      6930,
-      7954
-    ]
-  ],
-  "unknown_44": 19,
   "unknown_69": 14,
   "mapscene": 7,
   "occludes_2": false,

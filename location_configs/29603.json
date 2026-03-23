@@ -2,11 +2,10 @@
   "id": 29603,
   "models": {
     "10": [
-      32427
+      122332
     ]
   },
   "name": "Jail entrance",
-  "ambient": 25,
   "actions": [
     "Use",
     null,
@@ -14,33 +13,9 @@
     null,
     null
   ],
-  "contrast": 25,
-  "colours": [
-    [
-      10281,
-      10266
-    ],
-    [
-      10285,
-      10275
-    ],
-    [
-      10289,
-      10283
-    ],
-    [
-      6315,
-      6674
-    ],
-    [
-      6323,
-      6554
-    ],
-    [
-      8410,
-      6327
-    ]
-  ],
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
   "occludes_2": false,
   "cursors": [
     46,

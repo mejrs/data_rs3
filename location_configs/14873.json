@@ -2,13 +2,13 @@
   "id": 14873,
   "models": {
     "10": [
-      15209,
-      15206,
+      138847,
+      138849,
       50971
     ]
   },
   "name": "Desk",
   "dim_x": 2,
-  "ambient": 25,
+  "ambient": 0,
   "occludes_2": false
 }

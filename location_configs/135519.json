@@ -1,0 +1,13 @@
+{
+  "id": 135519,
+  "models": {
+    "4": [
+      139054
+    ]
+  },
+  "name": "Lantern",
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

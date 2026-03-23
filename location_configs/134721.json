@@ -4,13 +4,14 @@
   "dim_y": 4,
   "unknown_19": 1,
   "unknown_27": false,
-  "morphs_1": {
+  "morphs_2": {
     "varbit": 60335,
     "ids": [
       134725,
       134722,
       134723,
       134724
-    ]
+    ],
+    "default": 134725
   }
 }

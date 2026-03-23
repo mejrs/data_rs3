@@ -2,12 +2,10 @@
   "id": 77987,
   "models": {
     "10": [
-      78122
+      138975
     ]
   },
   "name": "Barrel",
-  "ambient": 25,
-  "contrast": 15,
   "unknown_93": 8224,
   "occludes_2": false
 }

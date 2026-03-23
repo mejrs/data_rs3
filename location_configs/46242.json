@@ -2,29 +2,19 @@
   "id": 46242,
   "models": {
     "10": [
-      49670
+      138797,
+      138806
     ]
   },
   "name": "Food larder",
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Search",
     null,
     null,
     null,
     null
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      5404,
-      8463
-    ],
-    [
-      7566,
-      8456
-    ]
   ],
   "occludes_2": false,
   "cursors": [

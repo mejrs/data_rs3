@@ -2,7 +2,7 @@
   "id": 43589,
   "models": {
     "10": [
-      9547
+      138894
     ]
   },
   "name": "Large table",
@@ -10,25 +10,5 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      6443,
-      5400
-    ],
-    [
-      6451,
-      5398
-    ],
-    [
-      6563,
-      5390
-    ],
-    [
-      6439,
-      5394
-    ]
-  ],
   "occludes_2": false
 }

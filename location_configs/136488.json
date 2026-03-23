@@ -1,0 +1,31 @@
+{
+  "id": 136488,
+  "models": {
+    "10": [
+      24503,
+      24504,
+      24510
+    ]
+  },
+  "name": "Maya's boat",
+  "is_transparent": true,
+  "unknown_27": false,
+  "ambient": 40,
+  "actions": [
+    "Push",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    196,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 3
+}

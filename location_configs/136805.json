@@ -1,0 +1,41 @@
+{
+  "id": 136805,
+  "models": {
+    "10": [
+      1381
+    ]
+  },
+  "name": "Food dispenser controls",
+  "is_transparent": true,
+  "unknown_27": false,
+  "actions": [
+    "Operate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      5665,
+      5400
+    ],
+    [
+      5660,
+      5394
+    ],
+    [
+      6569,
+      5398
+    ]
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "unknown_1": 16184,
+  "unknown_2": 16184,
+  "unknown_3": 16184,
+  "unknown_4": 16584,
+  "unknown_5": 16584,
+  "unknown_6": 16584,
+  "unknown_203": true
+}

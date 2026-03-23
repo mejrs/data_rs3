@@ -2,7 +2,7 @@
   "id": 29191,
   "models": {
     "10": [
-      19904,
+      139970,
       32056
     ]
   },
@@ -10,8 +10,6 @@
   "unknown_17": false,
   "unknown_19": 1,
   "unknown_24": 5177,
-  "ambient": 25,
-  "contrast": 25,
   "unknown_75": 0,
   "occludes_2": false
 }

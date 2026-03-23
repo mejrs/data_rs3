@@ -5,8 +5,8 @@
   "unknown_27": false,
   "ambient": 25,
   "actions": [
-    "Pray",
-    null,
+    "Pray at",
+    "Offer",
     null,
     null,
     null
@@ -22,7 +22,7 @@
   },
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,

@@ -2,13 +2,12 @@
   "id": 102548,
   "models": {
     "10": [
-      64792
+      139101
     ]
   },
   "name": "Tree",
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 64,
   "actions": [
     "Investigate",
     null,

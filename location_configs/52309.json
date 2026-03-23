@@ -1,15 +1,17 @@
 {
   "id": 52309,
   "models": {
+    "10": [
+      81055
+    ],
     "22": [
-      15521
+      139044
     ]
   },
   "name": "Trapdoor",
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Enter",
     null,
@@ -17,7 +19,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "colours": [
     [
       5545,

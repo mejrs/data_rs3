@@ -2,11 +2,15 @@
   "id": 1299,
   "models": {
     "10": [
-      120300
+      132750
+    ],
+    "22": [
+      139177
     ]
   },
   "name": "Fern",
   "unknown_17": false,
+  "translate_y": 65516,
   "mapscene": 9,
   "occludes_2": false
 }

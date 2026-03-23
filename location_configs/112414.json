@@ -2,19 +2,19 @@
   "id": 112414,
   "models": {
     "10": [
-      49102
+      138240
     ]
   },
   "name": "Ladder",
   "unknown_19": 1,
   "actions": [
-    "Climb-up",
+    "Climb up",
     "Climb-top",
     null,
     null,
     null
   ],
-  "unknown_69": 14,
+  "unknown_69": 13,
   "mapscene": 7,
   "occludes_2": false,
   "cursors": [

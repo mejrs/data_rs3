@@ -2,7 +2,7 @@
   "id": 31616,
   "models": {
     "10": [
-      60504
+      24972
     ]
   },
   "name": "Staircase",
@@ -10,7 +10,6 @@
   "dim_y": 2,
   "unknown_22": true,
   "unknown_27": false,
-  "ambient": 20,
   "actions": [
     "Climb-down",
     null,
@@ -18,7 +17,9 @@
     null,
     null
   ],
-  "unknown_69": 13,
+  "textures": {
+    "23182": 5206
+  },
   "mapscene": 7,
   "occludes_2": false,
   "cursors": [

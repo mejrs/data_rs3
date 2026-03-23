@@ -2,35 +2,20 @@
   "id": 10672,
   "models": {
     "10": [
-      10483,
+      136592,
       10484
     ]
   },
   "name": "Crate",
   "dim_x": 2,
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Take-marionette",
     null,
     null,
     null,
     null
-  ],
-  "contrast": 15,
-  "colours": [
-    [
-      8623,
-      8460
-    ],
-    [
-      8858,
-      8456
-    ],
-    [
-      9878,
-      8452
-    ]
   ],
   "occludes_2": false
 }

@@ -2,12 +2,11 @@
   "id": 24324,
   "models": {
     "10": [
-      25058
+      130219
     ]
   },
   "name": "Piano",
   "dim_x": 2,
-  "ambient": 25,
   "actions": [
     "Play",
     null,

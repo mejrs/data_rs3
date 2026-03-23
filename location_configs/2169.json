@@ -2,7 +2,7 @@
   "id": 2169,
   "models": {
     "10": [
-      5492
+      47544
     ]
   },
   "name": "Bench",
@@ -10,17 +10,6 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      6932,
-      8460
-    ],
-    [
-      6684,
-      8455
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

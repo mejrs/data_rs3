@@ -9,7 +9,7 @@
   },
   "name": "Money tree",
   "actions": [
-    "Pick-from",
+    "Pick from",
     "Inspect",
     null,
     "Guide",

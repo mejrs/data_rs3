@@ -6,9 +6,10 @@
       135073
     ]
   },
+  "name": "Vault door",
   "dim_x": 5,
   "dim_y": 2,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
   "model": false,
   "scale_x": 50,

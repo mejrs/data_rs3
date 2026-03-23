@@ -2,15 +2,14 @@
   "id": 14507,
   "models": {
     "10": [
-      14651,
+      139040,
       14655
     ]
   },
   "name": "Wilderness Sign",
-  "ambient": 17,
-  "contrast": 17,
+  "ambient": 0,
   "textures": {
-    "2184": 308
+    "2184": 23177
   },
   "occludes_2": false
 }

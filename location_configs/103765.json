@@ -2,11 +2,10 @@
   "id": 103765,
   "models": {
     "10": [
-      44737
+      74103
     ]
   },
   "name": "Crate of Returning",
-  "ambient": 25,
   "actions": [
     "Search",
     "Reset Gower Quest",
@@ -14,7 +13,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "occludes_2": false,
   "cursors": [
     56,

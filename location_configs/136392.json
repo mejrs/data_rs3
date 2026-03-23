@@ -1,0 +1,20 @@
+{
+  "id": 136392,
+  "models": {
+    "10": [
+      134977
+    ]
+  },
+  "unknown_19": 0,
+  "unknown_24": 22431,
+  "unknown_27": false,
+  "ambient": 10,
+  "textures": {
+    "13435": 23242
+  },
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_196": 2
+}

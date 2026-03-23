@@ -2,14 +2,14 @@
   "id": 110531,
   "models": {
     "10": [
-      7685,
+      74102,
       17037
     ]
   },
   "name": "Crate (hidey-hole)",
   "is_transparent": true,
   "unknown_19": 1,
-  "ambient": 20,
+  "ambient": 0,
   "actions": [
     "Take items",
     null,

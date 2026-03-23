@@ -5,9 +5,10 @@
       70769
     ]
   },
+  "name": "Chest",
   "dim_x": 3,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "textures": {
     "11375": 14478
   },

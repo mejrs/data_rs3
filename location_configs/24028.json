@@ -2,15 +2,13 @@
   "id": 24028,
   "models": {
     "10": [
-      14827,
+      138905,
       20831
     ]
   },
   "name": "Table",
   "dim_x": 2,
   "is_transparent": true,
-  "ambient": 10,
-  "contrast": 10,
   "colours": [
     [
       6451,

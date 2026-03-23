@@ -6,6 +6,9 @@
     ]
   },
   "unknown_19": 0,
+  "textures": {
+    "3997": 23072
+  },
   "model": false,
   "occludes_2": false
 }

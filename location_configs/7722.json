@@ -10,7 +10,7 @@
   "name": "Whiteberry bush",
   "ambient": 25,
   "actions": [
-    "Pick-from",
+    "Pick from",
     "Inspect",
     "Clear",
     "Guide",

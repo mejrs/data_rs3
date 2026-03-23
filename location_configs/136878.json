@@ -1,0 +1,63 @@
+{
+  "id": 136878,
+  "models": {
+    "10": [
+      139963,
+      139957,
+      139958
+    ]
+  },
+  "name": "Elder birdhouse",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Add seed",
+    "Check seed",
+    "Dismantle",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      37169,
+      6314
+    ],
+    [
+      37161,
+      6300
+    ],
+    [
+      37143,
+      6291
+    ],
+    [
+      37182,
+      6327
+    ],
+    [
+      37150,
+      6295
+    ],
+    [
+      4377,
+      2319
+    ],
+    [
+      4264,
+      2328
+    ],
+    [
+      64597,
+      4377
+    ],
+    [
+      64623,
+      4264
+    ]
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

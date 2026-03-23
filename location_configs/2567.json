@@ -2,25 +2,47 @@
   "id": 2567,
   "models": {
     "10": [
-      32110
+      139026,
+      139027
     ]
   },
-  "name": "Chest",
+  "name": "Seed stall",
+  "dim_x": 3,
+  "dim_y": 2,
   "unknown_19": 1,
-  "actions": [
-    "Open",
-    "Search for traps",
-    null,
-    null,
-    null
+  "ambient": 0,
+  "colours": [
+    [
+      11200,
+      32936
+    ],
+    [
+      22464,
+      17581
+    ],
+    [
+      33728,
+      32936
+    ],
+    [
+      43968,
+      17581
+    ],
+    [
+      960,
+      17571
+    ],
+    [
+      55232,
+      32936
+    ],
+    [
+      47040,
+      17571
+    ]
   ],
+  "mirror": true,
+  "is_members": true,
   "occludes_2": false,
-  "cursors": [
-    49,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_196": 2
 }

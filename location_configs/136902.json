@@ -1,0 +1,18 @@
+{
+  "id": 136902,
+  "models": {
+    "10": [
+      139967
+    ]
+  },
+  "name": "Broken trap",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "textures": {
+    "12338": 23594
+  },
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

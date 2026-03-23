@@ -9,16 +9,17 @@
   "dim_x": 2,
   "is_transparent": true,
   "actions": [
-    "Pray-at",
-    null,
+    "Pray at",
+    "Offer",
     null,
     null,
     null
   ],
   "occludes_2": false,
+  "mapfunction": 575,
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,

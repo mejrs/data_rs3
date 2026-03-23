@@ -2,14 +2,15 @@
   "id": 112413,
   "models": {
     "10": [
-      9504
+      138689,
+      29725
     ]
   },
   "name": "Ladder",
   "unknown_19": 1,
   "unknown_22": true,
   "actions": [
-    "Climb-down",
+    "Climb down",
     "Climb-bottom",
     null,
     null,

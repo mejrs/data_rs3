@@ -2,12 +2,15 @@
   "id": 9201,
   "models": {
     "10": [
-      9159,
+      138943,
       9160,
       9156
     ]
   },
   "name": "Orchids",
-  "ambient": 25,
+  "ambient": 0,
+  "textures": {
+    "1859": 11179
+  },
   "occludes_2": false
 }

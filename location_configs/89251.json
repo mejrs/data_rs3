@@ -5,9 +5,13 @@
       93670
     ]
   },
-  "unknown_19": 0,
+  "name": "Gravestone",
+  "unknown_19": 1,
   "unknown_21": true,
   "ambient": 25,
+  "textures": {
+    "1853": 11179
+  },
   "occludes_2": false,
   "unknown_196": 0
 }

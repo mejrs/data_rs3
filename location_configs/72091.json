@@ -13,12 +13,5 @@
   "model": false,
   "is_members": true,
   "occludes_2": false,
-  "member_actions": [
-    "Operate",
-    null,
-    null,
-    null,
-    null
-  ],
   "unknown_196": 4
 }

@@ -2,18 +2,13 @@
   "id": 36941,
   "models": {
     "10": [
-      36450
+      87873,
+      87878
     ]
   },
   "name": "Bed",
   "dim_x": 2,
   "dim_y": 3,
-  "ambient": 25,
-  "contrast": 15,
-  "textures": {
-    "2066": 3172,
-    "2076": 3179,
-    "2094": 3171
-  },
+  "ambient": 0,
   "occludes_2": false
 }

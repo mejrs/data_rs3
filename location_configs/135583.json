@@ -1,0 +1,38 @@
+{
+  "id": 135583,
+  "models": {
+    "10": [
+      139211,
+      139213
+    ]
+  },
+  "name": "Willow",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_24": 22138,
+  "unknown_27": false,
+  "actions": [
+    "Chop down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "scale_x": 220,
+  "scale_y": 220,
+  "scale_z": 220,
+  "unknown_81": 80,
+  "mapscene": 3,
+  "occludes_2": false,
+  "unknown_189": true,
+  "cursors": [
+    59,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

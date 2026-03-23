@@ -1,0 +1,27 @@
+{
+  "id": 136482,
+  "models": {
+    "22": [
+      80268
+    ]
+  },
+  "name": "Reuben's journal",
+  "unknown_19": 1,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

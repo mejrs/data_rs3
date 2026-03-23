@@ -2,12 +2,10 @@
   "id": 99732,
   "models": {
     "4": [
-      107224
+      107222
     ]
   },
   "unknown_19": 0,
-  "ambient": 10,
-  "contrast": 15,
   "unknown_75": 0,
   "occludes_2": false
 }

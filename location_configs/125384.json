@@ -1,12 +1,16 @@
 {
   "id": 125384,
   "models": {
+    "4": [
+      138915
+    ],
     "10": [
       89015
     ]
   },
+  "name": "Torch",
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "textures": {
     "12150": 14779
   },

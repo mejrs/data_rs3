@@ -2,15 +2,15 @@
   "id": 110586,
   "models": {
     "10": [
-      95137,
-      17492
+      67889,
+      139239
     ]
   },
   "name": "Barrel (hidey-hole)",
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 64,
+  "ambient": 0,
   "actions": [
     "Fill",
     null,

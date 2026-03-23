@@ -2,13 +2,15 @@
   "id": 37690,
   "models": {
     "10": [
-      120299
+      132750
+    ],
+    "22": [
+      139177
     ]
   },
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_21": true,
   "model": false,
-  "occludes_2": false,
-  "unknown_186": 2
+  "occludes_2": false
 }

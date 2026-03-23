@@ -11,5 +11,8 @@
   "unknown_27": false,
   "ambient": 25,
   "contrast": 15,
+  "textures": {
+    "11101": 23171
+  },
   "mirror": true
 }

@@ -2,12 +2,15 @@
   "id": 84421,
   "models": {
     "10": [
-      85966,
-      85984
+      125390
     ]
   },
   "unknown_19": 0,
-  "ambient": 50,
-  "contrast": 15,
+  "textures": {
+    "14715": 14717
+  },
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
   "occludes_2": false
 }

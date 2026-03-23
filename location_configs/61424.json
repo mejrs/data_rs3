@@ -2,7 +2,7 @@
   "id": 61424,
   "models": {
     "10": [
-      56025
+      138649
     ]
   },
   "dim_x": 4,
@@ -11,7 +11,8 @@
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
-  "ambient": 25,
-  "contrast": 15,
+  "textures": {
+    "23177": 23178
+  },
   "occludes_2": false
 }

@@ -2,22 +2,13 @@
   "id": 24080,
   "models": {
     "4": [
-      12536
+      132056
     ]
   },
   "name": "Shelves",
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 25,
-  "colours": [
-    [
-      6707,
-      7587
-    ],
-    [
-      7952,
-      8078
-    ]
-  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

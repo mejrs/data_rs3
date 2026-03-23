@@ -2,7 +2,7 @@
   "id": 64112,
   "models": {
     "10": [
-      87306
+      138631
     ]
   },
   "dim_x": 4,
@@ -12,8 +12,16 @@
   "unknown_22": true,
   "unknown_24": 9593,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      6226,
+      7223
+    ],
+    [
+      38961,
+      10261
+    ]
+  ],
   "occludes_2": false,
   "unknown_186": 2
 }

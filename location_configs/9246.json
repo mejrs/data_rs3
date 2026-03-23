@@ -2,12 +2,12 @@
   "id": 9246,
   "models": {
     "10": [
-      107311
+      139215
     ]
   },
   "name": "Statue plinth",
   "dim_x": 2,
-  "ambient": 15,
+  "ambient": 0,
   "actions": [
     null,
     "Inspect",

@@ -2,21 +2,14 @@
   "id": 11893,
   "models": {
     "10": [
-      9500
+      121256,
+      121257
     ]
   },
   "name": "Bookcase",
-  "ambient": 10,
-  "colours": [
-    [
-      5784,
-      5652
-    ],
-    [
-      5008,
-      4626
-    ]
-  ],
-  "unknown_44": 6,
+  "dim_x": 2,
+  "textures": {
+    "11110": 15574
+  },
   "occludes_2": false
 }

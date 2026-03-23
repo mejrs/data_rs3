@@ -2,14 +2,15 @@
   "id": 7053,
   "models": {
     "10": [
-      48667,
-      874
+      139026,
+      139028,
+      139027
     ]
   },
   "name": "Seed Stall",
   "dim_x": 3,
   "dim_y": 2,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     null,
     "Steal from",
@@ -17,7 +18,37 @@
     null,
     null
   ],
-  "contrast": 15,
+  "colours": [
+    [
+      11200,
+      32936
+    ],
+    [
+      22464,
+      17581
+    ],
+    [
+      33728,
+      32936
+    ],
+    [
+      43968,
+      17581
+    ],
+    [
+      960,
+      17571
+    ],
+    [
+      55232,
+      32936
+    ],
+    [
+      47040,
+      17571
+    ]
+  ],
+  "mirror": true,
   "is_members": true,
   "occludes_2": false,
   "unknown_196": 2

@@ -2,17 +2,11 @@
   "id": 35753,
   "models": {
     "4": [
-      35954
+      138721
     ]
   },
   "name": "Shield",
   "unknown_19": 1,
-  "ambient": 40,
-  "colours": [
-    [
-      6067,
-      8115
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

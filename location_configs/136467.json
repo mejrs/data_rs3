@@ -1,0 +1,29 @@
+{
+  "id": 136467,
+  "models": {
+    "10": [
+      139876
+    ]
+  },
+  "name": "Altar of Inanna",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Pray",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "mapfunction": 575,
+  "cursors": [
+    61,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -2,22 +2,11 @@
   "id": 3184,
   "models": {
     "4": [
-      5533
+      138750
     ]
   },
   "name": "Garlic",
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      10446,
-      8454
-    ],
-    [
-      7580,
-      8464
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

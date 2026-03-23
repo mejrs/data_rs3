@@ -10,5 +10,11 @@
   "dim_x": 5,
   "dim_y": 2,
   "unknown_24": 3304,
+  "colours": [
+    [
+      9412,
+      9386
+    ]
+  ],
   "occludes_2": false
 }

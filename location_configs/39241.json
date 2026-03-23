@@ -2,11 +2,12 @@
   "id": 39241,
   "models": {
     "10": [
-      42793
+      72818,
+      138983
     ]
   },
   "name": "Travelling box",
   "unknown_19": 1,
-  "ambient": 25,
+  "ambient": 0,
   "occludes_2": false
 }

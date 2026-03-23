@@ -1,0 +1,48 @@
+{
+  "id": 136736,
+  "models": {
+    "10": [
+      139865,
+      139866
+    ]
+  },
+  "name": "Empowered obelisk",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_19": 1,
+  "unknown_24": 8510,
+  "unknown_27": false,
+  "actions": [
+    "Infuse pouch",
+    "Renew points",
+    null,
+    null,
+    null
+  ],
+  "unknown_78": {
+    "unknown_1": 38056,
+    "unknown_2": 6
+  },
+  "is_members": true,
+  "occludes_2": false,
+  "unknown_104": 150,
+  "unknown_1": 295,
+  "unknown_2": 305,
+  "unknown_178": 3,
+  "unknown_204": [
+    {
+      "id": 70,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        0,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 136456,
+  "models": {
+    "10": [
+      127588,
+      127589,
+      139862
+    ]
+  },
+  "name": "Lodestone hotspot",
+  "unknown_21": true,
+  "actions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      36300,
+      10048
+    ]
+  ],
+  "textures": {
+    "12007": 13419
+  },
+  "occludes_2": false
+}

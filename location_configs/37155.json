@@ -17,5 +17,6 @@
     null
   ],
   "contrast": 25,
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 595
 }

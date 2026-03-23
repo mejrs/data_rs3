@@ -2,8 +2,7 @@
   "id": 26937,
   "models": {
     "10": [
-      28895,
-      28877
+      134644
     ]
   },
   "name": "Coffin",
@@ -17,7 +16,9 @@
     null,
     null
   ],
-  "contrast": 15,
+  "scale_x": 75,
+  "scale_y": 75,
+  "scale_z": 75,
   "occludes_2": false,
   "cursors": [
     49,

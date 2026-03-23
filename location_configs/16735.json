@@ -2,7 +2,7 @@
   "id": 16735,
   "models": {
     "10": [
-      137509
+      138664
     ]
   },
   "name": "Ladder",
@@ -39,6 +39,7 @@
   "textures": {
     "11109": 12073
   },
+  "scale_y": 115,
   "unknown_69": 13,
   "mapscene": 7,
   "occludes_2": false,

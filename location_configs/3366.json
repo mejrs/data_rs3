@@ -2,7 +2,7 @@
   "id": 3366,
   "models": {
     "10": [
-      8206
+      124687
     ]
   },
   "name": "Onion",
@@ -14,6 +14,10 @@
     null,
     null
   ],
+  "scale_x": 140,
+  "scale_y": 160,
+  "scale_z": 140,
+  "translate_y": 10,
   "mapscene": 33,
   "occludes_2": false,
   "cursors": [

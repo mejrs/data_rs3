@@ -2,7 +2,7 @@
   "id": 49213,
   "models": {
     "10": [
-      64856
+      139100
     ]
   },
   "name": "Fallen tree",
@@ -17,10 +17,6 @@
       15635
     ]
   ],
-  "textures": {
-    "2637": 12356,
-    "2653": 12356
-  },
   "model": false,
   "mapscene": 6,
   "occludes_2": false,

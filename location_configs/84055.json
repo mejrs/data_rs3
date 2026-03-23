@@ -2,7 +2,7 @@
   "id": 84055,
   "models": {
     "10": [
-      79551
+      140081
     ]
   },
   "name": "Tree",
@@ -11,16 +11,14 @@
   "unknown_17": false,
   "unknown_19": 1,
   "textures": {
-    "2242": 2243,
-    "2261": 2263,
-    "2262": 2264,
-    "2653": 12356
+    "23229": 23227
   },
   "model": false,
-  "scale_x": 215,
-  "scale_y": 235,
-  "scale_z": 215,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
   "unknown_81": 80,
   "occludes_2": false,
-  "unknown_189": true
+  "unknown_189": true,
+  "unknown_196": 1
 }

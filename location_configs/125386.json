@@ -10,10 +10,25 @@
   "unknown_17": false,
   "unknown_19": 0,
   "unknown_22": true,
+  "unknown_24": 31436,
   "model": false,
   "scale_x": 170,
   "scale_y": 170,
   "scale_z": 170,
+  "unknown_79": {
+    "unknown_1": 450,
+    "unknown_2": 900,
+    "unknown_3": 15,
+    "values": [
+      26436,
+      2901,
+      2901,
+      26441,
+      26448,
+      26449
+    ]
+  },
   "occludes_2": false,
+  "unknown_104": 100,
   "unknown_196": 4
 }

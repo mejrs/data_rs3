@@ -2,11 +2,11 @@
   "id": 119245,
   "models": {
     "10": [
-      113426
+      67893,
+      139146
     ]
   },
   "name": "Barrel of fish",
-  "ambient": 50,
   "model": false,
   "occludes_2": false
 }

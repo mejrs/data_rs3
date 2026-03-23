@@ -2,7 +2,7 @@
   "id": 38805,
   "models": {
     "10": [
-      79552,
+      140078,
       64768
     ]
   },
@@ -21,25 +21,5 @@
   "unknown_81": 80,
   "occludes_2": false,
   "unknown_189": true,
-  "model_morphs": {
-    "unk0": 18,
-    "varbit": 57011,
-    "multi_model": null,
-    "multi_head_model": [
-      {
-        "value": 1,
-        "models": [
-          {
-            "unk1": 2,
-            "unk2": 2,
-            "unk3": 120730
-          }
-        ]
-      }
-    ],
-    "multi_retex": null,
-    "multi_recol": null,
-    "multi_ret_int": null,
-    "default": 1
-  }
+  "unknown_196": 1
 }

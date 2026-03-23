@@ -1,0 +1,21 @@
+{
+  "id": 137009,
+  "models": {
+    "10": [
+      7977,
+      7768,
+      89361
+    ]
+  },
+  "name": "Eternal magic sapling",
+  "textures": {
+    "12007": 13419
+  },
+  "scale_x": 175,
+  "scale_y": 175,
+  "scale_z": 175,
+  "unknown_81": 32,
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 4
+}

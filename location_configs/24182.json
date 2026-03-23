@@ -2,12 +2,12 @@
   "id": 24182,
   "models": {
     "4": [
-      88098
+      138934,
+      138935
     ]
   },
   "name": "Shelf",
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
   "occludes_2": false
 }

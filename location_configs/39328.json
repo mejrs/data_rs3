@@ -16,6 +16,11 @@
     null,
     null
   ],
+  "textures": {
+    "2637": 23232,
+    "2653": 23232,
+    "2665": 12356
+  },
   "mapscene": 1,
   "occludes_2": false,
   "cursors": [

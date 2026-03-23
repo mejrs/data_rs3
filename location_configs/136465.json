@@ -1,0 +1,33 @@
+{
+  "id": 136465,
+  "models": {
+    "10": [
+      127596
+    ]
+  },
+  "name": "Deposit box",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Deposit",
+    "Deposit all",
+    "Deposit all fish",
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "mapfunction": 3651,
+  "cursors": [
+    null,
+    null,
+    60,
+    null,
+    null,
+    null
+  ],
+  "params": {
+    "9049": 464
+  }
+}

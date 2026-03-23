@@ -1,0 +1,13 @@
+{
+  "id": 136553,
+  "models": {
+    "10": [
+      73978
+    ]
+  },
+  "name": "Abandoned crate",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "occludes_2": false
+}

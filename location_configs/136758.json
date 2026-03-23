@@ -1,0 +1,26 @@
+{
+  "id": 136758,
+  "models": {
+    "10": [
+      136594
+    ]
+  },
+  "name": "Pattern table",
+  "actions": [
+    "Design",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 14,
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

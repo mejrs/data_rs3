@@ -2,26 +2,17 @@
   "id": 30726,
   "models": {
     "10": [
-      33796
+      8001
     ]
   },
-  "name": "Altar",
-  "dim_x": 2,
-  "is_transparent": true,
-  "actions": [
-    "Pray-at",
-    null,
-    null,
-    null,
-    null
-  ],
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "textures": {
+    "11109": 23549
+  },
+  "model": false,
   "occludes_2": false,
-  "cursors": [
-    61,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_186": 2,
+  "unknown_196": 4
 }

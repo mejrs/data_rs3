@@ -2,7 +2,7 @@
   "id": 78116,
   "models": {
     "10": [
-      78362
+      136513
     ]
   },
   "name": "Workbench",
@@ -10,9 +10,5 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "translate_x": 65501,
-  "translate_z": 15,
   "occludes_2": false
 }

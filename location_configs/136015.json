@@ -1,0 +1,33 @@
+{
+  "id": 136015,
+  "models": {
+    "10": [
+      139826
+    ]
+  },
+  "name": "Tunnel entrance",
+  "dim_x": 4,
+  "dim_y": 4,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Enter",
+    "Public encounter",
+    "Private encounter",
+    "Join private encounter",
+    "Rejoin last private encounter"
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "cursors": [
+    57,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

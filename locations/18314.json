@@ -24,7 +24,7 @@
     "i": 50,
     "j": 52,
     "x": 5,
-    "y": 53,
+    "y": 52,
     "id": 18314,
     "type": 10,
     "rotation": 1
@@ -67,7 +67,7 @@
     "y": 55,
     "id": 18314,
     "type": 10,
-    "rotation": 1
+    "rotation": 2
   },
   {
     "plane": 1,
@@ -317,7 +317,7 @@
     "y": 28,
     "id": 18314,
     "type": 10,
-    "rotation": 2
+    "rotation": 1
   },
   {
     "plane": 0,
@@ -337,7 +337,7 @@
     "y": 30,
     "id": 18314,
     "type": 10,
-    "rotation": 2
+    "rotation": 1
   },
   {
     "plane": 1,

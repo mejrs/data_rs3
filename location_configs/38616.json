@@ -2,27 +2,21 @@
   "id": 38616,
   "models": {
     "10": [
-      64868
+      139202,
+      139207
     ]
   },
   "name": "Willow",
   "is_transparent": true,
   "unknown_19": 1,
+  "unknown_24": 22138,
   "unknown_27": false,
-  "ambient": 35,
   "actions": [
     "Chop down",
     null,
     null,
     null,
     null
-  ],
-  "contrast": 50,
-  "colours": [
-    [
-      15629,
-      15635
-    ]
   ],
   "model": false,
   "scale_x": 95,
@@ -40,5 +34,5 @@
     null,
     null
   ],
-  "unknown_196": 3
+  "unknown_196": 2
 }

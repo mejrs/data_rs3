@@ -5,8 +5,11 @@
       47555
     ]
   },
-  "unknown_17": false,
-  "unknown_19": 0,
+  "name": "Table",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
   "model": false,
+  "unknown_75": 1,
   "occludes_2": false
 }

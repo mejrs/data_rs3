@@ -6,18 +6,18 @@
     "x": 53,
     "y": 32,
     "id": 79193,
-    "type": 3,
+    "type": 10,
     "rotation": 2
   },
   {
-    "plane": -1,
+    "plane": 0,
     "i": 48,
     "j": 49,
     "x": 59,
     "y": 32,
     "id": 79193,
-    "type": 3,
-    "rotation": 1
+    "type": 10,
+    "rotation": 2
   },
   {
     "plane": 0,
@@ -26,8 +26,8 @@
     "x": 53,
     "y": 32,
     "id": 79193,
-    "type": 3,
-    "rotation": 2
+    "type": 10,
+    "rotation": 3
   },
   {
     "plane": -1,
@@ -36,7 +36,7 @@
     "x": 59,
     "y": 32,
     "id": 79193,
-    "type": 3,
-    "rotation": 1
+    "type": 10,
+    "rotation": 3
   }
 ]

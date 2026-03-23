@@ -2,14 +2,14 @@
   "id": 66681,
   "models": {
     "10": [
-      37319
+      135264,
+      135265
     ]
   },
   "name": "Stump",
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Take-from",
     null,
@@ -17,6 +17,5 @@
     null,
     null
   ],
-  "contrast": 15,
   "occludes_2": false
 }

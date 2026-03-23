@@ -2,12 +2,15 @@
   "id": 5642,
   "models": {
     "10": [
-      60648
+      138348
     ]
   },
   "dim_y": 5,
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
+  "textures": {
+    "2617": 4174
+  },
   "occludes_2": false
 }

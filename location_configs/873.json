@@ -2,7 +2,7 @@
   "id": 873,
   "models": {
     "10": [
-      1182
+      138880
     ]
   },
   "name": "Sink",
@@ -15,5 +15,6 @@
     null,
     null
   ],
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 595
 }

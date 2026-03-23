@@ -2,13 +2,19 @@
   "id": 86323,
   "models": {
     "10": [
-      87573
+      138785
     ]
   },
   "dim_x": 2,
   "dim_y": 3,
+  "is_transparent": true,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "unknown_27": false,
+  "colours": [
+    [
+      6203,
+      792
+    ]
+  ],
   "occludes_2": false
 }

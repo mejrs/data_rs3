@@ -1,0 +1,16 @@
+{
+  "id": 135929,
+  "models": {
+    "10": [
+      139781,
+      139784
+    ]
+  },
+  "name": "Decorative barrel",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "textures": {
+    "14708": 15838
+  },
+  "occludes_2": false
+}

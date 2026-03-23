@@ -2,12 +2,10 @@
   "id": 77989,
   "models": {
     "10": [
-      78161
+      138999
     ]
   },
   "name": "Sacks",
-  "ambient": 25,
-  "contrast": 15,
   "unknown_93": 8224,
   "occludes_2": false
 }

@@ -1,0 +1,19 @@
+{
+  "id": 135720,
+  "models": {
+    "10": [
+      32110
+    ]
+  },
+  "name": "Robust Chest",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "actions": [
+    "Pick lock",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

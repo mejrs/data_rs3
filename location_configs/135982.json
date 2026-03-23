@@ -1,0 +1,29 @@
+{
+  "id": 135982,
+  "models": {
+    "10": [
+      114013
+    ]
+  },
+  "name": "Advertising board",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      305,
+      5429
+    ],
+    [
+      290,
+      5413
+    ],
+    [
+      292,
+      5415
+    ]
+  ],
+  "textures": {
+    "12727": 12806
+  },
+  "occludes_2": false
+}

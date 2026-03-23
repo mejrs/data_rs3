@@ -5,13 +5,13 @@
       124955
     ]
   },
+  "name": "Flowers",
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "textures": {
     "14492": 16728
   },
   "model": false,
   "occludes_2": false,
-  "unknown_186": 2,
   "unknown_196": 1
 }

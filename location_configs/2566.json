@@ -2,26 +2,44 @@
   "id": 2566,
   "models": {
     "10": [
-      32110
+      139020,
+      139023
     ]
   },
-  "name": "Chest",
+  "name": "Market stall",
+  "dim_x": 2,
+  "dim_y": 2,
   "unknown_19": 1,
-  "actions": [
-    "Open",
-    "Search for traps",
-    null,
-    null,
-    null
+  "ambient": 0,
+  "colours": [
+    [
+      11200,
+      5210
+    ],
+    [
+      22464,
+      17704
+    ],
+    [
+      33728,
+      17704
+    ],
+    [
+      43968,
+      5210
+    ],
+    [
+      960,
+      17684
+    ],
+    [
+      55232,
+      17704
+    ],
+    [
+      47040,
+      17684
+    ]
   ],
-  "unknown_69": 14,
-  "occludes_2": false,
-  "cursors": [
-    49,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

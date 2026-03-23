@@ -1,0 +1,33 @@
+{
+  "id": 136998,
+  "models": {
+    "10": [
+      96039,
+      9116
+    ]
+  },
+  "name": "Sanguine patch",
+  "unknown_19": 1,
+  "actions": [
+    "Water",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      59738,
+      1950
+    ],
+    [
+      61879,
+      1938
+    ]
+  ],
+  "textures": {
+    "12338": 12333
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -5,12 +5,12 @@
       7775
     ]
   },
-  "name": "Wizards Mind Bomb",
+  "name": "Wizard's Mind Bomb",
   "is_transparent": true,
   "ambient": 15,
   "actions": [
     "Drain",
-    "Level",
+    "Check",
     null,
     null,
     null

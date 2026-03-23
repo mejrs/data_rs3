@@ -13,15 +13,7 @@
   "unknown_24": 24505,
   "unknown_27": false,
   "ambient": 20,
-  "actions": [
-    "Interact",
-    null,
-    null,
-    null,
-    null
-  ],
   "contrast": 25,
   "model": false,
-  "occludes_2": false,
-  "mapfunction": 635
+  "occludes_2": false
 }

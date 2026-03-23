@@ -1,0 +1,20 @@
+{
+  "id": 135136,
+  "models": {
+    "0": [
+      138381
+    ]
+  },
+  "name": "Door",
+  "unknown_19": 1,
+  "ambient": 0,
+  "actions": [
+    "Close",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "unknown_196": 4
+}

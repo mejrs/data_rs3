@@ -9,8 +9,16 @@
   "dim_y": 9,
   "unknown_17": false,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      6226,
+      7223
+    ],
+    [
+      38961,
+      10261
+    ]
+  ],
   "unknown_75": 0,
   "occludes_2": false,
   "unknown_186": 0

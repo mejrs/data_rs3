@@ -2,7 +2,7 @@
   "id": 111230,
   "models": {
     "0": [
-      24852
+      66266
     ]
   },
   "name": "Treasury door",
@@ -15,8 +15,6 @@
     null,
     null
   ],
-  "mirror": true,
-  "scale_y": 158,
   "cursors": [
     195,
     49,

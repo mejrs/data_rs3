@@ -1,0 +1,22 @@
+{
+  "id": 136209,
+  "models": {
+    "22": [
+      125358
+    ]
+  },
+  "name": "Paint splatter",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "colours": [
+    [
+      804,
+      3598
+    ]
+  ],
+  "model": false,
+  "unknown_73": true,
+  "occludes_2": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": 137001,
+  "models": {
+    "10": [
+      96039,
+      90116
+    ]
+  },
+  "name": "Sanguine patch",
+  "unknown_19": 1,
+  "textures": {
+    "12338": 12333
+  },
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -6,9 +6,10 @@
       97373
     ]
   },
+  "name": "Tree",
   "dim_x": 2,
   "dim_y": 2,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_24": 33025,
   "unknown_27": false,
   "translate_y": 64,
@@ -19,5 +20,5 @@
   "mapscene": 1,
   "occludes_2": false,
   "unknown_104": 250,
-  "unknown_196": 4
+  "unknown_196": 1
 }

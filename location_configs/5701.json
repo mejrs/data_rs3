@@ -2,11 +2,14 @@
   "id": 5701,
   "models": {
     "10": [
-      60405
+      47547
     ]
   },
   "name": "Stool",
   "is_transparent": true,
   "unknown_27": false,
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
   "occludes_2": false
 }

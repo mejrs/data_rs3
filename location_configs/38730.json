@@ -2,15 +2,17 @@
   "id": 38730,
   "models": {
     "10": [
-      64816
+      132749
+    ],
+    "22": [
+      139176
     ]
   },
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "model": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_196": 2
 }

@@ -2,7 +2,7 @@
   "id": 54783,
   "models": {
     "10": [
-      20459
+      135271
     ]
   },
   "name": "Tree Stump",
@@ -14,7 +14,6 @@
   "ambient": 25,
   "contrast": 15,
   "model": false,
-  "unknown_81": 42,
   "mapscene": 3,
   "occludes_2": false,
   "unknown_189": true

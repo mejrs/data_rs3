@@ -1,0 +1,24 @@
+{
+  "id": 136474,
+  "models": {
+    "10": [
+      89361
+    ]
+  },
+  "name": "Entrance",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Walk through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 100,
+  "scale_z": 150,
+  "is_members": true,
+  "occludes_2": false,
+  "mapfunction": 625
+}

@@ -7,5 +7,6 @@
   },
   "name": "Jungle plant",
   "is_transparent": true,
+  "unknown_19": 1,
   "occludes_2": false
 }

@@ -1,0 +1,66 @@
+{
+  "id": 136954,
+  "models": {
+    "10": [
+      139409,
+      139410,
+      139413
+    ]
+  },
+  "name": "Dead giant spiked kebbit",
+  "dim_x": 3,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_24": 37762,
+  "actions": [
+    "Skin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      6459,
+      2459
+    ],
+    [
+      80,
+      2351
+    ],
+    [
+      3127,
+      3226
+    ],
+    [
+      5206,
+      63
+    ],
+    [
+      3227,
+      64615
+    ],
+    [
+      5403,
+      64615
+    ]
+  ],
+  "textures": {
+    "23422": 23423,
+    "23426": 23427
+  },
+  "model": false,
+  "scale_x": 250,
+  "scale_y": 250,
+  "scale_z": 250,
+  "occludes_2": false,
+  "cursors": [
+    167,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 4
+}

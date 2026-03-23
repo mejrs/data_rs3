@@ -18,18 +18,19 @@
     ]
   ],
   "textures": {
-    "2637": 12356,
-    "2653": 12356,
+    "2637": 23232,
+    "2653": 23232,
     "2665": 12356
   },
   "model": false,
-  "scale_x": 110,
-  "scale_y": 110,
-  "scale_z": 110,
+  "scale_x": 90,
+  "scale_y": 90,
+  "scale_z": 90,
   "unknown_81": 80,
   "mapscene": 0,
   "occludes_2": false,
   "unknown_189": true,
+  "unknown_196": 2,
   "model_morphs": {
     "unk0": 34,
     "varbit": 57011,

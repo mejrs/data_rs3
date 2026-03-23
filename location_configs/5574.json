@@ -2,10 +2,10 @@
   "id": 5574,
   "models": {
     "10": [
-      5494
+      74104
     ]
   },
   "name": "Sack",
-  "ambient": 40,
+  "ambient": 0,
   "occludes_2": false
 }

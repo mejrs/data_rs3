@@ -15,17 +15,18 @@
   "unknown_24": 10883,
   "ambient": 25,
   "actions": [
-    "Pray-at",
-    null,
+    "Pray at",
+    "Offer",
     null,
     null,
     null
   ],
   "contrast": 15,
   "occludes_2": false,
+  "mapfunction": 575,
   "cursors": [
     61,
-    null,
+    61,
     null,
     null,
     null,

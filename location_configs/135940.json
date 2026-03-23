@@ -1,0 +1,19 @@
+{
+  "id": 135940,
+  "models": {
+    "10": [
+      133419
+    ]
+  },
+  "name": "Chaise longue",
+  "dim_x": 2,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "colours": [
+    [
+      16335,
+      50464
+    ]
+  ],
+  "occludes_2": false
+}

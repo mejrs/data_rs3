@@ -1,0 +1,31 @@
+{
+  "id": 136455,
+  "models": {
+    "10": [
+      139862
+    ]
+  },
+  "name": "Mud pile",
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Info"
+  ],
+  "textures": {
+    "12007": 13419
+  },
+  "unknown_81": 32,
+  "is_members": true,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    172,
+    null
+  ],
+  "unknown_196": 4
+}

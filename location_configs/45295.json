@@ -2,7 +2,7 @@
   "id": 45295,
   "models": {
     "10": [
-      46795
+      80776
     ]
   },
   "name": "Grandfather clock",
@@ -10,8 +10,6 @@
   "unknown_21": true,
   "unknown_24": 3511,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "colours": [
     [
       7451,

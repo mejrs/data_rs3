@@ -2,7 +2,7 @@
   "id": 55350,
   "models": {
     "10": [
-      10343
+      73976
     ]
   },
   "name": "Chest",
@@ -11,7 +11,7 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 20,
+  "ambient": 0,
   "actions": [
     "Open",
     null,
@@ -19,7 +19,9 @@
     null,
     null
   ],
-  "contrast": 25,
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
   "unknown_69": 13,
   "is_members": true,
   "occludes_2": false,

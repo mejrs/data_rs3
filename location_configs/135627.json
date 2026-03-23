@@ -1,0 +1,13 @@
+{
+  "id": 135627,
+  "models": {
+    "10": [
+      87939,
+      87944
+    ]
+  },
+  "name": "Bunk bed",
+  "dim_y": 2,
+  "mirror": true,
+  "occludes_2": false
+}

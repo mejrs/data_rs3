@@ -2,7 +2,8 @@
   "id": 12967,
   "models": {
     "10": [
-      51097
+      51097,
+      139242
     ]
   },
   "name": "Burt McKrakon",
@@ -10,6 +11,5 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_24": 12456,
-  "ambient": 15,
   "occludes_2": false
 }

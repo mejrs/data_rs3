@@ -2,12 +2,11 @@
   "id": 36752,
   "models": {
     "10": [
-      36457
+      36508
     ]
   },
   "name": "Statue",
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
   "model": false,
   "occludes_2": false
 }

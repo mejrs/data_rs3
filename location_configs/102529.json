@@ -2,12 +2,12 @@
   "id": 102529,
   "models": {
     "4": [
-      25169
+      138742
     ]
   },
   "name": "Standard",
   "unknown_19": 1,
-  "ambient": 10,
+  "ambient": 0,
   "actions": [
     "Investigate",
     null,
@@ -15,15 +15,8 @@
     null,
     null
   ],
-  "colours": [
-    [
-      6067,
-      8115
-    ],
-    [
-      24,
-      24
-    ]
-  ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

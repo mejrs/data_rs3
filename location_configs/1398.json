@@ -7,6 +7,7 @@
   },
   "name": "Jungle plant",
   "is_transparent": true,
+  "unknown_19": 1,
   "scale_x": 180,
   "scale_y": 180,
   "scale_z": 180,

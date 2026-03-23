@@ -2,16 +2,16 @@
   "id": 35040,
   "models": {
     "10": [
-      64787
+      134937
     ]
   },
   "name": "Old log",
   "is_transparent": true,
   "unknown_19": 1,
-  "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
   "model": false,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

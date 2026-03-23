@@ -1,0 +1,18 @@
+{
+  "id": 136582,
+  "models": {
+    "10": [
+      139577
+    ]
+  },
+  "name": "Driftwood hut",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "model": false,
+  "occludes_2": false,
+  "unknown_196": 1
+}

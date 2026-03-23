@@ -16,6 +16,10 @@
     null,
     null
   ],
+  "textures": {
+    "11930": 12269,
+    "11931": 12273
+  },
   "occludes_2": false,
   "cursors": [
     56,

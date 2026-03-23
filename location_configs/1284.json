@@ -2,7 +2,7 @@
   "id": 1284,
   "models": {
     "10": [
-      1715
+      139097
     ]
   },
   "name": "Dead tree",
@@ -15,9 +15,9 @@
     null,
     null
   ],
-  "scale_x": 100,
-  "scale_y": 100,
-  "scale_z": 100,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
   "unknown_81": 42,
   "mapscene": 6,
   "occludes_2": false,

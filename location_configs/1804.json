@@ -2,12 +2,11 @@
   "id": 1804,
   "models": {
     "0": [
-      48655
+      138382
     ]
   },
   "name": "Door",
   "unknown_19": 1,
-  "occludes_1": false,
   "actions": [
     "Open",
     null,
@@ -15,7 +14,7 @@
     null,
     null
   ],
-  "unknown_170": 960,
+  "occludes_2": false,
   "cursors": [
     49,
     null,

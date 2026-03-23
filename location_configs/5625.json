@@ -2,14 +2,14 @@
   "id": 5625,
   "models": {
     "10": [
-      839
+      137274,
+      138913
     ]
   },
   "name": "Ned's Table",
   "dim_y": 2,
   "is_transparent": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
   "occludes_2": false
 }

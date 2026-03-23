@@ -2,10 +2,11 @@
   "id": 24149,
   "models": {
     "4": [
-      25170
+      124833
     ]
   },
-  "ambient": 20,
-  "contrast": 15,
+  "scale_x": 75,
+  "scale_y": 75,
+  "scale_z": 75,
   "occludes_2": false
 }

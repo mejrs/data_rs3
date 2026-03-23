@@ -1,0 +1,39 @@
+{
+  "id": 136799,
+  "models": {
+    "10": [
+      137015,
+      123804
+    ]
+  },
+  "name": "Dirty water",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "unknown_24": 37810,
+  "actions": [
+    "Add clam to",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "unknown_78": {
+    "unknown_1": 59479,
+    "unknown_2": 10
+  },
+  "occludes_2": false,
+  "unknown_104": 250,
+  "unknown_1": 245,
+  "unknown_2": 265,
+  "cursors": [
+    196,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

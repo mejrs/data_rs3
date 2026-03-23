@@ -2,12 +2,12 @@
   "id": 18156,
   "models": {
     "4": [
-      18308
+      81027,
+      81022
     ]
   },
   "name": "Shelf",
   "unknown_17": false,
-  "ambient": 10,
   "actions": [
     "Search",
     null,
@@ -15,6 +15,9 @@
     null,
     null
   ],
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false,
   "cursors": [
     56,

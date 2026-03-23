@@ -2,13 +2,12 @@
   "id": 17100,
   "models": {
     "10": [
-      7685,
-      16950
+      74102,
+      139155
     ]
   },
   "name": "Crate",
   "is_transparent": true,
-  "ambient": 20,
   "colours": [
     [
       6443,

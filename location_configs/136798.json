@@ -1,0 +1,30 @@
+{
+  "id": 136798,
+  "models": {
+    "10": [
+      123987
+    ]
+  },
+  "name": "Algae",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Remove",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
+  "occludes_2": false,
+  "cursors": [
+    60,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

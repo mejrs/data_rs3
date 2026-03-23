@@ -2,7 +2,7 @@
   "id": 45238,
   "models": {
     "10": [
-      48811
+      138967
     ]
   },
   "name": "Counter",
@@ -11,11 +11,6 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "textures": {
-    "2075": 3171,
-    "2106": 3179
-  },
+  "ambient": 0,
   "occludes_2": false
 }

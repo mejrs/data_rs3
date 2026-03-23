@@ -1,0 +1,34 @@
+{
+  "id": 136620,
+  "models": {
+    "10": [
+      139813,
+      139814
+    ]
+  },
+  "name": "Vial cabinet",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take from",
+    "Take 3",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      527
+    ]
+  },
+  "cursors": [
+    45,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_196": 2
+}

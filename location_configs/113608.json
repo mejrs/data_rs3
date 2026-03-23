@@ -5,7 +5,8 @@
       74656
     ]
   },
-  "unknown_19": 0,
+  "name": "Flower",
+  "unknown_19": 1,
   "textures": {
     "11389": 11393
   },

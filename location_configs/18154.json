@@ -2,19 +2,9 @@
   "id": 18154,
   "models": {
     "10": [
-      18315
+      138895
     ]
   },
   "name": "Smashed table",
-  "colours": [
-    [
-      6707,
-      7587
-    ],
-    [
-      7952,
-      7830
-    ]
-  ],
   "occludes_2": false
 }

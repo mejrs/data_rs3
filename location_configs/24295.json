@@ -2,11 +2,10 @@
   "id": 24295,
   "models": {
     "10": [
-      25881
+      88437
     ]
   },
   "name": "Drawers",
-  "ambient": 25,
   "actions": [
     "Search",
     "Close",
@@ -14,11 +13,6 @@
     null,
     null
   ],
-  "textures": {
-    "2073": 3185,
-    "2090": 2078,
-    "2093": 3631
-  },
   "occludes_2": false,
   "cursors": [
     56,

@@ -2,8 +2,8 @@
   "id": 110442,
   "models": {
     "10": [
-      113610,
-      17400
+      84417,
+      139240
     ]
   },
   "name": "Rock (hidey-hole)",
@@ -16,19 +16,10 @@
     null
   ],
   "textures": {
-    "2720": 9705,
-    "7386": 10573
+    "2720": 9705
   },
-  "scale_x": 50,
-  "scale_y": 50,
-  "scale_z": 50,
+  "unknown_45": 2,
   "occludes_2": false,
-  "unknown_163": {
-    "unknown_1": 36,
-    "unknown_2": 1,
-    "unknown_3": 48,
-    "unknown_4": 61
-  },
   "unknown_196": 4,
   "params": {
     "6896": 11

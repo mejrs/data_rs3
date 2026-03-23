@@ -3,15 +3,18 @@
   "models": {
     "10": [
       125312
+    ],
+    "22": [
+      139178
     ]
   },
+  "name": "Lily pads",
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "textures": {
     "14709": 16731
   },
   "model": false,
   "occludes_2": false,
-  "unknown_186": 2,
   "unknown_196": 1
 }

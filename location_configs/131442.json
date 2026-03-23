@@ -5,8 +5,9 @@
       134936
     ]
   },
+  "name": "Log",
   "dim_x": 2,
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "occludes_2": false
 }

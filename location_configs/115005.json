@@ -6,13 +6,13 @@
       88277
     ]
   },
+  "name": "Cauldron",
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "ambient": 0,
   "model": false,
   "scale_x": 190,
   "scale_y": 190,
   "scale_z": 190,
-  "occludes_2": false,
-  "unknown_186": 2
+  "occludes_2": false
 }

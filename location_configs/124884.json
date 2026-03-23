@@ -22,7 +22,6 @@
   "unknown_81": 80,
   "mapscene": 1,
   "occludes_2": false,
-  "unknown_188": true,
   "unknown_189": true,
   "cursors": [
     59,
@@ -32,5 +31,5 @@
     null,
     null
   ],
-  "unknown_196": 4
+  "unknown_196": 1
 }

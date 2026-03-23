@@ -20,5 +20,13 @@
   "contrast": 15,
   "model": false,
   "unknown_88": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    196,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

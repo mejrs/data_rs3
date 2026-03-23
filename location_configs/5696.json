@@ -2,12 +2,11 @@
   "id": 5696,
   "models": {
     "10": [
-      60684
+      138916
     ]
   },
   "unknown_19": 0,
   "unknown_22": true,
-  "unknown_24": 5598,
   "unknown_27": false,
   "ambient": 20,
   "contrast": 15,
@@ -18,5 +17,21 @@
   "unknown_81": 30,
   "occludes_2": false,
   "unknown_104": 30,
-  "unknown_196": 0
+  "unknown_196": 0,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": true,
+      "vec_1": [
+        0,
+        1141964800,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

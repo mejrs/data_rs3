@@ -2,21 +2,12 @@
   "id": 24348,
   "models": {
     "10": [
-      25763,
-      25764
+      138705,
+      138706
     ]
   },
   "name": "Candles",
   "unknown_24": 2564,
-  "ambient": 25,
-  "colours": [
-    [
-      6067,
-      8115
-    ]
-  ],
-  "scale_x": 200,
-  "scale_y": 200,
-  "scale_z": 200,
+  "ambient": 0,
   "occludes_2": false
 }

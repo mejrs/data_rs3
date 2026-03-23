@@ -2,11 +2,16 @@
   "id": 36790,
   "models": {
     "10": [
-      1550
+      81695
     ]
   },
   "name": "Cannonballs",
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
+  "textures": {
+    "1551": 1943
+  },
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "occludes_2": false
 }

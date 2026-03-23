@@ -2,14 +2,14 @@
   "id": 777,
   "models": {
     "0": [
-      45608
+      138365
+    ],
+    "10": [
+      131707
     ]
   },
   "name": "Cage",
   "is_transparent": true,
-  "unknown_21": true,
-  "unknown_22": true,
-  "ambient": 25,
   "actions": [
     "Unlock",
     null,

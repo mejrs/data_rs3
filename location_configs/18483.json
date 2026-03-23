@@ -2,11 +2,10 @@
   "id": 18483,
   "models": {
     "10": [
-      1271
+      138821,
+      138824
     ]
   },
   "name": "Shelves",
-  "ambient": 25,
-  "contrast": 15,
   "occludes_2": false
 }

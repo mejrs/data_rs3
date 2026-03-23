@@ -2,11 +2,10 @@
   "id": 40430,
   "models": {
     "0": [
-      64722
+      137548
     ]
   },
-  "name": "Fence",
-  "unknown_19": 1,
+  "unknown_19": 0,
   "unknown_21": true,
   "unknown_22": true,
   "unknown_27": false

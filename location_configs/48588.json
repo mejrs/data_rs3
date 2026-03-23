@@ -2,7 +2,7 @@
   "id": 48588,
   "models": {
     "10": [
-      49417
+      47547
     ]
   },
   "name": "Stool",
@@ -10,25 +10,6 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
-  "contrast": 15,
-  "colours": [
-    [
-      5402,
-      5276
-    ],
-    [
-      5394,
-      5271
-    ],
-    [
-      5390,
-      5267
-    ],
-    [
-      5388,
-      5262
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

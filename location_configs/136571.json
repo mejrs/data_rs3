@@ -1,0 +1,21 @@
+{
+  "id": 136571,
+  "models": {
+    "10": [
+      84417
+    ]
+  },
+  "name": "Rock",
+  "dim_x": 2,
+  "dim_y": 2,
+  "is_transparent": true,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 25,
+  "contrast": 15,
+  "textures": {
+    "11803": 12181
+  },
+  "mapscene": 12,
+  "occludes_2": false
+}

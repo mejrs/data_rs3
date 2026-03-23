@@ -1,14 +1,21 @@
 {
   "id": 84431,
   "models": {
+    "10": [
+      125313
+    ],
     "22": [
-      85971
+      139179
     ]
   },
   "unknown_19": 0,
-  "ambient": 50,
-  "contrast": 15,
+  "textures": {
+    "14709": 14672
+  },
   "model": false,
+  "scale_x": 80,
+  "scale_y": 80,
+  "scale_z": 80,
   "translate_y": 65531,
   "unknown_88": false,
   "occludes_2": false

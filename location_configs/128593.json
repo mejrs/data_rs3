@@ -5,18 +5,11 @@
       131999
     ]
   },
+  "name": "Letterbox",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
   "ambient": 0,
-  "actions": [
-    "Post letter",
-    null,
-    null,
-    null,
-    null
-  ],
   "model": false,
-  "occludes_2": false,
-  "unknown_196": 4
+  "occludes_2": false
 }

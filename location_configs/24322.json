@@ -2,27 +2,16 @@
   "id": 24322,
   "models": {
     "10": [
-      25071
+      88429
     ]
   },
   "name": "Drawers",
-  "ambient": 25,
   "actions": [
     "Search",
     "Close",
     null,
     null,
     null
-  ],
-  "colours": [
-    [
-      6443,
-      7830
-    ],
-    [
-      6682,
-      7954
-    ]
   ],
   "occludes_2": false,
   "cursors": [

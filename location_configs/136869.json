@@ -1,0 +1,55 @@
+{
+  "id": 136869,
+  "models": {
+    "10": [
+      139961,
+      139957,
+      139958
+    ]
+  },
+  "name": "Mahogany birdhouse",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Add seed",
+    "Check seed",
+    "Dismantle",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      1547,
+      1557
+    ],
+    [
+      1544,
+      1554
+    ],
+    [
+      1540,
+      1550
+    ],
+    [
+      1428,
+      1438
+    ],
+    [
+      1563,
+      1573
+    ],
+    [
+      1449,
+      1459
+    ],
+    [
+      1556,
+      1566
+    ]
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

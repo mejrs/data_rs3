@@ -1,0 +1,26 @@
+{
+  "id": 136485,
+  "models": {
+    "10": [
+      139819
+    ]
+  },
+  "name": "Unlit beacon",
+  "unknown_19": 1,
+  "actions": [
+    "Light",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    65,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

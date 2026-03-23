@@ -21,5 +21,13 @@
     ]
   ],
   "unknown_75": 0,
-  "occludes_2": false
+  "occludes_2": false,
+  "cursors": [
+    196,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

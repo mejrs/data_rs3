@@ -7,6 +7,7 @@
   },
   "name": "Cactus",
   "is_transparent": true,
+  "unknown_19": 1,
   "unknown_75": 0,
   "mapscene": 4,
   "occludes_2": false

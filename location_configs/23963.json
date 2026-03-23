@@ -2,15 +2,15 @@
   "id": 23963,
   "models": {
     "10": [
-      24830,
-      24829
+      24830
     ]
   },
   "name": "Hearth",
   "dim_x": 2,
   "unknown_24": 4130,
-  "ambient": 20,
-  "contrast": 20,
+  "textures": {
+    "22968": 23172
+  },
   "scale_x": 80,
   "scale_y": 80,
   "scale_z": 80,
@@ -18,5 +18,21 @@
     "unknown_1": 3473,
     "unknown_2": 5
   },
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_204": [
+    {
+      "id": 31,
+      "some_bool": false,
+      "vec_1": [
+        0,
+        1133468713,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

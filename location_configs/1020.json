@@ -2,11 +2,11 @@
   "id": 1020,
   "models": {
     "4": [
-      2034
+      81029,
+      138926
     ]
   },
   "name": "Shelf",
   "unknown_19": 1,
-  "ambient": 50,
   "occludes_2": false
 }

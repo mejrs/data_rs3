@@ -1,0 +1,24 @@
+{
+  "id": 135501,
+  "models": {
+    "10": [
+      139016,
+      139017
+    ]
+  },
+  "name": "Fountain",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "mapfunction": 595
+}

@@ -1,0 +1,24 @@
+{
+  "id": 136850,
+  "models": {
+    "10": [
+      139959,
+      139958
+    ]
+  },
+  "name": "Birdhouse (empty)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Add seed",
+    "Check seed",
+    "Dismantle",
+    null,
+    null
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

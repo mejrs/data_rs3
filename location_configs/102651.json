@@ -2,21 +2,11 @@
   "id": 102651,
   "models": {
     "10": [
-      111979
+      138867
     ]
   },
   "name": "Mirror",
   "unknown_19": 1,
-  "ambient": 25,
-  "colours": [
-    [
-      6707,
-      7587
-    ],
-    [
-      7952,
-      7954
-    ]
-  ],
+  "ambient": 0,
   "occludes_2": false
 }

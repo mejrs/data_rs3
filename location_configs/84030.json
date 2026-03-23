@@ -2,7 +2,7 @@
   "id": 84030,
   "models": {
     "10": [
-      79550
+      140078
     ]
   },
   "name": "Tree",
@@ -20,5 +20,6 @@
   "scale_z": 200,
   "unknown_81": 80,
   "occludes_2": false,
-  "unknown_189": true
+  "unknown_189": true,
+  "unknown_196": 1
 }

@@ -2,15 +2,15 @@
   "id": 100262,
   "models": {
     "10": [
-      14651,
+      139040,
       14652
     ]
   },
   "name": "Sign",
-  "ambient": 17,
+  "ambient": 0,
   "contrast": 17,
   "textures": {
-    "2184": 308
+    "2184": 23177
   },
   "occludes_2": false
 }

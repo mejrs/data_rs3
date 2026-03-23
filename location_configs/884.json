@@ -20,5 +20,6 @@
   "scale_y": 64,
   "scale_z": 64,
   "occludes_2": false,
+  "mapfunction": 595,
   "unknown_196": 1
 }

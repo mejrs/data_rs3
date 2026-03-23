@@ -1,0 +1,25 @@
+{
+  "id": 136190,
+  "models": {
+    "10": [
+      133189,
+      133187
+    ]
+  },
+  "name": "Fish stall",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "colours": [
+    [
+      61,
+      7223
+    ],
+    [
+      103,
+      5214
+    ]
+  ],
+  "unknown_44": 48,
+  "occludes_2": false
+}

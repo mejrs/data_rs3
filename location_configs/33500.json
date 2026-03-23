@@ -8,7 +8,7 @@
   "name": "Range",
   "dim_y": 2,
   "actions": [
-    "Cook-at",
+    "Cook at",
     null,
     null,
     null,
@@ -21,6 +21,7 @@
   },
   "occludes_2": false,
   "unknown_104": 50,
+  "mapfunction": 596,
   "cursors": [
     64,
     null,

@@ -1,0 +1,29 @@
+{
+  "id": 136797,
+  "models": {
+    "10": [
+      139762
+    ]
+  },
+  "name": "Crate o' clams",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Take from",
+    null,
+    "Return to",
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    45,
+    null,
+    196,
+    null,
+    null,
+    null
+  ]
+}

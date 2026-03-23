@@ -2,7 +2,7 @@
   "id": 38731,
   "models": {
     "10": [
-      64863
+      140085
     ]
   },
   "name": "Oak",
@@ -17,20 +17,10 @@
     null,
     null
   ],
-  "colours": [
-    [
-      15629,
-      15635
-    ]
-  ],
-  "textures": {
-    "2637": 12356,
-    "2653": 12356
-  },
   "model": false,
-  "scale_x": 110,
-  "scale_y": 110,
-  "scale_z": 110,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
   "unknown_81": 80,
   "mapscene": 0,
   "occludes_2": false,
@@ -43,7 +33,7 @@
     null,
     null
   ],
-  "unknown_196": 3,
+  "unknown_196": 2,
   "model_morphs": {
     "unk0": 34,
     "varbit": 57011,

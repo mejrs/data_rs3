@@ -1,0 +1,23 @@
+{
+  "id": 136346,
+  "models": {
+    "10": [
+      140001,
+      120416
+    ]
+  },
+  "name": "Oak",
+  "dim_x": 2,
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 10,
+  "textures": {
+    "13435": 23242
+  },
+  "model": false,
+  "unknown_81": 80,
+  "mapscene": 0,
+  "occludes_2": false,
+  "unknown_196": 2
+}

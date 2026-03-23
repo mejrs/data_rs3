@@ -2,12 +2,11 @@
   "id": 99819,
   "models": {
     "10": [
-      87345
+      73074
     ]
   },
   "name": "Closed chest",
   "is_transparent": true,
-  "ambient": 25,
   "actions": [
     "Open",
     null,
@@ -15,24 +14,6 @@
     null,
     null
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      6715,
-      5656
-    ],
-    [
-      10586,
-      7331
-    ],
-    [
-      10471,
-      10279
-    ]
-  ],
-  "scale_x": 108,
-  "scale_y": 108,
-  "scale_z": 108,
   "unknown_69": 11,
   "occludes_2": false,
   "cursors": [

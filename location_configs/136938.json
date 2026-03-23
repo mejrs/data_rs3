@@ -1,0 +1,30 @@
+{
+  "id": 136938,
+  "models": {
+    "10": [
+      139992
+    ]
+  },
+  "name": "Hollow tree",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    null,
+    null,
+    null,
+    null,
+    "Search"
+  ],
+  "scale_x": 205,
+  "scale_y": 205,
+  "scale_z": 205,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    null,
+    null,
+    167,
+    null
+  ]
+}

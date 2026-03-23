@@ -6,8 +6,9 @@
       137682
     ]
   },
+  "name": "Barrel of rotten apples",
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_27": false,
   "textures": {
     "15747": 22837

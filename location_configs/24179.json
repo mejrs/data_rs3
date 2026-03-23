@@ -2,10 +2,13 @@
   "id": 24179,
   "models": {
     "4": [
-      17346
+      139019
     ]
   },
   "unknown_19": 0,
-  "ambient": 20,
+  "ambient": 0,
+  "textures": {
+    "13116": 11690
+  },
   "occludes_2": false
 }

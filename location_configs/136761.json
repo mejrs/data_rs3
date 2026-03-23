@@ -1,0 +1,26 @@
+{
+  "id": 136761,
+  "models": {
+    "10": [
+      136595
+    ]
+  },
+  "name": "Tailor's dummy",
+  "actions": [
+    "Craft",
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_69": 11,
+  "occludes_2": false,
+  "cursors": [
+    62,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

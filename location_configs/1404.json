@@ -8,6 +8,7 @@
   "name": "Cactus",
   "dim_x": 2,
   "dim_y": 2,
+  "unknown_19": 1,
   "ambient": 45,
   "model": false,
   "unknown_75": 0,

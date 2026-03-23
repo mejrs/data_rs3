@@ -2,12 +2,11 @@
   "id": 85009,
   "models": {
     "0": [
-      70342
+      138381
     ]
   },
   "name": "Door",
   "unknown_19": 1,
-  "ambient": 25,
   "actions": [
     "Close",
     null,
@@ -15,7 +14,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "colours": [
     [
       5266,

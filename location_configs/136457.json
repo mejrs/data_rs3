@@ -1,0 +1,22 @@
+{
+  "id": 136457,
+  "models": {
+    "10": [
+      37392,
+      37431
+    ]
+  },
+  "name": "Wendlewick lodestone",
+  "colours": [
+    [
+      33719,
+      950
+    ]
+  ],
+  "textures": {
+    "322": 10023,
+    "326": 23389
+  },
+  "unknown_44": 128,
+  "occludes_2": false
+}

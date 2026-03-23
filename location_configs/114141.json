@@ -1,15 +1,13 @@
 {
   "id": 114141,
   "models": {
-    "10": [
-      77383
+    "4": [
+      89057
     ]
   },
-  "dim_x": 5,
-  "dim_y": 5,
-  "unknown_17": false,
-  "unknown_19": 0,
-  "ambient": 64,
-  "occludes_2": false,
-  "unknown_186": 2
+  "name": "Sconce",
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
 }

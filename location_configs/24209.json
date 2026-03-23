@@ -2,13 +2,12 @@
   "id": 24209,
   "models": {
     "10": [
-      8232,
-      24724
+      67889,
+      139150
     ]
   },
   "name": "Barrel",
   "is_transparent": true,
-  "ambient": 25,
   "colours": [
     [
       5388,
@@ -31,6 +30,5 @@
       7830
     ]
   ],
-  "scale_y": 152,
   "occludes_2": false
 }

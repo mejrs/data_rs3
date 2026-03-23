@@ -2,12 +2,12 @@
   "id": 37297,
   "models": {
     "10": [
-      1242
+      133165
     ]
   },
   "name": "Smashed chair",
   "is_transparent": true,
-  "ambient": 25,
+  "ambient": 50,
   "contrast": 15,
   "colours": [
     [

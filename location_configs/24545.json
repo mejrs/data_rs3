@@ -2,12 +2,12 @@
   "id": 24545,
   "models": {
     "10": [
-      25524
+      25524,
+      138857
     ]
   },
   "name": "Display case",
   "unknown_27": false,
-  "ambient": 20,
   "actions": [
     "Study",
     null,

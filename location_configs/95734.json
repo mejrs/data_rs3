@@ -7,21 +7,6 @@
   },
   "name": "Urn",
   "unknown_19": 1,
-  "actions": [
-    "Search",
-    "Check for snakes",
-    null,
-    null,
-    null
-  ],
   "model": false,
-  "occludes_2": false,
-  "cursors": [
-    56,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

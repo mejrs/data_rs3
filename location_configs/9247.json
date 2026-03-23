@@ -2,12 +2,13 @@
   "id": 9247,
   "models": {
     "10": [
-      107284
+      139215,
+      139216
     ]
   },
   "name": "Statue of Saradomin",
   "dim_x": 2,
-  "ambient": 15,
+  "ambient": 0,
   "model": false,
   "occludes_2": false
 }

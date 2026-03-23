@@ -10,7 +10,7 @@
   "dim_y": 2,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 15,
+  "ambient": 0,
   "actions": [
     "Search",
     null,
@@ -18,21 +18,15 @@
     null,
     null
   ],
-  "contrast": 15,
   "colours": [
     [
-      17583,
-      23833
-    ],
-    [
-      14753,
-      23835
-    ],
-    [
-      14637,
-      23837
+      36300,
+      123
     ]
   ],
+  "textures": {
+    "12338": 12337
+  },
   "occludes_2": false,
   "unknown_160": {
     "values": [

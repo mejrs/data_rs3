@@ -2,7 +2,8 @@
   "id": 126598,
   "models": {
     "10": [
-      127641
+      127641,
+      121252
     ]
   },
   "name": "Bookcase",
@@ -10,6 +11,9 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
+  "textures": {
+    "11110": 11109
+  },
   "mirror": true,
   "model": false,
   "occludes_2": false,

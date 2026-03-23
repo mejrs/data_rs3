@@ -5,7 +5,7 @@
       21829
     ]
   },
-  "name": "Evergreen",
+  "name": "Tree",
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
@@ -35,7 +35,7 @@
   },
   "model": false,
   "unknown_81": 42,
-  "mapscene": 0,
+  "mapscene": 134,
   "occludes_2": false,
   "unknown_189": true,
   "cursors": [
@@ -45,5 +45,6 @@
     null,
     null,
     null
-  ]
+  ],
+  "unknown_203": true
 }

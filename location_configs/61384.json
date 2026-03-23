@@ -2,12 +2,16 @@
   "id": 61384,
   "models": {
     "10": [
-      48827
+      138637
     ]
   },
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      6226,
+      7223
+    ]
+  ],
   "mirror": true,
   "occludes_2": false
 }

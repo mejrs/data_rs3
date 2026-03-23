@@ -2,11 +2,12 @@
   "id": 18311,
   "models": {
     "4": [
-      18312
+      81031,
+      138930
     ]
   },
   "unknown_17": false,
   "unknown_19": 0,
-  "ambient": 10,
+  "ambient": 0,
   "occludes_2": false
 }

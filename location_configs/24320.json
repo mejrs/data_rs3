@@ -2,10 +2,11 @@
   "id": 24320,
   "models": {
     "10": [
-      25054
+      89005,
+      138893
     ]
   },
   "name": "Table",
-  "ambient": 25,
+  "ambient": 0,
   "occludes_2": false
 }

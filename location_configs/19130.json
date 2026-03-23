@@ -11,6 +11,24 @@
   "unknown_19": 0,
   "unknown_24": 5141,
   "ambient": 25,
+  "colours": [
+    [
+      9152,
+      9173
+    ],
+    [
+      9145,
+      9037
+    ],
+    [
+      935,
+      566
+    ],
+    [
+      929,
+      431
+    ]
+  ],
   "unknown_89": false,
   "occludes_2": false
 }

@@ -2,11 +2,14 @@
   "id": 75852,
   "models": {
     "10": [
-      76717
+      81055
+    ],
+    "22": [
+      139044
     ]
   },
   "name": "Trapdoor",
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Open",
     null,
@@ -14,7 +17,6 @@
     null,
     null
   ],
-  "contrast": 15,
   "unknown_69": 13,
   "occludes_2": false,
   "cursors": [

@@ -2,12 +2,13 @@
   "id": 961,
   "models": {
     "4": [
-      107744
+      138360
     ]
   },
   "name": "Bank notice board",
   "unknown_19": 1,
-  "ambient": 25,
-  "contrast": 15,
+  "scale_x": 75,
+  "scale_y": 75,
+  "scale_z": 75,
   "occludes_2": false
 }

@@ -2,11 +2,12 @@
   "id": 24099,
   "models": {
     "10": [
-      24741
+      87939,
+      87944
     ]
   },
   "name": "Bunkbed",
-  "dim_x": 2,
-  "ambient": 20,
+  "dim_y": 2,
+  "mirror": true,
   "occludes_2": false
 }

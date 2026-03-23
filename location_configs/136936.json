@@ -1,0 +1,43 @@
+{
+  "id": 136936,
+  "models": {
+    "10": [
+      137878,
+      139921
+    ],
+    "22": [
+      137879
+    ]
+  },
+  "name": "Blue-deathcap mushroom",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "actions": [
+    "Extract poison",
+    null,
+    null,
+    null,
+    null
+  ],
+  "colours": [
+    [
+      1994,
+      39491
+    ]
+  ],
+  "textures": {
+    "22959": 23573
+  },
+  "scale_x": 200,
+  "scale_y": 200,
+  "scale_z": 200,
+  "unknown_98": true,
+  "mapscene": 145,
+  "occludes_2": false,
+  "unknown_1": 16128,
+  "unknown_2": 15934,
+  "unknown_3": 16128,
+  "unknown_4": 16640,
+  "unknown_5": 64,
+  "unknown_6": 16640
+}

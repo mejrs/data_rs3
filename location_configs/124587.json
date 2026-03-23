@@ -2,16 +2,18 @@
   "id": 124587,
   "models": {
     "10": [
-      126590,
-      126581
+      139098
     ]
   },
+  "name": "Dead tree",
   "unknown_17": false,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "textures": {
     "11921": 15240
   },
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
   "occludes_2": false,
-  "unknown_186": 2,
-  "unknown_196": 4
+  "unknown_196": 1
 }

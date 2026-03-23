@@ -1,0 +1,50 @@
+{
+  "id": 136859,
+  "models": {
+    "10": [
+      139959,
+      139958
+    ]
+  },
+  "name": "Teak birdhouse (empty)",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Add seed",
+    "Check seed",
+    "Dismantle",
+    null,
+    null
+  ],
+  "colours": [
+    [
+      4503,
+      6556
+    ],
+    [
+      4495,
+      6549
+    ],
+    [
+      5381,
+      6538
+    ],
+    [
+      4514,
+      6564
+    ],
+    [
+      4489,
+      5514
+    ],
+    [
+      4370,
+      6419
+    ]
+  ],
+  "scale_x": 140,
+  "scale_y": 140,
+  "scale_z": 140,
+  "occludes_2": false
+}

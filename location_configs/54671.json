@@ -2,12 +2,11 @@
   "id": 54671,
   "models": {
     "10": [
-      64782
+      138842
     ]
   },
   "name": "Cooking pots",
   "unknown_21": true,
-  "ambient": 25,
-  "contrast": 15,
+  "ambient": 0,
   "occludes_2": false
 }

@@ -1,0 +1,14 @@
+{
+  "id": 135985,
+  "models": {
+    "10": [
+      89278
+    ]
+  },
+  "name": "Trapdoor",
+  "unknown_17": false,
+  "unknown_19": 1,
+  "ambient": 0,
+  "model": false,
+  "occludes_2": false
+}

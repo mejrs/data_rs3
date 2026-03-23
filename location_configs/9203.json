@@ -2,12 +2,11 @@
   "id": 9203,
   "models": {
     "10": [
-      9159,
-      9161
+      138943
     ]
   },
   "name": "Plantpot",
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     null,
     "Inspect",

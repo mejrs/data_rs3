@@ -2,7 +2,7 @@
   "id": 42377,
   "models": {
     "10": [
-      51106
+      133382
     ]
   },
   "name": "Counter",
@@ -18,7 +18,7 @@
     null
   ],
   "contrast": 15,
-  "unknown_69": 5,
+  "unknown_69": 10,
   "breakroutefinding": true,
   "occludes_2": false,
   "cursors": [

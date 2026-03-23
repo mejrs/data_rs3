@@ -1,0 +1,42 @@
+{
+  "id": 136453,
+  "models": {
+    "10": [
+      25773
+    ]
+  },
+  "name": "Planks",
+  "dim_x": 3,
+  "unknown_19": 1,
+  "actions": [
+    "Jump down",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "9792": 9794
+  },
+  "model": false,
+  "unknown_69": 13,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_1": 15984,
+  "unknown_2": 15360,
+  "unknown_3": 15984,
+  "unknown_4": 16784,
+  "unknown_5": 16984,
+  "unknown_6": 16784,
+  "params": {
+    "6668": 6019
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": 136804,
+  "models": {
+    "10": [
+      139767,
+      139770
+    ]
+  },
+  "name": "Food hatch",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Fill",
+    "Check",
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

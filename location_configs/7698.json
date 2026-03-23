@@ -12,7 +12,7 @@
   "dim_y": 2,
   "ambient": 25,
   "actions": [
-    "Pick-from",
+    "Pick from",
     "Inspect",
     "Clear",
     "Guide",

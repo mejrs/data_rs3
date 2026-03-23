@@ -2,7 +2,7 @@
   "id": 39166,
   "models": {
     "10": [
-      79551
+      140081
     ]
   },
   "name": "Tree",
@@ -11,10 +11,7 @@
   "unknown_17": false,
   "unknown_19": 1,
   "textures": {
-    "2242": 2252,
-    "2261": 2255,
-    "2262": 2245,
-    "2653": 12356
+    "23229": 23230
   },
   "model": false,
   "scale_x": 200,
@@ -23,25 +20,5 @@
   "unknown_81": 80,
   "occludes_2": false,
   "unknown_189": true,
-  "model_morphs": {
-    "unk0": 18,
-    "varbit": 57011,
-    "multi_model": null,
-    "multi_head_model": [
-      {
-        "value": 1,
-        "models": [
-          {
-            "unk1": 2,
-            "unk2": 2,
-            "unk3": 120729
-          }
-        ]
-      }
-    ],
-    "multi_retex": null,
-    "multi_recol": null,
-    "multi_ret_int": null,
-    "default": 1
-  }
+  "unknown_196": 1
 }

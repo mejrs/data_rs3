@@ -2,15 +2,14 @@
   "id": 45482,
   "models": {
     "10": [
-      36768
+      138673,
+      138667
     ]
   },
   "name": "Stairs",
   "dim_y": 2,
   "unknown_19": 1,
-  "unknown_21": true,
   "unknown_27": false,
-  "ambient": 25,
   "actions": [
     "Climb-down",
     null,
@@ -18,25 +17,6 @@
     null,
     null
   ],
-  "contrast": 15,
-  "colours": [
-    [
-      5408,
-      5400
-    ],
-    [
-      5404,
-      5395
-    ],
-    [
-      5396,
-      5390
-    ]
-  ],
-  "textures": {
-    "2081": 3179,
-    "2108": 3171
-  },
   "mirror": true,
   "unknown_69": 14,
   "mapscene": 7,

@@ -2,12 +2,17 @@
   "id": 86325,
   "models": {
     "10": [
-      87569
+      87939,
+      138783
     ]
   },
   "dim_y": 2,
   "unknown_19": 0,
-  "ambient": 25,
-  "contrast": 15,
+  "colours": [
+    [
+      6960,
+      792
+    ]
+  ],
   "occludes_2": false
 }

@@ -1,0 +1,22 @@
+{
+  "id": 137054,
+  "models": {
+    "10": [
+      130616
+    ]
+  },
+  "name": "backdrop toggle",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "ambient": 0,
+  "actions": [
+    "Switch",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_196": 4
+}

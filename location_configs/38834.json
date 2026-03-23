@@ -2,44 +2,17 @@
   "id": 38834,
   "models": {
     "10": [
-      5272
+      8016
     ]
   },
-  "name": "Chest",
-  "colours": [
-    [
-      12818,
-      7954
-    ],
-    [
-      16536,
-      8078
-    ],
-    [
-      12698,
-      7830
-    ],
-    [
-      14499,
-      8078
-    ]
-  ],
-  "unknown_44": 60,
-  "unknown_69": 14,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "unknown_22": true,
+  "textures": {
+    "11109": 23549
+  },
+  "model": false,
   "occludes_2": false,
-  "member_actions": [
-    "Pick-lock",
-    null,
-    null,
-    null,
-    null
-  ],
-  "cursors": [
-    195,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "unknown_186": 2,
+  "unknown_196": 4
 }

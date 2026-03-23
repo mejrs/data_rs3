@@ -1,0 +1,38 @@
+{
+  "id": 136452,
+  "models": {
+    "10": [
+      67768
+    ]
+  },
+  "name": "Log balance",
+  "dim_y": 5,
+  "unknown_19": 1,
+  "actions": [
+    "Traverse",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "8868": 11042
+  },
+  "scale_x": 640,
+  "unknown_69": 10,
+  "translate_y": 100,
+  "occludes_2": false,
+  "mapfunction": 625,
+  "cursors": [
+    181,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "unknown_203": true,
+  "params": {
+    "6668": 5992
+  }
+}

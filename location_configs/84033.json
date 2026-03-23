@@ -2,7 +2,7 @@
   "id": 84033,
   "models": {
     "10": [
-      79553
+      140081
     ]
   },
   "name": "Tree",
@@ -15,10 +15,11 @@
   },
   "unknown_45": 8,
   "model": false,
-  "scale_x": 215,
-  "scale_y": 235,
-  "scale_z": 215,
+  "scale_x": 200,
+  "scale_y": 215,
+  "scale_z": 200,
   "unknown_81": 80,
   "occludes_2": false,
-  "unknown_189": true
+  "unknown_189": true,
+  "unknown_196": 1
 }

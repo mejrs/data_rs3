@@ -2,11 +2,13 @@
   "id": 17453,
   "models": {
     "4": [
-      17476
+      138719
     ]
   },
-  "ambient": 25,
-  "contrast": 25,
+  "ambient": 0,
+  "textures": {
+    "19114": 23170
+  },
   "translate_y": 35,
   "occludes_2": false
 }

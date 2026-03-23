@@ -1,13 +1,17 @@
 {
   "id": 85737,
   "models": {
+    "10": [
+      125312
+    ],
     "22": [
-      85971
+      139178
     ]
   },
   "unknown_19": 0,
-  "ambient": 50,
-  "contrast": 15,
+  "textures": {
+    "14709": 15840
+  },
   "model": false,
   "translate_y": 65521,
   "unknown_88": false,

@@ -1,0 +1,28 @@
+{
+  "id": 136622,
+  "models": {
+    "10": [
+      138851,
+      139775
+    ]
+  },
+  "name": "Desk",
+  "dim_x": 2,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Weigh ingredient",
+    null,
+    null,
+    null,
+    null
+  ],
+  "mirror": true,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      527
+    ]
+  },
+  "unknown_196": 2
+}

@@ -2,11 +2,16 @@
   "id": 89252,
   "models": {
     "10": [
-      93691
+      85334,
+      85308
     ]
   },
-  "unknown_19": 0,
-  "ambient": 25,
+  "name": "Gravestone",
+  "unknown_19": 1,
+  "ambient": 0,
+  "scale_x": 100,
+  "scale_y": 100,
+  "scale_z": 100,
   "unknown_93": 8224,
   "occludes_2": false,
   "unknown_196": 0

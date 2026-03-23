@@ -2,13 +2,14 @@
   "id": 36771,
   "models": {
     "10": [
-      36502
+      138244,
+      138243
     ]
   },
   "name": "Ladder",
   "unknown_19": 1,
   "unknown_22": true,
-  "ambient": 25,
+  "ambient": 0,
   "actions": [
     "Climb-up",
     null,
@@ -16,12 +17,7 @@
     null,
     null
   ],
-  "contrast": 15,
-  "textures": {
-    "2073": 3171,
-    "2093": 3179
-  },
-  "unknown_69": 13,
+  "unknown_69": 14,
   "mapscene": 7,
   "occludes_2": false,
   "cursors": [
