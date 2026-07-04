@@ -24,5 +24,6 @@
   "textures": {
     "11944": 16576
   },
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 5569
 }

@@ -5,12 +5,12 @@
       127763
     ]
   },
-  "name": "Regular Stairs",
+  "name": "Staircase",
   "dim_x": 2,
   "dim_y": 2,
   "actions": [
-    "Climb",
-    "Descend",
+    "Climb-up",
+    null,
     null,
     null,
     null
@@ -22,7 +22,7 @@
   "mapscene": 7,
   "occludes_2": false,
   "cursors": [
-    181,
+    52,
     null,
     null,
     null,

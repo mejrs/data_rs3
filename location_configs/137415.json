@@ -1,0 +1,19 @@
+{
+  "id": 137415,
+  "models": {
+    "10": [
+      143858
+    ]
+  },
+  "name": "Lunar slab (new moon)",
+  "unknown_19": 1,
+  "actions": [
+    "Remove slab",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_203": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": 137216,
+  "models": {
+    "10": [
+      140389
+    ]
+  },
+  "dim_x": 6,
+  "dim_y": 2,
+  "unknown_17": false,
+  "unknown_19": 0,
+  "textures": {
+    "23904": 23905
+  },
+  "occludes_2": false
+}

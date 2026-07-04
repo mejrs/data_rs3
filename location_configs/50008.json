@@ -9,6 +9,13 @@
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 15,
+  "actions": [
+    "Cook at",
+    null,
+    null,
+    null,
+    null
+  ],
   "contrast": 10,
   "unknown_69": 11,
   "unknown_78": {
@@ -16,5 +23,14 @@
     "unknown_2": 5
   },
   "occludes_2": false,
-  "unknown_104": 127
+  "unknown_104": 127,
+  "mapfunction": 596,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

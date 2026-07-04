@@ -1,0 +1,19 @@
+{
+  "id": 137416,
+  "models": {
+    "10": [
+      143857
+    ]
+  },
+  "name": "Lunar slab (last quarter)",
+  "unknown_19": 1,
+  "actions": [
+    "Remove slab",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_203": true
+}

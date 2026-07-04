@@ -5,8 +5,9 @@
       55166
     ]
   },
+  "name": "Kitchen counter",
   "dim_x": 2,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "ambient": 15,
   "contrast": 10,
   "occludes_2": false

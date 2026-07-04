@@ -8,22 +8,7 @@
   "name": "Premier Vault Portal",
   "dim_x": 4,
   "dim_y": 2,
-  "actions": [
-    "Enter",
-    null,
-    null,
-    null,
-    null
-  ],
   "scale_y": 384,
   "is_members": true,
-  "occludes_2": false,
-  "cursors": [
-    57,
-    null,
-    null,
-    null,
-    null,
-    null
-  ]
+  "occludes_2": false
 }

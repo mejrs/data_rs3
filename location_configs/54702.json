@@ -8,7 +8,6 @@
   },
   "unknown_19": 0,
   "unknown_21": true,
-  "unknown_24": 2870,
   "ambient": 15,
   "contrast": 10,
   "mirror": true,
@@ -18,5 +17,21 @@
   },
   "unknown_104": 60,
   "unknown_1": 230,
-  "unknown_2": 270
+  "unknown_2": 270,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        3264846234,
+        1141354004,
+        1080385602
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

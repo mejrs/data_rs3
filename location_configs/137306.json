@@ -1,0 +1,25 @@
+{
+  "id": 137306,
+  "models": {
+    "10": [
+      120731
+    ]
+  },
+  "name": "Pumpkin",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "model": false,
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      531
+    ]
+  }
+}

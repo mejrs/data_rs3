@@ -11,12 +11,13 @@
   "unknown_19": 1,
   "ambient": 15,
   "actions": [
-    "Fill-vial",
+    "Fill vial",
     null,
     null,
     null,
     null
   ],
   "contrast": 10,
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 595
 }

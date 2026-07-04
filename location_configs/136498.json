@@ -7,7 +7,7 @@
     ]
   },
   "name": "Cave",
-  "dim_x": 5,
+  "dim_x": 2,
   "dim_y": 5,
   "actions": [
     "Enter",
@@ -16,6 +16,7 @@
     null,
     null
   ],
+  "unknown_69": 11,
   "is_members": true,
   "occludes_2": false,
   "cursors": [

@@ -2,14 +2,14 @@
   "id": 134269,
   "models": {
     "10": [
-      137588,
-      137589
+      85819
     ]
   },
-  "dim_x": 7,
-  "dim_y": 8,
+  "dim_x": 2,
+  "dim_y": 2,
   "unknown_17": false,
   "unknown_19": 0,
+  "model": false,
   "occludes_2": false,
   "unknown_186": 2
 }

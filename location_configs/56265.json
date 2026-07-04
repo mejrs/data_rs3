@@ -6,7 +6,6 @@
     ]
   },
   "unknown_19": 0,
-  "unknown_24": 13539,
   "ambient": 15,
   "contrast": 10,
   "translate_z": 5,
@@ -15,5 +14,21 @@
     "unknown_2": 2
   },
   "occludes_2": false,
-  "unknown_104": 30
+  "unknown_104": 30,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        3277596918,
+        1141857321,
+        1098236559
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

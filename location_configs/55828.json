@@ -5,8 +5,9 @@
       61792
     ]
   },
+  "name": "Bookcase",
   "dim_y": 2,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "unknown_21": true,
   "ambient": 15,
   "contrast": 10,

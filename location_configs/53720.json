@@ -15,6 +15,7 @@
     ]
   ],
   "occludes_2": false,
+  "mapfunction": 611,
   "member_actions": [
     null,
     "Harvest",

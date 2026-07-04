@@ -1,0 +1,17 @@
+{
+  "id": 137403,
+  "models": {
+    "10": [
+      140410
+    ]
+  },
+  "name": "Offering bowl",
+  "actions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false
+}

@@ -1,21 +1,13 @@
 {
   "id": 33623,
   "models": {
-    "22": [
-      61623
+    "10": [
+      137624
     ]
   },
-  "name": "Green pressure plate",
-  "is_transparent": true,
-  "unknown_19": 1,
-  "unknown_24": 14516,
+  "dim_y": 2,
+  "unknown_19": 0,
   "unknown_27": false,
-  "colours": [
-    [
-      691,
-      22952
-    ]
-  ],
-  "unknown_89": false,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_186": 2
 }

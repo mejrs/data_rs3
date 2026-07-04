@@ -10,8 +10,8 @@
   "unknown_19": 1,
   "unknown_27": false,
   "actions": [
-    "Climb-down",
-    null,
+    "Climb down",
+    "Reclaim items",
     null,
     null,
     null
@@ -40,6 +40,7 @@
     "11311": 17145,
     "11312": 17146
   },
+  "unknown_69": 11,
   "breakroutefinding": true,
   "occludes_2": false,
   "cursors": [

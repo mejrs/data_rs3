@@ -10,13 +10,16 @@
   "unknown_19": 1,
   "unknown_21": true,
   "unknown_24": 13312,
-  "ambient": 20,
+  "ambient": 5,
   "contrast": 25,
   "colours": [
     [
-      36824,
-      966
+      33810,
+      3014
     ]
   ],
+  "textures": {
+    "1902": 22824
+  },
   "occludes_2": false
 }

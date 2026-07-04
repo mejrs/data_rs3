@@ -6,12 +6,12 @@
       116778
     ]
   },
-  "name": "Remote totem charging point",
+  "name": "Remote totem access point",
   "dim_x": 3,
   "dim_y": 3,
   "unknown_17": false,
   "actions": [
-    "Charge totems",
+    "Change totems",
     "Check totems",
     null,
     null,
@@ -20,7 +20,6 @@
   "model": false,
   "unknown_88": false,
   "occludes_2": false,
-  "mapfunction": 635,
   "unknown_196": 4,
   "unknown_1": 63,
   "unknown_2": 12884,

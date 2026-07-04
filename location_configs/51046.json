@@ -5,8 +5,9 @@
       54606
     ]
   },
+  "name": "Table",
   "dim_x": 2,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "ambient": 15,
   "contrast": 10,
   "translate_z": 65522,

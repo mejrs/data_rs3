@@ -1,0 +1,27 @@
+{
+  "id": 137209,
+  "models": {
+    "10": [
+      124854
+    ]
+  },
+  "name": "Floor times board",
+  "dim_y": 3,
+  "unknown_27": false,
+  "actions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "cursors": [
+    50,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -2,16 +2,47 @@
   "id": 92878,
   "models": {
     "10": [
-      98498
+      138579,
+      138583
     ]
   },
-  "name": "Dilwyn's stock",
-  "dim_x": 2,
-  "dim_y": 2,
-  "unknown_19": 1,
-  "unknown_27": false,
+  "dim_y": 3,
+  "unknown_17": false,
+  "unknown_19": 0,
   "ambient": 0,
-  "model": false,
-  "unknown_88": false,
-  "occludes_2": false
+  "colours": [
+    [
+      25650,
+      5170
+    ],
+    [
+      25657,
+      5176
+    ],
+    [
+      25633,
+      5165
+    ],
+    [
+      25642,
+      5167
+    ],
+    [
+      4368,
+      4378
+    ],
+    [
+      4396,
+      4386
+    ],
+    [
+      6227,
+      13395
+    ]
+  ],
+  "textures": {
+    "23177": 23178
+  },
+  "occludes_2": false,
+  "unknown_196": 4
 }

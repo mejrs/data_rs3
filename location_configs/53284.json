@@ -9,9 +9,17 @@
   "dim_x": 2,
   "dim_y": 2,
   "ambient": 15,
+  "actions": [
+    "Add logs",
+    null,
+    null,
+    null,
+    null
+  ],
   "contrast": 10,
   "unknown_69": 11,
   "occludes_2": false,
+  "mapfunction": 596,
   "member_actions": [
     null,
     null,

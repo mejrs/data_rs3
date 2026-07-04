@@ -1,0 +1,29 @@
+{
+  "id": 137206,
+  "models": {
+    "10": [
+      129457
+    ]
+  },
+  "name": "Light source spot",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Place light source",
+    null,
+    "Repair",
+    "Check durability",
+    "Clear"
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    174,
+    null,
+    null,
+    null
+  ]
+}

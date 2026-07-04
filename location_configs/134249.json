@@ -8,6 +8,11 @@
   "dim_y": 2,
   "unknown_19": 0,
   "unknown_27": false,
+  "textures": {
+    "17544": 19808,
+    "17545": 13654
+  },
   "occludes_2": false,
-  "unknown_186": 2
+  "unknown_186": 2,
+  "unknown_196": 4
 }

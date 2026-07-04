@@ -2,14 +2,14 @@
   "id": 35293,
   "models": {
     "22": [
-      56650
+      140317
     ]
   },
   "name": "Tile",
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 20,
+  "ambient": 15,
   "contrast": 25,
   "occludes_2": false
 }

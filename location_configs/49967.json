@@ -8,6 +8,13 @@
   "name": "Cooking range (lit)",
   "dim_x": 2,
   "dim_y": 2,
+  "actions": [
+    "Cook at",
+    null,
+    null,
+    null,
+    null
+  ],
   "colours": [
     [
       16,
@@ -39,5 +46,14 @@
     "unknown_2": 5
   },
   "occludes_2": false,
-  "unknown_104": 127
+  "unknown_104": 127,
+  "mapfunction": 596,
+  "cursors": [
+    64,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
 }

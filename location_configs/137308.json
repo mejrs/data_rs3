@@ -1,0 +1,26 @@
+{
+  "id": 137308,
+  "models": {
+    "10": [
+      137878
+    ],
+    "22": [
+      137879
+    ]
+  },
+  "name": "Mushrooms",
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      531
+    ]
+  }
+}

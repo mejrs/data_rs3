@@ -1,0 +1,16 @@
+{
+  "id": 137275,
+  "models": {
+    "10": [
+      139879
+    ]
+  },
+  "name": "Wolf statue",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "scale_x": 64,
+  "scale_y": 64,
+  "scale_z": 64,
+  "occludes_2": false,
+  "unknown_196": 4
+}

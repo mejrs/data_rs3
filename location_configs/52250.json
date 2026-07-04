@@ -6,7 +6,6 @@
     ]
   },
   "name": "Pillar of light",
-  "unknown_24": 2870,
   "ambient": 15,
   "contrast": 10,
   "unknown_78": {
@@ -14,5 +13,21 @@
     "unknown_2": 2
   },
   "occludes_2": false,
-  "unknown_104": 30
+  "unknown_104": 30,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        3272563753,
+        1142444524,
+        3273570386
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

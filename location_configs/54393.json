@@ -1,21 +1,12 @@
 {
   "id": 54393,
   "models": {
-    "22": [
-      59070
+    "10": [
+      137598,
+      137599
     ]
   },
-  "name": "Yellow pressure plate",
-  "is_transparent": true,
-  "unknown_19": 1,
-  "unknown_24": 14516,
-  "unknown_27": false,
-  "colours": [
-    [
-      691,
-      11186
-    ]
-  ],
-  "unknown_89": false,
+  "unknown_17": false,
+  "unknown_19": 0,
   "occludes_2": false
 }

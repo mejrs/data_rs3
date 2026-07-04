@@ -10,11 +10,12 @@
   "is_transparent": true,
   "unknown_21": true,
   "actions": [
-    "Fill-Vial",
+    "Fill vial",
     null,
     null,
     null,
     null
   ],
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 595
 }

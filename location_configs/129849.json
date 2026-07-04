@@ -2,29 +2,21 @@
   "id": 129849,
   "models": {
     "10": [
-      132691,
-      132692,
-      132693,
-      132694
+      47507
     ]
   },
-  "name": "Chocolate tasting stall",
-  "dim_x": 5,
+  "name": "Totem of Vitality",
+  "dim_x": 3,
   "dim_y": 3,
-  "is_transparent": true,
-  "unknown_19": 1,
   "unknown_27": false,
+  "ambient": 0,
   "actions": [
-    "Hand out chocolate",
-    null,
+    "Interact",
+    "Remove",
     null,
     null,
     null
   ],
-  "occludes_2": false,
-  "unknown_160": {
-    "values": [
-      510
-    ]
-  }
+  "model": false,
+  "occludes_2": false
 }

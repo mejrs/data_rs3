@@ -11,7 +11,7 @@
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_27": false,
-  "ambient": 30,
+  "ambient": 20,
   "actions": [
     "Chop down",
     null,
@@ -19,7 +19,7 @@
     null,
     null
   ],
-  "contrast": 100,
+  "contrast": 20,
   "model": false,
   "unknown_81": 32,
   "mapscene": 0,

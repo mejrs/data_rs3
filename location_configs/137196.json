@@ -1,0 +1,38 @@
+{
+  "id": 137196,
+  "models": {
+    "10": [
+      140319
+    ]
+  },
+  "name": "Mound of dirt",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Excavate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "breakroutefinding": true,
+  "occludes_2": false,
+  "cursors": [
+    2,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

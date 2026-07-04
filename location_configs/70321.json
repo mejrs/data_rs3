@@ -5,9 +5,10 @@
       55058
     ]
   },
+  "name": "Bed",
   "dim_y": 2,
   "is_transparent": true,
-  "unknown_19": 0,
+  "unknown_19": 1,
   "ambient": 15,
   "contrast": 10,
   "translate_z": 65504,

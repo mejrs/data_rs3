@@ -1,0 +1,24 @@
+{
+  "id": 137311,
+  "models": {
+    "10": [
+      140397
+    ]
+  },
+  "name": "Gathering basket",
+  "unknown_21": true,
+  "unknown_27": false,
+  "actions": [
+    "Investigate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_160": {
+    "values": [
+      531
+    ]
+  }
+}

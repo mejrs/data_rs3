@@ -19,6 +19,7 @@
   "contrast": 10,
   "unknown_69": 11,
   "occludes_2": false,
+  "mapfunction": 596,
   "cursors": [
     65,
     null,

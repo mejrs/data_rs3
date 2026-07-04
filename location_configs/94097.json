@@ -2,23 +2,12 @@
   "id": 94097,
   "models": {
     "10": [
-      100242,
-      1877
+      140379
     ]
   },
-  "name": "Unreadable page",
+  "dim_x": 4,
+  "dim_y": 6,
   "unknown_17": false,
-  "unknown_19": 1,
-  "unknown_24": 1200,
-  "ambient": 25,
-  "actions": [
-    "Recover page",
-    null,
-    null,
-    null,
-    null
-  ],
-  "contrast": 15,
-  "occludes_2": false,
-  "mapfunction": 920
+  "unknown_19": 0,
+  "occludes_2": false
 }

@@ -8,7 +8,6 @@
   "is_transparent": true,
   "unknown_19": 0,
   "unknown_21": true,
-  "unknown_24": 9154,
   "ambient": 15,
   "contrast": 10,
   "unknown_78": {
@@ -16,5 +15,21 @@
     "unknown_2": 2
   },
   "occludes_2": false,
-  "unknown_104": 30
+  "unknown_104": 30,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        1116733104,
+        1131151444,
+        1112538800
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

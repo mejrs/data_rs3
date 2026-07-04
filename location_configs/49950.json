@@ -9,6 +9,13 @@
   "dim_x": 2,
   "dim_y": 2,
   "is_transparent": true,
+  "actions": [
+    "Add logs",
+    null,
+    null,
+    null,
+    null
+  ],
   "colours": [
     [
       16,
@@ -35,5 +42,6 @@
     "2377": 2108
   },
   "unknown_69": 13,
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 596
 }

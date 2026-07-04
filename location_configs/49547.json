@@ -2,14 +2,23 @@
   "id": 49547,
   "models": {
     "22": [
-      56623
+      56650
     ]
   },
   "name": "Tile",
   "is_transparent": true,
   "unknown_19": 1,
   "unknown_21": true,
-  "ambient": 20,
+  "ambient": 15,
   "contrast": 25,
+  "colours": [
+    [
+      33810,
+      33810
+    ]
+  ],
+  "textures": {
+    "1902": 23775
+  },
   "occludes_2": false
 }

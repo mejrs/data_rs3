@@ -11,7 +11,7 @@
   "unknown_24": 13595,
   "ambient": 15,
   "actions": [
-    "End-dungeon",
+    "End dungeon",
     null,
     null,
     null,
@@ -24,5 +24,6 @@
   },
   "unknown_89": false,
   "occludes_2": false,
-  "unknown_104": 30
+  "unknown_104": 30,
+  "mapfunction": 567
 }

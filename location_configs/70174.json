@@ -12,6 +12,35 @@
   "unknown_27": false,
   "ambient": 15,
   "contrast": 10,
-  "unknown_98": true,
-  "occludes_2": false
+  "occludes_2": false,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        3286656614,
+        1141018460,
+        1144961106
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        3286656614,
+        1141018460,
+        3292528640
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

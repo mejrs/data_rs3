@@ -1,0 +1,25 @@
+{
+  "id": 137066,
+  "models": {
+    "10": [
+      67893
+    ]
+  },
+  "name": "Ideal spot for a barrel",
+  "unknown_21": true,
+  "actions": [
+    "Construct barrel in",
+    null,
+    null,
+    null,
+    null
+  ],
+  "textures": {
+    "11366": 13123
+  },
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_166": 65336
+}

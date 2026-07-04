@@ -1,0 +1,31 @@
+{
+  "id": 137186,
+  "models": {
+    "10": [
+      53103,
+      140320
+    ]
+  },
+  "name": "Augmented door",
+  "dim_y": 2,
+  "unknown_19": 1,
+  "unknown_21": true,
+  "unknown_27": false,
+  "ambient": 20,
+  "actions": [
+    "Disassemble",
+    null,
+    null,
+    null,
+    null
+  ],
+  "contrast": 25,
+  "colours": [
+    [
+      36824,
+      966
+    ]
+  ],
+  "breakroutefinding": true,
+  "occludes_2": false
+}

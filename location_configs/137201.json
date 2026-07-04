@@ -1,0 +1,30 @@
+{
+  "id": 137201,
+  "models": {
+    "10": [
+      129443,
+      129455
+    ]
+  },
+  "name": "Reagent glyph",
+  "is_transparent": true,
+  "unknown_19": 1,
+  "unknown_27": false,
+  "actions": [
+    "Draw glyph",
+    null,
+    "Repair",
+    "Check durability",
+    "Clear"
+  ],
+  "model": false,
+  "occludes_2": false,
+  "cursors": [
+    null,
+    null,
+    174,
+    null,
+    null,
+    null
+  ]
+}

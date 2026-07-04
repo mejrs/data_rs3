@@ -20,6 +20,7 @@
   ],
   "contrast": 25,
   "occludes_2": false,
+  "mapfunction": 582,
   "cursors": [
     60,
     null,

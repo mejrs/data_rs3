@@ -1,0 +1,28 @@
+{
+  "id": 137290,
+  "models": {
+    "10": [
+      139102
+    ]
+  },
+  "name": "Tree",
+  "unknown_19": 1,
+  "unknown_27": false,
+  "colours": [
+    [
+      15629,
+      15635
+    ]
+  ],
+  "textures": {
+    "23229": 23227
+  },
+  "model": false,
+  "scale_x": 215,
+  "scale_y": 235,
+  "scale_z": 215,
+  "unknown_81": 80,
+  "occludes_2": false,
+  "unknown_189": true,
+  "unknown_196": 3
+}

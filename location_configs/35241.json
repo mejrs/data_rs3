@@ -7,7 +7,7 @@
   },
   "name": "Shelves",
   "unknown_21": true,
-  "ambient": 15,
+  "unknown_22": true,
   "actions": [
     "Mix Liquid",
     "Mix Blue",
@@ -15,5 +15,13 @@
     "Mix Yellow",
     "Mix Violet"
   ],
-  "contrast": 10
+  "mapfunction": 584,
+  "cursors": [
+    170,
+    170,
+    170,
+    170,
+    170,
+    null
+  ]
 }

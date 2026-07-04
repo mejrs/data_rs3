@@ -1,0 +1,19 @@
+{
+  "id": 137411,
+  "models": {
+    "10": [
+      143855
+    ]
+  },
+  "name": "Empty slot",
+  "unknown_19": 1,
+  "actions": [
+    "Insert slab",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_203": true
+}

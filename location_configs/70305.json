@@ -8,7 +8,6 @@
   "name": "Arcane altar",
   "dim_x": 2,
   "dim_y": 3,
-  "unknown_24": 9154,
   "ambient": 15,
   "contrast": 10,
   "unknown_78": {
@@ -16,5 +15,21 @@
     "unknown_2": 2
   },
   "occludes_2": false,
-  "unknown_104": 30
+  "unknown_104": 30,
+  "unknown_204": [
+    {
+      "id": 31,
+      "some_bool": false,
+      "vec_1": [
+        3257128714,
+        1137495245,
+        0
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

@@ -1,0 +1,14 @@
+{
+  "id": 137261,
+  "models": {
+    "10": [
+      140421
+    ]
+  },
+  "name": "Lunar wheel",
+  "dim_x": 5,
+  "unknown_17": false,
+  "unknown_19": 1,
+  "occludes_2": false,
+  "unknown_196": 4
+}

@@ -16,5 +16,7 @@
   },
   "is_transparent": true,
   "model": false,
-  "mapscene": 22
+  "unknown_88": false,
+  "occludes_2": false,
+  "unknown_196": 1
 }

@@ -15,8 +15,23 @@
     "unknown_1": 3551,
     "unknown_2": 5
   },
-  "unknown_98": true,
   "unknown_104": 60,
   "unknown_1": 230,
-  "unknown_2": 270
+  "unknown_2": 270,
+  "unknown_204": [
+    {
+      "id": 32,
+      "some_bool": false,
+      "vec_1": [
+        3276254740,
+        1141186232,
+        3227869250
+      ],
+      "vec_2": [
+        0,
+        0,
+        0
+      ]
+    }
+  ]
 }

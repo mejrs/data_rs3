@@ -14,5 +14,6 @@
     "Check durability all",
     "Clear site"
   ],
-  "occludes_2": false
+  "occludes_2": false,
+  "mapfunction": 5569
 }

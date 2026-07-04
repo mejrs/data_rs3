@@ -12,8 +12,8 @@
   "ambient": 20,
   "actions": [
     "Take from",
-    null,
-    null,
+    "Take 5",
+    "Take X",
     null,
     null
   ],

@@ -1,0 +1,22 @@
+{
+  "id": 137074,
+  "models": {
+    "10": [
+      67893
+    ]
+  },
+  "name": "Barrel in the fence",
+  "unknown_21": true,
+  "actions": [
+    "Admire",
+    null,
+    null,
+    null,
+    null
+  ],
+  "scale_x": 150,
+  "scale_y": 150,
+  "scale_z": 150,
+  "occludes_2": false,
+  "unknown_166": 200
+}

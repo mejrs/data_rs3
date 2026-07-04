@@ -12,13 +12,14 @@
   "ambient": 25,
   "actions": [
     "Imbue",
-    "Imbue-Runes",
-    "Imbue-Staff",
+    "Imbue runes",
+    "Imbue staff",
     null,
     null
   ],
   "contrast": 15,
   "occludes_2": false,
+  "mapfunction": 5568,
   "cursors": [
     66,
     null,

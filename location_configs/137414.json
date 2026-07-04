@@ -1,0 +1,19 @@
+{
+  "id": 137414,
+  "models": {
+    "10": [
+      143860
+    ]
+  },
+  "name": "Lunar slab (waxing crescent)",
+  "unknown_19": 1,
+  "actions": [
+    "Remove slab",
+    null,
+    null,
+    null,
+    null
+  ],
+  "occludes_2": false,
+  "unknown_203": true
+}
